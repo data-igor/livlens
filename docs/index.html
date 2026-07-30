@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LivLens — where should you live?</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>LivLens</h1>
+      <span class="tagline">See the city before you sign the lease.</span>
+      <div class="filters">
+        <div class="filter-chip" data-status="green"><span class="dot"></span>Green</div>
+        <div class="filter-chip" data-status="yellow"><span class="dot"></span>Yellow</div>
+        <div class="filter-chip" data-status="red"><span class="dot"></span>Red</div>
+      </div>
+    </header>
+    <main>
+      <div id="map"></div>
+      <aside id="panel">
+        <button class="close-btn" id="panel-close" aria-label="Close">&times;</button>
+        <div id="panel-content"></div>
+      </aside>
+      <div id="empty-hint" style="display:none;">Click a shaded area to see its details</div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
