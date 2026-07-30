@@ -25,8 +25,33 @@ const STATUS_COLORS = {
 const HIDDEN_FIELDS = new Set(["lat", "lon", "radius_m"]);
 const NON_FILTERABLE_FIELDS = new Set([
   "name", "city", "country", "status", "lat", "lon", "radius_m", "notes",
+  // verdict is a personal, already-decided judgement call, not a filterable
+  // attribute of the area itself — still shown in the side panel, just not
+  // as a filter.
+  "verdict",
 ]);
 const MAX_CATEGORICAL_OPTIONS = 8;
+
+// Known qualitative scales, ordered worst -> best, so a categorical filter's
+// checkboxes list the most undesirable option first (e.g. "very loud" above
+// "quiet"). Any column whose distinct values exactly match one of these
+// scales (case-insensitively) is ordered this way; anything else falls back
+// to plain alphabetical order, keeping the filter system schema-agnostic.
+const KNOWN_SCALES = [
+  ["very loud", "loud", "moderate", "quiet"],
+  ["poor", "fair", "good", "very good"],
+  ["low", "medium", "high"],
+  ["avoid", "maybe", "shortlist"],
+];
+
+function orderCategoricalOptions(distinct) {
+  const lower = distinct.map((v) => v.toLowerCase());
+  const scale = KNOWN_SCALES.find(
+    (s) => s.length === lower.length && s.every((v) => lower.includes(v))
+  );
+  if (!scale) return [...distinct].sort();
+  return scale.map((v) => distinct.find((d) => d.toLowerCase() === v));
+}
 
 // zoomControl: false + added back top-right so it doesn't collide with the
 // filters panel, which slides in from the top-left.
@@ -97,7 +122,7 @@ function buildFilterDefinitions(features) {
       if (min === max) return; // no variation to filter on
       defs.push({ key, type: "numeric", label: prettifyLabel(key), min, max });
     } else {
-      const distinct = [...new Set(values)].sort();
+      const distinct = orderCategoricalOptions([...new Set(values)]);
       if (distinct.length > 1 && distinct.length <= MAX_CATEGORICAL_OPTIONS) {
         defs.push({ key, type: "categorical", label: prettifyLabel(key), options: distinct });
       }
