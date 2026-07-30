@@ -22,32 +22,76 @@ script. Optimised for zero ongoing maintenance from the human owner.
 
 ## Data contract (`data/areas.csv`)
 Required columns: `name`, `city`, `country`, `status` (green|yellow|red).
-Optional override columns: `lat`, `lon`, `radius_m` — if `lat`/`lon` are
-present, `build.py` skips geocoding and draws a circle instead. Every other
-column is free-form and rendered automatically in the frontend side panel.
+Optional override columns: `lat`, `lon`, `radius_m` — these are a *fallback
+only* (see the rulebook below); if `lat`/`lon` are present and no traced
+boundary file exists for the area, `build.py` draws an approximate circle
+instead. Every other column is free-form and rendered automatically in the
+frontend side panel.
 
 ## Build pipeline
-`scripts/build.py` reads the CSV, geocodes new rows via Nominatim
-(`polygon_geojson=1`, 1 req/sec, cached in `data/geo_cache.json`), and writes
-`docs/areas.geojson`. The GitHub Action in `.github/workflows/build.yml` runs
-this on every push that touches `data/areas.csv` and commits the regenerated
-output. Do not remove the rate-limit sleep or the User-Agent header — both are
-required by Nominatim's usage policy.
+`scripts/build.py` reads the CSV and resolves each row's shape in this order:
+1. `data/boundaries/<slug>.geojson` — a traced/official polygon (see rulebook below).
+2. `lat`/`lon`/`radius_m` columns — draws an approximate circle (fallback only).
+3. Nominatim geocoding (`polygon_geojson=1`, 1 req/sec, cached in
+   `data/geo_cache.json`) — last resort, and prone to the administrative-vs-
+   neighbourhood mismatch described in "Geocoding precision" below.
+It then writes `docs/areas.geojson`. The GitHub Action in
+`.github/workflows/build.yml` runs this on every push that touches
+`data/areas.csv` or `data/boundaries/` and commits the regenerated output. Do
+not remove the rate-limit sleep or the User-Agent header on the Nominatim
+path — both are required by its usage policy.
+
+## Defining an area's shape (the rulebook)
+**A traced, real, street-bounded polygon is the only correct way to define an
+area's shape.** Circles (`lat,lon,radius_m`) and raw Nominatim polygons are
+both approximations and should be replaced as soon as a real boundary is
+available — don't treat them as a finished state.
+
+To add one:
+1. Slugify the area's `name` (lowercase, spaces → hyphens, strip accents —
+   see `slugify()` in `scripts/build.py`) to get the filename, e.g.
+   `El Poblado` → `data/boundaries/el-poblado.geojson`.
+2. Find a real polygon for it, in priority order:
+   - The city/municipality's official open-data GIS portal (e.g. Medellín's
+     "GeoMedellín" ArcGIS Open Data, or `datos.gov.co` for smaller
+     municipalities like Envigado) — these publish barrio/neighbourhood
+     boundaries as actual government-surveyed polygons, which is why this
+     project prefers them over anything auto-geocoded.
+   - OpenStreetMap via the Overpass API, if a `place=neighbourhood`/`suburb`
+     *way or relation* (not just a point node) exists for that name.
+   - As an absolute last resort, hand-trace a polygon around the streets
+     colloquially understood to bound the area (e.g. with geojson.io) — but
+     prefer an official source whenever one exists.
+3. Save just the GeoJSON `geometry` object (a bare `Polygon` or
+   `MultiPolygon`, not a full `Feature`/`FeatureCollection`) to that path.
+4. Run `python3 scripts/build.py` — it should report `(traced boundary)` for
+   that area, and never fall back to a circle for it again.
+
+Note: for an entity that genuinely *is* a whole town (like `Envigado`, which
+is its own municipality, not a Medellín barrio), the correct "real" boundary
+is the whole municipal perimeter — a multi-km polygon is not a bug in that
+case, just an accurate reflection of what the name refers to. When several
+small official polygons make up the real area (e.g. Envigado's 39 barrios),
+union them into one polygon (e.g. with `shapely.ops.unary_union`) rather than
+picking just one.
 
 ## Testing changes
-- `python3 scripts/build.py` — should report `✓` for every existing row.
-  New rows may report `⚠` if Nominatim has no polygon; that's expected, not
-  a bug — the fix is a `lat,lon,radius_m` override in the CSV, not a code change.
+- `python3 scripts/build.py` — should report `(traced boundary)` for every
+  area that has one, `(manual override (circle...))` for fallback rows, and
+  `✓`/`⚠` for anything still relying on Nominatim. New rows may report `⚠` if
+  Nominatim has no polygon; the fix is a real boundary file (preferred) or a
+  `lat,lon,radius_m` override (temporary), not a code change.
 - `node --check docs/app.js` — quick syntax check.
 - `python3 -m http.server -d docs 8000` — serve locally and click around.
 
 ## Where things live
 - `data/areas.csv` — user-edited source of truth
-- `data/geo_cache.json` — generated, geocoding cache
-- `scripts/build.py` — CSV → GeoJSON
+- `data/boundaries/*.geojson` — traced/official area shapes, keyed by slug (preferred over lat/lon/radius)
+- `data/geo_cache.json` — generated, geocoding cache (fallback path only)
+- `scripts/build.py` — CSV (+ boundaries) → GeoJSON
 - `docs/` — the static site served by GitHub Pages (`index.html`, `app.js`,
   `style.css`, generated `areas.geojson`)
-- `.github/workflows/build.yml` — CI that regenerates the GeoJSON on CSV changes
+- `.github/workflows/build.yml` — CI that regenerates the GeoJSON on CSV/boundary changes
 
 ## Schema-agnostic frontend
 Two things read whatever columns exist in the CSV without any code change:

@@ -117,7 +117,8 @@ main {
 #map {
   flex: 1;
   min-height: 0;
-  background: var(--color-bg);
+  /* Matches CARTO Voyager's base tone so there's no dark flash before tiles load */
+  background: #e5e3df;
 }
 
 /* Leaflet's own controls (zoom buttons, attribution) need a dark skin too */

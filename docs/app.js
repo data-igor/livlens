@@ -32,8 +32,11 @@ const MAX_CATEGORICAL_OPTIONS = 8;
 const map = L.map("map", { zoomControl: false }).setView([6.24, -75.58], 12);
 L.control.zoom({ position: "topright" }).addTo(map);
 
+// The UI chrome (header, panels) stays dark, but the basemap itself uses
+// CARTO's bright "Voyager" tiles — a dark basemap made the street detail
+// under each area's colour overlay nearly invisible.
 L.tileLayer(
-  "https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png",
+  "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
   {
     attribution:
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -233,8 +236,8 @@ filtersReset.addEventListener("click", resetFilters);
 function styleFeature(feature) {
   return {
     fillColor: computeColor(feature),
-    fillOpacity: 0.55,
-    color: "rgba(226, 232, 240, 0.55)",
+    fillOpacity: 0.5,
+    color: "rgba(15, 23, 42, 0.65)",
     weight: 1.5,
   };
 }
@@ -247,7 +250,7 @@ function applyStyles() {
     const visible = !statusName || activeStatuses.has(statusName);
     layer.setStyle({
       fillColor: color,
-      fillOpacity: visible ? 0.55 : 0,
+      fillOpacity: visible ? 0.5 : 0,
       opacity: visible ? 1 : 0,
       weight: 1.5,
     });

@@ -16,16 +16,19 @@ on a map, colour-coded, click-to-see-details.
    rent, safety, noise, vibe, notes — any column you add shows up automatically
    on the site, and short/numeric columns become filters automatically too
    (see below).
-3. Commit the change (to a new branch + PR, or directly if you're comfortable).
-   A GitHub Action geocodes the new area and rebuilds the map automatically —
-   you don't need to run anything locally.
-
-If the area can't be found automatically (small barrios sometimes aren't in
-OpenStreetMap, or Nominatim only has the wider comuna/district boundary), fill
-in the `lat`, `lon`, and optionally `radius_m` columns yourself and it'll draw
-a circle there instead. `scripts/build.py` warns in its output if a matched
-polygon looks suspiciously large (>4km across) — that's usually a sign it
-grabbed an administrative district rather than the neighbourhood.
+3. **Give it a real shape.** The map draws exactly the streets that bound the
+   area — not an approximated circle — using a hand-picked/official polygon
+   file in `data/boundaries/<slug>.geojson` (slug = the area's `name`,
+   lowercased, spaces → hyphens, e.g. "La Candelaria" → `la-candelaria.geojson`).
+   This is the **only** correct way to define an area's shape; see
+   [`AGENTS.md`](AGENTS.md#defining-an-areas-shape-the-rulebook) for exactly
+   where to find these boundaries (city open-data portals, Overpass, etc.) and
+   how to add one. Until a real boundary file exists, `scripts/build.py` falls
+   back to `lat`, `lon`, `radius_m` columns and draws a rough circle instead —
+   that's a temporary placeholder, not the end state.
+4. Commit the change (to a new branch + PR, or directly if you're comfortable).
+   A GitHub Action rebuilds the map automatically — you don't need to run
+   anything locally.
 
 ## Filters
 

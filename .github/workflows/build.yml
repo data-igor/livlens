@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "data/areas.csv"
+      - "data/boundaries/**"
   workflow_dispatch: {}
 
 # Avoid two builds racing to commit at once.
