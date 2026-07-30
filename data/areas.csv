@@ -1,0 +1,6 @@
+name,city,country,status,rent_usd,safety,noise,walkability,vibe,verdict,notes,lat,lon,radius_m
+El Poblado,Medellin,Colombia,yellow,900,good,loud,high,expat/nightlife,maybe,"Safe and green but pricey and touristy",,,
+Laureles,Medellin,Colombia,green,650,good,moderate,high,local/leafy,shortlist,"Grid streets, good cafes, quieter than Poblado",6.2419995,-75.5958328,1400
+Envigado,Medellin,Colombia,green,600,very good,quiet,medium,family/local,shortlist,"Feels like its own town, relaxed pace",6.1701,-75.5906,1600
+La Candelaria,Medellin,Colombia,red,400,poor,very loud,high,historic/chaotic,avoid,"El Centro. Busy in the day, avoid at night",,,
+Belen,Medellin,Colombia,yellow,500,fair,moderate,medium,local/residential,maybe,"Cheaper, less touristy, mixed safety by block",,,
