@@ -24,6 +24,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "areas.csv"
 CACHE_PATH = ROOT / "data" / "geo_cache.json"
+BOUNDARIES_DIR = ROOT / "data" / "boundaries"
 OUT_PATH = ROOT / "docs" / "areas.geojson"
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
@@ -44,6 +45,34 @@ def save_cache(cache):
 
 def cache_key(name, city, country):
     return f"{name}|{city}|{country}".lower()
+
+
+# Characters we know show up in Colombian place names; extend if new areas
+# need it. Kept as a plain table (no `unidecode` dependency) since build.py
+# is stdlib-only by design.
+_ACCENT_MAP = str.maketrans(
+    "áéíóúÁÉÍÓÚñÑ",
+    "aeiouAEIOUnN",
+)
+
+
+def slugify(name):
+    """area name -> boundary filename stem, e.g. 'La Candelaria' -> 'la-candelaria'."""
+    ascii_name = name.translate(_ACCENT_MAP)
+    return "-".join(ascii_name.lower().split())
+
+
+def load_boundary(name):
+    """Look up a hand-traced/official street-boundary polygon for this area.
+
+    This is the *preferred* way to define an area's shape (see AGENTS.md /
+    README "Defining an area's boundary" — real polygons only, no circles).
+    Returns a GeoJSON geometry dict, or None if no boundary file exists yet.
+    """
+    path = BOUNDARIES_DIR / f"{slugify(name)}.geojson"
+    if not path.exists():
+        return None
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def bbox_diagonal_m(geometry):
@@ -154,11 +183,15 @@ def main():
         geometry = None
         source = None
 
-        if lat_override and lon_override:
+        traced_boundary = load_boundary(name)
+        if traced_boundary:
+            geometry = traced_boundary
+            source = "traced boundary"
+        elif lat_override and lon_override:
             lat, lon = float(lat_override), float(lon_override)
             radius = float(radius_str) if radius_str else DEFAULT_RADIUS_M
             geometry = circle_polygon(lat, lon, radius)
-            source = "manual override"
+            source = "manual override (circle — approximate, add a real boundary when you can)"
         else:
             key = cache_key(name, city, country)
             if key in cache:
