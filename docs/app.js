@@ -19,6 +19,7 @@ const STATUS_COLORS = {
   green: "#34d399",
   yellow: "#fbbf24",
   red: "#f87171",
+  institutional: "#818cf8",
 };
 
 const HIDDEN_FIELDS = new Set(["lat", "lon", "radius_m"]);
@@ -131,7 +132,13 @@ function evaluateFilter(def, rawValue) {
 }
 
 function computeColor(feature) {
-  const manualColor = STATUS_COLORS[(feature.properties.status || "").toLowerCase()] || "#64748b";
+  const status = (feature.properties.status || "").toLowerCase();
+  // Institutional zones (universities, parks, military bases, etc.) aren't
+  // residential candidates — they're always this colour regardless of any
+  // active filter, and are only ever shown via their own toggle chip.
+  if (status === "institutional") return STATUS_COLORS.institutional;
+
+  const manualColor = STATUS_COLORS[status] || "#64748b";
   const activeDefs = filterDefs.filter(isFilterActive);
   if (activeDefs.length === 0) return manualColor;
 
@@ -342,6 +349,11 @@ fetch("areas.geojson")
         });
       },
     }).addTo(map);
+
+    // styleFeature() (used above) doesn't know about chip visibility state —
+    // apply it once now so anything hidden by default (e.g. Institutional)
+    // starts hidden instead of flashing visible until the next interaction.
+    applyStyles();
 
     map.fitBounds(geoLayer.getBounds(), { padding: [20, 20] });
     emptyHint.style.display = "block";

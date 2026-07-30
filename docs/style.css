@@ -2,6 +2,7 @@
   --color-green: #34d399;
   --color-yellow: #fbbf24;
   --color-red: #f87171;
+  --color-institutional: #818cf8;
   --color-bg: #0f172a;
   --color-surface: #1e293b;
   --color-surface-2: #263248;
@@ -106,6 +107,7 @@ header .tagline {
 .filter-chip[data-status="green"] .dot { background: var(--color-green); }
 .filter-chip[data-status="yellow"] .dot { background: var(--color-yellow); }
 .filter-chip[data-status="red"] .dot { background: var(--color-red); }
+.filter-chip[data-status="institutional"] .dot { background: var(--color-institutional); }
 
 main {
   position: relative;
@@ -329,6 +331,7 @@ main {
 .status-badge.green { background: var(--color-green); }
 .status-badge.yellow { background: var(--color-yellow); }
 .status-badge.red { background: var(--color-red); }
+.status-badge.institutional { background: var(--color-institutional); color: #0b1030; }
 
 .field {
   padding: 0.5rem 0;
