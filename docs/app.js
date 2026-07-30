@@ -27,7 +27,10 @@ const NON_FILTERABLE_FIELDS = new Set([
 ]);
 const MAX_CATEGORICAL_OPTIONS = 8;
 
-const map = L.map("map", { zoomControl: true }).setView([6.24, -75.58], 12);
+// zoomControl: false + added back top-right so it doesn't collide with the
+// filters panel, which slides in from the top-left.
+const map = L.map("map", { zoomControl: false }).setView([6.24, -75.58], 12);
+L.control.zoom({ position: "topright" }).addTo(map);
 
 L.tileLayer(
   "https://{s}.basemaps.cartocdn.com/rastertiles/dark_all/{z}/{x}/{y}{r}.png",
