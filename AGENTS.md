@@ -67,13 +67,45 @@ To add one:
 4. Run `python3 scripts/build.py` — it should report `(traced boundary)` for
    that area, and never fall back to a circle for it again.
 
-Note: for an entity that genuinely *is* a whole town (like `Envigado`, which
-is its own municipality, not a Medellín barrio), the correct "real" boundary
-is the whole municipal perimeter — a multi-km polygon is not a bug in that
-case, just an accurate reflection of what the name refers to. When several
-small official polygons make up the real area (e.g. Envigado's 39 barrios),
-union them into one polygon (e.g. with `shapely.ops.unary_union`) rather than
-picking just one.
+Note: prefer barrio-level granularity even for a whole town/municipality
+outside Medellín (e.g. Envigado, Itagüí, La Estrella, Sabaneta) — map its
+individual barrios as separate rows, the same way Medellín's comunas are
+mapped, rather than unioning them into one municipality-wide polygon. A
+single unioned outline hides useful "where to live" detail and reads as an
+oversized "dummy" area on the map; it should only ever be a temporary
+placeholder until barrio-level data is sourced (as was previously done for
+Envigado, later replaced by its ~40 real barrios).
+
+The whole Aburrá valley conurbation (Medellín + Envigado, Itagüí, La
+Estrella, Sabaneta, and further out Bello/Caldas/Copacabana/Girardota/
+Barbosa) is fair game to map at this same granularity — use each
+municipality's own open-data GIS portal or, failing that, the Área
+Metropolitana del Valle de Aburrá (AMVA) geoportal
+(`https://datosabiertos.metropol.gov.co`, ArcGIS REST services under
+`portalidem.metropol.gov.co`). The `geografico.metropol.gov.co:6080` ArcGIS
+endpoint has been unreliable (times out) — prefer `portalidem.metropol.gov.co`
+if both are available.
+
+## Estimated columns (not live data)
+Two pairs of columns in `data/areas.csv` are computed estimates, not
+measurements — documented here so nobody mistakes them for live data or
+wires up a paid API to "fix" them:
+- `motorbike_min_to_poblado` / `motorbike_min_to_laureles` — straight-line
+  (haversine) distance from each area's centroid to El Poblado's and
+  Laureles' centroids, divided by an assumed average urban motorbike speed
+  of 22 km/h. A live routing API (OSRM's public demo server) was tried
+  first but rejected: it gave inconsistent, non-reproducible durations for
+  the same two points on different requests (including a nonzero
+  self-distance), which is worse than a transparent estimate. If a reliable
+  keyless routing source is ever found, prefer real road-network duration
+  over this straight-line estimate — but never ship something that fails
+  the "self-distance must be 0" sanity check.
+- `temp_min_c` / `temp_max_c` — derived from each area's centroid elevation
+  (queried once from `api.open-elevation.com`) using Medellín's known
+  elevation-based lapse rate (~0.6°C/100m) against a reference of Centro's
+  climate (~1495m, avg daily min 15.5°C / max 28.5°C). Higher barrios in the
+  hills run cooler on both ends; this is a documented approximation, not a
+  weather API.
 
 ## Testing changes
 - `python3 scripts/build.py` — should report `(traced boundary)` for every
