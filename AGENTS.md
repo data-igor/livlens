@@ -48,3 +48,35 @@ required by Nominatim's usage policy.
 - `docs/` — the static site served by GitHub Pages (`index.html`, `app.js`,
   `style.css`, generated `areas.geojson`)
 - `.github/workflows/build.yml` — CI that regenerates the GeoJSON on CSV changes
+
+## Schema-agnostic frontend
+Two things read whatever columns exist in the CSV without any code change:
+- **Side panel** (`docs/app.js` `renderPanel`) — renders every populated
+  property on the clicked feature.
+- **Filters panel** (`docs/app.js` `buildFilterDefinitions`) — auto-detects
+  filterable columns: numeric columns become a max-value slider, columns with
+  a short set of repeated values (≤8 distinct, excluding `notes` and the
+  identity/geocoding columns) become checkbox filters.
+Do not hardcode a fixed list of CSV columns in either — only `name`, `city`,
+`country`, `status` are special-cased (shown as header/badge, not a generic
+field/filter).
+
+## Filter → colour model
+Every filter is marked **strict** or **negotiable** (default). An area's
+computed colour: red if it fails an active strict filter (dealbreaker),
+yellow if it fails only negotiable filters, green if it passes everything
+active. If no filter is active, fall back to the manual `status` CSV column.
+Do not remove this fallback — it's what makes the map useful with zero
+filters touched.
+
+## Geocoding precision
+Nominatim often resolves a Medellín barrio name to the enclosing "Comuna N"
+administrative boundary (much larger than the colloquial neighbourhood people
+mean) rather than the neighbourhood itself — this happened silently for
+El Poblado, La Candelaria, and Belén in the seed data. `build.py`'s
+`bbox_diagonal_m` + `SUSPICIOUSLY_LARGE_M` check flags (but doesn't block)
+polygon matches over ~4km across. When you see that warning, the fix is a
+`lat,lon,radius_m` override in the CSV, not a code change — get better
+neighbourhood-level coordinates from Nominatim's `neighbourhood`/`place`
+class results rather than its `administrative`/`boundary` class results.
+

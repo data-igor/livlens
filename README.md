@@ -14,14 +14,32 @@ on a map, colour-coded, click-to-see-details.
 2. Add a new row: at minimum `name`, `city`, `country`, and `status` (`green` /
    `yellow` / `red`). Add anything else you want to remember about the place —
    rent, safety, noise, vibe, notes — any column you add shows up automatically
-   on the site.
+   on the site, and short/numeric columns become filters automatically too
+   (see below).
 3. Commit the change (to a new branch + PR, or directly if you're comfortable).
    A GitHub Action geocodes the new area and rebuilds the map automatically —
    you don't need to run anything locally.
 
 If the area can't be found automatically (small barrios sometimes aren't in
-OpenStreetMap), fill in the `lat`, `lon`, and optionally `radius_m` columns
-yourself and it'll draw a circle there instead.
+OpenStreetMap, or Nominatim only has the wider comuna/district boundary), fill
+in the `lat`, `lon`, and optionally `radius_m` columns yourself and it'll draw
+a circle there instead. `scripts/build.py` warns in its output if a matched
+polygon looks suspiciously large (>4km across) — that's usually a sign it
+grabbed an administrative district rather than the neighbourhood.
+
+## Filters
+
+Click **Filters** on the site to open the filter panel. It's built
+automatically from whatever columns exist in the CSV: numeric columns (like
+`rent_usd`) become a "maximum acceptable" slider; short repeated-value columns
+(like `safety`, `noise`, `verdict`) become checkboxes.
+
+Each filter has a **Strict** toggle:
+- **Strict** — a dealbreaker. Any area failing this filter turns **red**.
+- **Negotiable** (default) — a soft mismatch. Turns the area **yellow**
+  instead of red.
+- An area that passes every active filter is **green**.
+- Touch nothing, and the map falls back to each area's manual `status` column.
 
 ## Local development
 
