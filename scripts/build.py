@@ -46,6 +46,42 @@ def cache_key(name, city, country):
     return f"{name}|{city}|{country}".lower()
 
 
+def bbox_diagonal_m(geometry):
+    """Rough diagonal (in metres) of a Polygon/MultiPolygon's bounding box, using
+    an equirectangular approximation. Good enough for a size sanity check."""
+    import math
+
+    def rings(geom):
+        if geom["type"] == "Polygon":
+            for ring in geom["coordinates"]:
+                yield ring
+        elif geom["type"] == "MultiPolygon":
+            for polygon in geom["coordinates"]:
+                for ring in polygon:
+                    yield ring
+
+    lons, lats = [], []
+    for ring in rings(geometry):
+        for lon, lat in ring:
+            lons.append(lon)
+            lats.append(lat)
+    if not lons:
+        return 0.0
+
+    lat_mid_rad = math.radians((min(lats) + max(lats)) / 2)
+    dx_m = (max(lons) - min(lons)) * 111320.0 * math.cos(lat_mid_rad)
+    dy_m = (max(lats) - min(lats)) * 111320.0
+    return math.hypot(dx_m, dy_m)
+
+
+# Above this diagonal, a Nominatim polygon match is more likely to be an
+# administrative district (comuna/municipality) than the colloquial
+# neighbourhood the user typed — that mismatch is exactly what happened with
+# "El Poblado" resolving to the whole Comuna 14 (~7km) instead of the ~1.5km
+# barrio. Flag it instead of silently drawing an oversized shape.
+SUSPICIOUSLY_LARGE_M = 4000
+
+
 def geocode(name, city, country):
     """Query Nominatim for a polygon boundary. Returns (geojson_geometry, display_name) or (None, None)."""
     query = f"{name}, {city}, {country}"
@@ -151,7 +187,15 @@ def main():
                     "properties": properties,
                 }
             )
-            print(f"  \u2713 {name} ({source})")
+            diagonal = bbox_diagonal_m(geometry)
+            note = ""
+            if source in ("nominatim (polygon)", "cache") and diagonal > SUSPICIOUSLY_LARGE_M:
+                note = (
+                    f" \u26a0 ~{diagonal/1000:.1f}km across — this may be an administrative"
+                    f" district, not the neighbourhood. If it looks too big on the map,"
+                    f" add a lat,lon,radius_m override for '{name}' instead."
+                )
+            print(f"  \u2713 {name} ({source}){note}")
         elif source is None and name not in [m[0] for m in misses]:
             pass  # already recorded in misses above
 
