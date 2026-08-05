@@ -327,22 +327,20 @@ def normalise_tag_tokens(value: Optional[str]) -> List[str]:
     return [normalize_text(token) for token in re.split(r"[;,]", value) if normalize_text(token)]
 
 
-def brand_source(tags: Dict[str, str]) -> str:
-    for key in ("brand", "operator", "name"):
-        value = (tags.get(key) or "").strip()
-        if value:
-            return value
-    return ""
-
-
 def match_brand(tags: Dict[str, str], aliases: Dict[str, Sequence[str]]) -> Optional[str]:
-    label = normalize_text(brand_source(tags))
-    if not label:
-        return None
-    for canonical, variants in aliases.items():
-        for alias in variants:
-            if label.startswith(normalize_text(alias)):
-                return canonical
+    # Try brand, then name, then operator, in that order, and stop at the
+    # first tag that actually matches an alias. `operator` is often a parent
+    # holding company shared across sibling brands (e.g. Grupo Éxito also
+    # operates Carulla stores) so it must lose to a more specific `name`
+    # match, not be checked before it.
+    for key in ("brand", "name", "operator"):
+        label = normalize_text((tags.get(key) or "").strip())
+        if not label:
+            continue
+        for canonical, variants in aliases.items():
+            for alias in variants:
+                if label.startswith(normalize_text(alias)):
+                    return canonical
     return None
 
 

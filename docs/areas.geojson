@@ -8106,7 +8106,7 @@
         "noise": "quiet",
         "noise_score": 38.8,
         "restaurants_per_km2": 9.32,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 320
       }
     },
@@ -10409,7 +10409,7 @@
         "noise": "quiet",
         "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 636
       }
     },
@@ -11955,7 +11955,7 @@
         "noise": "moderate",
         "noise_score": 44.5,
         "restaurants_per_km2": 0.0,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 889
       }
     },
@@ -29308,7 +29308,7 @@
         "noise": "very loud",
         "noise_score": 54.2,
         "restaurants_per_km2": 1.62,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 413
       }
     },
@@ -34560,7 +34560,7 @@
         "noise": "quiet",
         "noise_score": 39.9,
         "restaurants_per_km2": 2.13,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 255
       }
     },
@@ -50275,7 +50275,7 @@
         "noise": "very loud",
         "noise_score": 53.2,
         "restaurants_per_km2": 0.71,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 728
       }
     },
@@ -50372,7 +50372,7 @@
         "noise": "loud",
         "noise_score": 50.5,
         "restaurants_per_km2": 8.51,
-        "supermarket_brands_1km": 2,
+        "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 246
       }
     },
@@ -56569,7 +56569,7 @@
         "noise": "quiet",
         "noise_score": 36.6,
         "restaurants_per_km2": 0.0,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 432
       }
     },
@@ -59764,7 +59764,7 @@
         "noise": "quiet",
         "noise_score": 30.0,
         "restaurants_per_km2": 9.16,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 586
       }
     },
@@ -92969,7 +92969,7 @@
         "noise": "loud",
         "noise_score": 50.4,
         "restaurants_per_km2": 0.0,
-        "supermarket_brands_1km": 0,
+        "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 505
       }
     },
