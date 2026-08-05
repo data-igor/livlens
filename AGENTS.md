@@ -20,30 +20,6 @@ script. Optimised for zero ongoing maintenance from the human owner.
   library on purpose. `docs/` uses Leaflet via CDN only — no npm, no bundler.
 - **Never commit to `main` directly.** Work on a branch, open a PR.
 
-## Branches — `dev` exists as a preview branch
-- `dev` is a permanent branch, always kept mergeable, that PRs land on first
-  so changes can be previewed live before they hit production.
-- Preview `dev` via `raw.githack.com` — **but branch-name URLs
-  (`.../dev/docs/index.html`) are cached hard by githack's upstream
-  (statically.io) and can serve stale content for a long time even though the
-  edge reports a cache MISS.** Always use the **commit SHA**, not the branch
-  name, for a preview that's guaranteed fresh:
-  `https://raw.githack.com/data-igor/livlens/<commit-sha>/docs/index.html`
-  (get the SHA with `git rev-parse dev`). Query-string cache-busting does
-  **not** work against this CDN.
-- **`dev` is never merged into `main` automatically or as a matter of
-  routine.** Promoting `dev` to production is a separate, explicit,
-  human-approved step — same rule as any other merge to `main`.
-- **PRs target `main`**, same as always, and are merged into `main` manually
-  by a human — nothing automates that. `dev` is kept in sync separately and
-  automatically: `.github/workflows/pr-to-main.yml` runs a build/syntax
-  check on every PR targeting `main`, then does a plain `git merge` of that
-  PR's branch straight into `dev` and pushes it (not a PR merge — the
-  original PR is completely untouched and stays open against `main`). This
-  gives a live `dev` preview of every open PR without ever using the PR
-  system to land it, and without needing a human to remember to update
-  `dev`.
-
 ## Data contract (`data/areas.csv`)
 Required columns: `name`, `city`, `country`, `status` (green|yellow|red).
 Optional override columns: `lat`, `lon`, `radius_m` — these are a *fallback
