@@ -186,6 +186,7 @@
         "lat": "6.2103777",
         "lon": "-75.5709171",
         "radius_m": "1300",
+        "noise_score": 94.3,
         "restaurants_per_km2": 392.36,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 203
@@ -300,6 +301,7 @@
         "lat": "6.2419995",
         "lon": "-75.5958328",
         "radius_m": "1400",
+        "noise_score": 57.7,
         "restaurants_per_km2": 141.19,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 169
@@ -402,6 +404,7 @@
         "lat": "6.2505337",
         "lon": "-75.5667115",
         "radius_m": "1000",
+        "noise_score": 54.5,
         "restaurants_per_km2": 75.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 25
@@ -528,6 +531,7 @@
         "lat": "6.2325357",
         "lon": "-75.5966770",
         "radius_m": "1400",
+        "noise_score": 52.1,
         "restaurants_per_km2": 14.95,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 164
@@ -615,6 +619,8 @@
         "motorbike_minutes_to_laureles": "1.9",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 56.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 329
@@ -730,6 +736,8 @@
         "motorbike_minutes_to_laureles": "5.5",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "quiet",
+        "noise_score": 23.2,
         "restaurants_per_km2": 4.99,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 607
@@ -845,6 +853,8 @@
         "motorbike_minutes_to_laureles": "18.6",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "moderate",
+        "noise_score": 47.5,
         "restaurants_per_km2": 15.31,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 92
@@ -928,6 +938,8 @@
         "motorbike_minutes_to_laureles": "1.8",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 51.9,
         "restaurants_per_km2": 31.76,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 14
@@ -1111,6 +1123,8 @@
         "motorbike_minutes_to_laureles": "19.8",
         "temp_min_c": "13.3",
         "temp_max_c": "26.3",
+        "noise": "moderate",
+        "noise_score": 45.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 553
@@ -1342,6 +1356,8 @@
         "motorbike_minutes_to_laureles": "13.6",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 48.8,
         "restaurants_per_km2": 2.95,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 913
@@ -1409,6 +1425,8 @@
         "motorbike_minutes_to_laureles": "16.1",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 47.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 324
@@ -1776,6 +1794,8 @@
         "motorbike_minutes_to_laureles": "19.2",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "moderate",
+        "noise_score": 45.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 458
@@ -1899,6 +1919,8 @@
         "motorbike_minutes_to_laureles": "22.3",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 47.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 402
@@ -2334,6 +2356,8 @@
         "motorbike_minutes_to_laureles": "8.3",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "quiet",
+        "noise_score": 3.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 793
@@ -2525,6 +2549,8 @@
         "motorbike_minutes_to_laureles": "16.9",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "loud",
+        "noise_score": 50.3,
         "restaurants_per_km2": 16.12,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 36
@@ -2876,6 +2902,8 @@
         "motorbike_minutes_to_laureles": "16.2",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "moderate",
+        "noise_score": 42.7,
         "restaurants_per_km2": 2.18,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 626
@@ -3007,6 +3035,8 @@
         "motorbike_minutes_to_laureles": "8.3",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "moderate",
+        "noise_score": 46.5,
         "restaurants_per_km2": 6.15,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 552
@@ -3186,6 +3216,8 @@
         "motorbike_minutes_to_laureles": "13.0",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 48.8,
         "restaurants_per_km2": 5.31,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 158
@@ -3501,6 +3533,8 @@
         "motorbike_minutes_to_laureles": "10.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 46.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 272
@@ -3576,6 +3610,8 @@
         "motorbike_minutes_to_laureles": "8.4",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 58.0,
         "restaurants_per_km2": 12.35,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 233
@@ -3647,6 +3683,8 @@
         "motorbike_minutes_to_laureles": "2.8",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 14.81,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 254
@@ -4378,6 +4416,8 @@
         "motorbike_minutes_to_laureles": "47.2",
         "temp_min_c": "10.9",
         "temp_max_c": "23.9",
+        "noise": "quiet",
+        "noise_score": 20.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 7857
@@ -4861,6 +4901,8 @@
         "motorbike_minutes_to_laureles": "44.6",
         "temp_min_c": "12.3",
         "temp_max_c": "25.3",
+        "noise": "quiet",
+        "noise_score": 26.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 8017
@@ -4932,6 +4974,8 @@
         "motorbike_minutes_to_laureles": "10.0",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 1.92,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 301
@@ -5047,6 +5091,8 @@
         "motorbike_minutes_to_laureles": "14.6",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 30.31,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 240
@@ -5286,6 +5332,8 @@
         "motorbike_minutes_to_laureles": "15.1",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "moderate",
+        "noise_score": 45.3,
         "restaurants_per_km2": 2.4,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 695
@@ -5553,6 +5601,8 @@
         "motorbike_minutes_to_laureles": "10.8",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 4.19,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 295
@@ -5764,6 +5814,8 @@
         "motorbike_minutes_to_laureles": "23.9",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 41.9,
         "restaurants_per_km2": 11.24,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 170
@@ -6007,6 +6059,8 @@
         "motorbike_minutes_to_laureles": "17.9",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "loud",
+        "noise_score": 51.3,
         "restaurants_per_km2": 1.55,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 753
@@ -6298,6 +6352,8 @@
         "motorbike_minutes_to_laureles": "18.2",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "very loud",
+        "noise_score": 53.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 126
@@ -6353,6 +6409,8 @@
         "motorbike_minutes_to_laureles": "5.5",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "quiet",
+        "noise_score": 42.4,
         "restaurants_per_km2": 6.27,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 644
@@ -6404,6 +6462,8 @@
         "motorbike_minutes_to_laureles": "5.9",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "moderate",
+        "noise_score": 46.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 754
@@ -6475,6 +6535,8 @@
         "motorbike_minutes_to_laureles": "12.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 55.7,
         "restaurants_per_km2": 6.8,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 170
@@ -6590,6 +6652,8 @@
         "motorbike_minutes_to_laureles": "22.4",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "quiet",
+        "noise_score": 42.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 355
@@ -6673,6 +6737,8 @@
         "motorbike_minutes_to_laureles": "2.9",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 49.3,
         "restaurants_per_km2": 4.26,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 309
@@ -6792,6 +6858,8 @@
         "motorbike_minutes_to_laureles": "11.2",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 397
@@ -7007,6 +7075,8 @@
         "motorbike_minutes_to_laureles": "4.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 43.0,
         "restaurants_per_km2": 31.19,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 71
@@ -7094,6 +7164,8 @@
         "motorbike_minutes_to_laureles": "14.5",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 46.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 128
@@ -7293,6 +7365,8 @@
         "motorbike_minutes_to_laureles": "9.8",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 51.9,
         "restaurants_per_km2": 19.5,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 366
@@ -7664,6 +7738,8 @@
         "motorbike_minutes_to_laureles": "12.3",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 47.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 221
@@ -8027,6 +8103,8 @@
         "motorbike_minutes_to_laureles": "17.1",
         "temp_min_c": "13.0",
         "temp_max_c": "26.0",
+        "noise": "quiet",
+        "noise_score": 38.8,
         "restaurants_per_km2": 9.32,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 320
@@ -8218,6 +8296,8 @@
         "motorbike_minutes_to_laureles": "10.1",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "quiet",
+        "noise_score": 30.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 849
@@ -8333,6 +8413,8 @@
         "motorbike_minutes_to_laureles": "3.7",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 8.32,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 189
@@ -8556,6 +8638,8 @@
         "motorbike_minutes_to_laureles": "12.1",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "moderate",
+        "noise_score": 45.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 575
@@ -8735,6 +8819,8 @@
         "motorbike_minutes_to_laureles": "17.5",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "quiet",
+        "noise_score": 42.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 206
@@ -8826,6 +8912,8 @@
         "motorbike_minutes_to_laureles": "13.9",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 194
@@ -8925,6 +9013,8 @@
         "motorbike_minutes_to_laureles": "4.3",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 52.8,
         "restaurants_per_km2": 16.69,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 541
@@ -9060,6 +9150,8 @@
         "motorbike_minutes_to_laureles": "12.7",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 21.75,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 587
@@ -9267,6 +9359,8 @@
         "motorbike_minutes_to_laureles": "15.3",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "loud",
+        "noise_score": 52.4,
         "restaurants_per_km2": 10.65,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 489
@@ -9386,6 +9480,8 @@
         "motorbike_minutes_to_laureles": "21.8",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "moderate",
+        "noise_score": 47.0,
         "restaurants_per_km2": 14.8,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 49
@@ -9533,6 +9629,8 @@
         "motorbike_minutes_to_laureles": "18.7",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 50.2,
         "restaurants_per_km2": 11.98,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 125
@@ -9636,6 +9734,8 @@
         "motorbike_minutes_to_laureles": "11.4",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 4.78,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 425
@@ -9807,6 +9907,8 @@
         "motorbike_minutes_to_laureles": "19.0",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 43.5,
         "restaurants_per_km2": 1.5,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 408
@@ -9906,6 +10008,8 @@
         "motorbike_minutes_to_laureles": "3.4",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "moderate",
+        "noise_score": 47.2,
         "restaurants_per_km2": 10.46,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 212
@@ -10117,6 +10221,8 @@
         "motorbike_minutes_to_laureles": "20.2",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 48.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 410
@@ -10300,6 +10406,8 @@
         "motorbike_minutes_to_laureles": "16.5",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "quiet",
+        "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 636
@@ -10503,6 +10611,8 @@
         "motorbike_minutes_to_laureles": "19.9",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "moderate",
+        "noise_score": 47.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 518
@@ -10718,6 +10828,8 @@
         "motorbike_minutes_to_laureles": "7.9",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 46.9,
         "restaurants_per_km2": 6.14,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 147
@@ -10913,6 +11025,8 @@
         "motorbike_minutes_to_laureles": "20.3",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "loud",
+        "noise_score": 50.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 807
@@ -11060,6 +11174,8 @@
         "motorbike_minutes_to_laureles": "11.1",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 50.4,
         "restaurants_per_km2": 3.96,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 165
@@ -11143,6 +11259,8 @@
         "motorbike_minutes_to_laureles": "5.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 597
@@ -11194,6 +11312,8 @@
         "motorbike_minutes_to_laureles": "3.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 50.8,
         "restaurants_per_km2": 4.59,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 188
@@ -11309,6 +11429,8 @@
         "motorbike_minutes_to_laureles": "14.8",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "moderate",
+        "noise_score": 42.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 559
@@ -11456,6 +11578,8 @@
         "motorbike_minutes_to_laureles": "20.7",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 48.0,
         "restaurants_per_km2": 3.88,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 373
@@ -11603,6 +11727,8 @@
         "motorbike_minutes_to_laureles": "21.1",
         "temp_min_c": "13.3",
         "temp_max_c": "26.3",
+        "noise": "moderate",
+        "noise_score": 45.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 353
@@ -11826,6 +11952,8 @@
         "motorbike_minutes_to_laureles": "14.4",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 44.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 889
@@ -11993,6 +12121,8 @@
         "motorbike_minutes_to_laureles": "14.0",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 52.3,
         "restaurants_per_km2": 20.46,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 320
@@ -12112,6 +12242,8 @@
         "motorbike_minutes_to_laureles": "18.8",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 50.4,
         "restaurants_per_km2": 8.37,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 428
@@ -12451,6 +12583,8 @@
         "motorbike_minutes_to_laureles": "7.4",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "quiet",
+        "noise_score": 27.9,
         "restaurants_per_km2": 2.85,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 135
@@ -12634,6 +12768,8 @@
         "motorbike_minutes_to_laureles": "14.4",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 49.5,
         "restaurants_per_km2": 20.28,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 126
@@ -12757,6 +12893,8 @@
         "motorbike_minutes_to_laureles": "7.7",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 52.5,
         "restaurants_per_km2": 1.94,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 128
@@ -12844,6 +12982,8 @@
         "motorbike_minutes_to_laureles": "13.0",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "quiet",
+        "noise_score": 41.1,
         "restaurants_per_km2": 9.2,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 478
@@ -12979,6 +13119,8 @@
         "motorbike_minutes_to_laureles": "9.7",
         "temp_min_c": "15.3",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 8.13,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 478
@@ -13138,6 +13280,8 @@
         "motorbike_minutes_to_laureles": "18.1",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 50.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 314
@@ -13473,6 +13617,8 @@
         "motorbike_minutes_to_laureles": "17.1",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 5.08,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 128
@@ -13788,6 +13934,8 @@
         "motorbike_minutes_to_laureles": "13.6",
         "temp_min_c": "13.4",
         "temp_max_c": "26.4",
+        "noise": "moderate",
+        "noise_score": 43.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 727
@@ -13887,6 +14035,8 @@
         "motorbike_minutes_to_laureles": "12.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 52.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 615
@@ -14118,6 +14268,8 @@
         "motorbike_minutes_to_laureles": "14.7",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 61.4,
         "restaurants_per_km2": 31.04,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 226
@@ -14189,6 +14341,8 @@
         "motorbike_minutes_to_laureles": "8.4",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 260
@@ -14300,6 +14454,8 @@
         "motorbike_minutes_to_laureles": "6.0",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 46.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 179
@@ -14359,6 +14515,8 @@
         "motorbike_minutes_to_laureles": "15.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 46.4,
         "restaurants_per_km2": 2.67,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 138
@@ -14546,6 +14704,8 @@
         "motorbike_minutes_to_laureles": "13.8",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "moderate",
+        "noise_score": 42.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 404
@@ -14857,6 +15017,8 @@
         "motorbike_minutes_to_laureles": "10.6",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 764
@@ -14960,6 +15122,8 @@
         "motorbike_minutes_to_laureles": "9.1",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 172
@@ -15063,6 +15227,8 @@
         "motorbike_minutes_to_laureles": "12.1",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 59.3,
         "restaurants_per_km2": 125.47,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 235
@@ -15166,6 +15332,8 @@
         "motorbike_minutes_to_laureles": "10.7",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "moderate",
+        "noise_score": 46.0,
         "restaurants_per_km2": 6.61,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 789
@@ -15301,6 +15469,8 @@
         "motorbike_minutes_to_laureles": "15.4",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 49.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 307
@@ -15484,6 +15654,8 @@
         "motorbike_minutes_to_laureles": "14.2",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 55.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 320
@@ -15787,6 +15959,8 @@
         "motorbike_minutes_to_laureles": "17.9",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 42.0,
         "restaurants_per_km2": 26.35,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 778
@@ -16110,6 +16284,8 @@
         "motorbike_minutes_to_laureles": "10.2",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "moderate",
+        "noise_score": 47.1,
         "restaurants_per_km2": 4.51,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 350
@@ -17354,6 +17530,8 @@
         "motorbike_minutes_to_laureles": "6.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 43.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 279
@@ -17417,6 +17595,8 @@
         "motorbike_minutes_to_laureles": "5.9",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 56.97,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 151
@@ -17532,6 +17712,8 @@
         "motorbike_minutes_to_laureles": "14.7",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "very loud",
+        "noise_score": 54.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 152
@@ -17607,6 +17789,8 @@
         "motorbike_minutes_to_laureles": "9.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 6.53,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 375
@@ -17778,6 +17962,8 @@
         "motorbike_minutes_to_laureles": "20.4",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 844
@@ -17977,6 +18163,8 @@
         "motorbike_minutes_to_laureles": "6.7",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "quiet",
+        "noise_score": 40.4,
         "restaurants_per_km2": 5.4,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 284
@@ -18068,6 +18256,8 @@
         "motorbike_minutes_to_laureles": "4.9",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "quiet",
+        "noise_score": 38.9,
         "restaurants_per_km2": 7.38,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 244
@@ -18143,6 +18333,8 @@
         "motorbike_minutes_to_laureles": "3.0",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 20.39,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 100
@@ -18574,6 +18766,8 @@
         "motorbike_minutes_to_laureles": "11.6",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "loud",
+        "noise_score": 50.9,
         "restaurants_per_km2": 15.92,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 196
@@ -18617,6 +18811,8 @@
         "motorbike_minutes_to_laureles": "10.8",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "quiet",
+        "noise_score": 38.3,
         "restaurants_per_km2": 41.03,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 397
@@ -18728,6 +18924,8 @@
         "motorbike_minutes_to_laureles": "7.2",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "quiet",
+        "noise_score": 40.0,
         "restaurants_per_km2": 52.77,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 130
@@ -18811,6 +19009,8 @@
         "motorbike_minutes_to_laureles": "14.4",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 48.0,
         "restaurants_per_km2": 9.09,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 82
@@ -18910,6 +19110,8 @@
         "motorbike_minutes_to_laureles": "1.8",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 62.6,
         "restaurants_per_km2": 142.42,
         "supermarket_brands_1km": 6,
         "supermarket_nearest_m": 173
@@ -19029,6 +19231,8 @@
         "motorbike_minutes_to_laureles": "17.6",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 44.7,
         "restaurants_per_km2": 3.3,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 23
@@ -19128,6 +19332,8 @@
         "motorbike_minutes_to_laureles": "3.3",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 10.76,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 456
@@ -19259,6 +19465,8 @@
         "motorbike_minutes_to_laureles": "5.6",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "quiet",
+        "noise_score": 42.2,
         "restaurants_per_km2": 25.17,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 242
@@ -19426,6 +19634,8 @@
         "motorbike_minutes_to_laureles": "15.1",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 264
@@ -19633,6 +19843,8 @@
         "motorbike_minutes_to_laureles": "19.4",
         "temp_min_c": "12.5",
         "temp_max_c": "25.5",
+        "noise": "quiet",
+        "noise_score": 37.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 689
@@ -19888,6 +20100,8 @@
         "motorbike_minutes_to_laureles": "22.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 45.1,
         "restaurants_per_km2": 4.64,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 32
@@ -20127,6 +20341,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "13.4",
         "temp_max_c": "26.4",
+        "noise": "quiet",
+        "noise_score": 32.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1025
@@ -20346,6 +20562,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "12.5",
         "temp_max_c": "25.5",
+        "noise": "moderate",
+        "noise_score": 46.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 542
@@ -20541,6 +20759,8 @@
         "motorbike_minutes_to_laureles": "10.5",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 46.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 326
@@ -20812,6 +21032,8 @@
         "motorbike_minutes_to_laureles": "9.5",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "quiet",
+        "noise_score": 28.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 714
@@ -20875,6 +21097,8 @@
         "motorbike_minutes_to_laureles": "6.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 54.6,
         "restaurants_per_km2": 8.71,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 752
@@ -20982,6 +21206,8 @@
         "motorbike_minutes_to_laureles": "22.4",
         "temp_min_c": "15.8",
         "temp_max_c": "28.8",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 12.22,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 153
@@ -21097,6 +21323,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 2.33,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 95
@@ -21176,6 +21404,8 @@
         "motorbike_minutes_to_laureles": "1.7",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 58.5,
         "restaurants_per_km2": 50.61,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 139
@@ -21423,6 +21653,8 @@
         "motorbike_minutes_to_laureles": "21.5",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 46.1,
         "restaurants_per_km2": 8.75,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 340
@@ -21570,6 +21802,8 @@
         "motorbike_minutes_to_laureles": "19.8",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 43.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 713
@@ -21661,6 +21895,8 @@
         "motorbike_minutes_to_laureles": "13.8",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 3.43,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 288
@@ -21756,6 +21992,8 @@
         "motorbike_minutes_to_laureles": "11.6",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 655
@@ -21859,6 +22097,8 @@
         "motorbike_minutes_to_laureles": "15.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 27.56,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 355
@@ -21974,6 +22214,8 @@
         "motorbike_minutes_to_laureles": "7.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 45.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 140
@@ -22061,6 +22303,8 @@
         "motorbike_minutes_to_laureles": "6.0",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 52.6,
         "restaurants_per_km2": 14.62,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 222
@@ -22128,6 +22372,8 @@
         "motorbike_minutes_to_laureles": "1.7",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 34.78,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 405
@@ -22443,6 +22689,8 @@
         "motorbike_minutes_to_laureles": "18.0",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "moderate",
+        "noise_score": 48.0,
         "restaurants_per_km2": 3.09,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 133
@@ -22782,6 +23030,8 @@
         "motorbike_minutes_to_laureles": "13.4",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 39.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 880
@@ -23133,6 +23383,8 @@
         "motorbike_minutes_to_laureles": "13.8",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 46.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 477
@@ -24081,6 +24333,8 @@
         "motorbike_minutes_to_laureles": "6.5",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 7.46,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 361
@@ -24340,6 +24594,8 @@
         "motorbike_minutes_to_laureles": "22.1",
         "temp_min_c": "12.4",
         "temp_max_c": "25.4",
+        "noise": "moderate",
+        "noise_score": 44.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 189
@@ -24539,6 +24795,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "moderate",
+        "noise_score": 45.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 391
@@ -24702,6 +24960,8 @@
         "motorbike_minutes_to_laureles": "3.9",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 44.0,
         "restaurants_per_km2": 11.44,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 212
@@ -24861,6 +25121,8 @@
         "motorbike_minutes_to_laureles": "13.8",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "loud",
+        "noise_score": 49.4,
         "restaurants_per_km2": 2.05,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 32
@@ -24972,6 +25234,8 @@
         "motorbike_minutes_to_laureles": "7.5",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "loud",
+        "noise_score": 50.1,
         "restaurants_per_km2": 4.01,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 445
@@ -25075,6 +25339,8 @@
         "motorbike_minutes_to_laureles": "6.4",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 35.56,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 577
@@ -25358,6 +25624,8 @@
         "motorbike_minutes_to_laureles": "9.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 51.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 736
@@ -25645,6 +25913,8 @@
         "motorbike_minutes_to_laureles": "8.9",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 46.2,
         "restaurants_per_km2": 13.24,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 559
@@ -25892,6 +26162,8 @@
         "motorbike_minutes_to_laureles": "8.1",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "quiet",
+        "noise_score": 41.3,
         "restaurants_per_km2": 10.42,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 544
@@ -25983,6 +26255,8 @@
         "motorbike_minutes_to_laureles": "11.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 316
@@ -26030,6 +26304,8 @@
         "motorbike_minutes_to_laureles": "10.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 50.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 228
@@ -26149,6 +26425,8 @@
         "motorbike_minutes_to_laureles": "15.2",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 11.85,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 316
@@ -26284,6 +26562,8 @@
         "motorbike_minutes_to_laureles": "17.0",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "quiet",
+        "noise_score": 24.8,
         "restaurants_per_km2": 2.36,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 379
@@ -26403,6 +26683,8 @@
         "motorbike_minutes_to_laureles": "19.7",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 587
@@ -26590,6 +26872,8 @@
         "motorbike_minutes_to_laureles": "7.4",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 44.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 294
@@ -26701,6 +26985,8 @@
         "motorbike_minutes_to_laureles": "5.6",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 45.7,
         "restaurants_per_km2": 14.36,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 360
@@ -26800,6 +27086,8 @@
         "motorbike_minutes_to_laureles": "4.4",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 52.3,
         "restaurants_per_km2": 54.23,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 79
@@ -26983,6 +27271,8 @@
         "motorbike_minutes_to_laureles": "4.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 44.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 232
@@ -27082,6 +27372,8 @@
         "motorbike_minutes_to_laureles": "11.2",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 55.1,
         "restaurants_per_km2": 13.03,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 473
@@ -27241,6 +27533,8 @@
         "motorbike_minutes_to_laureles": "6.6",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 57.3,
         "restaurants_per_km2": 151.97,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 467
@@ -27440,6 +27734,8 @@
         "motorbike_minutes_to_laureles": "15.2",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 50.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 503
@@ -27731,6 +28027,8 @@
         "motorbike_minutes_to_laureles": "16.5",
         "temp_min_c": "13.8",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 38.4,
         "restaurants_per_km2": 21.46,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 113
@@ -27914,6 +28212,8 @@
         "motorbike_minutes_to_laureles": "19.9",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "quiet",
+        "noise_score": 40.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 386
@@ -28165,6 +28465,8 @@
         "motorbike_minutes_to_laureles": "22.5",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "moderate",
+        "noise_score": 48.3,
         "restaurants_per_km2": 8.85,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 261
@@ -28248,6 +28550,8 @@
         "motorbike_minutes_to_laureles": "4.9",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 47.9,
         "restaurants_per_km2": 9.39,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 61
@@ -28491,6 +28795,8 @@
         "motorbike_minutes_to_laureles": "23.2",
         "temp_min_c": "12.7",
         "temp_max_c": "25.7",
+        "noise": "quiet",
+        "noise_score": 39.2,
         "restaurants_per_km2": 7.17,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 135
@@ -28578,6 +28884,8 @@
         "motorbike_minutes_to_laureles": "7.3",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 55.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 219
@@ -28997,6 +29305,8 @@
         "motorbike_minutes_to_laureles": "20.9",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 1.62,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 413
@@ -29820,6 +30130,8 @@
         "motorbike_minutes_to_laureles": "24.2",
         "temp_min_c": "11.7",
         "temp_max_c": "24.7",
+        "noise": "quiet",
+        "noise_score": 33.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2245
@@ -30359,6 +30671,8 @@
         "motorbike_minutes_to_laureles": "34.6",
         "temp_min_c": "9.5",
         "temp_max_c": "22.5",
+        "noise": "quiet",
+        "noise_score": 5.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1925
@@ -30822,6 +31136,8 @@
         "motorbike_minutes_to_laureles": "30.2",
         "temp_min_c": "9.1",
         "temp_max_c": "22.1",
+        "noise": "quiet",
+        "noise_score": 19.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1150
@@ -31309,6 +31625,8 @@
         "motorbike_minutes_to_laureles": "10.4",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "quiet",
+        "noise_score": 5.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1459
@@ -31652,6 +31970,8 @@
         "motorbike_minutes_to_laureles": "7.2",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "moderate",
+        "noise_score": 44.6,
         "restaurants_per_km2": 12.01,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 71
@@ -31927,6 +32247,8 @@
         "motorbike_minutes_to_laureles": "16.3",
         "temp_min_c": "12.2",
         "temp_max_c": "25.2",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3375
@@ -32194,6 +32516,8 @@
         "motorbike_minutes_to_laureles": "23.2",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 300
@@ -32273,6 +32597,8 @@
         "motorbike_minutes_to_laureles": "9.3",
         "temp_min_c": "15.7",
         "temp_max_c": "28.7",
+        "noise": "moderate",
+        "noise_score": 45.5,
         "restaurants_per_km2": 10.84,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 124
@@ -32384,6 +32710,8 @@
         "motorbike_minutes_to_laureles": "11.7",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 7.83,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 294
@@ -32431,6 +32759,8 @@
         "motorbike_minutes_to_laureles": "3.9",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "moderate",
+        "noise_score": 47.3,
         "restaurants_per_km2": 23.3,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 282
@@ -32578,6 +32908,8 @@
         "motorbike_minutes_to_laureles": "13.3",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "quiet",
+        "noise_score": 30.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 469
@@ -32745,6 +33077,8 @@
         "motorbike_minutes_to_laureles": "6.5",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 47.4,
         "restaurants_per_km2": 4.89,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 328
@@ -33012,6 +33346,8 @@
         "motorbike_minutes_to_laureles": "9.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 554
@@ -33143,6 +33479,8 @@
         "motorbike_minutes_to_laureles": "12.6",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 64.8,
         "restaurants_per_km2": 4.31,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 280
@@ -33214,6 +33552,8 @@
         "motorbike_minutes_to_laureles": "13.5",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 13.99,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 112
@@ -33373,6 +33713,8 @@
         "motorbike_minutes_to_laureles": "8.7",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "quiet",
+        "noise_score": 38.5,
         "restaurants_per_km2": 27.34,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 556
@@ -33540,6 +33882,8 @@
         "motorbike_minutes_to_laureles": "7.5",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "quiet",
+        "noise_score": 34.9,
         "restaurants_per_km2": 1.43,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 822
@@ -33735,6 +34079,8 @@
         "motorbike_minutes_to_laureles": "19.3",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 45.0,
         "restaurants_per_km2": 5.22,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 57
@@ -33918,6 +34264,8 @@
         "motorbike_minutes_to_laureles": "11.0",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 44.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 269
@@ -34209,6 +34557,8 @@
         "motorbike_minutes_to_laureles": "15.5",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 39.9,
         "restaurants_per_km2": 2.13,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 255
@@ -34352,6 +34702,8 @@
         "motorbike_minutes_to_laureles": "15.7",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 529
@@ -34435,6 +34787,8 @@
         "motorbike_minutes_to_laureles": "2.7",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 55.2,
         "restaurants_per_km2": 12.07,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 211
@@ -34618,6 +34972,8 @@
         "motorbike_minutes_to_laureles": "11.4",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "quiet",
+        "noise_score": 35.0,
         "restaurants_per_km2": 1.34,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 387
@@ -34745,6 +35101,8 @@
         "motorbike_minutes_to_laureles": "12.5",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 49.0,
         "restaurants_per_km2": 5.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 115
@@ -34924,6 +35282,8 @@
         "motorbike_minutes_to_laureles": "17.5",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "quiet",
+        "noise_score": 39.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 612
@@ -35123,6 +35483,8 @@
         "motorbike_minutes_to_laureles": "20.1",
         "temp_min_c": "13.3",
         "temp_max_c": "26.3",
+        "noise": "quiet",
+        "noise_score": 39.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 520
@@ -35326,6 +35688,8 @@
         "motorbike_minutes_to_laureles": "17.0",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "loud",
+        "noise_score": 51.8,
         "restaurants_per_km2": 30.08,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 145
@@ -35529,6 +35893,8 @@
         "motorbike_minutes_to_laureles": "18.8",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "moderate",
+        "noise_score": 43.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 310
@@ -35644,6 +36010,8 @@
         "motorbike_minutes_to_laureles": "6.0",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 396
@@ -35731,6 +36099,8 @@
         "motorbike_minutes_to_laureles": "4.8",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 2.95,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 111
@@ -35834,6 +36204,8 @@
         "motorbike_minutes_to_laureles": "4.1",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "moderate",
+        "noise_score": 48.3,
         "restaurants_per_km2": 22.25,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 193
@@ -36033,6 +36405,8 @@
         "motorbike_minutes_to_laureles": "18.1",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 45.8,
         "restaurants_per_km2": 5.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 311
@@ -36280,6 +36654,8 @@
         "motorbike_minutes_to_laureles": "21.1",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "moderate",
+        "noise_score": 45.5,
         "restaurants_per_km2": 16.25,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 36
@@ -36395,6 +36771,8 @@
         "motorbike_minutes_to_laureles": "5.2",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 53.0,
         "restaurants_per_km2": 1.76,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 119
@@ -36586,6 +36964,8 @@
         "motorbike_minutes_to_laureles": "10.3",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 49.0,
         "restaurants_per_km2": 8.4,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 684
@@ -36665,6 +37045,8 @@
         "motorbike_minutes_to_laureles": "11.7",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 48.9,
         "restaurants_per_km2": 11.1,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 115
@@ -36796,6 +37178,8 @@
         "motorbike_minutes_to_laureles": "17.1",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "loud",
+        "noise_score": 52.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 371
@@ -36887,6 +37271,8 @@
         "motorbike_minutes_to_laureles": "11.0",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 2.43,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 623
@@ -37074,6 +37460,8 @@
         "motorbike_minutes_to_laureles": "11.2",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.7,
         "restaurants_per_km2": 3.28,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 302
@@ -37201,6 +37589,8 @@
         "motorbike_minutes_to_laureles": "18.5",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "quiet",
+        "noise_score": 37.6,
         "restaurants_per_km2": 5.98,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 578
@@ -37264,6 +37654,8 @@
         "motorbike_minutes_to_laureles": "7.1",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "moderate",
+        "noise_score": 48.6,
         "restaurants_per_km2": 21.86,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 479
@@ -37559,6 +37951,8 @@
         "motorbike_minutes_to_laureles": "30.5",
         "temp_min_c": "9.1",
         "temp_max_c": "22.1",
+        "noise": "quiet",
+        "noise_score": 38.0,
         "restaurants_per_km2": 6.33,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 582
@@ -38290,6 +38684,8 @@
         "motorbike_minutes_to_laureles": "11.2",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "quiet",
+        "noise_score": 4.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1947
@@ -39081,6 +39477,8 @@
         "motorbike_minutes_to_laureles": "23.3",
         "temp_min_c": "12.7",
         "temp_max_c": "25.7",
+        "noise": "quiet",
+        "noise_score": 18.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3033
@@ -40980,6 +41378,8 @@
         "motorbike_minutes_to_laureles": "20.5",
         "temp_min_c": "11.7",
         "temp_max_c": "24.7",
+        "noise": "quiet",
+        "noise_score": 25.6,
         "restaurants_per_km2": 0.31,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1711
@@ -41283,6 +41683,8 @@
         "motorbike_minutes_to_laureles": "16.6",
         "temp_min_c": "13.1",
         "temp_max_c": "26.1",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3376
@@ -41658,6 +42060,8 @@
         "motorbike_minutes_to_laureles": "11.4",
         "temp_min_c": "13.3",
         "temp_max_c": "26.3",
+        "noise": "quiet",
+        "noise_score": 4.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1640
@@ -42237,6 +42641,8 @@
         "motorbike_minutes_to_laureles": "25.5",
         "temp_min_c": "8.6",
         "temp_max_c": "21.6",
+        "noise": "quiet",
+        "noise_score": 19.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 516
@@ -42572,6 +42978,8 @@
         "motorbike_minutes_to_laureles": "14.9",
         "temp_min_c": "12.5",
         "temp_max_c": "25.5",
+        "noise": "quiet",
+        "noise_score": 13.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2522
@@ -42807,6 +43215,8 @@
         "motorbike_minutes_to_laureles": "31.7",
         "temp_min_c": "9.0",
         "temp_max_c": "22.0",
+        "noise": "quiet",
+        "noise_score": 42.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1465
@@ -43498,6 +43908,8 @@
         "motorbike_minutes_to_laureles": "20.4",
         "temp_min_c": "13.4",
         "temp_max_c": "26.4",
+        "noise": "quiet",
+        "noise_score": 21.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1073
@@ -43821,6 +44233,8 @@
         "motorbike_minutes_to_laureles": "34.7",
         "temp_min_c": "9.0",
         "temp_max_c": "22.0",
+        "noise": "moderate",
+        "noise_score": 48.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1659
@@ -44400,6 +44814,8 @@
         "motorbike_minutes_to_laureles": "27.7",
         "temp_min_c": "12.1",
         "temp_max_c": "25.1",
+        "noise": "quiet",
+        "noise_score": 34.5,
         "restaurants_per_km2": 0.43,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2067
@@ -45778,6 +46194,8 @@
         "motorbike_minutes_to_laureles": "24.6",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "moderate",
+        "noise_score": 46.5,
         "restaurants_per_km2": 2.1,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 760
@@ -46217,6 +46635,8 @@
         "motorbike_minutes_to_laureles": "30.8",
         "temp_min_c": "11.3",
         "temp_max_c": "24.3",
+        "noise": "quiet",
+        "noise_score": 23.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1845
@@ -46480,6 +46900,8 @@
         "motorbike_minutes_to_laureles": "28.3",
         "temp_min_c": "13.1",
         "temp_max_c": "26.1",
+        "noise": "quiet",
+        "noise_score": 40.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1536
@@ -47055,6 +47477,8 @@
         "motorbike_minutes_to_laureles": "38.1",
         "temp_min_c": "10.8",
         "temp_max_c": "23.8",
+        "noise": "quiet",
+        "noise_score": 18.4,
         "restaurants_per_km2": 0.1,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 6873
@@ -47474,6 +47898,8 @@
         "motorbike_minutes_to_laureles": "28.7",
         "temp_min_c": "10.4",
         "temp_max_c": "23.4",
+        "noise": "quiet",
+        "noise_score": 30.5,
         "restaurants_per_km2": 0.18,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 4847
@@ -47733,6 +48159,8 @@
         "motorbike_minutes_to_laureles": "18.7",
         "temp_min_c": "10.6",
         "temp_max_c": "23.6",
+        "noise": "quiet",
+        "noise_score": 35.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1927
@@ -47907,6 +48335,8 @@
         "motorbike_minutes_to_laureles": "6.6",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "quiet",
+        "noise_score": 8.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 604
@@ -48330,6 +48760,8 @@
         "motorbike_minutes_to_laureles": "6.5",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "quiet",
+        "noise_score": 30.0,
         "restaurants_per_km2": 1.66,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 227
@@ -48457,6 +48889,8 @@
         "motorbike_minutes_to_laureles": "16.7",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 51.4,
         "restaurants_per_km2": 3.56,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 547
@@ -48652,6 +49086,8 @@
         "motorbike_minutes_to_laureles": "7.1",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "quiet",
+        "noise_score": 42.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 239
@@ -48871,6 +49307,8 @@
         "motorbike_minutes_to_laureles": "9.0",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "moderate",
+        "noise_score": 44.7,
         "restaurants_per_km2": 4.22,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 348
@@ -49210,6 +49648,8 @@
         "motorbike_minutes_to_laureles": "10.2",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "quiet",
+        "noise_score": 33.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 361
@@ -49361,6 +49801,8 @@
         "motorbike_minutes_to_laureles": "12.1",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 48.4,
         "restaurants_per_km2": 10.63,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 367
@@ -49428,6 +49870,8 @@
         "motorbike_minutes_to_laureles": "10.1",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 54.8,
         "restaurants_per_km2": 16.55,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 74
@@ -49479,6 +49923,8 @@
         "motorbike_minutes_to_laureles": "6.1",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "quiet",
+        "noise_score": 35.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 258
@@ -49826,6 +50272,8 @@
         "motorbike_minutes_to_laureles": "19.6",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 0.71,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 728
@@ -49921,6 +50369,8 @@
         "motorbike_minutes_to_laureles": "9.7",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 50.5,
         "restaurants_per_km2": 8.51,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 246
@@ -50008,6 +50458,8 @@
         "motorbike_minutes_to_laureles": "20.7",
         "temp_min_c": "13.3",
         "temp_max_c": "26.3",
+        "noise": "moderate",
+        "noise_score": 48.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 351
@@ -50395,6 +50847,8 @@
         "motorbike_minutes_to_laureles": "12.7",
         "temp_min_c": "13.7",
         "temp_max_c": "26.7",
+        "noise": "loud",
+        "noise_score": 50.7,
         "restaurants_per_km2": 3.41,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 159
@@ -50662,6 +51116,8 @@
         "motorbike_minutes_to_laureles": "16.0",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "moderate",
+        "noise_score": 46.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 887
@@ -50785,6 +51241,8 @@
         "motorbike_minutes_to_laureles": "16.2",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "quiet",
+        "noise_score": 42.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 113
@@ -50956,6 +51414,8 @@
         "motorbike_minutes_to_laureles": "22.3",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "moderate",
+        "noise_score": 47.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 214
@@ -51231,6 +51691,8 @@
         "motorbike_minutes_to_laureles": "19.0",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "moderate",
+        "noise_score": 47.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 649
@@ -51430,6 +51892,8 @@
         "motorbike_minutes_to_laureles": "20.4",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 47.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 480
@@ -51513,6 +51977,8 @@
         "motorbike_minutes_to_laureles": "6.9",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 51.7,
         "restaurants_per_km2": 5.6,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 491
@@ -51680,6 +52146,8 @@
         "motorbike_minutes_to_laureles": "20.1",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 248
@@ -51823,6 +52291,8 @@
         "motorbike_minutes_to_laureles": "16.4",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 46.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 627
@@ -51930,6 +52400,8 @@
         "motorbike_minutes_to_laureles": "12.5",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.5,
         "restaurants_per_km2": 5.31,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 934
@@ -52025,6 +52497,8 @@
         "motorbike_minutes_to_laureles": "12.5",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 55.6,
         "restaurants_per_km2": 4.74,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 153
@@ -52176,6 +52650,8 @@
         "motorbike_minutes_to_laureles": "9.8",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "quiet",
+        "noise_score": 37.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 382
@@ -52491,6 +52967,8 @@
         "motorbike_minutes_to_laureles": "11.6",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "loud",
+        "noise_score": 52.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 606
@@ -52586,6 +53064,8 @@
         "motorbike_minutes_to_laureles": "5.2",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "moderate",
+        "noise_score": 48.7,
         "restaurants_per_km2": 40.66,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 426
@@ -52649,6 +53129,8 @@
         "motorbike_minutes_to_laureles": "12.7",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 51.4,
         "restaurants_per_km2": 16.2,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 300
@@ -52860,6 +53342,8 @@
         "motorbike_minutes_to_laureles": "19.8",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 40.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1006
@@ -53071,6 +53555,8 @@
         "motorbike_minutes_to_laureles": "11.0",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "quiet",
+        "noise_score": 34.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 425
@@ -53270,6 +53756,8 @@
         "motorbike_minutes_to_laureles": "10.7",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "quiet",
+        "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 273
@@ -53629,6 +54117,8 @@
         "motorbike_minutes_to_laureles": "15.9",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "loud",
+        "noise_score": 49.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 806
@@ -53960,6 +54450,8 @@
         "motorbike_minutes_to_laureles": "22.7",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "moderate",
+        "noise_score": 44.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 473
@@ -54291,6 +54783,8 @@
         "motorbike_minutes_to_laureles": "19.2",
         "temp_min_c": "12.4",
         "temp_max_c": "25.4",
+        "noise": "quiet",
+        "noise_score": 38.3,
         "restaurants_per_km2": 1.65,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 74
@@ -54614,6 +55108,8 @@
         "motorbike_minutes_to_laureles": "8.1",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "quiet",
+        "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 207
@@ -54765,6 +55261,8 @@
         "motorbike_minutes_to_laureles": "19.6",
         "temp_min_c": "13.7",
         "temp_max_c": "26.7",
+        "noise": "moderate",
+        "noise_score": 47.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 356
@@ -54924,6 +55422,8 @@
         "motorbike_minutes_to_laureles": "9.2",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "quiet",
+        "noise_score": 40.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 541
@@ -55007,6 +55507,8 @@
         "motorbike_minutes_to_laureles": "4.3",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 48.1,
         "restaurants_per_km2": 8.38,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 115
@@ -55146,6 +55648,8 @@
         "motorbike_minutes_to_laureles": "18.3",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 48.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 554
@@ -55281,6 +55785,8 @@
         "motorbike_minutes_to_laureles": "16.3",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 32.75,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 387
@@ -55420,6 +55926,8 @@
         "motorbike_minutes_to_laureles": "7.0",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 50.0,
         "restaurants_per_km2": 10.77,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 83
@@ -55547,6 +56055,8 @@
         "motorbike_minutes_to_laureles": "16.3",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 49.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 78
@@ -55610,6 +56120,8 @@
         "motorbike_minutes_to_laureles": "3.2",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 45.33,
         "supermarket_brands_1km": 6,
         "supermarket_nearest_m": 34
@@ -55689,6 +56201,8 @@
         "motorbike_minutes_to_laureles": "11.3",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 64.7,
         "restaurants_per_km2": 235.66,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 262
@@ -56052,6 +56566,8 @@
         "motorbike_minutes_to_laureles": "15.6",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "quiet",
+        "noise_score": 36.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 432
@@ -56507,6 +57023,8 @@
         "motorbike_minutes_to_laureles": "17.0",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 43.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 733
@@ -56586,6 +57104,8 @@
         "motorbike_minutes_to_laureles": "8.1",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "moderate",
+        "noise_score": 48.6,
         "restaurants_per_km2": 8.3,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 486
@@ -56661,6 +57181,8 @@
         "motorbike_minutes_to_laureles": "12.7",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 53.1,
         "restaurants_per_km2": 12.38,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 222
@@ -56804,6 +57326,8 @@
         "motorbike_minutes_to_laureles": "16.9",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 50.7,
         "restaurants_per_km2": 2.31,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 116
@@ -56907,6 +57431,8 @@
         "motorbike_minutes_to_laureles": "19.0",
         "temp_min_c": "13.0",
         "temp_max_c": "26.0",
+        "noise": "quiet",
+        "noise_score": 41.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 892
@@ -57154,6 +57680,8 @@
         "motorbike_minutes_to_laureles": "9.1",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "quiet",
+        "noise_score": 39.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 446
@@ -57261,6 +57789,8 @@
         "motorbike_minutes_to_laureles": "7.8",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 54.1,
         "restaurants_per_km2": 14.89,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 146
@@ -57776,6 +58306,8 @@
         "motorbike_minutes_to_laureles": "20.0",
         "temp_min_c": "10.1",
         "temp_max_c": "23.1",
+        "noise": "quiet",
+        "noise_score": 36.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2386
@@ -57919,6 +58451,8 @@
         "motorbike_minutes_to_laureles": "12.7",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 12.73,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 249
@@ -57998,6 +58532,8 @@
         "motorbike_minutes_to_laureles": "8.8",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 495
@@ -58141,6 +58677,8 @@
         "motorbike_minutes_to_laureles": "22.1",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 45.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 299
@@ -58212,6 +58750,8 @@
         "motorbike_minutes_to_laureles": "12.6",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 534
@@ -58591,6 +59131,8 @@
         "motorbike_minutes_to_laureles": "14.8",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 40.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 660
@@ -58818,6 +59360,8 @@
         "motorbike_minutes_to_laureles": "10.1",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 566
@@ -59217,6 +59761,8 @@
         "motorbike_minutes_to_laureles": "14.8",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "quiet",
+        "noise_score": 30.0,
         "restaurants_per_km2": 9.16,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 586
@@ -59432,6 +59978,8 @@
         "motorbike_minutes_to_laureles": "12.3",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 56.5,
         "restaurants_per_km2": 6.06,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 406
@@ -59495,6 +60043,8 @@
         "motorbike_minutes_to_laureles": "12.1",
         "temp_min_c": "15.8",
         "temp_max_c": "28.8",
+        "noise": "quiet",
+        "noise_score": 18.1,
         "restaurants_per_km2": 7.01,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 415
@@ -59634,6 +60184,8 @@
         "motorbike_minutes_to_laureles": "13.2",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 47.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 486
@@ -60213,6 +60765,8 @@
         "motorbike_minutes_to_laureles": "21.6",
         "temp_min_c": "11.2",
         "temp_max_c": "24.2",
+        "noise": "quiet",
+        "noise_score": 5.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3416
@@ -61032,6 +61586,8 @@
         "motorbike_minutes_to_laureles": "24.7",
         "temp_min_c": "10.9",
         "temp_max_c": "23.9",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.07,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 5887
@@ -61707,6 +62263,8 @@
         "motorbike_minutes_to_laureles": "29.3",
         "temp_min_c": "11.1",
         "temp_max_c": "24.1",
+        "noise": "quiet",
+        "noise_score": 26.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1593
@@ -62473,6 +63031,8 @@
         "motorbike_minutes_to_laureles": "13.6",
         "temp_min_c": "12.9",
         "temp_max_c": "25.9",
+        "noise": "moderate",
+        "noise_score": 46.5,
         "restaurants_per_km2": 1.26,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 353
@@ -63203,6 +63763,8 @@
         "motorbike_minutes_to_laureles": "26.8",
         "temp_min_c": "13.2",
         "temp_max_c": "26.2",
+        "noise": "moderate",
+        "noise_score": 44.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 797
@@ -64294,6 +64856,8 @@
         "motorbike_minutes_to_laureles": "13.1",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "quiet",
+        "noise_score": 32.8,
         "restaurants_per_km2": 0.45,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1236
@@ -65541,6 +66105,8 @@
         "motorbike_minutes_to_laureles": "29.6",
         "temp_min_c": "10.9",
         "temp_max_c": "23.9",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 6221
@@ -65948,6 +66514,8 @@
         "motorbike_minutes_to_laureles": "28.6",
         "temp_min_c": "9.7",
         "temp_max_c": "22.7",
+        "noise": "quiet",
+        "noise_score": 4.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2948
@@ -66775,6 +67343,8 @@
         "motorbike_minutes_to_laureles": "15.6",
         "temp_min_c": "12.6",
         "temp_max_c": "25.6",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2646
@@ -67078,6 +67648,8 @@
         "motorbike_minutes_to_laureles": "18.7",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "loud",
+        "noise_score": 52.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 274
@@ -67213,6 +67785,8 @@
         "motorbike_minutes_to_laureles": "16.6",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 44.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 472
@@ -67328,6 +67902,8 @@
         "motorbike_minutes_to_laureles": "13.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 43.6,
         "restaurants_per_km2": 4.97,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 334
@@ -67819,6 +68395,8 @@
         "motorbike_minutes_to_laureles": "19.4",
         "temp_min_c": "9.6",
         "temp_max_c": "22.6",
+        "noise": "quiet",
+        "noise_score": 33.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2144
@@ -68506,6 +69084,8 @@
         "motorbike_minutes_to_laureles": "17.7",
         "temp_min_c": "12.4",
         "temp_max_c": "25.4",
+        "noise": "quiet",
+        "noise_score": 41.3,
         "restaurants_per_km2": 0.55,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 882
@@ -68865,6 +69445,8 @@
         "motorbike_minutes_to_laureles": "26.2",
         "temp_min_c": "10.9",
         "temp_max_c": "23.9",
+        "noise": "quiet",
+        "noise_score": 36.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3831
@@ -69156,6 +69738,8 @@
         "motorbike_minutes_to_laureles": "22.7",
         "temp_min_c": "11.9",
         "temp_max_c": "24.9",
+        "noise": "quiet",
+        "noise_score": 38.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2540
@@ -69395,6 +69979,8 @@
         "motorbike_minutes_to_laureles": "13.1",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "loud",
+        "noise_score": 49.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 220
@@ -69514,6 +70100,8 @@
         "motorbike_minutes_to_laureles": "7.6",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "quiet",
+        "noise_score": 38.7,
         "restaurants_per_km2": 65.08,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 33
@@ -69669,6 +70257,8 @@
         "motorbike_minutes_to_laureles": "20.3",
         "temp_min_c": "15.8",
         "temp_max_c": "28.8",
+        "noise": "quiet",
+        "noise_score": 36.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 400
@@ -69748,6 +70338,8 @@
         "motorbike_minutes_to_laureles": "16.1",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 49.4,
         "restaurants_per_km2": 1.8,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 338
@@ -69815,6 +70407,8 @@
         "motorbike_minutes_to_laureles": "2.8",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 66.3,
         "restaurants_per_km2": 39.77,
         "supermarket_brands_1km": 6,
         "supermarket_nearest_m": 131
@@ -69874,6 +70468,8 @@
         "motorbike_minutes_to_laureles": "5.1",
         "temp_min_c": "15.5",
         "temp_max_c": "28.5",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 21.8,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 285
@@ -70113,6 +70709,8 @@
         "motorbike_minutes_to_laureles": "8.7",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "moderate",
+        "noise_score": 43.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 536
@@ -70352,6 +70950,8 @@
         "motorbike_minutes_to_laureles": "18.1",
         "temp_min_c": "13.0",
         "temp_max_c": "26.0",
+        "noise": "quiet",
+        "noise_score": 38.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 130
@@ -70435,6 +71035,8 @@
         "motorbike_minutes_to_laureles": "10.1",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 57.8,
         "restaurants_per_km2": 14.33,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 45
@@ -70482,6 +71084,8 @@
         "motorbike_minutes_to_laureles": "6.6",
         "temp_min_c": "15.6",
         "temp_max_c": "28.6",
+        "noise": "moderate",
+        "noise_score": 44.4,
         "restaurants_per_km2": 7.3,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 734
@@ -70593,6 +71197,8 @@
         "motorbike_minutes_to_laureles": "15.9",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 51.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 171
@@ -70672,6 +71278,8 @@
         "motorbike_minutes_to_laureles": "4.0",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 104
@@ -70799,6 +71407,8 @@
         "motorbike_minutes_to_laureles": "5.3",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 43.7,
         "restaurants_per_km2": 7.07,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 144
@@ -70858,6 +71468,8 @@
         "motorbike_minutes_to_laureles": "9.4",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 54.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 440
@@ -71001,6 +71613,8 @@
         "motorbike_minutes_to_laureles": "6.1",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "quiet",
+        "noise_score": 37.4,
         "restaurants_per_km2": 5.81,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 205
@@ -71276,6 +71890,8 @@
         "motorbike_minutes_to_laureles": "6.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "quiet",
+        "noise_score": 42.2,
         "restaurants_per_km2": 4.93,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 275
@@ -71799,6 +72415,8 @@
         "motorbike_minutes_to_laureles": "47.9",
         "temp_min_c": "16.4",
         "temp_max_c": "29.4",
+        "noise": "loud",
+        "noise_score": 51.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 10734
@@ -72066,6 +72684,8 @@
         "motorbike_minutes_to_laureles": "43.9",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 1.51,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 9808
@@ -72937,6 +73557,8 @@
         "motorbike_minutes_to_laureles": "36.5",
         "temp_min_c": "11.1",
         "temp_max_c": "24.1",
+        "noise": "quiet",
+        "noise_score": 35.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 7672
@@ -73892,6 +74514,8 @@
         "motorbike_minutes_to_laureles": "34.1",
         "temp_min_c": "9.8",
         "temp_max_c": "22.8",
+        "noise": "quiet",
+        "noise_score": 28.3,
         "restaurants_per_km2": 0.18,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 6681
@@ -74979,6 +75603,8 @@
         "motorbike_minutes_to_laureles": "35.9",
         "temp_min_c": "11.7",
         "temp_max_c": "24.7",
+        "noise": "quiet",
+        "noise_score": 0.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 7823
@@ -75402,6 +76028,8 @@
         "motorbike_minutes_to_laureles": "24.2",
         "temp_min_c": "9.8",
         "temp_max_c": "22.8",
+        "noise": "quiet",
+        "noise_score": 33.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3467
@@ -75745,6 +76373,8 @@
         "motorbike_minutes_to_laureles": "27.7",
         "temp_min_c": "10.8",
         "temp_max_c": "23.8",
+        "noise": "quiet",
+        "noise_score": 34.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 4331
@@ -77812,6 +78442,8 @@
         "motorbike_minutes_to_laureles": "25.1",
         "temp_min_c": "9.5",
         "temp_max_c": "22.5",
+        "noise": "quiet",
+        "noise_score": 2.6,
         "restaurants_per_km2": 0.54,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2060
@@ -78331,6 +78963,8 @@
         "motorbike_minutes_to_laureles": "15.6",
         "temp_min_c": "12.6",
         "temp_max_c": "25.6",
+        "noise": "moderate",
+        "noise_score": 48.2,
         "restaurants_per_km2": 2.9,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 826
@@ -78646,6 +79280,8 @@
         "motorbike_minutes_to_laureles": "24.7",
         "temp_min_c": "11.2",
         "temp_max_c": "24.2",
+        "noise": "quiet",
+        "noise_score": 33.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3430
@@ -79041,6 +79677,8 @@
         "motorbike_minutes_to_laureles": "19.8",
         "temp_min_c": "12.2",
         "temp_max_c": "25.2",
+        "noise": "moderate",
+        "noise_score": 44.8,
         "restaurants_per_km2": 0.65,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1433
@@ -79700,6 +80338,8 @@
         "motorbike_minutes_to_laureles": "16.5",
         "temp_min_c": "12.5",
         "temp_max_c": "25.5",
+        "noise": "moderate",
+        "noise_score": 46.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 963
@@ -80155,6 +80795,8 @@
         "motorbike_minutes_to_laureles": "23.8",
         "temp_min_c": "9.9",
         "temp_max_c": "22.9",
+        "noise": "quiet",
+        "noise_score": 19.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 3447
@@ -80562,6 +81204,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "12.5",
         "temp_max_c": "25.5",
+        "noise": "quiet",
+        "noise_score": 40.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1974
@@ -80980,6 +81624,8 @@
         "motorbike_minutes_to_laureles": "8.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 48.5,
         "restaurants_per_km2": 2.75,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 108
@@ -81118,6 +81764,8 @@
         "motorbike_minutes_to_laureles": "11.7",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "quiet",
+        "noise_score": 41.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 700
@@ -81396,6 +82044,8 @@
         "motorbike_minutes_to_laureles": "8.7",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "quiet",
+        "noise_score": 40.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 756
@@ -81786,6 +82436,8 @@
         "motorbike_minutes_to_laureles": "9.3",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 44.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 193
@@ -82328,6 +82980,8 @@
         "motorbike_minutes_to_laureles": "15.1",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "very loud",
+        "noise_score": 54.6,
         "restaurants_per_km2": 14.38,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 293
@@ -83159,6 +83813,8 @@
         "motorbike_minutes_to_laureles": "12.1",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "quiet",
+        "noise_score": 31.8,
         "restaurants_per_km2": 0.96,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1151
@@ -83282,6 +83938,8 @@
         "motorbike_minutes_to_laureles": "13.8",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 2.66,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 439
@@ -83673,6 +84331,8 @@
         "motorbike_minutes_to_laureles": "31.0",
         "temp_min_c": "9.2",
         "temp_max_c": "22.2",
+        "noise": "moderate",
+        "noise_score": 44.1,
         "restaurants_per_km2": 2.15,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 112
@@ -83732,6 +84392,8 @@
         "motorbike_minutes_to_laureles": "22.1",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 7.05,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 516
@@ -83891,6 +84553,8 @@
         "motorbike_minutes_to_laureles": "21.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 359
@@ -83998,6 +84662,8 @@
         "motorbike_minutes_to_laureles": "18.3",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 210
@@ -84045,6 +84711,8 @@
         "motorbike_minutes_to_laureles": "21.5",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 40.28,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 245
@@ -84211,6 +84879,7 @@
         "lat": "6.1701",
         "lon": "-75.5906",
         "radius_m": "1600",
+        "noise_score": 56.7,
         "restaurants_per_km2": 38.88,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 109
@@ -84987,6 +85656,8 @@
         "motorbike_minutes_to_laureles": "29.6",
         "temp_min_c": "13.2",
         "temp_max_c": "26.2",
+        "noise": "quiet",
+        "noise_score": 26.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1837
@@ -85410,6 +86081,8 @@
         "motorbike_minutes_to_laureles": "27.7",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "moderate",
+        "noise_score": 45.7,
         "restaurants_per_km2": 2.42,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1317
@@ -85633,6 +86306,8 @@
         "motorbike_minutes_to_laureles": "25.3",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "loud",
+        "noise_score": 50.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1395
@@ -85856,6 +86531,8 @@
         "motorbike_minutes_to_laureles": "24.2",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 45.3,
         "restaurants_per_km2": 11.95,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 189
@@ -86219,6 +86896,8 @@
         "motorbike_minutes_to_laureles": "22.6",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "moderate",
+        "noise_score": 46.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1016
@@ -86282,6 +86961,8 @@
         "motorbike_minutes_to_laureles": "20.8",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 50.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 451
@@ -86781,6 +87462,8 @@
         "motorbike_minutes_to_laureles": "28.5",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "quiet",
+        "noise_score": 42.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1611
@@ -87144,6 +87827,8 @@
         "motorbike_minutes_to_laureles": "26.2",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "quiet",
+        "noise_score": 31.9,
         "restaurants_per_km2": 2.56,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 639
@@ -87215,6 +87900,8 @@
         "motorbike_minutes_to_laureles": "19.8",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 52.75,
         "supermarket_brands_1km": 6,
         "supermarket_nearest_m": 461
@@ -87522,6 +88209,8 @@
         "motorbike_minutes_to_laureles": "23.9",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 51.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 743
@@ -87613,6 +88302,8 @@
         "motorbike_minutes_to_laureles": "21.0",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 54.7,
         "restaurants_per_km2": 6.67,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 312
@@ -87940,6 +88631,8 @@
         "motorbike_minutes_to_laureles": "27.4",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 43.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1324
@@ -88123,6 +88816,8 @@
         "motorbike_minutes_to_laureles": "24.7",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "loud",
+        "noise_score": 50.9,
         "restaurants_per_km2": 2.9,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 522
@@ -88414,6 +89109,8 @@
         "motorbike_minutes_to_laureles": "25.0",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "very loud",
+        "noise_score": 53.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 559
@@ -88481,6 +89178,8 @@
         "motorbike_minutes_to_laureles": "24.2",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 53.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 304
@@ -88628,6 +89327,8 @@
         "motorbike_minutes_to_laureles": "22.8",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 4,
         "supermarket_nearest_m": 247
@@ -88935,6 +89636,8 @@
         "motorbike_minutes_to_laureles": "26.1",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "quiet",
+        "noise_score": 31.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 859
@@ -88994,6 +89697,8 @@
         "motorbike_minutes_to_laureles": "24.8",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 53.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 167
@@ -89101,6 +89806,8 @@
         "motorbike_minutes_to_laureles": "21.5",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 11.79,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 298
@@ -89296,6 +90003,8 @@
         "motorbike_minutes_to_laureles": "20.0",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 52.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 247
@@ -89463,6 +90172,8 @@
         "motorbike_minutes_to_laureles": "20.7",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 50.5,
         "restaurants_per_km2": 0.74,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 836
@@ -89706,6 +90417,8 @@
         "motorbike_minutes_to_laureles": "25.9",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "loud",
+        "noise_score": 49.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 697
@@ -89977,6 +90690,8 @@
         "motorbike_minutes_to_laureles": "23.9",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "moderate",
+        "noise_score": 44.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1096
@@ -90300,6 +91015,8 @@
         "motorbike_minutes_to_laureles": "26.2",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 48.8,
         "restaurants_per_km2": 2.82,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 235
@@ -90407,6 +91124,8 @@
         "motorbike_minutes_to_laureles": "22.8",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 12.62,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 156
@@ -90550,6 +91269,8 @@
         "motorbike_minutes_to_laureles": "23.6",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 54.9,
         "restaurants_per_km2": 7.81,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 241
@@ -90621,6 +91342,8 @@
         "motorbike_minutes_to_laureles": "23.1",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 50.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 611
@@ -90688,6 +91411,8 @@
         "motorbike_minutes_to_laureles": "21.9",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.5,
         "restaurants_per_km2": 18.45,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 437
@@ -90771,6 +91496,8 @@
         "motorbike_minutes_to_laureles": "20.1",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 26.93,
         "supermarket_brands_1km": 6,
         "supermarket_nearest_m": 323
@@ -90950,6 +91677,8 @@
         "motorbike_minutes_to_laureles": "25.1",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 8.07,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 530
@@ -91029,6 +91758,8 @@
         "motorbike_minutes_to_laureles": "21.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "loud",
+        "noise_score": 51.3,
         "restaurants_per_km2": 6.28,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 206
@@ -91300,6 +92031,8 @@
         "motorbike_minutes_to_laureles": "26.6",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "quiet",
+        "noise_score": 42.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1120
@@ -91535,6 +92268,8 @@
         "motorbike_minutes_to_laureles": "22.1",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 597
@@ -91642,6 +92377,8 @@
         "motorbike_minutes_to_laureles": "19.0",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 8.82,
         "supermarket_brands_1km": 5,
         "supermarket_nearest_m": 442
@@ -92229,6 +92966,8 @@
         "motorbike_minutes_to_laureles": "21.4",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "loud",
+        "noise_score": 50.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 505
@@ -92426,6 +93165,8 @@
         "motorbike_minutes_to_laureles": "23.4",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "very loud",
+        "noise_score": 54.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 249
@@ -92493,6 +93234,8 @@
         "motorbike_minutes_to_laureles": "23.6",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "loud",
+        "noise_score": 52.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 638
@@ -92568,6 +93311,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 798
@@ -92647,6 +93392,8 @@
         "motorbike_minutes_to_laureles": "23.3",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "loud",
+        "noise_score": 52.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 731
@@ -92742,6 +93489,8 @@
         "motorbike_minutes_to_laureles": "18.5",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 951
@@ -92981,6 +93730,8 @@
         "motorbike_minutes_to_laureles": "27.0",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 16.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 557
@@ -93144,6 +93895,8 @@
         "motorbike_minutes_to_laureles": "19.3",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 47.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 762
@@ -93207,6 +93960,8 @@
         "motorbike_minutes_to_laureles": "24.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 163
@@ -93358,6 +94113,8 @@
         "motorbike_minutes_to_laureles": "22.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 20.93,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 429
@@ -93559,6 +94316,8 @@
         "motorbike_minutes_to_laureles": "14.4",
         "temp_min_c": "15.3",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 258
@@ -94010,6 +94769,8 @@
         "motorbike_minutes_to_laureles": "25.8",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "quiet",
+        "noise_score": 39.0,
         "restaurants_per_km2": 1.71,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 423
@@ -94101,6 +94862,8 @@
         "motorbike_minutes_to_laureles": "24.8",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 404
@@ -94228,6 +94991,8 @@
         "motorbike_minutes_to_laureles": "19.0",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "moderate",
+        "noise_score": 44.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 921
@@ -94467,6 +95232,8 @@
         "motorbike_minutes_to_laureles": "20.7",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 49.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 301
@@ -94602,6 +95369,8 @@
         "motorbike_minutes_to_laureles": "20.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 703
@@ -94781,6 +95550,8 @@
         "motorbike_minutes_to_laureles": "20.5",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 50.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 358
@@ -94892,6 +95663,8 @@
         "motorbike_minutes_to_laureles": "18.8",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1191
@@ -95091,6 +95864,8 @@
         "motorbike_minutes_to_laureles": "23.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 47.9,
         "restaurants_per_km2": 6.82,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 430
@@ -95182,6 +95957,8 @@
         "motorbike_minutes_to_laureles": "19.2",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1167
@@ -95337,6 +96114,8 @@
         "motorbike_minutes_to_laureles": "19.4",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "loud",
+        "noise_score": 51.7,
         "restaurants_per_km2": 3.56,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 568
@@ -95480,6 +96259,8 @@
         "motorbike_minutes_to_laureles": "26.2",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 48.2,
         "restaurants_per_km2": 35.33,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 251
@@ -95567,6 +96348,8 @@
         "motorbike_minutes_to_laureles": "23.3",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 444
@@ -95666,6 +96449,8 @@
         "motorbike_minutes_to_laureles": "24.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 322
@@ -95873,6 +96658,8 @@
         "motorbike_minutes_to_laureles": "25.5",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 243
@@ -96064,6 +96851,8 @@
         "motorbike_minutes_to_laureles": "22.5",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "moderate",
+        "noise_score": 48.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 211
@@ -96115,6 +96904,8 @@
         "motorbike_minutes_to_laureles": "21.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 50.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 391
@@ -96190,6 +96981,8 @@
         "motorbike_minutes_to_laureles": "20.6",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 53.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 642
@@ -96253,6 +97046,8 @@
         "motorbike_minutes_to_laureles": "20.2",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 881
@@ -96376,6 +97171,8 @@
         "motorbike_minutes_to_laureles": "23.8",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 44.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 717
@@ -96435,6 +97232,8 @@
         "motorbike_minutes_to_laureles": "24.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 54.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 270
@@ -96506,6 +97305,8 @@
         "motorbike_minutes_to_laureles": "23.1",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 243
@@ -96593,6 +97394,8 @@
         "motorbike_minutes_to_laureles": "18.9",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 47.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 926
@@ -96806,6 +97609,8 @@
         "motorbike_minutes_to_laureles": "21.0",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "quiet",
+        "noise_score": 41.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 437
@@ -96885,6 +97690,8 @@
         "motorbike_minutes_to_laureles": "22.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 8.3,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 519
@@ -96948,6 +97755,8 @@
         "motorbike_minutes_to_laureles": "23.8",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 55.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 347
@@ -97163,6 +97972,8 @@
         "motorbike_minutes_to_laureles": "26.3",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 530
@@ -97234,6 +98045,8 @@
         "motorbike_minutes_to_laureles": "24.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 20.21,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 88
@@ -97439,6 +98252,8 @@
         "motorbike_minutes_to_laureles": "21.9",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 48.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 572
@@ -97594,6 +98409,8 @@
         "motorbike_minutes_to_laureles": "17.7",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "quiet",
+        "noise_score": 33.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1663
@@ -97705,6 +98522,8 @@
         "motorbike_minutes_to_laureles": "23.5",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 928
@@ -97820,6 +98639,8 @@
         "motorbike_minutes_to_laureles": "22.1",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.8,
         "restaurants_per_km2": 8.95,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 263
@@ -97887,6 +98708,8 @@
         "motorbike_minutes_to_laureles": "24.3",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 55.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 452
@@ -98010,6 +98833,8 @@
         "motorbike_minutes_to_laureles": "25.4",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 506
@@ -98089,6 +98914,8 @@
         "motorbike_minutes_to_laureles": "24.5",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 250
@@ -98256,6 +99083,8 @@
         "motorbike_minutes_to_laureles": "15.7",
         "temp_min_c": "15.4",
         "temp_max_c": "28.4",
+        "noise": "loud",
+        "noise_score": 51.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 3,
         "supermarket_nearest_m": 508
@@ -98663,6 +99492,8 @@
         "motorbike_minutes_to_laureles": "25.8",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "moderate",
+        "noise_score": 48.2,
         "restaurants_per_km2": 14.16,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 391
@@ -98882,6 +99713,8 @@
         "motorbike_minutes_to_laureles": "24.1",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "very loud",
+        "noise_score": 54.9,
         "restaurants_per_km2": 11.21,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 512
@@ -98977,6 +99810,8 @@
         "motorbike_minutes_to_laureles": "23.1",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 118
@@ -99068,6 +99903,8 @@
         "motorbike_minutes_to_laureles": "23.1",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 860
@@ -99163,6 +100000,8 @@
         "motorbike_minutes_to_laureles": "24.3",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 591
@@ -99218,6 +100057,8 @@
         "motorbike_minutes_to_laureles": "23.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 52.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 119
@@ -99301,6 +100142,8 @@
         "motorbike_minutes_to_laureles": "24.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 53.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 213
@@ -99372,6 +100215,8 @@
         "motorbike_minutes_to_laureles": "24.4",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 47.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 653
@@ -99697,6 +100542,8 @@
         "motorbike_minutes_to_laureles": "26.5",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "moderate",
+        "noise_score": 45.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 320
@@ -100072,6 +100919,8 @@
         "motorbike_minutes_to_laureles": "17.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 48.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1104
@@ -100215,6 +101064,8 @@
         "motorbike_minutes_to_laureles": "18.0",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 3.86,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 262
@@ -100674,6 +101525,8 @@
         "motorbike_minutes_to_laureles": "16.4",
         "temp_min_c": "15.3",
         "temp_max_c": "28.3",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 1.33,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 169
@@ -100757,6 +101610,8 @@
         "motorbike_minutes_to_laureles": "22.5",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 305
@@ -100864,6 +101719,8 @@
         "motorbike_minutes_to_laureles": "22.6",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 164
@@ -100935,6 +101792,8 @@
         "motorbike_minutes_to_laureles": "19.3",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 52.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 760
@@ -101074,6 +101933,8 @@
         "motorbike_minutes_to_laureles": "19.3",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 50.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 893
@@ -101229,6 +102090,8 @@
         "motorbike_minutes_to_laureles": "25.1",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 46.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 256
@@ -101553,6 +102416,8 @@
         "motorbike_minutes_to_laureles": "26.6",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 464
@@ -101664,6 +102529,8 @@
         "motorbike_minutes_to_laureles": "23.1",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 52.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 633
@@ -101727,6 +102594,8 @@
         "motorbike_minutes_to_laureles": "21.0",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "very loud",
+        "noise_score": 55.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 734
@@ -101886,6 +102755,8 @@
         "motorbike_minutes_to_laureles": "26.8",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 51.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 421
@@ -102178,6 +103049,8 @@
         "motorbike_minutes_to_laureles": "21.5",
         "temp_min_c": "15.2",
         "temp_max_c": "28.2",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 541
@@ -102294,6 +103167,8 @@
         "motorbike_minutes_to_laureles": "24.4",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 48.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 839
@@ -102470,6 +103345,8 @@
         "motorbike_minutes_to_laureles": "26.5",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 693
@@ -102557,6 +103434,8 @@
         "motorbike_minutes_to_laureles": "40.0",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1786
@@ -102660,6 +103539,8 @@
         "motorbike_minutes_to_laureles": "34.2",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "very loud",
+        "noise_score": 54.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 418
@@ -102851,6 +103732,8 @@
         "motorbike_minutes_to_laureles": "30.4",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "loud",
+        "noise_score": 50.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 869
@@ -103050,6 +103933,8 @@
         "motorbike_minutes_to_laureles": "31.6",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1353
@@ -103341,6 +104226,8 @@
         "motorbike_minutes_to_laureles": "39.4",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1609
@@ -103472,6 +104359,8 @@
         "motorbike_minutes_to_laureles": "28.0",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 48.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 225
@@ -103567,6 +104456,8 @@
         "motorbike_minutes_to_laureles": "29.7",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 42.5,
         "restaurants_per_km2": 9.38,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 439
@@ -103676,6 +104567,8 @@
         "motorbike_minutes_to_laureles": "39.5",
         "temp_min_c": "14.2",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 54.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1741
@@ -103791,6 +104684,8 @@
         "motorbike_minutes_to_laureles": "37.2",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 54.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 815
@@ -103878,6 +104773,8 @@
         "motorbike_minutes_to_laureles": "28.9",
         "temp_min_c": "14.0",
         "temp_max_c": "27.0",
+        "noise": "quiet",
+        "noise_score": 35.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 348
@@ -104065,6 +104962,8 @@
         "motorbike_minutes_to_laureles": "32.4",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1069
@@ -104304,6 +105203,8 @@
         "motorbike_minutes_to_laureles": "30.3",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "moderate",
+        "noise_score": 45.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 423
@@ -104355,6 +105256,8 @@
         "motorbike_minutes_to_laureles": "29.6",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 41.5,
         "restaurants_per_km2": 37.13,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 126
@@ -104450,6 +105353,8 @@
         "motorbike_minutes_to_laureles": "35.0",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "loud",
+        "noise_score": 49.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 708
@@ -104597,6 +105502,8 @@
         "motorbike_minutes_to_laureles": "31.2",
         "temp_min_c": "13.9",
         "temp_max_c": "26.9",
+        "noise": "quiet",
+        "noise_score": 37.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 518
@@ -104720,6 +105627,8 @@
         "motorbike_minutes_to_laureles": "29.4",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "moderate",
+        "noise_score": 45.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 303
@@ -104967,6 +105876,8 @@
         "motorbike_minutes_to_laureles": "31.6",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 41.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 800
@@ -105082,6 +105993,8 @@
         "motorbike_minutes_to_laureles": "29.9",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "quiet",
+        "noise_score": 32.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 639
@@ -105173,6 +106086,8 @@
         "motorbike_minutes_to_laureles": "29.2",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "quiet",
+        "noise_score": 42.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 294
@@ -105336,6 +106251,8 @@
         "motorbike_minutes_to_laureles": "39.6",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "very loud",
+        "noise_score": 53.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1860
@@ -105561,6 +106478,8 @@
         "motorbike_minutes_to_laureles": "36.3",
         "temp_min_c": "13.5",
         "temp_max_c": "26.5",
+        "noise": "moderate",
+        "noise_score": 46.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1029
@@ -105708,6 +106627,8 @@
         "motorbike_minutes_to_laureles": "30.5",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "quiet",
+        "noise_score": 39.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 418
@@ -105835,6 +106756,8 @@
         "motorbike_minutes_to_laureles": "28.6",
         "temp_min_c": "13.7",
         "temp_max_c": "26.7",
+        "noise": "quiet",
+        "noise_score": 39.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 465
@@ -106010,6 +106933,8 @@
         "motorbike_minutes_to_laureles": "35.3",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 267
@@ -106149,6 +107074,8 @@
         "motorbike_minutes_to_laureles": "34.4",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 453
@@ -106364,6 +107291,8 @@
         "motorbike_minutes_to_laureles": "28.1",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "quiet",
+        "noise_score": 34.4,
         "restaurants_per_km2": 6.63,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 271
@@ -106455,6 +107384,8 @@
         "motorbike_minutes_to_laureles": "42.0",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "loud",
+        "noise_score": 51.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1803
@@ -106618,6 +107549,8 @@
         "motorbike_minutes_to_laureles": "28.9",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "moderate",
+        "noise_score": 43.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 242
@@ -106777,6 +107710,8 @@
         "motorbike_minutes_to_laureles": "32.8",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "very loud",
+        "noise_score": 54.7,
         "restaurants_per_km2": 12.04,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 848
@@ -106860,6 +107795,8 @@
         "motorbike_minutes_to_laureles": "29.1",
         "temp_min_c": "14.5",
         "temp_max_c": "27.5",
+        "noise": "loud",
+        "noise_score": 51.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 451
@@ -107023,6 +107960,8 @@
         "motorbike_minutes_to_laureles": "37.5",
         "temp_min_c": "13.4",
         "temp_max_c": "26.4",
+        "noise": "moderate",
+        "noise_score": 47.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1003
@@ -107098,6 +108037,8 @@
         "motorbike_minutes_to_laureles": "29.6",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "quiet",
+        "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 207
@@ -107369,6 +108310,8 @@
         "motorbike_minutes_to_laureles": "31.3",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "moderate",
+        "noise_score": 45.5,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 713
@@ -107508,6 +108451,8 @@
         "motorbike_minutes_to_laureles": "39.6",
         "temp_min_c": "13.6",
         "temp_max_c": "26.6",
+        "noise": "loud",
+        "noise_score": 52.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2130
@@ -107607,6 +108552,8 @@
         "motorbike_minutes_to_laureles": "29.0",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "very loud",
+        "noise_score": 53.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 708
@@ -107731,6 +108678,8 @@
         "motorbike_minutes_to_laureles": "28.1",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "loud",
+        "noise_score": 52.5,
         "restaurants_per_km2": 4.48,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 455
@@ -107922,6 +108871,8 @@
         "motorbike_minutes_to_laureles": "27.3",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 50.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 165
@@ -108129,6 +109080,8 @@
         "motorbike_minutes_to_laureles": "27.7",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "quiet",
+        "noise_score": 30.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 307
@@ -108204,6 +109157,8 @@
         "motorbike_minutes_to_laureles": "29.7",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "moderate",
+        "noise_score": 44.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 558
@@ -108287,6 +109242,8 @@
         "motorbike_minutes_to_laureles": "38.9",
         "temp_min_c": "13.8",
         "temp_max_c": "26.8",
+        "noise": "loud",
+        "noise_score": 49.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 2178
@@ -108386,6 +109343,8 @@
         "motorbike_minutes_to_laureles": "30.0",
         "temp_min_c": "12.6",
         "temp_max_c": "25.6",
+        "noise": "quiet",
+        "noise_score": 36.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1651
@@ -108477,6 +109436,8 @@
         "motorbike_minutes_to_laureles": "29.1",
         "temp_min_c": "13.2",
         "temp_max_c": "26.2",
+        "noise": "quiet",
+        "noise_score": 37.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 957
@@ -108556,6 +109517,8 @@
         "motorbike_minutes_to_laureles": "39.7",
         "temp_min_c": "13.4",
         "temp_max_c": "26.4",
+        "noise": "moderate",
+        "noise_score": 48.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1696
@@ -108607,6 +109570,8 @@
         "motorbike_minutes_to_laureles": "29.7",
         "temp_min_c": "14.3",
         "temp_max_c": "27.3",
+        "noise": "quiet",
+        "noise_score": 31.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 479
@@ -108706,6 +109671,8 @@
         "motorbike_minutes_to_laureles": "36.1",
         "temp_min_c": "14.2",
         "temp_max_c": "27.2",
+        "noise": "very loud",
+        "noise_score": 53.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 390
@@ -108865,6 +109832,8 @@
         "motorbike_minutes_to_laureles": "36.9",
         "temp_min_c": "14.1",
         "temp_max_c": "27.1",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 1133
@@ -108981,6 +109950,8 @@
         "motorbike_minutes_to_laureles": "29.2",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 650
@@ -109040,6 +110011,8 @@
         "motorbike_minutes_to_laureles": "27.3",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 101
@@ -109247,6 +110220,8 @@
         "motorbike_minutes_to_laureles": "29.9",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 45.4,
         "restaurants_per_km2": 1.87,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 483
@@ -109402,6 +110377,8 @@
         "motorbike_minutes_to_laureles": "29.2",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 50.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 260
@@ -109469,6 +110446,8 @@
         "motorbike_minutes_to_laureles": "29.1",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 52.7,
         "restaurants_per_km2": 19.73,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 308
@@ -109544,6 +110523,8 @@
         "motorbike_minutes_to_laureles": "27.7",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 54.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 192
@@ -109741,6 +110722,8 @@
         "motorbike_minutes_to_laureles": "29.8",
         "temp_min_c": "14.4",
         "temp_max_c": "27.4",
+        "noise": "loud",
+        "noise_score": 48.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 585
@@ -109820,6 +110803,8 @@
         "motorbike_minutes_to_laureles": "27.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 51.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 477
@@ -109891,6 +110876,8 @@
         "motorbike_minutes_to_laureles": "28.3",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 54.3,
         "restaurants_per_km2": 8.19,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 187
@@ -109946,6 +110933,8 @@
         "motorbike_minutes_to_laureles": "28.9",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 52.9,
         "restaurants_per_km2": 21.52,
         "supermarket_brands_1km": 2,
         "supermarket_nearest_m": 322
@@ -110049,6 +111038,8 @@
         "motorbike_minutes_to_laureles": "28.7",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "loud",
+        "noise_score": 52.6,
         "restaurants_per_km2": 10.07,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 227
@@ -110316,6 +111307,8 @@
         "motorbike_minutes_to_laureles": "27.6",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 52.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 209
@@ -110411,6 +111404,8 @@
         "motorbike_minutes_to_laureles": "30.7",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 45.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 349
@@ -110466,6 +111461,8 @@
         "motorbike_minutes_to_laureles": "25.3",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.9,
         "restaurants_per_km2": 14.69,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 269
@@ -110643,6 +111640,8 @@
         "motorbike_minutes_to_laureles": "28.4",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "loud",
+        "noise_score": 52.6,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 294
@@ -110718,6 +111717,8 @@
         "motorbike_minutes_to_laureles": "26.4",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "very loud",
+        "noise_score": 54.0,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 116
@@ -110769,6 +111770,8 @@
         "motorbike_minutes_to_laureles": "26.7",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 161
@@ -110912,6 +111915,8 @@
         "motorbike_minutes_to_laureles": "27.0",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 49.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 265
@@ -110971,6 +111976,8 @@
         "motorbike_minutes_to_laureles": "29.7",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 49.7,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 297
@@ -111034,6 +112041,8 @@
         "motorbike_minutes_to_laureles": "27.8",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 48.8,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 125
@@ -111101,6 +112110,8 @@
         "motorbike_minutes_to_laureles": "27.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "very loud",
+        "noise_score": 53.1,
         "restaurants_per_km2": 6.14,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 388
@@ -111232,6 +112243,8 @@
         "motorbike_minutes_to_laureles": "30.2",
         "temp_min_c": "14.8",
         "temp_max_c": "27.8",
+        "noise": "moderate",
+        "noise_score": 45.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 521
@@ -111303,6 +112316,8 @@
         "motorbike_minutes_to_laureles": "26.2",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 45.5,
         "restaurants_per_km2": 6.36,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 374
@@ -111366,6 +112381,8 @@
         "motorbike_minutes_to_laureles": "27.2",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 52.0,
         "restaurants_per_km2": 130.73,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 119
@@ -111445,6 +112462,8 @@
         "motorbike_minutes_to_laureles": "29.7",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 50.9,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 386
@@ -111516,6 +112535,8 @@
         "motorbike_minutes_to_laureles": "28.5",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "moderate",
+        "noise_score": 48.7,
         "restaurants_per_km2": 79.06,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 220
@@ -111603,6 +112624,8 @@
         "motorbike_minutes_to_laureles": "25.2",
         "temp_min_c": "15.1",
         "temp_max_c": "28.1",
+        "noise": "moderate",
+        "noise_score": 48.1,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 400
@@ -111698,6 +112721,8 @@
         "motorbike_minutes_to_laureles": "27.9",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 51.4,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 214
@@ -112005,6 +113030,8 @@
         "motorbike_minutes_to_laureles": "31.3",
         "temp_min_c": "14.6",
         "temp_max_c": "27.6",
+        "noise": "quiet",
+        "noise_score": 41.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 774
@@ -112128,6 +113155,8 @@
         "motorbike_minutes_to_laureles": "31.1",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 45.3,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 551
@@ -112345,6 +113374,8 @@
         "motorbike_minutes_to_laureles": "30.5",
         "temp_min_c": "14.7",
         "temp_max_c": "27.7",
+        "noise": "moderate",
+        "noise_score": 46.5,
         "restaurants_per_km2": 4.27,
         "supermarket_brands_1km": 0,
         "supermarket_nearest_m": 303
@@ -112424,6 +113455,8 @@
         "motorbike_minutes_to_laureles": "26.7",
         "temp_min_c": "14.9",
         "temp_max_c": "27.9",
+        "noise": "loud",
+        "noise_score": 51.2,
         "restaurants_per_km2": 0.0,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 92
@@ -112491,6 +113524,8 @@
         "motorbike_minutes_to_laureles": "26.0",
         "temp_min_c": "15.0",
         "temp_max_c": "28.0",
+        "noise": "loud",
+        "noise_score": 52.2,
         "restaurants_per_km2": 38.12,
         "supermarket_brands_1km": 1,
         "supermarket_nearest_m": 98

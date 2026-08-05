@@ -1,0 +1,4109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-05T18:34:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 9409734335,
+      "lat": 6.090933,
+      "lon": -75.6383684,
+      "tags": {
+        "amenity": "bar",
+        "contact:instagram": "fonda_lamuleraoficial",
+        "name": "Fonda La Mulera",
+        "phone": "+57 604 4769058"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12200291847,
+      "lat": 6.090218,
+      "lon": -75.6393646,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "130 Sur-5",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 55",
+        "amenity": "bar",
+        "contact:facebook": "FondaKaiser",
+        "name": "Fonda Kaiser",
+        "opening_hours": "Tu-Su,PH 03:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13757840155,
+      "lat": 6.0862449,
+      "lon": -75.6356877,
+      "tags": {
+        "amenity": "bar",
+        "noname": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13846851808,
+      "lat": 6.0913538,
+      "lon": -75.6359223,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-73",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 130 Sur",
+        "amenity": "bar",
+        "name": "Heladería La Gloría"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13846851818,
+      "lat": 6.0913834,
+      "lon": -75.6354078,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-15",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 130 Sur",
+        "amenity": "bar",
+        "name": "Bar Ganadero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13846851821,
+      "lat": 6.091388,
+      "lon": -75.6353275,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-5",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 130 Sur",
+        "amenity": "bar",
+        "name": "Salón Evocación"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13846851823,
+      "lat": 6.0913895,
+      "lon": -75.6353006,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-3",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 130 Sur",
+        "amenity": "bar",
+        "name": "Bar Minerva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927828965,
+      "lat": 6.0913284,
+      "lon": -75.6384808,
+      "tags": {
+        "amenity": "bar",
+        "noname": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13930318181,
+      "lat": 6.089596,
+      "lon": -75.636934,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:postcode": "055440",
+        "amenity": "bar",
+        "contact:facebook": "garagedrinks.bar",
+        "contact:instagram": "garagedrinks.bar",
+        "name": "Garage"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13937521217,
+      "lat": 6.0911256,
+      "lon": -75.6381989,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 53",
+        "amenity": "bar",
+        "name": "Candilejas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13937521222,
+      "lat": 6.0910708,
+      "lon": -75.6384445,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "53-25",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 130 Sur",
+        "amenity": "bar",
+        "name": "Heladería La Maroga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13937825679,
+      "lat": 6.0903038,
+      "lon": -75.6368631,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "131 Sur-35",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 51",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61553515716986",
+        "contact:instagram": "alkymiapub",
+        "mobile": "+57 319 7087570",
+        "name": "Alkymia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13939145497,
+      "lat": 6.0911008,
+      "lon": -75.6380387,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "130 Sur-28",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 53",
+        "amenity": "bar",
+        "name": "La Cantina del Despecho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13939145498,
+      "lat": 6.0910662,
+      "lon": -75.6380175,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "130 Sur-30",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 53",
+        "amenity": "bar",
+        "name": "Las Monas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13949009529,
+      "lat": 6.0900207,
+      "lon": -75.6359125,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "131 Sur-58",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 50",
+        "amenity": "bar",
+        "contact:instagram": "berlin50.bar",
+        "name": "Berlín La 50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4820694621,
+      "lat": 6.0890323,
+      "lon": -75.6345518,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "48-16",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 133 Sur",
+        "amenity": "bar",
+        "name": "Varsovia Bar",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13747297076,
+      "lat": 6.0892625,
+      "lon": -75.6343445,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "132A Sur-16",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 48",
+        "alt_name": "Salón Mixto El Tío Sam",
+        "amenity": "bar",
+        "name": "El Tío Sam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13751693101,
+      "lat": 6.0913661,
+      "lon": -75.6343881,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Caponera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13751693102,
+      "lat": 6.0914476,
+      "lon": -75.634374,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Esquinita de Ale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13754157921,
+      "lat": 6.0882672,
+      "lon": -75.633514,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "46-8",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 134 Sur",
+        "amenity": "bar",
+        "name": "Micheladas París"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13760161927,
+      "lat": 6.0890335,
+      "lon": -75.6344604,
+      "tags": {
+        "amenity": "bar",
+        "noname": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13847155794,
+      "lat": 6.086163,
+      "lon": -75.6342545,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "48-3",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 136 Sur",
+        "amenity": "bar",
+        "contact:facebook": "Bar-El-Pescadito-100063963944936",
+        "mobile": "+57 324 3385370",
+        "name": "Bar El Pescaito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13805357349,
+      "lat": 6.092248,
+      "lon": -75.6368317,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 129 Sur",
+        "amenity": "bar",
+        "name": "Bar El Coquito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13846851825,
+      "lat": 6.0921645,
+      "lon": -75.6352382,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "129 Sur-10",
+        "addr:postcode": "055440",
+        "addr:street": "Carrera 49",
+        "amenity": "bar",
+        "name": "Café Bar La Polita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13927828966,
+      "lat": 6.0916558,
+      "lon": -75.6389138,
+      "tags": {
+        "amenity": "bar",
+        "noname": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13751693103,
+      "lat": 6.0930726,
+      "lon": -75.6332137,
+      "tags": {
+        "amenity": "bar",
+        "name": "Puente Botero JK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13978438664,
+      "lat": 6.1488938,
+      "lon": -75.6174606,
+      "tags": {
+        "addr:city": "Sabaneta, Antioquia",
+        "addr:postcode": "055450",
+        "addr:street": "Calle 75 Sur #43 A-202",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "check_date": "2026-05-20",
+        "check_date:currency:XBT": "2026-06-03",
+        "contact:instagram": "https://www.instagram.com/cafezendaya/",
+        "cuisine": "coffee_shop",
+        "currency:XBT": "yes",
+        "email": "Aldanmar_07@hotmail.com",
+        "name": "Yazen Retro House",
+        "opening_hours": "Mo-Su 15:00-21:30",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2026-06-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5299660782,
+      "lat": 6.1848116,
+      "lon": -75.6560376,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4607222701,
+      "lat": 6.1576604,
+      "lon": -75.6430448,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Portal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10062780930,
+      "lat": 6.1716533,
+      "lon": -75.6411918,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6837462585,
+      "lat": 6.1727133,
+      "lon": -75.6329184,
+      "tags": {
+        "amenity": "bar",
+        "name": "Casa Triade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194386826,
+      "lat": 6.1587511,
+      "lon": -75.6133298,
+      "tags": {
+        "amenity": "pub",
+        "contact:website": "https://apostol.com.co/",
+        "microbrewery": "yes",
+        "name": "Cerveza Apostol",
+        "opening_hours": "\"by appointment\""
+      }
+    },
+    {
+      "type": "node",
+      "id": 7234364269,
+      "lat": 6.1583181,
+      "lon": -75.6084134,
+      "tags": {
+        "addr:city": "Sabaneta Antioquia",
+        "addr:housenumber": "55 - 214",
+        "addr:street": "Carrera 48",
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4537149490,
+      "lat": 6.1673261,
+      "lon": -75.6228595,
+      "tags": {
+        "addr:housenumber": "#34a",
+        "addr:street": "Carrera 53",
+        "amenity": "pub",
+        "name": "Iglesia de pastores Itagüí",
+        "name:es": "Iglesia de pastores Itagüí"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1481731929,
+      "lat": 6.1720868,
+      "lon": -75.6107186,
+      "tags": {
+        "amenity": "bar",
+        "name": "Chapinos"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797640317,
+      "lat": 6.1723666,
+      "lon": -75.6117734,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Sucursal, Café-Bar",
+        "outdoor_seating": "yes",
+        "survey:date": "2022-06-05"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4547130731,
+      "lat": 6.1866189,
+      "lon": -75.6406431,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658574442,
+      "lat": 6.170088,
+      "lon": -75.5886806,
+      "tags": {
+        "amenity": "bar",
+        "name": "Melodía para dos",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658574455,
+      "lat": 6.168576,
+      "lon": -75.5885784,
+      "tags": {
+        "amenity": "bar",
+        "name": "Yesterday"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658574456,
+      "lat": 6.1649386,
+      "lon": -75.5850381,
+      "tags": {
+        "amenity": "bar",
+        "name": "Safari",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1673539449,
+      "lat": 6.1690627,
+      "lon": -75.5878131,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1693826712,
+      "lat": 6.1696933,
+      "lon": -75.587769,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5332986032,
+      "lat": 6.1696205,
+      "lon": -75.5872364,
+      "tags": {
+        "amenity": "bar",
+        "name": "Las Nubes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4173802402,
+      "lat": 6.1728031,
+      "lon": -75.5840081,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4285034591,
+      "lat": 6.173806,
+      "lon": -75.5847409,
+      "tags": {
+        "addr:housenumber": "33-42",
+        "addr:street": "Transversal 33Sur",
+        "amenity": "pub",
+        "name": "Grafideas",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-11:00, 13:00-14:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6463356785,
+      "lat": 6.1880731,
+      "lon": -75.6006739,
+      "tags": {
+        "addr:housenumber": "72A-115",
+        "addr:street": "Carrera 56",
+        "amenity": "nightclub",
+        "name": "MUTE Medellín",
+        "opening_hours": "Th-Sa 22:00-06:00",
+        "phone": "+57 4 2661364",
+        "website": "https://www.mutemedellin.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6317375885,
+      "lat": 6.1911781,
+      "lon": -75.5834997,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Palmahia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8176518519,
+      "lat": 6.1949802,
+      "lon": -75.5756335,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "9 Sur 98",
+        "addr:postcode": "050022",
+        "addr:street": "Carrera 43A",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "check_date": "2023-10-16",
+        "internet_access": "wlan",
+        "lgbtq": "welcome",
+        "microbrewery": "yes",
+        "min_age": "18",
+        "name": "BBC Cervecería",
+        "opening_hours": "Tu-We 15:00-23:00; Th-Su 16:00-24:00; Mo off",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "smoking": "outside",
+        "website": "https://bbccerveceria.com",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4492795905,
+      "lat": 6.1987011,
+      "lon": -75.5729906,
+      "tags": {
+        "amenity": "bar",
+        "name": "Candelaria Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8176512936,
+      "lat": 6.201766,
+      "lon": -75.5718317,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "1 Sur 150",
+        "addr:postcode": "050021",
+        "addr:street": "Carrera 43A",
+        "air_conditioning": "yes",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "internet_access": "wlan",
+        "lgbtq": "welcome",
+        "microbrewery": "yes",
+        "min_age": "18",
+        "name": "BBC Cervecería",
+        "opening_hours": "Tu-We 16:00-23:00; Th-Su 16:00-24:00; Mo off",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "smoking": "outside",
+        "website": "https://bbccerveceria.com",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13057350102,
+      "lat": 6.2081525,
+      "lon": -75.6078066,
+      "tags": {
+        "amenity": "bar",
+        "name": "Mirador de Yeyo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3412034352,
+      "lat": 6.2539467,
+      "lon": -75.6299927,
+      "tags": {
+        "amenity": "nightclub",
+        "internet_access": "no",
+        "name": "Casino Julián",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12330923201,
+      "lat": 6.2487138,
+      "lon": -75.6208193,
+      "tags": {
+        "addr:housenumber": "#108a-32",
+        "addr:street": "Calle 35D",
+        "amenity": "bar",
+        "name": "Ancestral Bar Cultural",
+        "name:es": "Ancestral Bar Cultural",
+        "opening_hours": "Mo-Su 11:30-19:00",
+        "phone": "+57 313 5789892"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13198517429,
+      "lat": 6.2487714,
+      "lon": -75.6217985,
+      "tags": {
+        "addr:city": "Comuna 13 - San Javier",
+        "addr:postcode": "050033",
+        "addr:street": "Carrera 110 # 35F  - 15",
+        "amenity": "bar",
+        "check_date": "2025-10-05",
+        "check_date:currency:XBT": "2026-05-01",
+        "currency:XBT": "yes",
+        "name": "Urban Cocktails",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2025-10-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949984122,
+      "lat": 6.2520077,
+      "lon": -75.6220638,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949215122,
+      "lat": 6.2505682,
+      "lon": -75.6217661,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13073416001,
+      "lat": 6.2511205,
+      "lon": -75.620905,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "El Faro C13",
+        "opening_hours": "Fr-Su 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13189651733,
+      "lat": 6.2494058,
+      "lon": -75.621547,
+      "tags": {
+        "addr:city": "Comuna 13 - San Javier",
+        "addr:housenumber": "36 - 49",
+        "addr:postcode": "050033",
+        "addr:street": "Carrera 109",
+        "amenity": "bar",
+        "check_date": "2025-10-03",
+        "check_date:currency:XBT": "2025-10-03",
+        "currency:XBT": "yes",
+        "name": "Drinks Zona 13",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2025-10-02",
+        "website": "https://www.instagram.com/drinkszona13?igsh=M2Ywa2ppZHRiZjAy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1714808778,
+      "lat": 6.2789633,
+      "lon": -75.6351487,
+      "tags": {
+        "amenity": "bar",
+        "name": "Santo Pecado Bar",
+        "opening_hours": "Th-Su 18:00-02:00",
+        "smoking": "isolated",
+        "website": "https://www.facebook.com/groups/166649740063445/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1714808770,
+      "lat": 6.2789461,
+      "lon": -75.6350364,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Baranova Discoteka",
+        "opening_hours": "Th-Su 18:00-02:00",
+        "smoking": "yes",
+        "website": "https://www.facebook.com/profile.php?id=100000442339176",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1714808775,
+      "lat": 6.2789961,
+      "lon": -75.6350594,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Discoteca Camelot",
+        "opening_hours": "Th-Su 18:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4737170021,
+      "lat": 6.2786471,
+      "lon": -75.6337745,
+      "tags": {
+        "addr:street": "Calle 63",
+        "amenity": "nightclub",
+        "check_date:opening_hours": "2024-07-26",
+        "internet_access": "wlan",
+        "name": "Donde Robin",
+        "name:en": "Donde Robin",
+        "name:es": "Donde Robin",
+        "opening_hours": "Mo-Su 08:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12073968798,
+      "lat": 6.2797126,
+      "lon": -75.632415,
+      "tags": {
+        "amenity": "bar",
+        "name": "Donde Bladi",
+        "opening_hours": "Mo-Su 10:00-14:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11191071020,
+      "lat": 6.2557892,
+      "lon": -75.6167926,
+      "tags": {
+        "amenity": "bar",
+        "name": "El encuentro Bar la 42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11682836957,
+      "lat": 6.2580976,
+      "lon": -75.6032932,
+      "tags": {
+        "amenity": "bar",
+        "name": "Santa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13912925622,
+      "lat": 6.2672064,
+      "lon": -75.612848,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2654225610,
+      "lat": 6.2822751,
+      "lon": -75.6444695,
+      "tags": {
+        "addr:city": "medellin",
+        "addr:housename": "la perdicion",
+        "addr:housenumber": "65",
+        "addr:street": "Palenque",
+        "amenity": "bar",
+        "fixme:adr": "Formato dirección es incorrecto",
+        "name": "Bar Casa de Luis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12073897250,
+      "lat": 6.2896363,
+      "lon": -75.6133435,
+      "tags": {
+        "amenity": "bar",
+        "name": "Restaurante Bar Toñín",
+        "opening_hours": "Fr-Su 04:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3731456040,
+      "lat": 6.2092383,
+      "lon": -75.5986118,
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Discoteca Yambao",
+        "note": "Transfering tags from building area to a node as the bldg outline doesn't seem to exist (not visible in Bing)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4407449392,
+      "lat": 6.215055,
+      "lon": -75.5822719,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cuchitril Club",
+        "name:es": "Cucharil Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839129536,
+      "lat": 6.2249334,
+      "lon": -75.5823898,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "chicken",
+        "name": "Patio del Tango"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11889688406,
+      "lat": 6.209343,
+      "lon": -75.5701167,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "8-61",
+        "addr:street": "Carrera 42",
+        "amenity": "bar",
+        "name": "Mero Bar",
+        "opening_hours": "Tu-Th 18:00-00:00; Fr-Sa 18:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465162169,
+      "lat": 6.2075615,
+      "lon": -75.5679974,
+      "tags": {
+        "amenity": "bar",
+        "name": "Triada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465162492,
+      "lat": 6.2076127,
+      "lon": -75.5679803,
+      "tags": {
+        "amenity": "bar",
+        "name": "Discoteca Oz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465164256,
+      "lat": 6.2084831,
+      "lon": -75.5677829,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barcelona Restaurante Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465164659,
+      "lat": 6.2088671,
+      "lon": -75.5671048,
+      "tags": {
+        "amenity": "bar",
+        "name": "Thaico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465165011,
+      "lat": 6.2091643,
+      "lon": -75.5687571,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tropical Cocktails"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4037711102,
+      "lat": 6.2076041,
+      "lon": -75.5669496,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "pancake;breakfast;cake;coffee_shop",
+        "name": "Park",
+        "name:en": "37 Park",
+        "opening_hours": "Mo-Su,PH 09:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326979814,
+      "lat": 6.2078433,
+      "lon": -75.568482,
+      "tags": {
+        "addr:city": "Medellin",
+        "amenity": "bar",
+        "name": "Contraporton"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326979815,
+      "lat": 6.207934,
+      "lon": -75.5684338,
+      "tags": {
+        "addr:city": "Medellin",
+        "amenity": "bar",
+        "name": "Oye Bonita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326979817,
+      "lat": 6.2080113,
+      "lon": -75.5683184,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:street": "Carrera 39",
+        "amenity": "bar",
+        "name": "Calle Ocho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402567493,
+      "lat": 6.2082311,
+      "lon": -75.5682216,
+      "tags": {
+        "addr:housenumber": "8-34",
+        "addr:street": "Carrera 39",
+        "amenity": "bar",
+        "name": "La 39 del Lleras",
+        "name:es": "La 39 del Lleras"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408142691,
+      "lat": 6.2094855,
+      "lon": -75.5657228,
+      "tags": {
+        "amenity": "bar",
+        "name": "B-Lounge",
+        "name:es": "B-Lounge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4559374390,
+      "lat": 6.2077103,
+      "lon": -75.565941,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "15 Minutos de fame",
+        "name:en": "15 Minutes of fame",
+        "name:es": "15 Minutos de fame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4591161689,
+      "lat": 6.207043,
+      "lon": -75.5657457,
+      "tags": {
+        "addr:street": "Carrera 35",
+        "amenity": "bar",
+        "cuisine": "sausage;pizza",
+        "internet_access": "wlan",
+        "name": "Brew House",
+        "opening_hours": "Mo-Su 16:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4698395292,
+      "lat": 6.2082153,
+      "lon": -75.5678856,
+      "tags": {
+        "addr:housenumber": "8-83",
+        "addr:street": "Carrera 38",
+        "amenity": "bar",
+        "cuisine": "local",
+        "email": "info@skybarmedellin.com",
+        "name": "SkyBar Medellín",
+        "phone": "+57 4 2664449",
+        "website": "https://www.skybarmedellin.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4949992921,
+      "lat": 6.2088379,
+      "lon": -75.5670252,
+      "tags": {
+        "addr:housenumber": "37-16",
+        "addr:street": "Calle 9 A",
+        "amenity": "bar",
+        "name:en": "Envy rooftop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844632,
+      "lat": 6.209546,
+      "lon": -75.5677923,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Midnight"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971224524,
+      "lat": 6.2090907,
+      "lon": -75.5666949,
+      "tags": {
+        "addr:housenumber": "8A-33",
+        "addr:street": "Carrera 37",
+        "amenity": "bar",
+        "name": "Buena Vista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4971224821,
+      "lat": 6.2079585,
+      "lon": -75.5658096,
+      "tags": {
+        "addr:housenumber": "8A-08",
+        "addr:street": "Carrera 35",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "El Social",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5027598222,
+      "lat": 6.2091721,
+      "lon": -75.5678122,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "american;barbecue",
+        "internet_access": "wlan",
+        "name": "Medellín Beer Factory",
+        "name:en": "Medellin Beer Factory"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5049244121,
+      "lat": 6.2074409,
+      "lon": -75.5680378,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Octava",
+        "name:es": "la octava"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5111886221,
+      "lat": 6.206714,
+      "lon": -75.5662142,
+      "tags": {
+        "amenity": "bar",
+        "name": "Junin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219901785,
+      "lat": 6.209375,
+      "lon": -75.5674199,
+      "tags": {
+        "addr:housenumber": "9A-26",
+        "addr:street": "Carrera 38",
+        "amenity": "bar",
+        "name:en": "Donde Aquellos Bar",
+        "opening_hours": "Mo-Su 17:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6272396495,
+      "lat": 6.2081097,
+      "lon": -75.5673982,
+      "tags": {
+        "amenity": "bar",
+        "name": "chupito"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7052227585,
+      "lat": 6.2092671,
+      "lon": -75.5657882,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "40-30",
+        "addr:postcode": "050003",
+        "addr:street": "Calle 10",
+        "amenity": "nightclub",
+        "contact:instagram": "salonamador",
+        "email": "info@salonamador.com",
+        "facebook": "salonamador",
+        "name": "Salon Amador",
+        "phone": "+57 312 2342676"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7054739786,
+      "lat": 6.2078048,
+      "lon": -75.5659376,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vintrash"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7431629639,
+      "lat": 6.2083501,
+      "lon": -75.567286,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Central Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8463999717,
+      "lat": 6.2087679,
+      "lon": -75.5681974,
+      "tags": {
+        "amenity": "bar",
+        "name": "Beer Store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9847653417,
+      "lat": 6.2080889,
+      "lon": -75.568281,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Donde Chepe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10595377905,
+      "lat": 6.2071974,
+      "lon": -75.565457,
+      "tags": {
+        "addr:street": "Calle 8",
+        "amenity": "bar",
+        "name": "Panorama Rooftop Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12376072201,
+      "lat": 6.2070949,
+      "lon": -75.5658232,
+      "tags": {
+        "addr:housenumber": "7-89",
+        "addr:street": "Carrera 35",
+        "amenity": "bar",
+        "name": "Falkor",
+        "opening_hours": "Su-We 18:00-02:00; Th-Sa 18:00-04:00",
+        "phone": "+57 305 4884865"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12376081101,
+      "lat": 6.207975,
+      "lon": -75.5660097,
+      "tags": {
+        "addr:housenumber": "8A-45",
+        "addr:street": "Carrera 35",
+        "amenity": "bar",
+        "name": "Flamante",
+        "opening_hours": "Su-Tu 12:00-22:00; We 16:00-03:00; Th-Sa 12:00-02:00",
+        "website": "https://flamante.cluvi.co/inactive-instance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13502932202,
+      "lat": 6.2076208,
+      "lon": -75.566127,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Social Tienda Mixta desde 1969"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14015527122,
+      "lat": 6.207017,
+      "lon": -75.5656268,
+      "tags": {
+        "addr:city": "POBLADO/MEDELLIN",
+        "addr:postcode": "050021",
+        "addr:street": "Carrera 35 # 7-94",
+        "amenity": "bar",
+        "check_date": "2026-05-20",
+        "check_date:currency:XBT": "2026-06-03",
+        "contact:instagram": "https://www.instagram.com/hilstreetfood?igsh=bGpkMXlncmVsZHRm",
+        "currency:XBT": "yes",
+        "email": "Hiltonmontero81@gmail.com",
+        "name": "Hil Street food",
+        "opening_hours": "Mo-Sa 14:00-02:00",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2026-06-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4319045591,
+      "lat": 6.2100177,
+      "lon": -75.5713874,
+      "tags": {
+        "addr:street": "Calle 9",
+        "amenity": "bar",
+        "name": "La Latinería",
+        "opening_hours": "Th-Sa 19:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4319090890,
+      "lat": 6.2102126,
+      "lon": -75.5704153,
+      "tags": {
+        "addr:street": "Carrera 43A",
+        "amenity": "bar",
+        "name": "Donde Chepe",
+        "opening_hours": "Th-Sa 19:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844642,
+      "lat": 6.2110117,
+      "lon": -75.5713349,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951845523,
+      "lat": 6.2108969,
+      "lon": -75.5710805,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6483156185,
+      "lat": 6.2117897,
+      "lon": -75.5724388,
+      "tags": {
+        "addr:housenumber": "10-77",
+        "addr:street": "Carrera 43D",
+        "amenity": "bar",
+        "email": "elarranquemedellin@gmail.com",
+        "internet_access": "wlan",
+        "name": "El Arranque Café Bar",
+        "name:en": "El Arranque Coffee Bar",
+        "website": "https://instagram.com/elarranquecafebar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6736506595,
+      "lat": 6.2133719,
+      "lon": -75.5727521,
+      "tags": {
+        "addr:postcode": "0500",
+        "addr:street": "Calle 11A",
+        "amenity": "pub",
+        "contact:instagram": "ohlalamanila",
+        "cuisine": "french",
+        "name": "Oh la la Café Bistro Francés"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8405616319,
+      "lat": 6.2103342,
+      "lon": -75.5717382,
+      "tags": {
+        "amenity": "bar",
+        "name": "Barrica"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11204141337,
+      "lat": 6.2117436,
+      "lon": -75.5717026,
+      "tags": {
+        "amenity": "bar",
+        "name": "Small bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11257605637,
+      "lat": 6.2103064,
+      "lon": -75.5718434,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Hakuna Beer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11536115669,
+      "lat": 6.2110626,
+      "lon": -75.5718385,
+      "tags": {
+        "addr:street": "Calle 10",
+        "amenity": "nightclub",
+        "contact:instagram": "freshdiscoretro",
+        "live_music": "yes",
+        "name": "Fresh Disco Retro Movement",
+        "opening_hours": "Th-Su 00:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12288407207,
+      "lat": 6.2136436,
+      "lon": -75.5727832,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:street": "Carrera 43E",
+        "amenity": "pub",
+        "brewery": "various;craft",
+        "name": "Foxey Pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12376110501,
+      "lat": 6.210288,
+      "lon": -75.5717944,
+      "tags": {
+        "addr:housenumber": "43B-36",
+        "addr:street": "Calle 9",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Bar ERRE de Rebelión",
+        "opening_hours": "Tu-Sa 17:00-04:00; Su 17:00-00:00",
+        "phone": "+57 324 2672585",
+        "website": "https://www.instagram.com/erre.medellin/",
+        "website:menu": "https://qrco.de/bbkJJe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12508886584,
+      "lat": 6.2137467,
+      "lon": -75.5756732,
+      "tags": {
+        "addr:housenumber": "10-70",
+        "addr:street": "Carrera 48",
+        "amenity": "nightclub",
+        "contact:instagram": "ramasoundgarden",
+        "name": "Rama Soundgarden",
+        "phone": "+57 315 3291926"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12550758901,
+      "lat": 6.2138147,
+      "lon": -75.5756895,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Rama Soundgarden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12815626567,
+      "lat": 6.2134184,
+      "lon": -75.5732992,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-04-17",
+        "name": "La Tienda De Manila"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1494631906,
+      "lat": 6.210696,
+      "lon": -75.567896,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "El blue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1494633686,
+      "lat": 6.210229,
+      "lon": -75.568,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Red"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2309010303,
+      "lat": 6.2096749,
+      "lon": -75.5674851,
+      "tags": {
+        "amenity": "bar",
+        "name": "Baren"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101221789,
+      "lat": 6.2105158,
+      "lon": -75.5681733,
+      "tags": {
+        "addr:street": "Calle 10 A",
+        "amenity": "nightclub",
+        "name": "Sampues",
+        "opening_hours": "Fr-Sa 21:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844724,
+      "lat": 6.2102368,
+      "lon": -75.5674317,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bendito seas",
+        "name:es": "Bendito seas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5006707521,
+      "lat": 6.2100592,
+      "lon": -75.5679102,
+      "tags": {
+        "addr:housenumber": "40-10",
+        "addr:street": "Carrera 40",
+        "amenity": "bar",
+        "name": "Deep Medellín"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5032472825,
+      "lat": 6.2106043,
+      "lon": -75.5657189,
+      "tags": {
+        "addr:housenumber": "36-30",
+        "addr:street": "Calle 10B",
+        "amenity": "bar",
+        "name": "El Cervezario",
+        "name:en": "El Cerversario",
+        "opening_hours": "Tu-Th 17:00-00:00; Fr-Sa 15:00-00:00",
+        "phone": "+5743110118"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5745089823,
+      "lat": 6.2096282,
+      "lon": -75.5688658,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Babylon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5854916287,
+      "lat": 6.2101093,
+      "lon": -75.5678414,
+      "tags": {
+        "addr:street": "carrera 40 # 10 - 47",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Cerveceria Maestre",
+        "name:en": "Maestre Brewery",
+        "opening_hours": "Tu-Sa 16:00-23:50",
+        "website": "https://www.cerveceriamaestre.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6164611785,
+      "lat": 6.2101317,
+      "lon": -75.5693181,
+      "tags": {
+        "addr:housenumber": "41-65",
+        "addr:postcode": "0500",
+        "addr:street": "Calle 10",
+        "amenity": "bar",
+        "name": "Berlin 1930"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219879788,
+      "lat": 6.2097126,
+      "lon": -75.5659827,
+      "tags": {
+        "addr:housenumber": "36-29",
+        "addr:street": "Calle 10A",
+        "amenity": "nightclub",
+        "name:en": "Purple! (Zero)",
+        "opening_hours": "Th-Sa 22:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9282068546,
+      "lat": 6.2104042,
+      "lon": -75.566358,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10294397439,
+      "lat": 6.2103055,
+      "lon": -75.565617,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Social",
+        "website": "https://el-social.cluvi.co/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10728494624,
+      "lat": 6.2107959,
+      "lon": -75.5652392,
+      "tags": {
+        "amenity": "bar",
+        "name": "Colombia Craft Brewing Company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11532702169,
+      "lat": 6.2098458,
+      "lon": -75.5681806,
+      "tags": {
+        "addr:housenumber": "40-20",
+        "addr:street": "Calle 10",
+        "amenity": "nightclub",
+        "name": "Blue Bar",
+        "phone": "+572042663047"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12508859502,
+      "lat": 6.2095634,
+      "lon": -75.5666401,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "10-37",
+        "addr:street": "Carrera 37",
+        "addr:suburb": "El Poblado",
+        "amenity": "nightclub",
+        "contact:instagram": "sonorama_",
+        "facebook": "sonoramaclub",
+        "name": "Sonorama",
+        "phone": "+57 305 3333903",
+        "website": "https://www.sonorama.com.co/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12862750201,
+      "lat": 6.2104771,
+      "lon": -75.5681507,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "DanceFreeCo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10609162405,
+      "lat": 6.2179584,
+      "lon": -75.566031,
+      "tags": {
+        "amenity": "pub",
+        "name": "La Chula"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13239403299,
+      "lat": 6.2224599,
+      "lon": -75.5649016,
+      "tags": {
+        "addr:city": "Comuna 14 - El Poblado",
+        "addr:postcode": "050020",
+        "addr:street": "Carrera 38 # 19-190 KM3",
+        "amenity": "bar",
+        "check_date": "2025-10-10",
+        "check_date:currency:XBT": "2025-09-01",
+        "currency:XBT": "yes",
+        "min_age": "18",
+        "mobile": "+573127353822",
+        "name": "Bora Bora",
+        "opening_hours": "Fr-Su 17:00-05:00",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2025-10-17",
+        "website": "https://www.instagram.com/boraboramedellin_/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408185293,
+      "lat": 6.2263192,
+      "lon": -75.5723014,
+      "tags": {
+        "amenity": "bar",
+        "name": "Kukaramakara",
+        "name:es": "Kukaramakara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5030736521,
+      "lat": 6.2267287,
+      "lon": -75.5732141,
+      "tags": {
+        "addr:street": "Carrera 44",
+        "amenity": "bar",
+        "check_date:currency:XBT": "2023-05-20",
+        "currency:XBT": "yes",
+        "internet_access": "wlan",
+        "name": "Cervecería Libre",
+        "opening_hours": "We-Th 17:00-00:00; Fr-Sa 17:00-02:00",
+        "website": "https://www.cervecerialibre.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5619794717,
+      "lat": 6.2255578,
+      "lon": -75.5724555,
+      "tags": {
+        "amenity": "bar",
+        "name": "Trilogia Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5619804473,
+      "lat": 6.2273343,
+      "lon": -75.5715484,
+      "tags": {
+        "amenity": "bar",
+        "name": "Amarna Discoteca",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7055836785,
+      "lat": 6.2269014,
+      "lon": -75.5729729,
+      "tags": {
+        "amenity": "bar",
+        "name": "La House of Demons"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9834994017,
+      "lat": 6.226611,
+      "lon": -75.5733434,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Club 1984"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12508886585,
+      "lat": 6.2264234,
+      "lon": -75.5728033,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "43G-29",
+        "addr:postcode": "050021",
+        "addr:street": "Calle 25",
+        "amenity": "nightclub",
+        "contact:instagram": "xeroclub_",
+        "name": "Xero Club",
+        "phone": "+57 315 4852155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6467185085,
+      "lat": 6.2230519,
+      "lon": -75.5653181,
+      "tags": {
+        "addr:housenumber": "19-255",
+        "addr:street": "Carrera 38",
+        "amenity": "nightclub",
+        "name": "Dulce Jesús Mío",
+        "name:en": "Sweet Jesus Mine",
+        "opening_hours": "We-Sa 20:00-04:00",
+        "phone": "+57 4 4446022",
+        "website": "https://www.fondadulcejesusmio.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7070313985,
+      "lat": 6.2219855,
+      "lon": -75.5606635,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Magía de Os"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7333476842,
+      "lat": 6.235176,
+      "lon": -75.6019728,
+      "tags": {
+        "addr:city": "Comuna 16 - Belén",
+        "addr:housenumber": "124",
+        "addr:street": "Carrera 81",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Valhala Rock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5061394222,
+      "lat": 6.2388762,
+      "lon": -75.6012493,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ping Pong Drinks",
+        "name:es": "Ping Pong Drinks",
+        "opening_hours": "Mo,Tu 16:30-24:00, We 16:30-01:00, Th-Su 16:30-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6219879787,
+      "lat": 6.2387801,
+      "lon": -75.5997086,
+      "tags": {
+        "addr:housenumber": "78-141",
+        "addr:street": "Calle 33",
+        "amenity": "bar",
+        "name:en": "Ink Bar",
+        "opening_hours": "Mo-Su 17:00-04:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13110707067,
+      "lat": 6.240354,
+      "lon": -75.5966752,
+      "tags": {
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "London Pub Irlandés",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951843738,
+      "lat": 6.2405283,
+      "lon": -75.5913435,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9231257017,
+      "lat": 6.2391078,
+      "lon": -75.5956159,
+      "tags": {
+        "amenity": "bar",
+        "name": "Sweat dreams",
+        "name:es": "Sweat dreams sw"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10760305654,
+      "lat": 6.2404913,
+      "lon": -75.5878377,
+      "tags": {
+        "amenity": "pub",
+        "name": "Billy-O Cerveceria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844648,
+      "lat": 6.2393093,
+      "lon": -75.5816661,
+      "tags": {
+        "amenity": "nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13936794802,
+      "lat": 6.2392987,
+      "lon": -75.5790653,
+      "tags": {
+        "amenity": "bar",
+        "name": "Maelo Salsa Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4950119027,
+      "lat": 6.245924,
+      "lon": -75.5962461,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-08-31",
+        "level": "0",
+        "name": "Romero",
+        "name:es": "Romero"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998686321,
+      "lat": 6.2457941,
+      "lon": -75.5963369,
+      "tags": {
+        "addr:housenumber": "39-69",
+        "addr:street": "Avenida 37",
+        "amenity": "bar",
+        "name": "Ping Pong Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12654092066,
+      "lat": 6.247777,
+      "lon": -75.599029,
+      "tags": {
+        "amenity": "pub",
+        "check_date:opening_hours": "2025-03-11",
+        "indoor_seating": "no",
+        "name": "El Sitio",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13112577462,
+      "lat": 6.2454327,
+      "lon": -75.5974141,
+      "tags": {
+        "amenity": "pub",
+        "check_date": "2025-09-03",
+        "level": "1",
+        "microbrewery": "yes",
+        "name": "Torrealta",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381380559,
+      "lat": 6.242356,
+      "lon": -75.59499,
+      "tags": {
+        "addr:street": "Calle 35",
+        "amenity": "bar",
+        "name": "La Cava",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "http://merlinproducciones.co/contacto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5123900245,
+      "lat": 6.2462675,
+      "lon": -75.5913134,
+      "tags": {
+        "amenity": "bar",
+        "name": "Cool Corner Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6720014386,
+      "lat": 6.2455301,
+      "lon": -75.5922045,
+      "tags": {
+        "addr:housenumber": "C3 - 44",
+        "addr:street": "Carrera 73",
+        "amenity": "bar",
+        "name": "Fidelina",
+        "opening_hours": "Mo-Fr 17:00-23:00; Sa 17:00-24:00; Su 15:00-21:00",
+        "phone": "+57 3507710055"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9834958017,
+      "lat": 6.2480036,
+      "lon": -75.5901967,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Abadia Gastropub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9834959317,
+      "lat": 6.2450907,
+      "lon": -75.5895765,
+      "tags": {
+        "amenity": "bar",
+        "name": "Del Patio Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9967514824,
+      "lat": 6.2468099,
+      "lon": -75.5945224,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-02",
+        "cuisine": "mexican",
+        "name": "Taqueria Cuernavava",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13115034730,
+      "lat": 6.2459779,
+      "lon": -75.5956299,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-01",
+        "name": "Emojis Cocktail"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13121345246,
+      "lat": 6.2456061,
+      "lon": -75.5927541,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-05",
+        "level": "2",
+        "name": "Mood Roof"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13158593471,
+      "lat": 6.2458562,
+      "lon": -75.592023,
+      "tags": {
+        "addr:city": "Laureles",
+        "addr:housenumber": "#72-58",
+        "addr:postcode": "050031",
+        "addr:street": "Circular 4",
+        "amenity": "bar",
+        "brewery": "granizados;ice_cream",
+        "name": "Ice Paradice - Granizados Laureles Medellín",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13936794801,
+      "lat": 6.2476285,
+      "lon": -75.589278,
+      "tags": {
+        "amenity": "bar",
+        "name": "Angels bar salsa y musica variada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7204758661,
+      "lat": 6.250067,
+      "lon": -75.6000882,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:street": "Calle 44",
+        "amenity": "bar",
+        "check_date": "2025-09-06",
+        "name": "Dopamina Rock Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998686421,
+      "lat": 6.2502302,
+      "lon": -75.5920146,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Son Havana",
+        "name:en": "Son Havana",
+        "name:es": "Son Havana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039990821,
+      "lat": 6.2502377,
+      "lon": -75.5921068,
+      "tags": {
+        "addr:housenumber": "44-56",
+        "addr:street": "Carrera 73",
+        "amenity": "bar",
+        "name:en": "Son Havana"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5745169622,
+      "lat": 6.249491,
+      "lon": -75.5896101,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Secret salsa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4756575921,
+      "lat": 6.2483688,
+      "lon": -75.588756,
+      "tags": {
+        "amenity": "bar",
+        "name": "Toco Madera",
+        "name:es": "Toco Madera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4791787821,
+      "lat": 6.24502,
+      "lon": -75.5887559,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "68-123",
+        "addr:street": "Circular 2",
+        "amenity": "bar",
+        "cuisine": "sandwich;tea;sausage;cake;local;coffee_shop;pizza;chicken;italian_pizza",
+        "email": "barriocentralcafebar@gmail.com",
+        "internet_access": "wlan",
+        "name": "Barrio Central Café Bar",
+        "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-02:00",
+        "phone": "+575407965",
+        "website": "https://facebook.com/BarrioCentralCafeBar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5032409222,
+      "lat": 6.242696,
+      "lon": -75.5863273,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Punt Arena Cafe Bar",
+        "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-01:00; Su 16:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7093842985,
+      "lat": 6.2446642,
+      "lon": -75.5889211,
+      "tags": {
+        "addr:street": "Carrera 69",
+        "amenity": "bar",
+        "name": "BBC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8301620482,
+      "lat": 6.2453244,
+      "lon": -75.5891112,
+      "tags": {
+        "amenity": "pub",
+        "name": "Barbarán Restaurante Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10609075405,
+      "lat": 6.2487654,
+      "lon": -75.5890208,
+      "tags": {
+        "amenity": "pub",
+        "name": "fonda la vecindad la 70"
+      }
+    },
+    {
+      "type": "node",
+      "id": 365118052,
+      "lat": 6.2446856,
+      "lon": -75.5766329,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2847763032,
+      "lat": 6.2506595,
+      "lon": -75.5885947,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:housenumber": "46B-20",
+        "addr:postcode": "050031",
+        "addr:street": "Carrera 70",
+        "amenity": "bar",
+        "name": "Vinilo y Café",
+        "opening_hours": "11:00-22:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402959789,
+      "lat": 6.2511272,
+      "lon": -75.5884177,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4402959790,
+      "lat": 6.2515919,
+      "lon": -75.5883045,
+      "tags": {
+        "amenity": "bar",
+        "name": "A pico de botella",
+        "name:es": "A pico de botella"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4407507090,
+      "lat": 6.2530449,
+      "lon": -75.5878735,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Imperatum",
+        "name:es": "Imperatum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408370089,
+      "lat": 6.2526985,
+      "lon": -75.5878446,
+      "tags": {
+        "addr:housenumber": "47-16",
+        "addr:street": "Carrera 70",
+        "amenity": "nightclub",
+        "email": "trilogiaempresarial@hotmail.com",
+        "internet_access": "wlan",
+        "name": "Salsarengue",
+        "name:es": "Salsamerengue",
+        "opening_hours": "24/7",
+        "phone": "+57 3113104593"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408370090,
+      "lat": 6.2503496,
+      "lon": -75.5886949,
+      "tags": {
+        "addr:housenumber": "44B #13",
+        "addr:street": "Carrera 70",
+        "amenity": "bar",
+        "name": "Polas y Licores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4408370489,
+      "lat": 6.2516022,
+      "lon": -75.5881586,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Chaparal de la 70",
+        "name:es": "El Chaparal de la 70"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5039997421,
+      "lat": 6.2503041,
+      "lon": -75.5887386,
+      "tags": {
+        "addr:housenumber": "#703",
+        "addr:street": "Calle 44A",
+        "amenity": "bar",
+        "name:en": "El Tibiri"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5776514554,
+      "lat": 6.2524343,
+      "lon": -75.5879255,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Taberna Bongo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9181569979,
+      "lat": 6.2523121,
+      "lon": -75.5879451,
+      "tags": {
+        "amenity": "bar",
+        "name": "Techno disco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10847510835,
+      "lat": 6.2516443,
+      "lon": -75.5883833,
+      "tags": {
+        "amenity": "bar",
+        "name": "La bodega de la 70"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10847583235,
+      "lat": 6.2530485,
+      "lon": -75.5876883,
+      "tags": {
+        "amenity": "bar",
+        "name": "Polas y licores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11533316969,
+      "lat": 6.2523261,
+      "lon": -75.5879501,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Imperatum Discoteca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998686323,
+      "lat": 6.2310533,
+      "lon": -75.5722547,
+      "tags": {
+        "amenity": "bar",
+        "name": "3 cordilleras",
+        "name:en": "3 Cordilleras",
+        "name:es": "3 Cordilleras",
+        "opening_hours": "Th-Fr 17:30-22:00",
+        "phone": "+57 4 4442337",
+        "website": "https://3cordilleras.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13986601852,
+      "lat": 6.2310777,
+      "lon": -75.5722931,
+      "tags": {
+        "addr:city": "Comuna 10 - La Candelaria",
+        "addr:postcode": "050015",
+        "addr:street": "Calle 30 # 44-176",
+        "amenity": "bar",
+        "brewery": "various",
+        "check_date": "2026-05-20",
+        "check_date:currency:XBT": "2026-06-03",
+        "contact:instagram": "https://www.instagram.com/estacioncentral_3c?igsh=MW1uNW0wM2NqM3Rjbw%3D%3D",
+        "currency:XBT": "yes",
+        "email": "metamorfosismedellin7@gmail.com",
+        "min_age": "18",
+        "name": "Estacion Central 3C",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "phone": "+573148884270",
+        "survey:date": "2026-06-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3135951454,
+      "lat": 6.236831,
+      "lon": -75.5706288,
+      "tags": {
+        "amenity": "bar",
+        "name": "San Diego Show"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11204141437,
+      "lat": 6.2423138,
+      "lon": -75.5646627,
+      "tags": {
+        "addr:housenumber": "42-55",
+        "addr:street": "Calle 44",
+        "amenity": "nightclub",
+        "contact:instagram": "casadelalunamedellin",
+        "facebook": "casadelalunaeventos",
+        "name": "Casa de la luna",
+        "phone": "+57 312 8860681",
+        "website": "https://linktr.ee/casadelaluna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5199487463,
+      "lat": 6.2409386,
+      "lon": -75.5591879,
+      "tags": {
+        "addr:street": "Cra 36a #45-02",
+        "amenity": "bar",
+        "name": "Pa' onde la mona"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839292324,
+      "lat": 6.2466279,
+      "lon": -75.5697431,
+      "tags": {
+        "addr:housenumber": "45-80",
+        "addr:street": "Carrera 51;Bolívar",
+        "amenity": "bar",
+        "name": "Salon Malaga",
+        "name:en": "Salon Malaga",
+        "name:es": "Salon Malaga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10695760484,
+      "lat": 6.2455507,
+      "lon": -75.5631102,
+      "tags": {
+        "addr:floor": "G",
+        "amenity": "bar",
+        "check_date": "2023-02-23",
+        "name": "Ubuntu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12976181902,
+      "lat": 6.2456539,
+      "lon": -75.5630724,
+      "tags": {
+        "addr:housenumber": "48-53",
+        "addr:street": "Carrera 42A",
+        "amenity": "bar",
+        "contact:instagram": "silencio_medellin",
+        "name": "Silencio",
+        "opening_hours": "Th-Sa 10:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5745169621,
+      "lat": 6.2494882,
+      "lon": -75.5630941,
+      "tags": {
+        "amenity": "bar",
+        "name:en": "Carerra 45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12331662705,
+      "lat": 6.2525449,
+      "lon": -75.5688372,
+      "tags": {
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "El Social",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12337950401,
+      "lat": 6.2513057,
+      "lon": -75.568265,
+      "tags": {
+        "addr:housenumber": "51-15",
+        "addr:street": "Calle 52",
+        "amenity": "bar",
+        "name": "Heladería La Montañita",
+        "opening_hours": "Mo-Sa 08:00-00:00; Su 10:00-20:00",
+        "phone": "+57 45117637"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12666577002,
+      "lat": 6.252767,
+      "lon": -75.5642479,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Polonesa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12895161801,
+      "lat": 6.2443549,
+      "lon": -75.5598243,
+      "tags": {
+        "addr:housenumber": "38-85",
+        "addr:street": "Calle 49",
+        "amenity": "bar",
+        "contact:instagram": "barequeytapia",
+        "name": "Bareque & Tapia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5211079625,
+      "lat": 6.2425484,
+      "lon": -75.5557413,
+      "tags": {
+        "addr:housenumber": "33-92",
+        "addr:street": "Calle 49",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Zona Franca",
+        "opening_hours": "We-Su 15:00-02:00",
+        "phone": "+57 4 2163467"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4398224889,
+      "lat": 6.2494228,
+      "lon": -75.5627456,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Acontista",
+        "name:es": "El Acontista"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5415417221,
+      "lat": 6.2493033,
+      "lon": -75.562561,
+      "tags": {
+        "amenity": "bar",
+        "name": "Radio city"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5745169721,
+      "lat": 6.2528837,
+      "lon": -75.5607207,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Club amigas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6630428085,
+      "lat": 6.2505117,
+      "lon": -75.5621074,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Eslabón Prendido salsoteca",
+        "name:en": "El Eslabón Prendido salsa bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11208012551,
+      "lat": 6.249407,
+      "lon": -75.5617812,
+      "tags": {
+        "amenity": "pub",
+        "name": "Viejo vapor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11208081875,
+      "lat": 6.2494279,
+      "lon": -75.562208,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Viejo vapor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11208081876,
+      "lat": 6.2495244,
+      "lon": -75.5621596,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Guanabano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11208090437,
+      "lat": 6.2495096,
+      "lon": -75.562095,
+      "tags": {
+        "addr:housenumber": "53-19",
+        "amenity": "bar",
+        "name": "El Guanábano",
+        "opening_hours": "Mo-Sa 00:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12708586201,
+      "lat": 6.2506155,
+      "lon": -75.5624482,
+      "tags": {
+        "addr:housenumber": "45-11",
+        "addr:street": "Calle 54",
+        "amenity": "bar",
+        "name": "El Club Del Jazz",
+        "opening_hours": "We-Sa 17:00-23:00",
+        "phone": "3245212006",
+        "website": "https://elclubdeljazz.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12859804001,
+      "lat": 6.2494196,
+      "lon": -75.5618675,
+      "tags": {
+        "amenity": "bar",
+        "name": "Dharma Licorera-Bar",
+        "opening_hours": "Mo-Sa 16:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+57 300 4600319"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11773740415,
+      "lat": 6.2495041,
+      "lon": -75.538647,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Discoteca el trapiche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12057505870,
+      "lat": 6.2545398,
+      "lon": -75.5393485,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "El Trapiche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101294105,
+      "lat": 6.2547409,
+      "lon": -75.5399146,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Discoteca  El trapiche faro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12101301001,
+      "lat": 6.2534695,
+      "lon": -75.538572,
+      "tags": {
+        "amenity": "bar",
+        "name": "Heladería bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12209148609,
+      "lat": 6.2510841,
+      "lon": -75.5403838,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12209293340,
+      "lat": 6.251147,
+      "lon": -75.5389237,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13154273573,
+      "lat": 6.255438,
+      "lon": -75.6019803,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2025-09-07",
+        "level": "0",
+        "name": "Urban Ice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5749741122,
+      "lat": 6.2597388,
+      "lon": -75.590646,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Fantasia energie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12334942901,
+      "lat": 6.2594516,
+      "lon": -75.5943797,
+      "tags": {
+        "addr:housenumber": "#4260",
+        "addr:street": "Carrera 77B",
+        "amenity": "bar",
+        "name": "Su Charcutería",
+        "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-12:00; Sa 06:00-22:00; Su 00:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951675841,
+      "lat": 6.2672531,
+      "lon": -75.596443,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5542414832,
+      "lat": 6.2574614,
+      "lon": -75.583589,
+      "tags": {
+        "amenity": "nightclub",
+        "name:en": "Secret club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10303773186,
+      "lat": 6.2584877,
+      "lon": -75.5832088,
+      "tags": {
+        "addr:housenumber": "98",
+        "addr:street": "Calle 67B # 51A",
+        "amenity": "bar",
+        "name": "Bolero Bar",
+        "website": "https://www.facebook.com/BoleroBarMedellin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10281416710,
+      "lat": 6.2566399,
+      "lon": -75.5785675,
+      "tags": {
+        "amenity": "bar",
+        "check_date": "2023-07-27",
+        "name": "Papitienda",
+        "opening_hours": "Mo-Sa 08:00-23:45; PH,Su 14:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11907690568,
+      "lat": 6.259533,
+      "lon": -75.5806307,
+      "tags": {
+        "amenity": "bar",
+        "name": "La esquina de los Buitrago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11907692936,
+      "lat": 6.2594566,
+      "lon": -75.5804715,
+      "tags": {
+        "amenity": "bar",
+        "name": "La Bohemia de los Buitrago"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14064684800,
+      "lat": 6.2644231,
+      "lon": -75.5705288,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:postcode": "050010",
+        "addr:street": "Calle 66 #56a 21",
+        "amenity": "bar",
+        "brewery": "yes",
+        "check_date": "2026-05-20",
+        "check_date:currency:XBT": "2026-06-03",
+        "contact:instagram": "https://www.instagram.com/galaxy_lico?igsh=MXZyamZlaHJ6bnBtaw==",
+        "currency:XBT": "yes",
+        "name": "Galaxy Bar",
+        "opening_hours": "Mo-Fr 16:00-00:00",
+        "payment:lightning": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2026-06-06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4044855817,
+      "lat": 6.26449,
+      "lon": -75.5685401,
+      "tags": {
+        "amenity": "bar",
+        "name": "Villamil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12049010420,
+      "lat": 6.2639925,
+      "lon": -75.56855,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:country": "CO",
+        "addr:housenumber": "55-116",
+        "addr:postcode": "050010",
+        "addr:street": "Calle 66A",
+        "amenity": "nightclub",
+        "min_age": "18",
+        "name": "Timbalero Bar",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12049010421,
+      "lat": 6.263998,
+      "lon": -75.5685779,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:country": "CO",
+        "addr:housenumber": "55-120",
+        "addr:postcode": "050010",
+        "addr:street": "Calle 66A",
+        "amenity": "bar",
+        "name": "All Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9604512041,
+      "lat": 6.2664223,
+      "lon": -75.5549494,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "nightclub",
+        "min_age": "18",
+        "name": "Eccentric Club",
+        "opening_hours": "We-Su 18:00-04:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9604532809,
+      "lat": 6.2646772,
+      "lon": -75.5552635,
+      "tags": {
+        "addr:city": "Comuna 3 - Manrique",
+        "addr:housenumber": "Piso 5",
+        "amenity": "nightclub",
+        "min_age": "18",
+        "name": "The Heaven Club",
+        "opening_hours": "We-Su 18:00 - 04:00",
+        "smoking": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4614151797,
+      "lat": 6.2887795,
+      "lon": -75.5896634,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13550862886,
+      "lat": 6.2899225,
+      "lon": -75.5837384,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13550924378,
+      "lat": 6.2924053,
+      "lon": -75.5845827,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6355855066,
+      "lat": 6.3037628,
+      "lon": -75.5823033,
+      "tags": {
+        "amenity": "nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6355855072,
+      "lat": 6.3039358,
+      "lon": -75.5819952,
+      "tags": {
+        "amenity": "nightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121350372,
+      "lat": 6.3011036,
+      "lon": -75.5718847,
+      "tags": {
+        "amenity": "bar",
+        "name": "Taberna Salsa Cañaveral"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10121351712,
+      "lat": 6.3003204,
+      "lon": -75.5697302,
+      "tags": {
+        "amenity": "bar",
+        "name": "Taberna Salsa Bar El Bembé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443322895,
+      "lat": 6.2644863,
+      "lon": -75.5440772,
+      "tags": {
+        "addr:housenumber": "70",
+        "addr:street": "Carrera 31-04",
+        "amenity": "bar",
+        "description": "bar con billares"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7326823767,
+      "lat": 6.2681289,
+      "lon": -75.5445319,
+      "tags": {
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Taberna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7334649079,
+      "lat": 6.2652221,
+      "lon": -75.5432196,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Discoteca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7313045838,
+      "lat": 6.2688595,
+      "lon": -75.5449028,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249818268,
+      "lat": 6.2712404,
+      "lon": -75.5371168,
+      "tags": {
+        "addr:street": "Carrera 24",
+        "amenity": "nightclub",
+        "description": "Discoteca que funciona de jueves a domingo",
+        "name": "Discoteca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4177117295,
+      "lat": 6.2936095,
+      "lon": -75.5435472,
+      "tags": {
+        "amenity": "bar",
+        "name": "San Domin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332331647,
+      "lat": 6.2934465,
+      "lon": -75.5385589,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billar Pascual"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787817285,
+      "lat": 6.2992633,
+      "lon": -75.5385985,
+      "tags": {
+        "amenity": "bar",
+        "name": "Taberna Tropical Niches"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3787844237,
+      "lat": 6.2993831,
+      "lon": -75.5399294,
+      "tags": {
+        "amenity": "bar",
+        "name": "Billar Albeiro",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13175472001,
+      "lat": 6.3015048,
+      "lon": -75.5280625,
+      "tags": {
+        "amenity": "bar",
+        "name": "El Recuerdo del ayer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7869876595,
+      "lat": 6.3089699,
+      "lon": -75.5543593,
+      "tags": {
+        "addr:city": "Bello",
+        "addr:street": "Calle 20E 44-24",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Liquors Blue",
+        "opening_hours": "Mo-Su 06:00-00:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3798906775,
+      "lat": 6.3372257,
+      "lon": -75.5563855,
+      "tags": {
+        "addr:street": "calle 53 # 47",
+        "amenity": "bar",
+        "name": "Bar Viejo Café - Tango"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1926365556,
+      "lat": 6.3434767,
+      "lon": -75.5170718,
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11541708738,
+      "lat": 6.3457933,
+      "lon": -75.5123767,
+      "tags": {
+        "addr:city": "Copacabana",
+        "addr:postcode": "051040",
+        "addr:street": "Calle 51 N.57-09",
+        "amenity": "bar",
+        "brewery": "various",
+        "min_age": "18",
+        "name": "La esquina roja - Calabazo",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11541708739,
+      "lat": 6.3457707,
+      "lon": -75.5124431,
+      "tags": {
+        "addr:city": "Copacabana",
+        "addr:postcode": "051040",
+        "addr:street": "calle 51#57-08",
+        "amenity": "bar",
+        "brewery": "various",
+        "min_age": "18",
+        "name": "El talon de Aquiles",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11220751565,
+      "lat": 6.3473839,
+      "lon": -75.5060309,
+      "tags": {
+        "addr:city": "Copacabana",
+        "addr:street": "Calle 50 # 47-21",
+        "amenity": "bar",
+        "brewery": "no",
+        "min_age": "18",
+        "name": "Terko Bar",
+        "opening_hours": "Mo-Su 18:00-00:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 548788925,
+      "bounds": {
+        "minlat": 6.184791,
+        "minlon": -75.6576232,
+        "maxlat": 6.1848964,
+        "maxlon": -75.6575136
+      },
+      "nodes": [
+        5333413526,
+        5333413527,
+        5333413528,
+        5333545547,
+        5301531283,
+        5301531284,
+        5333413526
+      ],
+      "geometry": [
+        {
+          "lat": 6.1848004,
+          "lon": -75.6576232
+        },
+        {
+          "lat": 6.1848599,
+          "lon": -75.6576175
+        },
+        {
+          "lat": 6.1848561,
+          "lon": -75.657577
+        },
+        {
+          "lat": 6.1848964,
+          "lon": -75.6575728
+        },
+        {
+          "lat": 6.1848924,
+          "lon": -75.6575136
+        },
+        {
+          "lat": 6.184791,
+          "lon": -75.6575233
+        },
+        {
+          "lat": 6.1848004,
+          "lon": -75.6576232
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "La tienda de Pacho"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098969102,
+      "bounds": {
+        "minlat": 6.1847126,
+        "minlon": -75.5970991,
+        "maxlat": 6.1848511,
+        "maxlon": -75.5969395
+      },
+      "nodes": [
+        10062747096,
+        10062747097,
+        10062747098,
+        10062747099,
+        10062747096
+      ],
+      "geometry": [
+        {
+          "lat": 6.1848511,
+          "lon": -75.5970269
+        },
+        {
+          "lat": 6.1847672,
+          "lon": -75.5970991
+        },
+        {
+          "lat": 6.1847126,
+          "lon": -75.5970178
+        },
+        {
+          "lat": 6.1847935,
+          "lon": -75.5969395
+        },
+        {
+          "lat": 6.1848511,
+          "lon": -75.5970269
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "min_age": "18",
+        "name": "fonda la malagueña"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098969120,
+      "bounds": {
+        "minlat": 6.1845697,
+        "minlon": -75.5968736,
+        "maxlat": 6.1846658,
+        "maxlon": -75.5967751
+      },
+      "nodes": [
+        10062709453,
+        10062709454,
+        10062709455,
+        10062709456,
+        10062709453
+      ],
+      "geometry": [
+        {
+          "lat": 6.1846658,
+          "lon": -75.596834
+        },
+        {
+          "lat": 6.1846152,
+          "lon": -75.5968736
+        },
+        {
+          "lat": 6.1845697,
+          "lon": -75.5968147
+        },
+        {
+          "lat": 6.1846203,
+          "lon": -75.5967751
+        },
+        {
+          "lat": 6.1846658,
+          "lon": -75.596834
+        }
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "min_age": "18",
+        "name": "channel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 337669901,
+      "bounds": {
+        "minlat": 6.2536592,
+        "minlon": -75.629077,
+        "maxlat": 6.253785,
+        "maxlon": -75.628944
+      },
+      "nodes": [
+        8502844050,
+        8502844048,
+        8502844049,
+        8502844050
+      ],
+      "geometry": [
+        {
+          "lat": 6.2536592,
+          "lon": -75.6289876
+        },
+        {
+          "lat": 6.253785,
+          "lon": -75.629077
+        },
+        {
+          "lat": 6.2537412,
+          "lon": -75.628944
+        },
+        {
+          "lat": 6.2536592,
+          "lon": -75.6289876
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Canecos",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 576504559,
+      "bounds": {
+        "minlat": 6.2382087,
+        "minlon": -75.6028586,
+        "maxlat": 6.2383406,
+        "maxlon": -75.6027617
+      },
+      "nodes": [
+        5529490219,
+        5529490214,
+        5529490213,
+        5529490216,
+        5529490212,
+        5529490215,
+        5529490217,
+        5529490218,
+        5529490219
+      ],
+      "geometry": [
+        {
+          "lat": 6.2382087,
+          "lon": -75.6028555
+        },
+        {
+          "lat": 6.2382807,
+          "lon": -75.6028586
+        },
+        {
+          "lat": 6.2383008,
+          "lon": -75.6028488
+        },
+        {
+          "lat": 6.238314,
+          "lon": -75.6028369
+        },
+        {
+          "lat": 6.2383269,
+          "lon": -75.6028193
+        },
+        {
+          "lat": 6.2383393,
+          "lon": -75.602798
+        },
+        {
+          "lat": 6.2383406,
+          "lon": -75.6027672
+        },
+        {
+          "lat": 6.2382127,
+          "lon": -75.6027617
+        },
+        {
+          "lat": 6.2382087,
+          "lon": -75.6028555
+        }
+      ],
+      "tags": {
+        "addr:street": "Carrera 81",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Pippos Bar",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098712219,
+      "bounds": {
+        "minlat": 6.2450792,
+        "minlon": -75.6208076,
+        "maxlat": 6.2452571,
+        "maxlon": -75.6206551
+      },
+      "nodes": [
+        5279037636,
+        10059993584,
+        10059993585,
+        5279037637,
+        5279037636
+      ],
+      "geometry": [
+        {
+          "lat": 6.2452571,
+          "lon": -75.6207392
+        },
+        {
+          "lat": 6.2451971,
+          "lon": -75.6206551
+        },
+        {
+          "lat": 6.2450792,
+          "lon": -75.6207514
+        },
+        {
+          "lat": 6.2451438,
+          "lon": -75.6208076
+        },
+        {
+          "lat": 6.2452571,
+          "lon": -75.6207392
+        }
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Discoteca Hakuna",
+        "smoking": "separated"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1098712221,
+      "bounds": {
+        "minlat": 6.2446365,
+        "minlon": -75.6197263,
+        "maxlat": 6.2447722,
+        "maxlon": -75.6196009
+      },
+      "nodes": [
+        10059993591,
+        10059993592,
+        10059993593,
+        10059993594,
+        10059993591
+      ],
+      "geometry": [
+        {
+          "lat": 6.2447722,
+          "lon": -75.6196882
+        },
+        {
+          "lat": 6.2447522,
+          "lon": -75.6196009
+        },
+        {
+          "lat": 6.2446365,
+          "lon": -75.6196434
+        },
+        {
+          "lat": 6.2446698,
+          "lon": -75.6197263
+        },
+        {
+          "lat": 6.2447722,
+          "lon": -75.6196882
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "brewery": "various;granizados;licores",
+        "building": "yes",
+        "name": "Granizados la 6"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122131760,
+      "bounds": {
+        "minlat": 6.2709113,
+        "minlon": -75.6305437,
+        "maxlat": 6.2709911,
+        "maxlon": -75.6304819
+      },
+      "nodes": [
+        1365477861,
+        1365477856,
+        1379016834,
+        1365477853,
+        1365477855,
+        1365477861
+      ],
+      "geometry": [
+        {
+          "lat": 6.2709842,
+          "lon": -75.6305437
+        },
+        {
+          "lat": 6.2709911,
+          "lon": -75.6305326
+        },
+        {
+          "lat": 6.2709437,
+          "lon": -75.6304957
+        },
+        {
+          "lat": 6.2709194,
+          "lon": -75.6304819
+        },
+        {
+          "lat": 6.2709113,
+          "lon": -75.6304992
+        },
+        {
+          "lat": 6.2709842,
+          "lon": -75.6305437
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Los veteranos"
+      }
+    },
+    {
+      "type": "way",
+      "id": 325121672,
+      "bounds": {
+        "minlat": 6.2781602,
+        "minlon": -75.6349831,
+        "maxlat": 6.2783048,
+        "maxlon": -75.6348036
+      },
+      "nodes": [
+        3317891139,
+        3317891140,
+        13948645829,
+        13948645828,
+        13948645827,
+        3317891141,
+        13948645826,
+        13948645825,
+        3317891142,
+        13948645831,
+        13948645830,
+        3317891139
+      ],
+      "geometry": [
+        {
+          "lat": 6.278176,
+          "lon": -75.6348292
+        },
+        {
+          "lat": 6.2782086,
+          "lon": -75.6348036
+        },
+        {
+          "lat": 6.2783009,
+          "lon": -75.6349227
+        },
+        {
+          "lat": 6.2782938,
+          "lon": -75.6349281
+        },
+        {
+          "lat": 6.2783048,
+          "lon": -75.6349428
+        },
+        {
+          "lat": 6.2783004,
+          "lon": -75.6349622
+        },
+        {
+          "lat": 6.2782727,
+          "lon": -75.6349831
+        },
+        {
+          "lat": 6.2782413,
+          "lon": -75.6349422
+        },
+        {
+          "lat": 6.2782264,
+          "lon": -75.6349527
+        },
+        {
+          "lat": 6.2781602,
+          "lon": -75.6348674
+        },
+        {
+          "lat": 6.2781894,
+          "lon": -75.6348465
+        },
+        {
+          "lat": 6.278176,
+          "lon": -75.6348292
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Alpus Restaurante Bar",
+        "opening_hours": "18:00-02:00",
+        "phone": "+5744270111",
+        "smoking": "outside",
+        "source": "Sergio Maya B"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159366230,
+      "bounds": {
+        "minlat": 6.2859841,
+        "minlon": -75.6422196,
+        "maxlat": 6.2860838,
+        "maxlon": -75.6421146
+      },
+      "nodes": [
+        1714805306,
+        1714805296,
+        1714805294,
+        1714805300,
+        1714805306
+      ],
+      "geometry": [
+        {
+          "lat": 6.2860838,
+          "lon": -75.6421872
+        },
+        {
+          "lat": 6.2860211,
+          "lon": -75.6422196
+        },
+        {
+          "lat": 6.2859841,
+          "lon": -75.642147
+        },
+        {
+          "lat": 6.2860468,
+          "lon": -75.6421146
+        },
+        {
+          "lat": 6.2860838,
+          "lon": -75.6421872
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Billar",
+        "sport": "billiards"
+      }
+    },
+    {
+      "type": "way",
+      "id": 794560421,
+      "bounds": {
+        "minlat": 6.2084143,
+        "minlon": -75.5679657,
+        "maxlat": 6.2085635,
+        "maxlon": -75.5678007
+      },
+      "nodes": [
+        7431629633,
+        7431629634,
+        7431629635,
+        7431629636,
+        7431629633
+      ],
+      "geometry": [
+        {
+          "lat": 6.2085635,
+          "lon": -75.5679273
+        },
+        {
+          "lat": 6.2085164,
+          "lon": -75.5678007
+        },
+        {
+          "lat": 6.2084143,
+          "lon": -75.5678392
+        },
+        {
+          "lat": 6.2084614,
+          "lon": -75.5679657
+        },
+        {
+          "lat": 6.2085635,
+          "lon": -75.5679273
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sky Bar Medellin"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787271688,
+      "bounds": {
+        "minlat": 6.2213665,
+        "minlon": -75.5606087,
+        "maxlat": 6.2216078,
+        "maxlon": -75.5602337
+      },
+      "nodes": [
+        7360021662,
+        12947712648,
+        12947712647,
+        7360021663,
+        12947712649,
+        12947712650,
+        12947712651,
+        12947712652,
+        7360021664,
+        7360021665,
+        7360021662
+      ],
+      "geometry": [
+        {
+          "lat": 6.2215584,
+          "lon": -75.5606087
+        },
+        {
+          "lat": 6.2215663,
+          "lon": -75.5605053
+        },
+        {
+          "lat": 6.2215954,
+          "lon": -75.5605076
+        },
+        {
+          "lat": 6.2216078,
+          "lon": -75.5603466
+        },
+        {
+          "lat": 6.2215042,
+          "lon": -75.5603385
+        },
+        {
+          "lat": 6.2215119,
+          "lon": -75.5602382
+        },
+        {
+          "lat": 6.2214542,
+          "lon": -75.5602337
+        },
+        {
+          "lat": 6.2214467,
+          "lon": -75.5603306
+        },
+        {
+          "lat": 6.2213871,
+          "lon": -75.5603259
+        },
+        {
+          "lat": 6.2213665,
+          "lon": -75.5605938
+        },
+        {
+          "lat": 6.2215584,
+          "lon": -75.5606087
+        }
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "min_age": "18",
+        "name": "Discoteca La Isla Night Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 120374272,
+      "bounds": {
+        "minlat": 6.2418028,
+        "minlon": -75.554372,
+        "maxlat": 6.2419436,
+        "maxlon": -75.5542199
+      },
+      "nodes": [
+        1349846408,
+        1349846410,
+        1349846412,
+        1349846411,
+        1349846408
+      ],
+      "geometry": [
+        {
+          "lat": 6.2418028,
+          "lon": -75.5542645
+        },
+        {
+          "lat": 6.2418575,
+          "lon": -75.554372
+        },
+        {
+          "lat": 6.2419436,
+          "lon": -75.5543301
+        },
+        {
+          "lat": 6.2418888,
+          "lon": -75.5542199
+        },
+        {
+          "lat": 6.2418028,
+          "lon": -75.5542645
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "name": "Tierra Libre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785228944,
+      "bounds": {
+        "minlat": 6.2802947,
+        "minlon": -75.578857,
+        "maxlat": 6.2804495,
+        "maxlon": -75.5787161
+      },
+      "nodes": [
+        7338238903,
+        7338238904,
+        7338238905,
+        7338238906,
+        7338238903
+      ],
+      "geometry": [
+        {
+          "lat": 6.2804495,
+          "lon": -75.5787712
+        },
+        {
+          "lat": 6.2804084,
+          "lon": -75.5787161
+        },
+        {
+          "lat": 6.2802947,
+          "lon": -75.578802
+        },
+        {
+          "lat": 6.2803357,
+          "lon": -75.578857
+        },
+        {
+          "lat": 6.2804495,
+          "lon": -75.5787712
+        }
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "O'CLOCK Disco"
+      }
+    },
+    {
+      "type": "way",
+      "id": 788109425,
+      "bounds": {
+        "minlat": 6.3067341,
+        "minlon": -75.5555124,
+        "maxlat": 6.3068009,
+        "maxlon": -75.5554575
+      },
+      "nodes": [
+        7368424847,
+        7368424848,
+        7368424849,
+        7368424850,
+        7368424847
+      ],
+      "geometry": [
+        {
+          "lat": 6.3068009,
+          "lon": -75.5555016
+        },
+        {
+          "lat": 6.3067415,
+          "lon": -75.5555124
+        },
+        {
+          "lat": 6.3067341,
+          "lon": -75.5554691
+        },
+        {
+          "lat": 6.3067926,
+          "lon": -75.5554575
+        },
+        {
+          "lat": 6.3068009,
+          "lon": -75.5555016
+        }
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Bar El Faraon"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1211057943,
+      "bounds": {
+        "minlat": 6.3471009,
+        "minlon": -75.5060866,
+        "maxlat": 6.3474274,
+        "maxlon": -75.5059116
+      },
+      "nodes": [
+        11220751566,
+        11220751567,
+        11220751568,
+        11220751569,
+        11220751566
+      ],
+      "geometry": [
+        {
+          "lat": 6.3474025,
+          "lon": -75.5060866
+        },
+        {
+          "lat": 6.3471009,
+          "lon": -75.5059932
+        },
+        {
+          "lat": 6.3471258,
+          "lon": -75.5059116
+        },
+        {
+          "lat": 6.3474274,
+          "lon": -75.5060051
+        },
+        {
+          "lat": 6.3474025,
+          "lon": -75.5060866
+        }
+      ],
+      "tags": {
+        "addr:city": "Copacabana",
+        "addr:street": "Calle 50 #47-21",
+        "amenity": "bar",
+        "building": "house",
+        "min_age": "18",
+        "name": "Terko Bar",
+        "opening_hours": "Mo-Th 18:00-01:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1105955672,
+      "bounds": {
+        "minlat": 6.3464044,
+        "minlon": -75.5069011,
+        "maxlat": 6.3467341,
+        "maxlon": -75.506346
+      },
+      "nodes": [
+        10120144966,
+        10120144967,
+        10120144968,
+        10120144969,
+        10120144970,
+        10120144971,
+        10120144972,
+        10120144966
+      ],
+      "geometry": [
+        {
+          "lat": 6.3464044,
+          "lon": -75.5068717
+        },
+        {
+          "lat": 6.3465641,
+          "lon": -75.5064826
+        },
+        {
+          "lat": 6.3466098,
+          "lon": -75.5064711
+        },
+        {
+          "lat": 6.3466681,
+          "lon": -75.506346
+        },
+        {
+          "lat": 6.3467341,
+          "lon": -75.5064188
+        },
+        {
+          "lat": 6.3465413,
+          "lon": -75.506813
+        },
+        {
+          "lat": 6.3464665,
+          "lon": -75.5069011
+        },
+        {
+          "lat": 6.3464044,
+          "lon": -75.5068717
+        }
+      ],
+      "tags": {
+        "amenity": "nightclub",
+        "building": "yes",
+        "min_age": "18",
+        "name": "zona rosa de copacabana TORRES"
+      }
+    }
+  ]
+}

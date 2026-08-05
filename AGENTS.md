@@ -86,6 +86,22 @@ Not every amenity layer becomes a numeric filter. A `Layer` in
   cafés across the whole 5-municipality bbox) — better shown as honest dots
   on the map than as a filterable density number.
 
+## Noise score (`scripts/amenities.py::compute_noise`)
+Most areas never got a manual `noise` value, so it's computed instead of
+hand-guessed: distance from the centroid to the nearest arterial road
+(motorway/trunk/primary/secondary — a *distance*, not a length-within-the-
+polygon, so a large rural sector isn't penalised just for being big enough to
+touch a highway somewhere), bar/pub/nightclub count within 400m (this is
+where the retired `nightlife` filter's signal lives now), and a green-space
+coverage fraction that dampens the score (parks/forest/farmland/grass, not
+just named major parks — rural greenery rarely gets a `leisure=park` tag).
+Blended and bucketed into quartiles using the same quiet/moderate/loud/very
+loud labels the manual `noise` column already used, so a hand-set CSV value
+still wins over the computed one (same merge rule as every other generated
+column). Known limitation: centroid-based road distance is a weaker signal
+for large rural comuna/sector polygons than for compact urban barrios — an
+acceptable approximation for now, not a precise per-address noise reading.
+
 ## Frontend range sliders — never rebuild the DOM mid-drag
 `docs/app.js`'s numeric filter sliders update in place on `input` (patching
 just the value label and the `.filter-row.active` class), not by calling the

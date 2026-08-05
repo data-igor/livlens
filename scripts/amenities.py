@@ -97,11 +97,11 @@ class Layer:
     min_area_m2: Optional[float] = None
     require_name: bool = False
     require_polygon: bool = False
-    # Point layers (cafe, gym, metro) are rendered as toggleable dots/icons on
-    # the map, not as per-area choropleth filter columns — they have no
-    # metrics/sanity gates, just raw point locations extracted from the same
-    # cached Overpass response.
+    # point_layer: rendered as toggleable dots on the map (no metrics/sanity).
     point_layer: bool = False
+    # emit_points: keeps its metric columns AND also gets a point layer
+    # (e.g. supermarket).
+    emit_points: bool = False
 
 
 @dataclass
@@ -176,6 +176,7 @@ LAYERS: Sequence[Layer] = [
             Sanity(column="supermarket_brands_1km", area="Laureles", op="top_n", n=100),
             Sanity(column="supermarket_brands_1km", area="Palmitas Sector Central", op="bottom_n", n=100),
         ),
+        emit_points=True,
     ),
     Layer(
         key="park_major",
@@ -236,6 +237,42 @@ LAYERS: Sequence[Layer] = [
         point_layer=True,
     ),
 ]
+
+# Noise score inputs — not Layers in LAYERS above (no per-area filter
+# columns of their own); compute_noise() below blends these three fetches
+# into one score. See AGENTS.md "Noise score" for the full rationale.
+NOISE_ROADS_LAYER = Layer(
+    key="roads_arterial",
+    overpass_selectors=('way["highway"~"^(motorway|trunk|primary|secondary)$"]',),
+    metrics=(),
+    sanity=(),
+)
+NOISE_NIGHTLIFE_LAYER = Layer(
+    key="nightlife_bars",
+    overpass_selectors=('nwr["amenity"~"^(bar|pub|nightclub)$"]',),
+    metrics=(),
+    sanity=(),
+)
+# Broader than the (unshipped) park_major layer — includes general green
+# land cover, not just named parks, since rural greenery rarely gets a
+# leisure=park tag.
+NOISE_GREENERY_LAYER = Layer(
+    key="greenery",
+    overpass_selectors=(
+        'nwr["leisure"="park"]',
+        'nwr["leisure"="nature_reserve"]',
+        'nwr["boundary"="protected_area"]',
+        'nwr["landuse"="forest"]',
+        'nwr["natural"="wood"]',
+        'nwr["landuse"="farmland"]',
+        'nwr["landuse"="meadow"]',
+        'nwr["landuse"="grass"]',
+    ),
+    metrics=(),
+    sanity=(),
+    require_polygon=True,
+)
+NOISE_BUCKETS = ("quiet", "moderate", "loud", "very loud")  # same labels the manual `noise` column uses
 
 METRIC_REGISTRY = {}
 
@@ -753,6 +790,87 @@ def compute_layer(areas: Sequence[AreaRecord], layer: Layer, refresh: bool) -> (
     return layer_values, report
 
 
+def parse_road_lines(payload: dict) -> List["LineString"]:
+    lines = []
+    for element in payload.get("elements", []):
+        geometry = element.get("geometry")
+        if element.get("type") != "way" or not geometry or len(geometry) < 2:
+            continue
+        line = LineString([(pt["lon"], pt["lat"]) for pt in geometry])
+        if line.is_valid and not line.is_empty:
+            lines.append(line)
+    return lines
+
+
+def compute_noise(areas: Sequence[AreaRecord], refresh: bool) -> Dict[str, Dict[str, object]]:
+    """Blends road-proximity, nightlife-count and green-space signals into a
+    noise score per area (see AGENTS.md "Noise score" for the rationale).
+    Fills in blanks only — a hand-set CSV `noise` value still wins.
+    """
+    road_lines = parse_road_lines(fetch_overpass(NOISE_ROADS_LAYER, refresh=refresh))
+    roads_union = unary_union([project_geometry(line) for line in road_lines]) if road_lines else None
+
+    bar_features = parse_features(NOISE_NIGHTLIFE_LAYER, fetch_overpass(NOISE_NIGHTLIFE_LAYER, refresh=refresh))
+
+    green_features = parse_features(NOISE_GREENERY_LAYER, fetch_overpass(NOISE_GREENERY_LAYER, refresh=refresh))
+    green_polygons = [f.polygon for f in green_features if f.polygon is not None]
+    green_union = unary_union([project_geometry(p) for p in green_polygons]) if green_polygons else None
+
+    raw: Dict[str, Dict[str, float]] = {}
+    for area in areas:
+        projected_area = project_geometry(area.polygon)
+        projected_centroid = project_geometry(area.centroid)
+        road_nearest_m = projected_centroid.distance(roads_union) if roads_union is not None else 5_000.0
+        bar_count = sum(1 for f in bar_features if haversine_m(area.centroid, f.point) <= 400)
+        green_m2 = green_union.intersection(projected_area).area if green_union is not None else 0.0
+        green_fraction = min(green_m2 / area.area_m2, 1.0) if area.area_m2 > 0 else 0.0
+        raw[area.slug] = {"road_nearest_m": road_nearest_m, "bar_count": bar_count, "green_fraction": green_fraction}
+
+    def normalised(key: str, invert: bool = False) -> Dict[str, float]:
+        values = [v[key] for v in raw.values()]
+        lo, hi = min(values), max(values)
+        span = hi - lo
+        result = {slug: ((v[key] - lo) / span if span else 0.0) for slug, v in raw.items()}
+        return {slug: (1.0 - value) for slug, value in result.items()} if invert else result
+
+    # Closer road = louder, so the distance signal is inverted after
+    # normalising (a 0m-away road should score 1.0, the farthest area 0.0).
+    road_norm = normalised("road_nearest_m", invert=True)
+    bar_norm = normalised("bar_count")
+    scores = {
+        slug: max(0.0, min(1.0, 0.55 * road_norm[slug] + 0.45 * bar_norm[slug] - 0.5 * raw[slug]["green_fraction"]))
+        for slug in raw
+    }
+
+    ordered = sorted(scores.values())
+    quartile = lambda p: ordered[min(len(ordered) - 1, int(p * (len(ordered) - 1)))]
+    q1, q2, q3 = quartile(0.25), quartile(0.5), quartile(0.75)
+
+    def bucket(score: float) -> str:
+        if score <= q1:
+            return NOISE_BUCKETS[0]
+        if score <= q2:
+            return NOISE_BUCKETS[1]
+        if score <= q3:
+            return NOISE_BUCKETS[2]
+        return NOISE_BUCKETS[3]
+
+    return {
+        area.slug: {"noise": bucket(scores[area.slug]), "noise_score": round(scores[area.slug] * 100, 1)}
+        for area in areas
+    }
+
+
+def print_noise_report(noise_values: Dict[str, Dict[str, object]]):
+    counts: Dict[str, int] = {}
+    for values in noise_values.values():
+        counts[values["noise"]] = counts.get(values["noise"], 0) + 1
+    print("\nNoise score summary (auto-filled where the CSV's `noise` column is blank)")
+    print("===========================================================================")
+    for bucket in NOISE_BUCKETS:
+        print(f"- {bucket}: {counts.get(bucket, 0)} area(s)")
+
+
 def merge_layer_values(destination: Dict[str, Dict[str, object]], source: Dict[str, Dict[str, object]]):
     for slug, values in source.items():
         destination.setdefault(slug, {}).update(values)
@@ -838,10 +956,15 @@ def main() -> int:
         layer_values, report = compute_layer(areas, layer, refresh=args.refresh)
         merge_layer_values(computed, layer_values)
         reports.append(report)
+        if layer.emit_points:
+            points_by_layer[layer.key] = extract_points(layer, refresh=args.refresh)
+    noise_values = compute_noise(areas, refresh=args.refresh)
+    merge_layer_values(computed, noise_values)
     write_computed_json(areas, computed)
     write_points_json(points_by_layer)
     print_report(reports)
     print_point_layer_report(points_by_layer)
+    print_noise_report(noise_values)
     print(f"\nWrote computed amenities to {COMPUTED_PATH.relative_to(ROOT)}")
     print(f"Wrote amenity map points to {POINTS_PATH.relative_to(ROOT)}")
     return 0
