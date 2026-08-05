@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "areas.csv"
 CACHE_PATH = ROOT / "data" / "geo_cache.json"
 BOUNDARIES_DIR = ROOT / "data" / "boundaries"
+AMENITIES_PATH = ROOT / "data" / "amenities" / "computed.json"
 OUT_PATH = ROOT / "docs" / "areas.geojson"
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
@@ -41,6 +42,12 @@ def load_cache():
 
 def save_cache(cache):
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False))
+
+
+def load_amenities():
+    if not AMENITIES_PATH.exists():
+        return {}
+    return json.loads(AMENITIES_PATH.read_text(encoding="utf-8"))
 
 
 def cache_key(name, city, country):
@@ -162,6 +169,7 @@ def main():
         sys.exit(1)
 
     cache = load_cache()
+    amenities = load_amenities()
     features = []
     misses = []
 
@@ -213,6 +221,9 @@ def main():
 
         if geometry:
             properties = {k: v for k, v in row.items() if v not in (None, "")}
+            for key, value in amenities.get(slugify(name), {}).items():
+                if key not in properties and value not in (None, ""):
+                    properties[key] = value
             features.append(
                 {
                     "type": "Feature",
