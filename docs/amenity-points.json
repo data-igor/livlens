@@ -318,7 +318,8 @@
     {
       "lat": 6.19698,
       "lon": -75.559857,
-      "name": "Carulla"
+      "name": "Carulla",
+      "brand": "Carulla"
     },
     {
       "lat": 6.197762,
@@ -371,7 +372,8 @@
     {
       "lat": 6.217629,
       "lon": -75.565267,
-      "name": "Carulla Las Palmas"
+      "name": "Carulla Las Palmas",
+      "brand": "Carulla"
     },
     {
       "lat": 6.209169,
@@ -382,7 +384,8 @@
     {
       "lat": 6.181845,
       "lon": -75.569345,
-      "name": "Carulla San Lucas"
+      "name": "Carulla San Lucas",
+      "brand": "Carulla"
     },
     {
       "lat": 6.263935,
@@ -906,7 +909,8 @@
     {
       "lat": 6.252001,
       "lon": -75.542966,
-      "name": "D1 de Llanaditas"
+      "name": "D1 de Llanaditas",
+      "brand": "D1"
     },
     {
       "lat": 6.167616,
@@ -2156,7 +2160,8 @@
     {
       "lat": 6.214347,
       "lon": -75.60177,
-      "name": "Tiendas D1"
+      "name": "Tiendas D1",
+      "brand": "D1"
     },
     {
       "lat": 6.214928,
