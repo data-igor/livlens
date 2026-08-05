@@ -1,0 +1,2219 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-05T14:23:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 13797642898,
+      "lat": 6.0930672,
+      "lon": -75.6359976,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "49-60",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 128 Sur",
+        "alt_name": "Gimnasio Vir Fit Caldas",
+        "contact:instagram": "virfit_potencial",
+        "leisure": "fitness_centre",
+        "mobile": "+57 302 1222961",
+        "name": "Gimnasio Vir Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13956798146,
+      "lat": 6.0938795,
+      "lon": -75.6372118,
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:housenumber": "126A Sur-128",
+        "addr:postcode": "055440",
+        "addr:street": "Diagonal 53",
+        "contact:instagram": "animalxcaldas",
+        "leisure": "fitness_centre",
+        "mobile": "+57 315 4097898",
+        "name": "AnimalX"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9604597085,
+      "lat": 6.1492175,
+      "lon": -75.6176399,
+      "tags": {
+        "addr:city": "Sabaneta",
+        "addr:street": "Calle 75 Sur",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Smart Fit - Aves María",
+        "phone": "+57 3503100919",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7289113280,
+      "lat": 6.1549598,
+      "lon": -75.6092838,
+      "tags": {
+        "addr:city": "Sabaneta Antioquia",
+        "addr:street": "Calle 61 Sur",
+        "leisure": "fitness_centre",
+        "name": "Green Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5669797621,
+      "lat": 6.1688749,
+      "lon": -75.5866993,
+      "tags": {
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name:en": "Smart Fit",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "website": "https://www.smartfit.com.co/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12620389981,
+      "lat": 6.1637701,
+      "lon": -75.5738726,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Bodytech City plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13687274571,
+      "lat": 6.1883743,
+      "lon": -75.5993074,
+      "tags": {
+        "addr:city": "Itagüí",
+        "addr:street": "Carrera 55B",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio virfit",
+        "sport": "fitness",
+        "website": "https://www.google.com/search?q=virfit&oq=virfit&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwEYgAQyDQgCEC4YrwEYxwEYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyCggIEAAYgAQYogQyBwgJEAAY7wXSAQgyNTc0ajBqN6gCALACAA&sou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12641244301,
+      "lat": 6.1871639,
+      "lon": -75.5826502,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "SmartFit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12620397333,
+      "lat": 6.1903418,
+      "lon": -75.5795267,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Bodytech las vegas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8176512937,
+      "lat": 6.1996866,
+      "lon": -75.5723381,
+      "tags": {
+        "addr:city": "Medellin",
+        "addr:postcode": "050021",
+        "addr:street": "Carrera 42",
+        "alt_name": "Smart Fit Milla De Oro",
+        "branch": "Golden Mile",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "brand:wikipedia": "pt:Smart Fit",
+        "check_date": "2026-01-08",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "opening_hours": "Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa 07:00-17:00; Su 08:00-17:00",
+        "website": "https://smartfit.com.co"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10096730781,
+      "lat": 6.1967767,
+      "lon": -75.5741838,
+      "tags": {
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13234997201,
+      "lat": 6.1931685,
+      "lon": -75.5592977,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio al aire libre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12570554502,
+      "lat": 6.230726,
+      "lon": -75.6105242,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Universidad de Medellín",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa 08:00-03:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11486947733,
+      "lat": 6.2463923,
+      "lon": -75.6251464,
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "GYM La somadera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8712647561,
+      "lat": 6.2432742,
+      "lon": -75.6201371,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12074190550,
+      "lat": 6.2807669,
+      "lon": -75.6346559,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gym al aire libre",
+        "opening_hours": "Mo-Su,PH 00:00-12:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7299415357,
+      "lat": 6.2095256,
+      "lon": -75.5938232,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Dynamic Evolution Train"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5995596986,
+      "lat": 6.209061,
+      "lon": -75.5853759,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name:en": "physical gym training"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10598296105,
+      "lat": 6.2083795,
+      "lon": -75.5736809,
+      "tags": {
+        "addr:street": "Calle 6",
+        "leisure": "fitness_centre",
+        "name": "Yogalab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844644,
+      "lat": 6.2127978,
+      "lon": -75.5748072,
+      "tags": {
+        "addr:housenumber": "#43e-60",
+        "addr:postcode": "050021",
+        "addr:street": "Calle 10",
+        "alt_name": "The Smartfit 10",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Smart fit",
+        "name:es": "Smart fit",
+        "phone": "+57 323 4583063"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8433141117,
+      "lat": 6.2146346,
+      "lon": -75.5732271,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Athletic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10598294005,
+      "lat": 6.2120207,
+      "lon": -75.5717288,
+      "tags": {
+        "addr:street": "Carrera 43C",
+        "leisure": "fitness_centre",
+        "name": "Happy Yoga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11271867241,
+      "lat": 6.2119761,
+      "lon": -75.5737307,
+      "tags": {
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13714713612,
+      "lat": 6.2172349,
+      "lon": -75.5716816,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:postcode": "050021",
+        "addr:street": "Carrera 43F # 14A-126",
+        "leisure": "fitness_centre",
+        "name": "Eco Functional Club",
+        "opening_hours": "Mo-Fr 05:00-12:00 - 13:00-20:00; Sa 07:00-12:00; Su 09:00-11:00",
+        "phone": "+57 3018878060"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4760129621,
+      "lat": 6.2196622,
+      "lon": -75.5665897,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "BFit",
+        "note": "Mall Palmagrande"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5618518721,
+      "lat": 6.2412493,
+      "lon": -75.5928123,
+      "tags": {
+        "addr:housenumber": "71-85",
+        "addr:street": "Transversal 39A",
+        "email": "flyingtreeyoga@gmail.com",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Flying Tree Yoga",
+        "phone": "+57 314 7396451",
+        "website": "https://www.flyingtreeyoga.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13117170173,
+      "lat": 6.2404594,
+      "lon": -75.5912878,
+      "tags": {
+        "check_date": "2025-09-03",
+        "leisure": "fitness_centre",
+        "name": "pwr:club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7300031301,
+      "lat": 6.2399156,
+      "lon": -75.5853069,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name:en": "24 Fit"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10880895705,
+      "lat": 6.2409684,
+      "lon": -75.5866464,
+      "tags": {
+        "branch": "Unicentro",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "opening_hours": "Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa 07:00-17:00; Su 08:00-17:00",
+        "phone": "+57 350 3100919",
+        "website": "https://smartfit.com.co/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12160162326,
+      "lat": 6.2422479,
+      "lon": -75.5867167,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "PROtraining gym"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13117170167,
+      "lat": 6.2402096,
+      "lon": -75.5856706,
+      "tags": {
+        "check_date": "2025-09-03",
+        "leisure": "fitness_centre",
+        "name": "Evolution Fightclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13117170171,
+      "lat": 6.2399829,
+      "lon": -75.5877994,
+      "tags": {
+        "check_date": "2025-09-03",
+        "leisure": "fitness_centre",
+        "name": "Palacio Fitness"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13118665152,
+      "lat": 6.2388965,
+      "lon": -75.5876971,
+      "tags": {
+        "check_date": "2025-09-03",
+        "leisure": "fitness_centre",
+        "name": "Action Black"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12550154801,
+      "lat": 6.2409535,
+      "lon": -75.581298,
+      "tags": {
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5979550985,
+      "lat": 6.2471083,
+      "lon": -75.5953428,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name:en": "Magnum Gym",
+        "opening_hours": "Mo-Fr 05:00-8:00 and Sa-Su 10:00-2:00",
+        "sport": "fitness;boxing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13112454896,
+      "lat": 6.2447583,
+      "lon": -75.594179,
+      "tags": {
+        "check_date": "2025-09-01",
+        "leisure": "fitness_centre",
+        "name": "Diana Espinosa Centro Acuático y de Estimulación"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13721462101,
+      "lat": 6.2454307,
+      "lon": -75.5908821,
+      "tags": {
+        "addr:housenumber": "#2-46",
+        "addr:street": "Carrera 72",
+        "leisure": "fitness_centre",
+        "name": "Cetar Training",
+        "opening_hours": "Mo-Fr 05:00-21:00; Sa-Su 08:00-14:00",
+        "phone": "300 2562501"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4951844739,
+      "lat": 6.2502605,
+      "lon": -75.6017595,
+      "tags": {
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9102671452,
+      "lat": 6.2539669,
+      "lon": -75.589284,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio  Libre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13116895650,
+      "lat": 6.2489531,
+      "lon": -75.5939517,
+      "tags": {
+        "check_date": "2025-09-03",
+        "leisure": "fitness_centre",
+        "name": "Effort",
+        "sport": "spinning"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4575737696,
+      "lat": 6.2424448,
+      "lon": -75.5863728,
+      "tags": {
+        "addr:floor": "3",
+        "addr:housenumber": "35-28",
+        "addr:street": "Carrera 66B",
+        "email": "cafelclub@outlook.es",
+        "leisure": "fitness_centre",
+        "name": "gym El Club",
+        "opening_hours": "Mo-Fr 05:00-22:00; Sa-Su 07:00-15:00",
+        "phone": "+57 4 2659487",
+        "website": "https://cafelclub.wixsite.com/cafelclub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4437946889,
+      "lat": 6.2541376,
+      "lon": -75.5786439,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "63-21",
+        "addr:street": "Calle 49B",
+        "email": "dancegym@comfamiliarcamacol.com",
+        "leisure": "fitness_centre",
+        "name": "Dance Gym - Comfamiliar Camacol",
+        "name:es": "Dance Gym - Comfamiliar Camacol",
+        "opening_hours": "Mo-Fr 05:30-21:30; Sa-Su 08:00-13:00",
+        "phone": "+5742302000",
+        "website": "https://www.comfamiliarcamacol.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9108919854,
+      "lat": 6.2527759,
+      "lon": -75.5823496,
+      "tags": {
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12620379965,
+      "lat": 6.2301692,
+      "lon": -75.5706437,
+      "tags": {
+        "branch": "Premium plaza",
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6251492788,
+      "lat": 6.2457535,
+      "lon": -75.5647951,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "43-81",
+        "addr:postcode": "050016",
+        "addr:street": "Calle 48",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "name:en": "Smart Fit Gym",
+        "opening_hours": "Mo-Th 05:00-22:00; Su 08:00-17:00; Fr 05:00-21:00; Sa 07:00-17:00",
+        "website": "https://www.smartfit.com.co/sedes/san-ignacio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11773673510,
+      "lat": 6.2474886,
+      "lon": -75.538965,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Cancha y gimnasio al aire libre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13234990602,
+      "lat": 6.2547409,
+      "lon": -75.5392753,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio al aire libre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7385312734,
+      "lat": 6.2601431,
+      "lon": -75.5992969,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Dinamic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9130294963,
+      "lat": 6.2594898,
+      "lon": -75.5999443,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Publico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12745844401,
+      "lat": 6.2600354,
+      "lon": -75.5972669,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "El castillo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9118996119,
+      "lat": 6.2680603,
+      "lon": -75.5925891,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Publico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8325140117,
+      "lat": 6.2569492,
+      "lon": -75.5824342,
+      "tags": {
+        "addr:housenumber": "66-50",
+        "addr:street": "Calle 50",
+        "branch": "Avenida Colombia",
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "brand:wikipedia": "es:Bodytech",
+        "leisure": "fitness_centre",
+        "name": "Bodytech",
+        "name:es": "Bodytech"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9211397552,
+      "lat": 6.2621552,
+      "lon": -75.5862037,
+      "tags": {
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "brand:wikipedia": "es:Bodytech",
+        "information": "board",
+        "leisure": "fitness_centre",
+        "name": "Bodytech",
+        "name:es": "Bodytech",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9133499219,
+      "lat": 6.2717863,
+      "lon": -75.5943403,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio  Publico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9133499220,
+      "lat": 6.2717767,
+      "lon": -75.5943791,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Publico"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11120045398,
+      "lat": 6.2672289,
+      "lon": -75.5547964,
+      "tags": {
+        "branch": "Sede Manrique",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "sport": "fitness",
+        "website": "https://smartfit.com.co"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6355855038,
+      "lat": 6.3034896,
+      "lon": -75.5822532,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "PowerGym picacho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13334881369,
+      "lat": 6.2941742,
+      "lon": -75.5709655,
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:housenumber": "CRA 68 #98 44",
+        "leisure": "fitness_centre",
+        "name": "Fuerza y Movimiento",
+        "phone": "3117050732"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4475368553,
+      "lat": 6.3036711,
+      "lon": -75.570402,
+      "tags": {
+        "description": "gimnasio",
+        "leisure": "fitness_centre",
+        "name": "Esparta",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249851909,
+      "lat": 6.269504,
+      "lon": -75.5384646,
+      "tags": {
+        "addr:street": "Carrera 24b",
+        "leisure": "fitness_centre",
+        "name": "Inder"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249729664,
+      "lat": 6.2696453,
+      "lon": -75.5365453,
+      "tags": {
+        "description": "Acutalmente inactivo por reparación",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio CPS La cruz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13651270840,
+      "lat": 6.3151176,
+      "lon": -75.5585232,
+      "tags": {
+        "alt_name": "La 80",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1306565307,
+      "bounds": {
+        "minlat": 6.0878227,
+        "minlon": -75.6339393,
+        "maxlat": 6.0880699,
+        "maxlon": -75.6338273
+      },
+      "nodes": [
+        12100417752,
+        12100417749,
+        12100417741,
+        12100417742,
+        12100417744,
+        12100417748,
+        12100417751,
+        12100417752
+      ],
+      "geometry": [
+        {
+          "lat": 6.0880654,
+          "lon": -75.6339393
+        },
+        {
+          "lat": 6.0880699,
+          "lon": -75.6338388
+        },
+        {
+          "lat": 6.0880166,
+          "lon": -75.633836
+        },
+        {
+          "lat": 6.0879571,
+          "lon": -75.6338333
+        },
+        {
+          "lat": 6.0879053,
+          "lon": -75.633831
+        },
+        {
+          "lat": 6.0878271,
+          "lon": -75.6338273
+        },
+        {
+          "lat": 6.0878227,
+          "lon": -75.6339285
+        },
+        {
+          "lat": 6.0880654,
+          "lon": -75.6339393
+        }
+      ],
+      "tags": {
+        "addr:city": "Caldas",
+        "addr:country": "CO",
+        "addr:postcode": "055440",
+        "addr:street": "Calle 134 Sur",
+        "building": "civic",
+        "building:levels": "2",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Municipal",
+        "note": "Mapeado utilizando Ortoimagen Urbana. Municipio de Caldas, Antioquia. Resolución 10 cm. #MapeandoCieloRoto",
+        "official_name": "Centro de Promoción de la Salud",
+        "opening_hours": "Mo-Th 06:00-21:00; Fr 06:00-20:00; Sa-Su 06:00-12:00; PH off",
+        "operator": "Instituto de Deporte y Recreación de Caldas INDEC",
+        "operator:website": "https://indeccaldas.gov.co/",
+        "phone": "+57 604 3788500",
+        "roof:shape": "gabled",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "way",
+      "id": 549014891,
+      "bounds": {
+        "minlat": 6.1837668,
+        "minlon": -75.6559875,
+        "maxlat": 6.183834,
+        "maxlon": -75.6559082
+      },
+      "nodes": [
+        5303499067,
+        5303499068,
+        5531876347,
+        10690974720,
+        5303499067
+      ],
+      "geometry": [
+        {
+          "lat": 6.183834,
+          "lon": -75.6559771
+        },
+        {
+          "lat": 6.183828,
+          "lon": -75.6559082
+        },
+        {
+          "lat": 6.1837668,
+          "lon": -75.6559221
+        },
+        {
+          "lat": 6.1837819,
+          "lon": -75.6559875
+        },
+        {
+          "lat": 6.183834,
+          "lon": -75.6559771
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 442952004,
+      "bounds": {
+        "minlat": 6.159881,
+        "minlon": -75.6058071,
+        "maxlat": 6.1601397,
+        "maxlon": -75.6055486
+      },
+      "nodes": [
+        4405965898,
+        4405997996,
+        4405982293,
+        4405982291,
+        4405971799,
+        4405965898
+      ],
+      "geometry": [
+        {
+          "lat": 6.1600368,
+          "lon": -75.6058071
+        },
+        {
+          "lat": 6.159881,
+          "lon": -75.6056996
+        },
+        {
+          "lat": 6.1599637,
+          "lon": -75.6055782
+        },
+        {
+          "lat": 6.159984,
+          "lon": -75.6055486
+        },
+        {
+          "lat": 6.1601397,
+          "lon": -75.6056561
+        },
+        {
+          "lat": 6.1600368,
+          "lon": -75.6058071
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Action Black Sabaneta"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1493724071,
+      "bounds": {
+        "minlat": 6.1881399,
+        "minlon": -75.5995427,
+        "maxlat": 6.1885327,
+        "maxlon": -75.5991741
+      },
+      "nodes": [
+        13919636259,
+        13687263852,
+        13919636260,
+        13919636258,
+        13687263854,
+        13687263855,
+        13919636261,
+        13687263857,
+        13919636259
+      ],
+      "geometry": [
+        {
+          "lat": 6.1885327,
+          "lon": -75.5993271
+        },
+        {
+          "lat": 6.1883116,
+          "lon": -75.5995427
+        },
+        {
+          "lat": 6.1881399,
+          "lon": -75.599339
+        },
+        {
+          "lat": 6.1882084,
+          "lon": -75.5993149
+        },
+        {
+          "lat": 6.1882698,
+          "lon": -75.5994093
+        },
+        {
+          "lat": 6.1883326,
+          "lon": -75.5993251
+        },
+        {
+          "lat": 6.1882971,
+          "lon": -75.5992838
+        },
+        {
+          "lat": 6.1884128,
+          "lon": -75.5991741
+        },
+        {
+          "lat": 6.1885327,
+          "lon": -75.5993271
+        }
+      ],
+      "tags": {
+        "addr:city": "Itagüí",
+        "addr:street": "Carrera 55B",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Virfit",
+        "sport": "fitness",
+        "website": "https://www.google.com/search?q=virfit&oq=virfit&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwEYgAQyDQgCEC4YrwEYxwEYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyCggIEAAYgAQYogQyBwgJEAAY7wXSAQgyNTc0ajBqN6gCALACAA&sou",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490563154,
+      "bounds": {
+        "minlat": 6.2025614,
+        "minlon": -75.5747098,
+        "maxlat": 6.2030913,
+        "maxlon": -75.5741521
+      },
+      "nodes": [
+        4827515501,
+        4827515502,
+        4827515503,
+        4827515504,
+        4827515501
+      ],
+      "geometry": [
+        {
+          "lat": 6.2030913,
+          "lon": -75.5745434
+        },
+        {
+          "lat": 6.2027621,
+          "lon": -75.5747098
+        },
+        {
+          "lat": 6.2025614,
+          "lon": -75.5743185
+        },
+        {
+          "lat": 6.2028922,
+          "lon": -75.5741521
+        },
+        {
+          "lat": 6.2030913,
+          "lon": -75.5745434
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio Santillana"
+      }
+    },
+    {
+      "type": "way",
+      "id": 784632334,
+      "bounds": {
+        "minlat": 6.1959448,
+        "minlon": -75.5628383,
+        "maxlat": 6.1962727,
+        "maxlon": -75.5625785
+      },
+      "nodes": [
+        7330199101,
+        7330199102,
+        7330199103,
+        7330199104,
+        7330199105,
+        7330199106,
+        7330199107,
+        7330199108,
+        7330199109,
+        7330199110,
+        7330199111,
+        7330199112,
+        7330199101
+      ],
+      "geometry": [
+        {
+          "lat": 6.1962727,
+          "lon": -75.5626912
+        },
+        {
+          "lat": 6.1962179,
+          "lon": -75.5625785
+        },
+        {
+          "lat": 6.1959448,
+          "lon": -75.5627128
+        },
+        {
+          "lat": 6.1960041,
+          "lon": -75.5628348
+        },
+        {
+          "lat": 6.1960316,
+          "lon": -75.5628213
+        },
+        {
+          "lat": 6.1960399,
+          "lon": -75.5628383
+        },
+        {
+          "lat": 6.1961193,
+          "lon": -75.5627993
+        },
+        {
+          "lat": 6.1961084,
+          "lon": -75.5627768
+        },
+        {
+          "lat": 6.1961534,
+          "lon": -75.5627546
+        },
+        {
+          "lat": 6.1961673,
+          "lon": -75.5627833
+        },
+        {
+          "lat": 6.1962501,
+          "lon": -75.5627426
+        },
+        {
+          "lat": 6.1962344,
+          "lon": -75.5627101
+        },
+        {
+          "lat": 6.1962727,
+          "lon": -75.5626912
+        }
+      ],
+      "tags": {
+        "addr:city": "El Poblado",
+        "addr:housenumber": "#1A Sur 45",
+        "addr:postcode": "050022",
+        "addr:street": "Carrera 25A",
+        "branch": "El Tesoro",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "building": "yes",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "level": "3",
+        "name": "Smart Fit El Tesoro"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550978302,
+      "bounds": {
+        "minlat": 6.2506696,
+        "minlon": -75.6139643,
+        "maxlat": 6.2509727,
+        "maxlon": -75.6136187
+      },
+      "nodes": [
+        5321215385,
+        5321215386,
+        5321215387,
+        5321215388,
+        5321215385
+      ],
+      "geometry": [
+        {
+          "lat": 6.2509727,
+          "lon": -75.6138748
+        },
+        {
+          "lat": 6.250811,
+          "lon": -75.6139643
+        },
+        {
+          "lat": 6.2506696,
+          "lon": -75.6137122
+        },
+        {
+          "lat": 6.2508131,
+          "lon": -75.6136187
+        },
+        {
+          "lat": 6.2509727,
+          "lon": -75.6138748
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio público Barrio Cristóbal - Santa Mónica"
+      }
+    },
+    {
+      "type": "way",
+      "id": 550983249,
+      "bounds": {
+        "minlat": 6.2517858,
+        "minlon": -75.6135653,
+        "maxlat": 6.2518873,
+        "maxlon": -75.613461
+      },
+      "nodes": [
+        5321262336,
+        5321262337,
+        5321262338,
+        5321262339,
+        5321262336
+      ],
+      "geometry": [
+        {
+          "lat": 6.2518873,
+          "lon": -75.6135276
+        },
+        {
+          "lat": 6.251827,
+          "lon": -75.6135653
+        },
+        {
+          "lat": 6.2517858,
+          "lon": -75.6134988
+        },
+        {
+          "lat": 6.2518462,
+          "lon": -75.613461
+        },
+        {
+          "lat": 6.2518873,
+          "lon": -75.6135276
+        }
+      ],
+      "tags": {
+        "access": "private",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio social"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551126316,
+      "bounds": {
+        "minlat": 6.2529105,
+        "minlon": -75.6123873,
+        "maxlat": 6.25298,
+        "maxlon": -75.6122973
+      },
+      "nodes": [
+        5322571761,
+        5322571762,
+        5322571763,
+        5322571764,
+        5322571761
+      ],
+      "geometry": [
+        {
+          "lat": 6.2529105,
+          "lon": -75.612371
+        },
+        {
+          "lat": 6.2529493,
+          "lon": -75.6122973
+        },
+        {
+          "lat": 6.25298,
+          "lon": -75.6123136
+        },
+        {
+          "lat": 6.2529412,
+          "lon": -75.6123873
+        },
+        {
+          "lat": 6.2529105,
+          "lon": -75.612371
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1276287910,
+      "bounds": {
+        "minlat": 6.2551558,
+        "minlon": -75.6127389,
+        "maxlat": 6.2552641,
+        "maxlon": -75.6126183
+      },
+      "nodes": [
+        11848952620,
+        11848951513,
+        11848951514,
+        11848951515,
+        11848951516,
+        11848952620
+      ],
+      "geometry": [
+        {
+          "lat": 6.2552641,
+          "lon": -75.6127049
+        },
+        {
+          "lat": 6.2552048,
+          "lon": -75.6127389
+        },
+        {
+          "lat": 6.2551558,
+          "lon": -75.6126523
+        },
+        {
+          "lat": 6.2552152,
+          "lon": -75.6126183
+        },
+        {
+          "lat": 6.2552383,
+          "lon": -75.6126592
+        },
+        {
+          "lat": 6.2552641,
+          "lon": -75.6127049
+        }
+      ],
+      "tags": {
+        "addr:city": "medellin",
+        "addr:street": "Cl 44 #95 - 37",
+        "brand": "Smart Fit",
+        "brand:wikidata": "Q30930959",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Smart Fit",
+        "phone": "300 1615191",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "way",
+      "id": 755137673,
+      "bounds": {
+        "minlat": 6.2337485,
+        "minlon": -75.5960132,
+        "maxlat": 6.234132,
+        "maxlon": -75.5958587
+      },
+      "nodes": [
+        5481766627,
+        7054080540,
+        7054175859,
+        7054092671,
+        7054092669,
+        7054092668,
+        7054080541,
+        7054114297,
+        7054114295,
+        5481766628,
+        5481766627
+      ],
+      "geometry": [
+        {
+          "lat": 6.2341266,
+          "lon": -75.5960132
+        },
+        {
+          "lat": 6.234132,
+          "lon": -75.5958639
+        },
+        {
+          "lat": 6.2341209,
+          "lon": -75.5958624
+        },
+        {
+          "lat": 6.2340928,
+          "lon": -75.5958587
+        },
+        {
+          "lat": 6.2340148,
+          "lon": -75.5958714
+        },
+        {
+          "lat": 6.2337557,
+          "lon": -75.5958598
+        },
+        {
+          "lat": 6.2337485,
+          "lon": -75.5960014
+        },
+        {
+          "lat": 6.2338684,
+          "lon": -75.5960057
+        },
+        {
+          "lat": 6.2339598,
+          "lon": -75.596009
+        },
+        {
+          "lat": 6.2340412,
+          "lon": -75.5960119
+        },
+        {
+          "lat": 6.2341266,
+          "lon": -75.5960132
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      }
+    },
+    {
+      "type": "way",
+      "id": 775955657,
+      "bounds": {
+        "minlat": 6.2376438,
+        "minlon": -75.5869276,
+        "maxlat": 6.2383238,
+        "maxlon": -75.5863305
+      },
+      "nodes": [
+        5116064325,
+        5856805871,
+        5856805872,
+        7238953768,
+        7257747567,
+        7238953769,
+        7257747563,
+        7257753665,
+        7257753664,
+        7257747561,
+        7257747560,
+        7257747558,
+        7257753662,
+        7257753659,
+        7239606688,
+        5856805867,
+        5856805868,
+        5116064326,
+        5116064325
+      ],
+      "geometry": [
+        {
+          "lat": 6.2380796,
+          "lon": -75.5869276
+        },
+        {
+          "lat": 6.2377941,
+          "lon": -75.5869246
+        },
+        {
+          "lat": 6.2378154,
+          "lon": -75.5864713
+        },
+        {
+          "lat": 6.2376438,
+          "lon": -75.5864698
+        },
+        {
+          "lat": 6.2376455,
+          "lon": -75.5863415
+        },
+        {
+          "lat": 6.2376456,
+          "lon": -75.5863305
+        },
+        {
+          "lat": 6.237694,
+          "lon": -75.5863317
+        },
+        {
+          "lat": 6.2377601,
+          "lon": -75.5863334
+        },
+        {
+          "lat": 6.2378387,
+          "lon": -75.5863355
+        },
+        {
+          "lat": 6.2379192,
+          "lon": -75.5863378
+        },
+        {
+          "lat": 6.2379862,
+          "lon": -75.5863397
+        },
+        {
+          "lat": 6.2380552,
+          "lon": -75.5863416
+        },
+        {
+          "lat": 6.238122,
+          "lon": -75.5863435
+        },
+        {
+          "lat": 6.2382076,
+          "lon": -75.5863456
+        },
+        {
+          "lat": 6.2382693,
+          "lon": -75.5863473
+        },
+        {
+          "lat": 6.2383238,
+          "lon": -75.5863488
+        },
+        {
+          "lat": 6.2383195,
+          "lon": -75.586476
+        },
+        {
+          "lat": 6.2380952,
+          "lon": -75.5864683
+        },
+        {
+          "lat": 6.2380796,
+          "lon": -75.5869276
+        }
+      ],
+      "tags": {
+        "branch": "Laureles",
+        "brand": "Bodytech",
+        "brand:wikidata": "Q16538274",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Bodytech"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1373870453,
+      "bounds": {
+        "minlat": 6.2455131,
+        "minlon": -75.5492562,
+        "maxlat": 6.2458834,
+        "maxlon": -75.5489234
+      },
+      "nodes": [
+        12720295474,
+        12746001872,
+        12720295475,
+        12720295476,
+        12720295477,
+        12720295478,
+        12720295479,
+        12720295480,
+        12720295481,
+        12720295482,
+        12720295483,
+        12720295484,
+        13963465243,
+        13963465242,
+        12720295485,
+        12720295486,
+        12720295487,
+        12720295488,
+        12720295489,
+        13963465236,
+        12720295474
+      ],
+      "geometry": [
+        {
+          "lat": 6.2455131,
+          "lon": -75.5490695
+        },
+        {
+          "lat": 6.2455437,
+          "lon": -75.5490909
+        },
+        {
+          "lat": 6.2455643,
+          "lon": -75.5491052
+        },
+        {
+          "lat": 6.2455684,
+          "lon": -75.5491523
+        },
+        {
+          "lat": 6.2456108,
+          "lon": -75.5491819
+        },
+        {
+          "lat": 6.2456584,
+          "lon": -75.5491708
+        },
+        {
+          "lat": 6.2457146,
+          "lon": -75.5490893
+        },
+        {
+          "lat": 6.2457714,
+          "lon": -75.5491289
+        },
+        {
+          "lat": 6.24579,
+          "lon": -75.5492562
+        },
+        {
+          "lat": 6.2458834,
+          "lon": -75.5492424
+        },
+        {
+          "lat": 6.2458621,
+          "lon": -75.5490966
+        },
+        {
+          "lat": 6.2458385,
+          "lon": -75.5491001
+        },
+        {
+          "lat": 6.2458115,
+          "lon": -75.5490813
+        },
+        {
+          "lat": 6.2458473,
+          "lon": -75.5490294
+        },
+        {
+          "lat": 6.2458026,
+          "lon": -75.5489982
+        },
+        {
+          "lat": 6.2457668,
+          "lon": -75.5490501
+        },
+        {
+          "lat": 6.245585,
+          "lon": -75.5489234
+        },
+        {
+          "lat": 6.245553,
+          "lon": -75.5489699
+        },
+        {
+          "lat": 6.2455724,
+          "lon": -75.5489834
+        },
+        {
+          "lat": 6.2455692,
+          "lon": -75.5489879
+        },
+        {
+          "lat": 6.2455131,
+          "lon": -75.5490695
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio ITM Fraternidad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 441723550,
+      "bounds": {
+        "minlat": 6.2619846,
+        "minlon": -75.5871145,
+        "maxlat": 6.2621807,
+        "maxlon": -75.5869435
+      },
+      "nodes": [
+        4394332228,
+        4394332229,
+        4394332230,
+        4394332231,
+        4394332228
+      ],
+      "geometry": [
+        {
+          "lat": 6.2620352,
+          "lon": -75.5871145
+        },
+        {
+          "lat": 6.2621807,
+          "lon": -75.5870144
+        },
+        {
+          "lat": 6.2621347,
+          "lon": -75.5869435
+        },
+        {
+          "lat": 6.2619846,
+          "lon": -75.5870391
+        },
+        {
+          "lat": 6.2620352,
+          "lon": -75.5871145
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Smart fit- Los Colores",
+        "sport": "gymnastics;fitness"
+      }
+    },
+    {
+      "type": "way",
+      "id": 447241277,
+      "bounds": {
+        "minlat": 6.2732104,
+        "minlon": -75.5948618,
+        "maxlat": 6.2734563,
+        "maxlon": -75.5946731
+      },
+      "nodes": [
+        4444130700,
+        4444130699,
+        4444130704,
+        4444130706,
+        4444130707,
+        4444130700
+      ],
+      "geometry": [
+        {
+          "lat": 6.2732216,
+          "lon": -75.5946731
+        },
+        {
+          "lat": 6.2732104,
+          "lon": -75.5948464
+        },
+        {
+          "lat": 6.2733311,
+          "lon": -75.5948543
+        },
+        {
+          "lat": 6.2734451,
+          "lon": -75.5948618
+        },
+        {
+          "lat": 6.2734563,
+          "lon": -75.5946884
+        },
+        {
+          "lat": 6.2732216,
+          "lon": -75.5946731
+        }
+      ],
+      "tags": {
+        "addr:street": "Calle 63",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Total Fit",
+        "source": "Kaart Ground Survey 2018"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1040948202,
+      "bounds": {
+        "minlat": 6.2755247,
+        "minlon": -75.5882818,
+        "maxlat": 6.275634,
+        "maxlon": -75.5880216
+      },
+      "nodes": [
+        9583910186,
+        9583910187,
+        9583910188,
+        9583910189,
+        9583910186
+      ],
+      "geometry": [
+        {
+          "lat": 6.275618,
+          "lon": -75.5882818
+        },
+        {
+          "lat": 6.2755247,
+          "lon": -75.588267
+        },
+        {
+          "lat": 6.2755354,
+          "lon": -75.5880216
+        },
+        {
+          "lat": 6.275634,
+          "lon": -75.5880417
+        },
+        {
+          "lat": 6.275618,
+          "lon": -75.5882818
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio ITM Robledo",
+        "opening_hours": "Mo-Fr 08:00-20:30"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551115928,
+      "bounds": {
+        "minlat": 6.2555599,
+        "minlon": -75.5751069,
+        "maxlat": 6.2557321,
+        "maxlon": -75.574926
+      },
+      "nodes": [
+        5322477156,
+        5322477157,
+        5322477158,
+        5322477159,
+        5322477160,
+        5322477161,
+        5322477162,
+        5322477163,
+        5322477164,
+        5322477165,
+        5322477166,
+        5322477167,
+        5322477168,
+        5322477169,
+        5322477170,
+        5322477171,
+        5322477172,
+        5322477173,
+        5322477174,
+        5322477175,
+        5322477156
+      ],
+      "geometry": [
+        {
+          "lat": 6.2557243,
+          "lon": -75.5750227
+        },
+        {
+          "lat": 6.255717,
+          "lon": -75.5750273
+        },
+        {
+          "lat": 6.2557321,
+          "lon": -75.5750515
+        },
+        {
+          "lat": 6.2557027,
+          "lon": -75.5750701
+        },
+        {
+          "lat": 6.2556845,
+          "lon": -75.575041
+        },
+        {
+          "lat": 6.2556535,
+          "lon": -75.5750606
+        },
+        {
+          "lat": 6.2556709,
+          "lon": -75.5750884
+        },
+        {
+          "lat": 6.2556416,
+          "lon": -75.5751069
+        },
+        {
+          "lat": 6.2556235,
+          "lon": -75.575078
+        },
+        {
+          "lat": 6.255606,
+          "lon": -75.5750891
+        },
+        {
+          "lat": 6.2555625,
+          "lon": -75.5750195
+        },
+        {
+          "lat": 6.2555773,
+          "lon": -75.5750101
+        },
+        {
+          "lat": 6.2555599,
+          "lon": -75.5749823
+        },
+        {
+          "lat": 6.2555929,
+          "lon": -75.5749614
+        },
+        {
+          "lat": 6.2556087,
+          "lon": -75.5749867
+        },
+        {
+          "lat": 6.2556359,
+          "lon": -75.5749695
+        },
+        {
+          "lat": 6.2556208,
+          "lon": -75.5749454
+        },
+        {
+          "lat": 6.2556515,
+          "lon": -75.574926
+        },
+        {
+          "lat": 6.2556659,
+          "lon": -75.574949
+        },
+        {
+          "lat": 6.2556747,
+          "lon": -75.5749435
+        },
+        {
+          "lat": 6.2557243,
+          "lon": -75.5750227
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1042104962,
+      "bounds": {
+        "minlat": 6.3042856,
+        "minlon": -75.5704774,
+        "maxlat": 6.3043874,
+        "maxlon": -75.5703996
+      },
+      "nodes": [
+        9593314877,
+        9593314878,
+        9593314879,
+        9593314880,
+        9593314877
+      ],
+      "geometry": [
+        {
+          "lat": 6.3043874,
+          "lon": -75.5704774
+        },
+        {
+          "lat": 6.3042856,
+          "lon": -75.5704774
+        },
+        {
+          "lat": 6.3042856,
+          "lon": -75.5703996
+        },
+        {
+          "lat": 6.3043874,
+          "lon": -75.5703996
+        },
+        {
+          "lat": 6.3043874,
+          "lon": -75.5704774
+        }
+      ],
+      "tags": {
+        "addr:city": "Medellín",
+        "addr:street": "Carrera 74 #106-24",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio 2D fitness",
+        "phone": "+57 4764018",
+        "sport": "fitness"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1242090440,
+      "bounds": {
+        "minlat": 6.2712313,
+        "minlon": -75.5455114,
+        "maxlat": 6.2713845,
+        "maxlon": -75.545404
+      },
+      "nodes": [
+        11541743019,
+        11541743020,
+        11541743021,
+        11541743022,
+        11541743019
+      ],
+      "geometry": [
+        {
+          "lat": 6.2712313,
+          "lon": -75.545404
+        },
+        {
+          "lat": 6.2713822,
+          "lon": -75.5454297
+        },
+        {
+          "lat": 6.2713845,
+          "lon": -75.5455114
+        },
+        {
+          "lat": 6.2712337,
+          "lon": -75.5455114
+        },
+        {
+          "lat": 6.2712313,
+          "lon": -75.545404
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 786963626,
+      "bounds": {
+        "minlat": 6.2694656,
+        "minlon": -75.5384787,
+        "maxlat": 6.2695316,
+        "maxlon": -75.5383547
+      },
+      "nodes": [
+        7357077862,
+        7357077863,
+        7357077864,
+        7357077865,
+        7357077862
+      ],
+      "geometry": [
+        {
+          "lat": 6.2695316,
+          "lon": -75.5384787
+        },
+        {
+          "lat": 6.269529,
+          "lon": -75.5383634
+        },
+        {
+          "lat": 6.269469,
+          "lon": -75.5383547
+        },
+        {
+          "lat": 6.2694656,
+          "lon": -75.538468
+        },
+        {
+          "lat": 6.2695316,
+          "lon": -75.5384787
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 786959588,
+      "bounds": {
+        "minlat": 6.269417,
+        "minlon": -75.5363221,
+        "maxlat": 6.2694969,
+        "maxlon": -75.5362293
+      },
+      "nodes": [
+        7357020467,
+        7357020468,
+        7357020469,
+        7357020470,
+        7357020467
+      ],
+      "geometry": [
+        {
+          "lat": 6.2694693,
+          "lon": -75.5362293
+        },
+        {
+          "lat": 6.269417,
+          "lon": -75.5362753
+        },
+        {
+          "lat": 6.269436,
+          "lon": -75.5363221
+        },
+        {
+          "lat": 6.2694969,
+          "lon": -75.5362678
+        },
+        {
+          "lat": 6.2694693,
+          "lon": -75.5362293
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio al aire libre La Cruz"
+      }
+    },
+    {
+      "type": "way",
+      "id": 544836151,
+      "bounds": {
+        "minlat": 6.3433174,
+        "minlon": -75.5492197,
+        "maxlat": 6.3434054,
+        "maxlon": -75.5488311
+      },
+      "nodes": [
+        7140103939,
+        7140103940,
+        7140103941,
+        7140103942,
+        7140103939
+      ],
+      "geometry": [
+        {
+          "lat": 6.3434054,
+          "lon": -75.5492197
+        },
+        {
+          "lat": 6.3433206,
+          "lon": -75.5492037
+        },
+        {
+          "lat": 6.3433174,
+          "lon": -75.5488311
+        },
+        {
+          "lat": 6.3433952,
+          "lon": -75.5488405
+        },
+        {
+          "lat": 6.3434054,
+          "lon": -75.5492197
+        }
+      ],
+      "tags": {
+        "addr:street": "Diagonal 61",
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "Gimnasio la Chinca"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689583537,
+      "bounds": {
+        "minlat": 6.3427181,
+        "minlon": -75.5498796,
+        "maxlat": 6.3428695,
+        "maxlon": -75.5497165
+      },
+      "nodes": [
+        9697819629,
+        6469153315,
+        9697819655,
+        9697819652,
+        9697819629
+      ],
+      "geometry": [
+        {
+          "lat": 6.3428695,
+          "lon": -75.5498796
+        },
+        {
+          "lat": 6.3427181,
+          "lon": -75.5498783
+        },
+        {
+          "lat": 6.3427211,
+          "lon": -75.5497178
+        },
+        {
+          "lat": 6.3428684,
+          "lon": -75.5497165
+        },
+        {
+          "lat": 6.3428695,
+          "lon": -75.5498796
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "leisure": "fitness_centre",
+        "name": "gimnasio al aire libre"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689582999,
+      "bounds": {
+        "minlat": 6.3512796,
+        "minlon": -75.5115286,
+        "maxlat": 6.3517544,
+        "maxlon": -75.511025
+      },
+      "nodes": [
+        3958227202,
+        6469147569,
+        3958227201,
+        6469147563,
+        3958227202
+      ],
+      "geometry": [
+        {
+          "lat": 6.3512796,
+          "lon": -75.5114669
+        },
+        {
+          "lat": 6.3517544,
+          "lon": -75.511025
+        },
+        {
+          "lat": 6.3516475,
+          "lon": -75.5115286
+        },
+        {
+          "lat": 6.3514708,
+          "lon": -75.5115151
+        },
+        {
+          "lat": 6.3512796,
+          "lon": -75.5114669
+        }
+      ],
+      "tags": {
+        "building": "shed",
+        "leisure": "fitness_centre",
+        "name": "club deportivo Haceb",
+        "opening_hours:signed": "no"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-05T14:23:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 6191100090,
+      "lat": 6.1536596,
+      "lon": -75.6303873,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Flota Occidental S.A.",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4607222992,
+      "lat": 6.1590533,
+      "lon": -75.6233438,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Terminal Yarumito",
+        "name:es": "TERMINAL YARUMITO",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13968486424,
+      "lat": 6.1630006,
+      "lon": -75.6065851,
+      "tags": {
+        "line": "A",
+        "name": "Estación del Metro Itagüí",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q11681624"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13968486423,
+      "lat": 6.1747224,
+      "lon": -75.5970645,
+      "tags": {
+        "name": "Estación del Metro Envigado",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "subway": "yes",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4575595989,
+      "lat": 6.2301283,
+      "lon": -75.5608428,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Antigua terminal de buses flota La Milagrosa",
+        "name:es": "Antigua terminal de buses flota La Milagrosa",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13236359701,
+      "lat": 6.2441293,
+      "lon": -75.5662817,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11147433854,
+      "lat": 6.2524334,
+      "lon": -75.5426064,
+      "tags": {
+        "name": "Coopatra Lladitas",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7368220802,
+      "lat": 6.2605058,
+      "lon": -75.5869691,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5443322897,
+      "lat": 6.2645305,
+      "lon": -75.5444712,
+      "tags": {
+        "addr:street": "Carrera 31A",
+        "description": "No es una parada establecida, es una parada de buses establecida por la comunidad.",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5427016323,
+      "lat": 6.2633069,
+      "lon": -75.5417602,
+      "tags": {
+        "addr:street": "Carrera 27",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "description": "REGULACIÓN DE BUSES DE TRANSPORTE",
+        "name": "COOTRACOVI",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2381459415,
+      "lat": 6.2685204,
+      "lon": -75.5358527,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7338808320,
+      "lat": 6.268892,
+      "lon": -75.5447836,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Punto Parade de Buses",
+        "operator": "Manrique el raizal",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4868462214,
+      "lat": 6.3401255,
+      "lon": -75.7159067,
+      "tags": {
+        "aerialway": "station",
+        "name": "El Morrón",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428172640,
+      "lat": 6.3375355,
+      "lon": -75.7087845,
+      "tags": {
+        "aerialway": "station",
+        "name": "Las Teresitas",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8655740723,
+      "lat": 6.3425169,
+      "lon": -75.7025964,
+      "tags": {
+        "aerialway": "station",
+        "name": "La Aldea",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8621185731,
+      "lat": 6.3378541,
+      "lon": -75.5442646,
+      "tags": {
+        "name": "Niquía",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6115578027,
+      "lat": 6.3471047,
+      "lon": -75.5099343,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6146657385,
+      "lat": 6.347153,
+      "lon": -75.5098978,
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Estación de Buses Veredales",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1275153718,
+      "bounds": {
+        "minlat": 6.1493253,
+        "minlon": -75.6244712,
+        "maxlat": 6.150336,
+        "maxlon": -75.6236445
+      },
+      "nodes": [
+        6399862443,
+        11840312828,
+        11840312829,
+        11840312830,
+        6399862442,
+        6399862443
+      ],
+      "geometry": [
+        {
+          "lat": 6.1498967,
+          "lon": -75.6241958
+        },
+        {
+          "lat": 6.150336,
+          "lon": -75.6238947
+        },
+        {
+          "lat": 6.1501664,
+          "lon": -75.6236445
+        },
+        {
+          "lat": 6.1493253,
+          "lon": -75.6242212
+        },
+        {
+          "lat": 6.1494947,
+          "lon": -75.6244712
+        },
+        {
+          "lat": 6.1498967,
+          "lon": -75.6241958
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Terminal de buses sabaneta",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 335384477,
+      "bounds": {
+        "minlat": 6.1522625,
+        "minlon": -75.6271187,
+        "maxlat": 6.1532918,
+        "maxlon": -75.6255492
+      },
+      "nodes": [
+        3665674641,
+        4065415301,
+        8670633731,
+        3424987413,
+        5396645185,
+        11927476554,
+        11927476411,
+        3424987406,
+        8670633764,
+        3424987367,
+        13712798601,
+        13712795500,
+        3665674641
+      ],
+      "geometry": [
+        {
+          "lat": 6.1525289,
+          "lon": -75.6271187
+        },
+        {
+          "lat": 6.1532918,
+          "lon": -75.6258099
+        },
+        {
+          "lat": 6.1532438,
+          "lon": -75.6257816
+        },
+        {
+          "lat": 6.1532001,
+          "lon": -75.6257558
+        },
+        {
+          "lat": 6.1532606,
+          "lon": -75.625652
+        },
+        {
+          "lat": 6.1532141,
+          "lon": -75.6256246
+        },
+        {
+          "lat": 6.1531048,
+          "lon": -75.6255602
+        },
+        {
+          "lat": 6.1530862,
+          "lon": -75.6255492
+        },
+        {
+          "lat": 6.1529558,
+          "lon": -75.6257728
+        },
+        {
+          "lat": 6.1522625,
+          "lon": -75.6269617
+        },
+        {
+          "lat": 6.1522772,
+          "lon": -75.6269703
+        },
+        {
+          "lat": 6.152379,
+          "lon": -75.6270304
+        },
+        {
+          "lat": 6.1525289,
+          "lon": -75.6271187
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Estaci%C3%B3n_La_Estrella.JPG/2560px-Estaci%C3%B3n_La_Estrella.JPG",
+        "layer": "1",
+        "name": "Estación de Metro de la Estrella",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935674584,
+      "bounds": {
+        "minlat": 6.1572588,
+        "minlon": -75.6168823,
+        "maxlat": 6.158218,
+        "maxlon": -75.6153932
+      },
+      "nodes": [
+        5303941223,
+        11933070185,
+        3665674642,
+        8670616805,
+        8670616804,
+        3310205055,
+        3310205053,
+        5303941224,
+        8670616806,
+        5303941223
+      ],
+      "geometry": [
+        {
+          "lat": 6.1574116,
+          "lon": -75.6168823
+        },
+        {
+          "lat": 6.157316,
+          "lon": -75.6168266
+        },
+        {
+          "lat": 6.1572588,
+          "lon": -75.6167932
+        },
+        {
+          "lat": 6.1574118,
+          "lon": -75.6165258
+        },
+        {
+          "lat": 6.1580654,
+          "lon": -75.6153932
+        },
+        {
+          "lat": 6.1580943,
+          "lon": -75.6154101
+        },
+        {
+          "lat": 6.1581875,
+          "lon": -75.6154644
+        },
+        {
+          "lat": 6.158218,
+          "lon": -75.6154822
+        },
+        {
+          "lat": 6.1575675,
+          "lon": -75.6166098
+        },
+        {
+          "lat": 6.1574116,
+          "lon": -75.6168823
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "2",
+        "name": "Sabaneta",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 786314690,
+      "bounds": {
+        "minlat": 6.2024894,
+        "minlon": -75.6058128,
+        "maxlat": 6.2029641,
+        "maxlon": -75.6054292
+      },
+      "nodes": [
+        7352109543,
+        7352109544,
+        7352109545,
+        7352109546,
+        7352109547,
+        7352109548,
+        7352109543
+      ],
+      "geometry": [
+        {
+          "lat": 6.2024894,
+          "lon": -75.6056465
+        },
+        {
+          "lat": 6.2027028,
+          "lon": -75.6054292
+        },
+        {
+          "lat": 6.2029641,
+          "lon": -75.6055178
+        },
+        {
+          "lat": 6.2029161,
+          "lon": -75.6056331
+        },
+        {
+          "lat": 6.2028121,
+          "lon": -75.6056438
+        },
+        {
+          "lat": 6.2026441,
+          "lon": -75.6058128
+        },
+        {
+          "lat": 6.2024894,
+          "lon": -75.6056465
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44685163,
+      "bounds": {
+        "minlat": 6.1740273,
+        "minlon": -75.5979583,
+        "maxlat": 6.1753751,
+        "maxlon": -75.5961558
+      },
+      "nodes": [
+        567071875,
+        11935728532,
+        11935728540,
+        567071876,
+        567071878,
+        4314616124,
+        1213535680,
+        567071880,
+        567071875
+      ],
+      "geometry": [
+        {
+          "lat": 6.1742183,
+          "lon": -75.5979064
+        },
+        {
+          "lat": 6.1741817,
+          "lon": -75.5979583
+        },
+        {
+          "lat": 6.1740273,
+          "lon": -75.5978482
+        },
+        {
+          "lat": 6.1740633,
+          "lon": -75.5977971
+        },
+        {
+          "lat": 6.1751937,
+          "lon": -75.5961935
+        },
+        {
+          "lat": 6.1752203,
+          "lon": -75.5961558
+        },
+        {
+          "lat": 6.1753751,
+          "lon": -75.5962662
+        },
+        {
+          "lat": 6.1753486,
+          "lon": -75.5963038
+        },
+        {
+          "lat": 6.1742183,
+          "lon": -75.5979064
+        }
+      ],
+      "tags": {
+        "building": "station",
+        "layer": "1",
+        "name": "Envigado",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935663461,
+      "bounds": {
+        "minlat": 6.1856053,
+        "minlon": -75.5867637,
+        "maxlat": 6.186705,
+        "maxlon": -75.5853476
+      },
+      "nodes": [
+        8670496142,
+        1213550346,
+        1213550341,
+        1214396495,
+        8670496151,
+        8670496143,
+        11986875139,
+        3695022162,
+        8670496150,
+        8670496142
+      ],
+      "geometry": [
+        {
+          "lat": 6.1857311,
+          "lon": -75.5867637
+        },
+        {
+          "lat": 6.185696,
+          "lon": -75.5867376
+        },
+        {
+          "lat": 6.1856368,
+          "lon": -75.5866935
+        },
+        {
+          "lat": 6.1856053,
+          "lon": -75.58667
+        },
+        {
+          "lat": 6.1865585,
+          "lon": -75.5853755
+        },
+        {
+          "lat": 6.186579,
+          "lon": -75.5853476
+        },
+        {
+          "lat": 6.1865941,
+          "lon": -75.5853589
+        },
+        {
+          "lat": 6.186705,
+          "lon": -75.5854415
+        },
+        {
+          "lat": 6.1866849,
+          "lon": -75.5854687
+        },
+        {
+          "lat": 6.1857311,
+          "lon": -75.5867637
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Estación del Metro Ayurá",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935657177,
+      "bounds": {
+        "minlat": 6.1931329,
+        "minlon": -75.5821508,
+        "maxlat": 6.194862,
+        "maxlon": -75.5814127
+      },
+      "nodes": [
+        8670427176,
+        1213570852,
+        1213570836,
+        1214397344,
+        8670427178,
+        8670427177,
+        8987311850,
+        7029799231,
+        8670427179,
+        8670427176
+      ],
+      "geometry": [
+        {
+          "lat": 6.19318,
+          "lon": -75.5821508
+        },
+        {
+          "lat": 6.193171,
+          "lon": -75.5821256
+        },
+        {
+          "lat": 6.1931414,
+          "lon": -75.5820423
+        },
+        {
+          "lat": 6.1931329,
+          "lon": -75.5820186
+        },
+        {
+          "lat": 6.1946462,
+          "lon": -75.5814735
+        },
+        {
+          "lat": 6.194815,
+          "lon": -75.5814127
+        },
+        {
+          "lat": 6.194823,
+          "lon": -75.5814351
+        },
+        {
+          "lat": 6.194862,
+          "lon": -75.5815447
+        },
+        {
+          "lat": 6.1946947,
+          "lon": -75.581605
+        },
+        {
+          "lat": 6.19318,
+          "lon": -75.5821508
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Aguacatala",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785222394,
+      "bounds": {
+        "minlat": 6.2213453,
+        "minlon": -75.6121564,
+        "maxlat": 6.2218415,
+        "maxlon": -75.6112007
+      },
+      "nodes": [
+        7337321101,
+        10796869547,
+        10796869498,
+        10796869497,
+        10796869489,
+        7337321102,
+        7337321103,
+        7337321104,
+        7337321105,
+        7337321106,
+        10796869523,
+        7337321101
+      ],
+      "geometry": [
+        {
+          "lat": 6.2214066,
+          "lon": -75.6112197
+        },
+        {
+          "lat": 6.221531,
+          "lon": -75.6112064
+        },
+        {
+          "lat": 6.2215501,
+          "lon": -75.6112086
+        },
+        {
+          "lat": 6.221661,
+          "lon": -75.6112051
+        },
+        {
+          "lat": 6.2216728,
+          "lon": -75.6112007
+        },
+        {
+          "lat": 6.221719,
+          "lon": -75.6112074
+        },
+        {
+          "lat": 6.2216577,
+          "lon": -75.6118483
+        },
+        {
+          "lat": 6.2218415,
+          "lon": -75.6120147
+        },
+        {
+          "lat": 6.2216884,
+          "lon": -75.6121564
+        },
+        {
+          "lat": 6.2213453,
+          "lon": -75.6118421
+        },
+        {
+          "lat": 6.221402,
+          "lon": -75.6112881
+        },
+        {
+          "lat": 6.2214066,
+          "lon": -75.6112197
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922790195,
+      "bounds": {
+        "minlat": 6.2310286,
+        "minlon": -75.6053899,
+        "maxlat": 6.2310819,
+        "maxlon": -75.6049323
+      },
+      "nodes": [
+        8566349399,
+        3663237615,
+        8566349400,
+        8566349401,
+        3663237618,
+        8566349402,
+        8566349399
+      ],
+      "geometry": [
+        {
+          "lat": 6.2310673,
+          "lon": -75.6053899
+        },
+        {
+          "lat": 6.231049,
+          "lon": -75.6053894
+        },
+        {
+          "lat": 6.2310286,
+          "lon": -75.6053887
+        },
+        {
+          "lat": 6.2310433,
+          "lon": -75.6049323
+        },
+        {
+          "lat": 6.2310627,
+          "lon": -75.6049329
+        },
+        {
+          "lat": 6.2310819,
+          "lon": -75.6049335
+        },
+        {
+          "lat": 6.2310673,
+          "lon": -75.6053899
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Los Alpes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922790192,
+      "bounds": {
+        "minlat": 6.2304084,
+        "minlon": -75.6096912,
+        "maxlat": 6.231103,
+        "maxlon": -75.6083493
+      },
+      "nodes": [
+        8566349359,
+        8566349360,
+        8566349351,
+        8566349352,
+        8566349361,
+        8566349362,
+        8566349363,
+        8566349364,
+        2397757480,
+        8566349365,
+        8566349378,
+        8566349366,
+        8566349367,
+        8566349368,
+        8566349369,
+        8566349359
+      ],
+      "geometry": [
+        {
+          "lat": 6.231007,
+          "lon": -75.6096274
+        },
+        {
+          "lat": 6.2306645,
+          "lon": -75.6095934
+        },
+        {
+          "lat": 6.2306573,
+          "lon": -75.6096912
+        },
+        {
+          "lat": 6.2306126,
+          "lon": -75.6096879
+        },
+        {
+          "lat": 6.2304084,
+          "lon": -75.6096689
+        },
+        {
+          "lat": 6.2304391,
+          "lon": -75.608985
+        },
+        {
+          "lat": 6.2304724,
+          "lon": -75.608985
+        },
+        {
+          "lat": 6.2304671,
+          "lon": -75.6089568
+        },
+        {
+          "lat": 6.2305111,
+          "lon": -75.6089568
+        },
+        {
+          "lat": 6.2305737,
+          "lon": -75.6089568
+        },
+        {
+          "lat": 6.2305864,
+          "lon": -75.6089219
+        },
+        {
+          "lat": 6.2305937,
+          "lon": -75.6088763
+        },
+        {
+          "lat": 6.2306324,
+          "lon": -75.608466
+        },
+        {
+          "lat": 6.2309204,
+          "lon": -75.6083493
+        },
+        {
+          "lat": 6.231103,
+          "lon": -75.6083614
+        },
+        {
+          "lat": 6.231007,
+          "lon": -75.6096274
+        }
+      ],
+      "tags": {
+        "addr:city": "Medellin, Comuna 16 - Belén, Los Alpes",
+        "addr:street": "Carrera 87 # 29A - 28",
+        "air_conditioning": "no",
+        "amenity": "bus_station",
+        "baby_feeding": "no",
+        "building": "service",
+        "bus": "yes",
+        "internet_access": "no",
+        "name": "Universidad de Medellín",
+        "network": "Metroplús",
+        "operator": "Metroplús S. A.",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 150808561,
+      "bounds": {
+        "minlat": 6.2563517,
+        "minlon": -75.6145528,
+        "maxlat": 6.2573599,
+        "maxlon": -75.6130937
+      },
+      "nodes": [
+        13227614833,
+        13227614832,
+        13227614834,
+        3502845666,
+        13227614835,
+        3502845673,
+        13227614836,
+        3502845676,
+        8639240644,
+        13951025627,
+        13951025626,
+        13227614828,
+        13951025628,
+        1636821109,
+        8639240650,
+        1636821115,
+        8639240648,
+        1636821120,
+        13227614829,
+        13227614830,
+        1636821089,
+        1636821085,
+        3502845671,
+        3502845669,
+        13227614833
+      ],
+      "geometry": [
+        {
+          "lat": 6.2565001,
+          "lon": -75.6130937
+        },
+        {
+          "lat": 6.2564397,
+          "lon": -75.6131343
+        },
+        {
+          "lat": 6.2563517,
+          "lon": -75.6131936
+        },
+        {
+          "lat": 6.2564239,
+          "lon": -75.6133022
+        },
+        {
+          "lat": 6.2563926,
+          "lon": -75.6133233
+        },
+        {
+          "lat": 6.2566252,
+          "lon": -75.613673
+        },
+        {
+          "lat": 6.2566567,
+          "lon": -75.6136518
+        },
+        {
+          "lat": 6.2567699,
+          "lon": -75.6138221
+        },
+        {
+          "lat": 6.2568111,
+          "lon": -75.6137944
+        },
+        {
+          "lat": 6.2570945,
+          "lon": -75.6142207
+        },
+        {
+          "lat": 6.2571049,
+          "lon": -75.6142137
+        },
+        {
+          "lat": 6.2572178,
+          "lon": -75.6143836
+        },
+        {
+          "lat": 6.2571953,
+          "lon": -75.6143988
+        },
+        {
+          "lat": 6.2571029,
+          "lon": -75.614461
+        },
+        {
+          "lat": 6.2571422,
+          "lon": -75.6145201
+        },
+        {
+          "lat": 6.257164,
+          "lon": -75.6145528
+        },
+        {
+          "lat": 6.2571994,
+          "lon": -75.614529
+        },
+        {
+          "lat": 6.2573599,
+          "lon": -75.6144209
+        },
+        {
+          "lat": 6.2572993,
+          "lon": -75.6143299
+        },
+        {
+          "lat": 6.2573154,
+          "lon": -75.6143191
+        },
+        {
+          "lat": 6.2568052,
+          "lon": -75.6135517
+        },
+        {
+          "lat": 6.2568388,
+          "lon": -75.6135292
+        },
+        {
+          "lat": 6.2566062,
+          "lon": -75.6131794
+        },
+        {
+          "lat": 6.2565723,
+          "lon": -75.6132023
+        },
+        {
+          "lat": 6.2565001,
+          "lon": -75.6130937
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "San Javier",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 932453764,
+      "bounds": {
+        "minlat": 6.2577821,
+        "minlon": -75.6040899,
+        "maxlat": 6.2583824,
+        "maxlon": -75.6034004
+      },
+      "nodes": [
+        309027658,
+        1215469059,
+        1215400923,
+        8643783287,
+        8643783288,
+        8643783296,
+        8643783289,
+        8643783290,
+        8643783291,
+        8643783292,
+        8643783294,
+        8643783293,
+        309027658
+      ],
+      "geometry": [
+        {
+          "lat": 6.2578896,
+          "lon": -75.6040899
+        },
+        {
+          "lat": 6.2578738,
+          "lon": -75.6040771
+        },
+        {
+          "lat": 6.257804,
+          "lon": -75.6040208
+        },
+        {
+          "lat": 6.2577821,
+          "lon": -75.6040032
+        },
+        {
+          "lat": 6.2581302,
+          "lon": -75.6035664
+        },
+        {
+          "lat": 6.2581157,
+          "lon": -75.6035547
+        },
+        {
+          "lat": 6.2581025,
+          "lon": -75.603544
+        },
+        {
+          "lat": 6.2582169,
+          "lon": -75.6034004
+        },
+        {
+          "lat": 6.2583824,
+          "lon": -75.6035339
+        },
+        {
+          "lat": 6.2582645,
+          "lon": -75.6036818
+        },
+        {
+          "lat": 6.2582502,
+          "lon": -75.6036702
+        },
+        {
+          "lat": 6.2582342,
+          "lon": -75.6036574
+        },
+        {
+          "lat": 6.2578896,
+          "lon": -75.6040899
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Santa Lucía",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428301173,
+      "bounds": {
+        "minlat": 6.2654469,
+        "minlon": -75.6138088,
+        "maxlat": 6.2658516,
+        "maxlon": -75.6135803
+      },
+      "nodes": [
+        2983514938,
+        8639240632,
+        13131093454,
+        13131093455,
+        8639240633,
+        3680112471,
+        3680112472,
+        8639240629,
+        8639240631,
+        8639240636,
+        8639240630,
+        8639240628,
+        2983514940,
+        2983514938
+      ],
+      "geometry": [
+        {
+          "lat": 6.2655411,
+          "lon": -75.6135803
+        },
+        {
+          "lat": 6.2655402,
+          "lon": -75.6136541
+        },
+        {
+          "lat": 6.2654522,
+          "lon": -75.6136534
+        },
+        {
+          "lat": 6.2654469,
+          "lon": -75.6137346
+        },
+        {
+          "lat": 6.2655383,
+          "lon": -75.6137324
+        },
+        {
+          "lat": 6.2655374,
+          "lon": -75.6138054
+        },
+        {
+          "lat": 6.2658155,
+          "lon": -75.6138088
+        },
+        {
+          "lat": 6.2658162,
+          "lon": -75.6137517
+        },
+        {
+          "lat": 6.2658507,
+          "lon": -75.6137521
+        },
+        {
+          "lat": 6.2658511,
+          "lon": -75.6137193
+        },
+        {
+          "lat": 6.2658516,
+          "lon": -75.6136805
+        },
+        {
+          "lat": 6.265816,
+          "lon": -75.6136801
+        },
+        {
+          "lat": 6.2658172,
+          "lon": -75.6135837
+        },
+        {
+          "lat": 6.2655411,
+          "lon": -75.6135803
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "middle",
+        "building": "roof",
+        "layer": "1",
+        "name": "Juan XXIII",
+        "public_transport": "station",
+        "wikidata": "Q5842959",
+        "wikimedia_commons": "Category:Estación Juan XXIII",
+        "wikipedia": "es:Estación Juan XXIII (Metro de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 294736620,
+      "bounds": {
+        "minlat": 6.2808504,
+        "minlon": -75.6143404,
+        "maxlat": 6.2812941,
+        "maxlon": -75.6135221
+      },
+      "nodes": [
+        2983519452,
+        8639047400,
+        3680112489,
+        3680112488,
+        2983519453,
+        2983519451,
+        3680112486,
+        2983519450,
+        13736811400,
+        13736823401,
+        2983519452
+      ],
+      "geometry": [
+        {
+          "lat": 6.2812715,
+          "lon": -75.6143265
+        },
+        {
+          "lat": 6.2812822,
+          "lon": -75.614213
+        },
+        {
+          "lat": 6.2812935,
+          "lon": -75.6140917
+        },
+        {
+          "lat": 6.2812643,
+          "lon": -75.614093
+        },
+        {
+          "lat": 6.2812941,
+          "lon": -75.6135876
+        },
+        {
+          "lat": 6.2810369,
+          "lon": -75.6135221
+        },
+        {
+          "lat": 6.2809071,
+          "lon": -75.6140329
+        },
+        {
+          "lat": 6.2808504,
+          "lon": -75.6142852
+        },
+        {
+          "lat": 6.2809943,
+          "lon": -75.6143404
+        },
+        {
+          "lat": 6.2810172,
+          "lon": -75.6142994
+        },
+        {
+          "lat": 6.2812715,
+          "lon": -75.6143265
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "Estación Metrocable La Aurora",
+        "network": "Metrocable",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "wikipedia": "es:Estación La Aurora (Metro de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 360054772,
+      "bounds": {
+        "minlat": 6.2751963,
+        "minlon": -75.6140673,
+        "maxlat": 6.2756112,
+        "maxlon": -75.6138218
+      },
+      "nodes": [
+        3646573564,
+        3646573565,
+        9693586124,
+        8639047406,
+        8639240617,
+        8639047407,
+        8639047404,
+        9693586129,
+        9693586127,
+        9693586126,
+        9693586125,
+        9693586128,
+        3646573567,
+        8639047414,
+        8639047408,
+        8639047409,
+        8639047411,
+        8639047410,
+        8639240618,
+        3646573564
+      ],
+      "geometry": [
+        {
+          "lat": 6.2755201,
+          "lon": -75.6140673
+        },
+        {
+          "lat": 6.2752803,
+          "lon": -75.6140616
+        },
+        {
+          "lat": 6.2752821,
+          "lon": -75.6139848
+        },
+        {
+          "lat": 6.2751963,
+          "lon": -75.6139827
+        },
+        {
+          "lat": 6.2751971,
+          "lon": -75.6139508
+        },
+        {
+          "lat": 6.2751983,
+          "lon": -75.6138984
+        },
+        {
+          "lat": 6.2752763,
+          "lon": -75.6139003
+        },
+        {
+          "lat": 6.2752773,
+          "lon": -75.6138571
+        },
+        {
+          "lat": 6.2752927,
+          "lon": -75.6138575
+        },
+        {
+          "lat": 6.2752936,
+          "lon": -75.6138218
+        },
+        {
+          "lat": 6.2754868,
+          "lon": -75.6138264
+        },
+        {
+          "lat": 6.275486,
+          "lon": -75.613862
+        },
+        {
+          "lat": 6.2755246,
+          "lon": -75.6138629
+        },
+        {
+          "lat": 6.2755234,
+          "lon": -75.6139133
+        },
+        {
+          "lat": 6.2755227,
+          "lon": -75.6139423
+        },
+        {
+          "lat": 6.2756112,
+          "lon": -75.6139444
+        },
+        {
+          "lat": 6.2756094,
+          "lon": -75.6140217
+        },
+        {
+          "lat": 6.2755212,
+          "lon": -75.6140196
+        },
+        {
+          "lat": 6.2755206,
+          "lon": -75.6140421
+        },
+        {
+          "lat": 6.2755201,
+          "lon": -75.6140673
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "Vallejuelos",
+        "public_transport": "station",
+        "wikipedia": "es:Estación Vallejuelos (Metrocable de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935503247,
+      "bounds": {
+        "minlat": 6.2109717,
+        "minlon": -75.5783439,
+        "maxlat": 6.2129883,
+        "maxlon": -75.5779028
+      },
+      "nodes": [
+        1490057395,
+        1214399411,
+        8669320528,
+        8669320534,
+        8669320525,
+        8669320526,
+        8669320533,
+        8669320527,
+        1490057395
+      ],
+      "geometry": [
+        {
+          "lat": 6.2129883,
+          "lon": -75.5780638
+        },
+        {
+          "lat": 6.2129659,
+          "lon": -75.5779028
+        },
+        {
+          "lat": 6.2129527,
+          "lon": -75.5779046
+        },
+        {
+          "lat": 6.2110191,
+          "lon": -75.5781766
+        },
+        {
+          "lat": 6.2109717,
+          "lon": -75.5781832
+        },
+        {
+          "lat": 6.210994,
+          "lon": -75.5783439
+        },
+        {
+          "lat": 6.2110408,
+          "lon": -75.5783374
+        },
+        {
+          "lat": 6.212975,
+          "lon": -75.5780657
+        },
+        {
+          "lat": 6.2129883,
+          "lon": -75.5780638
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Poblado",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327808319,
+      "bounds": {
+        "minlat": 6.2273168,
+        "minlon": -75.5604025,
+        "maxlat": 6.2280908,
+        "maxlon": -75.5596129
+      },
+      "nodes": [
+        3346209781,
+        3346209782,
+        3346209783,
+        3346209784,
+        3346209785,
+        3346209786,
+        3346209787,
+        3346209788,
+        3346209789,
+        3346209790,
+        3346209791,
+        3346209781
+      ],
+      "geometry": [
+        {
+          "lat": 6.2279425,
+          "lon": -75.5604025
+        },
+        {
+          "lat": 6.2277508,
+          "lon": -75.560337
+        },
+        {
+          "lat": 6.227494,
+          "lon": -75.5601587
+        },
+        {
+          "lat": 6.2273168,
+          "lon": -75.5599804
+        },
+        {
+          "lat": 6.2273204,
+          "lon": -75.559893
+        },
+        {
+          "lat": 6.2273348,
+          "lon": -75.5597511
+        },
+        {
+          "lat": 6.2279606,
+          "lon": -75.559642
+        },
+        {
+          "lat": 6.228033,
+          "lon": -75.5596129
+        },
+        {
+          "lat": 6.2280908,
+          "lon": -75.5596784
+        },
+        {
+          "lat": 6.2279859,
+          "lon": -75.5598348
+        },
+        {
+          "lat": 6.2280076,
+          "lon": -75.5600495
+        },
+        {
+          "lat": 6.2279425,
+          "lon": -75.5604025
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Terminal Milagrosa Salvador",
+        "operator": "Transportes La Milagrosa S.A.",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922790198,
+      "bounds": {
+        "minlat": 6.2311111,
+        "minlon": -75.6012622,
+        "maxlat": 6.2311775,
+        "maxlon": -75.6007835
+      },
+      "nodes": [
+        8566349467,
+        3617311443,
+        8566349468,
+        8566349469,
+        3617311446,
+        8566349470,
+        8566349467
+      ],
+      "geometry": [
+        {
+          "lat": 6.231153,
+          "lon": -75.6012622
+        },
+        {
+          "lat": 6.2311316,
+          "lon": -75.6012611
+        },
+        {
+          "lat": 6.2311111,
+          "lon": -75.60126
+        },
+        {
+          "lat": 6.2311358,
+          "lon": -75.6007835
+        },
+        {
+          "lat": 6.2311553,
+          "lon": -75.6007845
+        },
+        {
+          "lat": 6.2311775,
+          "lon": -75.6007857
+        },
+        {
+          "lat": 6.231153,
+          "lon": -75.6012622
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "La Palma",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922790205,
+      "bounds": {
+        "minlat": 6.2313383,
+        "minlon": -75.5969835,
+        "maxlat": 6.231392,
+        "maxlon": -75.5964983
+      },
+      "nodes": [
+        8566349516,
+        3663240737,
+        8566349517,
+        8566349518,
+        3663240739,
+        8566349519,
+        8566349516
+      ],
+      "geometry": [
+        {
+          "lat": 6.2313732,
+          "lon": -75.5969835
+        },
+        {
+          "lat": 6.2313556,
+          "lon": -75.5969828
+        },
+        {
+          "lat": 6.2313383,
+          "lon": -75.5969821
+        },
+        {
+          "lat": 6.231357,
+          "lon": -75.5964983
+        },
+        {
+          "lat": 6.2313749,
+          "lon": -75.596499
+        },
+        {
+          "lat": 6.231392,
+          "lon": -75.5964997
+        },
+        {
+          "lat": 6.2313732,
+          "lon": -75.5969835
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Parque Belén",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922793132,
+      "bounds": {
+        "minlat": 6.2316354,
+        "minlon": -75.5868069,
+        "maxlat": 6.2317335,
+        "maxlon": -75.5863217
+      },
+      "nodes": [
+        8566362146,
+        3617311465,
+        3617311463,
+        8566362147,
+        8566362148,
+        3617311462,
+        3617311467,
+        8566362149,
+        8566362146
+      ],
+      "geometry": [
+        {
+          "lat": 6.2317244,
+          "lon": -75.5868069
+        },
+        {
+          "lat": 6.2317084,
+          "lon": -75.5868066
+        },
+        {
+          "lat": 6.2316538,
+          "lon": -75.5868055
+        },
+        {
+          "lat": 6.2316354,
+          "lon": -75.5868052
+        },
+        {
+          "lat": 6.2316446,
+          "lon": -75.5863217
+        },
+        {
+          "lat": 6.2316639,
+          "lon": -75.5863221
+        },
+        {
+          "lat": 6.2317165,
+          "lon": -75.5863231
+        },
+        {
+          "lat": 6.2317335,
+          "lon": -75.5863234
+        },
+        {
+          "lat": 6.2317244,
+          "lon": -75.5868069
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Fátima",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922793145,
+      "bounds": {
+        "minlat": 6.2317577,
+        "minlon": -75.5822866,
+        "maxlat": 6.2318567,
+        "maxlon": -75.5818317
+      },
+      "nodes": [
+        8566362196,
+        3663240771,
+        3663240768,
+        8566362197,
+        8566362198,
+        3663240769,
+        3663240772,
+        8566362199,
+        8566362196
+      ],
+      "geometry": [
+        {
+          "lat": 6.2318567,
+          "lon": -75.5818347
+        },
+        {
+          "lat": 6.231839,
+          "lon": -75.5818341
+        },
+        {
+          "lat": 6.2317881,
+          "lon": -75.5818322
+        },
+        {
+          "lat": 6.2317739,
+          "lon": -75.5818317
+        },
+        {
+          "lat": 6.2317577,
+          "lon": -75.5822836
+        },
+        {
+          "lat": 6.2317735,
+          "lon": -75.5822841
+        },
+        {
+          "lat": 6.2318229,
+          "lon": -75.5822859
+        },
+        {
+          "lat": 6.2318404,
+          "lon": -75.5822866
+        },
+        {
+          "lat": 6.2318567,
+          "lon": -75.5818347
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Nutibara",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922793161,
+      "bounds": {
+        "minlat": 6.2296979,
+        "minlon": -75.5767526,
+        "maxlat": 6.2308627,
+        "maxlon": -75.5765104
+      },
+      "nodes": [
+        8566374481,
+        3668322765,
+        8566374482,
+        8566374483,
+        3688479626,
+        8566374484,
+        8566374485,
+        2300284154,
+        8566374486,
+        8566374487,
+        3668322763,
+        8566374488,
+        8566374489,
+        8566374490,
+        8566374491,
+        3668322764,
+        8566374492,
+        8566374481
+      ],
+      "geometry": [
+        {
+          "lat": 6.2307653,
+          "lon": -75.5767279
+        },
+        {
+          "lat": 6.2307647,
+          "lon": -75.5767025
+        },
+        {
+          "lat": 6.2307642,
+          "lon": -75.5766798
+        },
+        {
+          "lat": 6.2308627,
+          "lon": -75.5766775
+        },
+        {
+          "lat": 6.2308614,
+          "lon": -75.5766219
+        },
+        {
+          "lat": 6.2308602,
+          "lon": -75.5765689
+        },
+        {
+          "lat": 6.2307601,
+          "lon": -75.5765713
+        },
+        {
+          "lat": 6.2307593,
+          "lon": -75.5765362
+        },
+        {
+          "lat": 6.2307587,
+          "lon": -75.5765104
+        },
+        {
+          "lat": 6.2296979,
+          "lon": -75.5765353
+        },
+        {
+          "lat": 6.2296986,
+          "lon": -75.5765651
+        },
+        {
+          "lat": 6.2296994,
+          "lon": -75.5766005
+        },
+        {
+          "lat": 6.230454,
+          "lon": -75.5765828
+        },
+        {
+          "lat": 6.2304558,
+          "lon": -75.5766606
+        },
+        {
+          "lat": 6.2297008,
+          "lon": -75.5766783
+        },
+        {
+          "lat": 6.2297017,
+          "lon": -75.5767175
+        },
+        {
+          "lat": 6.2297025,
+          "lon": -75.5767526
+        },
+        {
+          "lat": 6.2307653,
+          "lon": -75.5767279
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Industriales",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 929621147,
+      "bounds": {
+        "minlat": 6.2528155,
+        "minlon": -75.583301,
+        "maxlat": 6.2531254,
+        "maxlon": -75.5825579
+      },
+      "nodes": [
+        8621264604,
+        1215469057,
+        1215393821,
+        8621264605,
+        8644050741,
+        8621264606,
+        8621264607,
+        8621264608,
+        8621264609,
+        8644050747,
+        8621264610,
+        1215393823,
+        1215469054,
+        8621264611,
+        8621264612,
+        8621264613,
+        8644050746,
+        8621264614,
+        8621264615,
+        8644050740,
+        8621264604
+      ],
+      "geometry": [
+        {
+          "lat": 6.2531254,
+          "lon": -75.5832653
+        },
+        {
+          "lat": 6.2530824,
+          "lon": -75.5832753
+        },
+        {
+          "lat": 6.2530163,
+          "lon": -75.5832905
+        },
+        {
+          "lat": 6.2529712,
+          "lon": -75.583301
+        },
+        {
+          "lat": 6.2529644,
+          "lon": -75.5832713
+        },
+        {
+          "lat": 6.2529312,
+          "lon": -75.5831256
+        },
+        {
+          "lat": 6.2529025,
+          "lon": -75.5831322
+        },
+        {
+          "lat": 6.2528607,
+          "lon": -75.582949
+        },
+        {
+          "lat": 6.2528955,
+          "lon": -75.5829409
+        },
+        {
+          "lat": 6.2528631,
+          "lon": -75.5827988
+        },
+        {
+          "lat": 6.2528155,
+          "lon": -75.5825903
+        },
+        {
+          "lat": 6.2528622,
+          "lon": -75.5825795
+        },
+        {
+          "lat": 6.2529183,
+          "lon": -75.5825666
+        },
+        {
+          "lat": 6.252956,
+          "lon": -75.5825579
+        },
+        {
+          "lat": 6.2529996,
+          "lon": -75.5827492
+        },
+        {
+          "lat": 6.2530307,
+          "lon": -75.582742
+        },
+        {
+          "lat": 6.2530351,
+          "lon": -75.5827612
+        },
+        {
+          "lat": 6.2530767,
+          "lon": -75.5829437
+        },
+        {
+          "lat": 6.2530531,
+          "lon": -75.5829491
+        },
+        {
+          "lat": 6.2531192,
+          "lon": -75.5832381
+        },
+        {
+          "lat": 6.2531254,
+          "lon": -75.5832653
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Suramericana",
+        "network": "Metro de Medellín",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918213503,
+      "bounds": {
+        "minlat": 6.2532099,
+        "minlon": -75.5886037,
+        "maxlat": 6.253485,
+        "maxlon": -75.5878643
+      },
+      "nodes": [
+        8527922476,
+        8527922477,
+        8527922478,
+        8527922479,
+        8643851231,
+        8527922480,
+        8527922481,
+        8527922482,
+        8527922483,
+        8527922484,
+        8527922485,
+        8643851236,
+        8527922486,
+        8527922487,
+        8643851237,
+        8527922488,
+        8527922489,
+        8527922490,
+        8527922491,
+        8527922492,
+        8527922493,
+        8643851232,
+        8527922494,
+        8527922495,
+        8527922476
+      ],
+      "geometry": [
+        {
+          "lat": 6.2534105,
+          "lon": -75.5885999
+        },
+        {
+          "lat": 6.2532611,
+          "lon": -75.5886037
+        },
+        {
+          "lat": 6.2532584,
+          "lon": -75.5884923
+        },
+        {
+          "lat": 6.2532106,
+          "lon": -75.5884936
+        },
+        {
+          "lat": 6.2532102,
+          "lon": -75.588481
+        },
+        {
+          "lat": 6.2532099,
+          "lon": -75.5884661
+        },
+        {
+          "lat": 6.253254,
+          "lon": -75.588465
+        },
+        {
+          "lat": 6.2532526,
+          "lon": -75.588411
+        },
+        {
+          "lat": 6.2532313,
+          "lon": -75.5884115
+        },
+        {
+          "lat": 6.2532226,
+          "lon": -75.5880605
+        },
+        {
+          "lat": 6.253244,
+          "lon": -75.58806
+        },
+        {
+          "lat": 6.253241,
+          "lon": -75.5879367
+        },
+        {
+          "lat": 6.2532393,
+          "lon": -75.587868
+        },
+        {
+          "lat": 6.2533883,
+          "lon": -75.5878643
+        },
+        {
+          "lat": 6.25339,
+          "lon": -75.587933
+        },
+        {
+          "lat": 6.2533929,
+          "lon": -75.5880532
+        },
+        {
+          "lat": 6.2534239,
+          "lon": -75.5880524
+        },
+        {
+          "lat": 6.2534326,
+          "lon": -75.5884056
+        },
+        {
+          "lat": 6.2534037,
+          "lon": -75.5884063
+        },
+        {
+          "lat": 6.2534051,
+          "lon": -75.5884627
+        },
+        {
+          "lat": 6.2534841,
+          "lon": -75.5884607
+        },
+        {
+          "lat": 6.2534845,
+          "lon": -75.5884768
+        },
+        {
+          "lat": 6.253485,
+          "lon": -75.5884952
+        },
+        {
+          "lat": 6.253408,
+          "lon": -75.5884971
+        },
+        {
+          "lat": 6.2534105,
+          "lon": -75.5885999
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Estadio",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935466583,
+      "bounds": {
+        "minlat": 6.2337653,
+        "minlon": -75.5701505,
+        "maxlat": 6.2342184,
+        "maxlon": -75.5700452
+      },
+      "nodes": [
+        8669024744,
+        8669024745,
+        8669024749,
+        8669024746,
+        8669024747,
+        8669024748,
+        8669024744
+      ],
+      "geometry": [
+        {
+          "lat": 6.2342134,
+          "lon": -75.5701505
+        },
+        {
+          "lat": 6.2337653,
+          "lon": -75.5701201
+        },
+        {
+          "lat": 6.2337678,
+          "lon": -75.5700826
+        },
+        {
+          "lat": 6.2337703,
+          "lon": -75.5700452
+        },
+        {
+          "lat": 6.2342184,
+          "lon": -75.5700756
+        },
+        {
+          "lat": 6.2342158,
+          "lon": -75.570114
+        },
+        {
+          "lat": 6.2342134,
+          "lon": -75.5701505
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Perpetuo Socorro",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935493310,
+      "bounds": {
+        "minlat": 6.2292521,
+        "minlon": -75.5758307,
+        "maxlat": 6.2308225,
+        "maxlon": -75.5754353
+      },
+      "nodes": [
+        1214399891,
+        8669231539,
+        8669231538,
+        8669231536,
+        8669231537,
+        1213595372,
+        1213595378,
+        3693492441,
+        1214399891
+      ],
+      "geometry": [
+        {
+          "lat": 6.2308225,
+          "lon": -75.575608
+        },
+        {
+          "lat": 6.2308179,
+          "lon": -75.5755758
+        },
+        {
+          "lat": 6.2308035,
+          "lon": -75.5754747
+        },
+        {
+          "lat": 6.2307979,
+          "lon": -75.5754353
+        },
+        {
+          "lat": 6.2292521,
+          "lon": -75.5756583
+        },
+        {
+          "lat": 6.2292576,
+          "lon": -75.575697
+        },
+        {
+          "lat": 6.2292711,
+          "lon": -75.5757915
+        },
+        {
+          "lat": 6.2292767,
+          "lon": -75.5758307
+        },
+        {
+          "lat": 6.2308225,
+          "lon": -75.575608
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "1",
+        "name": "Industriales",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935493290,
+      "bounds": {
+        "minlat": 6.2422259,
+        "minlon": -75.5717615,
+        "maxlat": 6.2436386,
+        "maxlon": -75.5710701
+      },
+      "nodes": [
+        1214417209,
+        1213731828,
+        1213731829,
+        8669223342,
+        8669223343,
+        1213731831,
+        1213731830,
+        8669223344,
+        1214417209
+      ],
+      "geometry": [
+        {
+          "lat": 6.2436386,
+          "lon": -75.5712248
+        },
+        {
+          "lat": 6.243623,
+          "lon": -75.5711845
+        },
+        {
+          "lat": 6.243592,
+          "lon": -75.5711046
+        },
+        {
+          "lat": 6.2435787,
+          "lon": -75.5710701
+        },
+        {
+          "lat": 6.2422259,
+          "lon": -75.5715972
+        },
+        {
+          "lat": 6.2422367,
+          "lon": -75.5716269
+        },
+        {
+          "lat": 6.2422658,
+          "lon": -75.5717068
+        },
+        {
+          "lat": 6.2422858,
+          "lon": -75.5717615
+        },
+        {
+          "lat": 6.2436386,
+          "lon": -75.5712248
+        }
+      ],
+      "tags": {
+        "bridge": "yes",
+        "building": "train_station",
+        "layer": "1",
+        "name": "Alpujarra",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 932914924,
+      "bounds": {
+        "minlat": 6.2403839,
+        "minlon": -75.5699574,
+        "maxlat": 6.2408337,
+        "maxlon": -75.5697243
+      },
+      "nodes": [
+        8647836724,
+        8647836725,
+        8647836729,
+        8647836726,
+        8647836727,
+        8647836728,
+        8647836724
+      ],
+      "geometry": [
+        {
+          "lat": 6.2408337,
+          "lon": -75.5697869
+        },
+        {
+          "lat": 6.2404087,
+          "lon": -75.5699574
+        },
+        {
+          "lat": 6.2403989,
+          "lon": -75.5699328
+        },
+        {
+          "lat": 6.2403839,
+          "lon": -75.569895
+        },
+        {
+          "lat": 6.2408089,
+          "lon": -75.5697243
+        },
+        {
+          "lat": 6.2408223,
+          "lon": -75.5697581
+        },
+        {
+          "lat": 6.2408337,
+          "lon": -75.5697869
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Barrio Colón",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935493298,
+      "bounds": {
+        "minlat": 6.2377876,
+        "minlon": -75.5734585,
+        "maxlat": 6.2390442,
+        "maxlon": -75.5728742
+      },
+      "nodes": [
+        1214400199,
+        1213636561,
+        1213636564,
+        8669223371,
+        8669223372,
+        1213636558,
+        1213636571,
+        8669223373,
+        1214400199
+      ],
+      "geometry": [
+        {
+          "lat": 6.2390442,
+          "lon": -75.573005
+        },
+        {
+          "lat": 6.2390338,
+          "lon": -75.572977
+        },
+        {
+          "lat": 6.239003,
+          "lon": -75.5728939
+        },
+        {
+          "lat": 6.2389957,
+          "lon": -75.5728742
+        },
+        {
+          "lat": 6.2377876,
+          "lon": -75.5733275
+        },
+        {
+          "lat": 6.2377965,
+          "lon": -75.5733512
+        },
+        {
+          "lat": 6.237828,
+          "lon": -75.5734363
+        },
+        {
+          "lat": 6.2378362,
+          "lon": -75.5734585
+        },
+        {
+          "lat": 6.2390442,
+          "lon": -75.573005
+        }
+      ],
+      "tags": {
+        "bridge": "yes",
+        "building": "train_station",
+        "layer": "3",
+        "name": "Exposiciones",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 923968926,
+      "bounds": {
+        "minlat": 6.2432069,
+        "minlon": -75.5753931,
+        "maxlat": 6.2441385,
+        "maxlon": -75.5753053
+      },
+      "nodes": [
+        8576987877,
+        3663240782,
+        8576987878,
+        8576987879,
+        3663240784,
+        8576987880,
+        8576987877
+      ],
+      "geometry": [
+        {
+          "lat": 6.2432087,
+          "lon": -75.5753931
+        },
+        {
+          "lat": 6.2432077,
+          "lon": -75.5753616
+        },
+        {
+          "lat": 6.2432069,
+          "lon": -75.5753341
+        },
+        {
+          "lat": 6.2441367,
+          "lon": -75.5753053
+        },
+        {
+          "lat": 6.2441376,
+          "lon": -75.5753355
+        },
+        {
+          "lat": 6.2441385,
+          "lon": -75.5753644
+        },
+        {
+          "lat": 6.2432087,
+          "lon": -75.5753931
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Plaza Mayor",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 932532428,
+      "bounds": {
+        "minlat": 6.2469031,
+        "minlon": -75.5663108,
+        "maxlat": 6.2473186,
+        "maxlon": -75.5659652
+      },
+      "nodes": [
+        8644401635,
+        8644401636,
+        8644401645,
+        8644401637,
+        8644401638,
+        8644401677,
+        8644401635
+      ],
+      "geometry": [
+        {
+          "lat": 6.2469534,
+          "lon": -75.5663108
+        },
+        {
+          "lat": 6.2473186,
+          "lon": -75.5660318
+        },
+        {
+          "lat": 6.2472935,
+          "lon": -75.5659986
+        },
+        {
+          "lat": 6.2472683,
+          "lon": -75.5659652
+        },
+        {
+          "lat": 6.2469031,
+          "lon": -75.5662441
+        },
+        {
+          "lat": 6.246929,
+          "lon": -75.5662785
+        },
+        {
+          "lat": 6.2469534,
+          "lon": -75.5663108
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "San José",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 408040656,
+      "bounds": {
+        "minlat": 6.2465549,
+        "minlon": -75.5703129,
+        "maxlat": 6.2477886,
+        "maxlon": -75.5690433
+      },
+      "nodes": [
+        1214418069,
+        4100629925,
+        13944109327,
+        8644394516,
+        13944109314,
+        8644401537,
+        8644401539,
+        1213742364,
+        1213742356,
+        8644401541,
+        8644401540,
+        13944109312,
+        8644401517,
+        13944109384,
+        8644401520,
+        8644401519,
+        1215335099,
+        8647924402,
+        8647924404,
+        1215335131,
+        8644401518,
+        8644401521,
+        13944126007,
+        8644401523,
+        8644401525,
+        13121279798,
+        8644401531,
+        8644401532,
+        1213742349,
+        1213742360,
+        8644401534,
+        8644401533,
+        8644401550,
+        13944109336,
+        8644401524,
+        8644401522,
+        4100629927,
+        1215335088,
+        1215335084,
+        1214418069
+      ],
+      "geometry": [
+        {
+          "lat": 6.2473111,
+          "lon": -75.5703129
+        },
+        {
+          "lat": 6.2472245,
+          "lon": -75.5700726
+        },
+        {
+          "lat": 6.2471176,
+          "lon": -75.5701116
+        },
+        {
+          "lat": 6.2470783,
+          "lon": -75.5701259
+        },
+        {
+          "lat": 6.247046,
+          "lon": -75.5700363
+        },
+        {
+          "lat": 6.2469846,
+          "lon": -75.5698657
+        },
+        {
+          "lat": 6.2466056,
+          "lon": -75.5700039
+        },
+        {
+          "lat": 6.2465986,
+          "lon": -75.5699845
+        },
+        {
+          "lat": 6.2465619,
+          "lon": -75.5698827
+        },
+        {
+          "lat": 6.2465549,
+          "lon": -75.5698633
+        },
+        {
+          "lat": 6.2469345,
+          "lon": -75.5697249
+        },
+        {
+          "lat": 6.2468774,
+          "lon": -75.5695665
+        },
+        {
+          "lat": 6.2468167,
+          "lon": -75.569398
+        },
+        {
+          "lat": 6.2468753,
+          "lon": -75.5693767
+        },
+        {
+          "lat": 6.246972,
+          "lon": -75.5693414
+        },
+        {
+          "lat": 6.2468846,
+          "lon": -75.569099
+        },
+        {
+          "lat": 6.246905,
+          "lon": -75.5690915
+        },
+        {
+          "lat": 6.2469115,
+          "lon": -75.5690891
+        },
+        {
+          "lat": 6.2470112,
+          "lon": -75.5690528
+        },
+        {
+          "lat": 6.2470199,
+          "lon": -75.5690496
+        },
+        {
+          "lat": 6.2470373,
+          "lon": -75.5690433
+        },
+        {
+          "lat": 6.2471277,
+          "lon": -75.569294
+        },
+        {
+          "lat": 6.2472331,
+          "lon": -75.5692556
+        },
+        {
+          "lat": 6.2472594,
+          "lon": -75.569246
+        },
+        {
+          "lat": 6.2472676,
+          "lon": -75.5692687
+        },
+        {
+          "lat": 6.2473175,
+          "lon": -75.5694073
+        },
+        {
+          "lat": 6.2473623,
+          "lon": -75.5695315
+        },
+        {
+          "lat": 6.2477381,
+          "lon": -75.5693944
+        },
+        {
+          "lat": 6.2477457,
+          "lon": -75.5694152
+        },
+        {
+          "lat": 6.2477813,
+          "lon": -75.5695141
+        },
+        {
+          "lat": 6.2477886,
+          "lon": -75.5695343
+        },
+        {
+          "lat": 6.2474057,
+          "lon": -75.5696739
+        },
+        {
+          "lat": 6.2474562,
+          "lon": -75.5698139
+        },
+        {
+          "lat": 6.2475159,
+          "lon": -75.5699796
+        },
+        {
+          "lat": 6.2475181,
+          "lon": -75.5699857
+        },
+        {
+          "lat": 6.2473722,
+          "lon": -75.5700389
+        },
+        {
+          "lat": 6.2474524,
+          "lon": -75.5702614
+        },
+        {
+          "lat": 6.2474315,
+          "lon": -75.570269
+        },
+        {
+          "lat": 6.2473277,
+          "lon": -75.5703068
+        },
+        {
+          "lat": 6.2473111,
+          "lon": -75.5703129
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "San Antonio",
+        "network": "Metro de Medellín",
+        "network:wikidata": "Q654751",
+        "operator": "ETMVA",
+        "platforms": "4",
+        "public_transport": "station",
+        "railway": "station",
+        "shelter": "yes",
+        "station": "subway",
+        "subway": "yes",
+        "website": "https://www.metrodemedellin.gov.co/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 932492025,
+      "bounds": {
+        "minlat": 6.2487318,
+        "minlon": -75.5757529,
+        "maxlat": 6.2493292,
+        "maxlon": -75.574475
+      },
+      "nodes": [
+        8660247117,
+        8644050781,
+        8644050782,
+        8644050783,
+        8644050792,
+        8644050784,
+        8644050785,
+        8644050796,
+        8644050786,
+        8644050787,
+        8644050788,
+        8644050789,
+        8644050790,
+        8644050791,
+        8660247117
+      ],
+      "geometry": [
+        {
+          "lat": 6.2492416,
+          "lon": -75.5754893
+        },
+        {
+          "lat": 6.2492656,
+          "lon": -75.5755
+        },
+        {
+          "lat": 6.2493292,
+          "lon": -75.575692
+        },
+        {
+          "lat": 6.2491472,
+          "lon": -75.5757529
+        },
+        {
+          "lat": 6.2490963,
+          "lon": -75.5755991
+        },
+        {
+          "lat": 6.2490857,
+          "lon": -75.575567
+        },
+        {
+          "lat": 6.249099,
+          "lon": -75.5755308
+        },
+        {
+          "lat": 6.2488541,
+          "lon": -75.5748144
+        },
+        {
+          "lat": 6.2488377,
+          "lon": -75.5747664
+        },
+        {
+          "lat": 6.2488017,
+          "lon": -75.5747463
+        },
+        {
+          "lat": 6.2487318,
+          "lon": -75.5745388
+        },
+        {
+          "lat": 6.2489191,
+          "lon": -75.574475
+        },
+        {
+          "lat": 6.2489897,
+          "lon": -75.5746846
+        },
+        {
+          "lat": 6.248979,
+          "lon": -75.5747168
+        },
+        {
+          "lat": 6.2492416,
+          "lon": -75.5754893
+        }
+      ],
+      "tags": {
+        "building": "train_station",
+        "layer": "3",
+        "name": "Cisneros",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q10275653",
+        "wikipedia": "es:Estación Cisneros (Metro de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935096340,
+      "bounds": {
+        "minlat": 6.2504457,
+        "minlon": -75.5750989,
+        "maxlat": 6.2512783,
+        "maxlon": -75.5750116
+      },
+      "nodes": [
+        8665414936,
+        3663240791,
+        8665414937,
+        8665414938,
+        3663240790,
+        8665414939,
+        8665414936
+      ],
+      "geometry": [
+        {
+          "lat": 6.2512783,
+          "lon": -75.5750624
+        },
+        {
+          "lat": 6.2512773,
+          "lon": -75.5750394
+        },
+        {
+          "lat": 6.2512761,
+          "lon": -75.5750116
+        },
+        {
+          "lat": 6.2504457,
+          "lon": -75.5750482
+        },
+        {
+          "lat": 6.2504468,
+          "lon": -75.5750721
+        },
+        {
+          "lat": 6.2504479,
+          "lon": -75.5750989
+        },
+        {
+          "lat": 6.2512783,
+          "lon": -75.5750624
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Cisneros",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 934504294,
+      "bounds": {
+        "minlat": 6.2497756,
+        "minlon": -75.5686172,
+        "maxlat": 6.2512279,
+        "maxlon": -75.5678009
+      },
+      "nodes": [
+        1214419507,
+        1213749982,
+        1213749987,
+        8660831052,
+        8660831073,
+        8660831053,
+        1213749988,
+        1213749985,
+        8660831086,
+        8660831054,
+        8660831076,
+        8660831074,
+        1214419507
+      ],
+      "geometry": [
+        {
+          "lat": 6.2511212,
+          "lon": -75.5678009
+        },
+        {
+          "lat": 6.251156,
+          "lon": -75.5678865
+        },
+        {
+          "lat": 6.2512026,
+          "lon": -75.5680009
+        },
+        {
+          "lat": 6.2512279,
+          "lon": -75.568063
+        },
+        {
+          "lat": 6.2509552,
+          "lon": -75.5681753
+        },
+        {
+          "lat": 6.2498824,
+          "lon": -75.5686172
+        },
+        {
+          "lat": 6.2498579,
+          "lon": -75.568557
+        },
+        {
+          "lat": 6.249811,
+          "lon": -75.5684418
+        },
+        {
+          "lat": 6.2497877,
+          "lon": -75.5683847
+        },
+        {
+          "lat": 6.2497756,
+          "lon": -75.5683549
+        },
+        {
+          "lat": 6.250327,
+          "lon": -75.5681279
+        },
+        {
+          "lat": 6.2508464,
+          "lon": -75.567914
+        },
+        {
+          "lat": 6.2511212,
+          "lon": -75.5678009
+        }
+      ],
+      "tags": {
+        "bridge": "yes",
+        "building": "yes",
+        "layer": "1",
+        "name": "Parque Berrío",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 934509615,
+      "bounds": {
+        "minlat": 6.2493479,
+        "minlon": -75.5646296,
+        "maxlat": 6.2497751,
+        "maxlon": -75.5643584
+      },
+      "nodes": [
+        8660930989,
+        8660930990,
+        8660930994,
+        8660930991,
+        11448588811,
+        8660930993,
+        8660930989
+      ],
+      "geometry": [
+        {
+          "lat": 6.2497751,
+          "lon": -75.5644129
+        },
+        {
+          "lat": 6.2493773,
+          "lon": -75.5646296
+        },
+        {
+          "lat": 6.2493622,
+          "lon": -75.5646016
+        },
+        {
+          "lat": 6.2493479,
+          "lon": -75.5645751
+        },
+        {
+          "lat": 6.2497457,
+          "lon": -75.5643584
+        },
+        {
+          "lat": 6.2497574,
+          "lon": -75.5643801
+        },
+        {
+          "lat": 6.2497751,
+          "lon": -75.5644129
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "La Playa",
+        "note": "Está mal mapeado, las estaciones no se mapean como station, ya que tiene un contexto de terminal.",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 934509622,
+      "bounds": {
+        "minlat": 6.2526826,
+        "minlon": -75.5626914,
+        "maxlat": 6.2531004,
+        "maxlon": -75.5624279
+      },
+      "nodes": [
+        8660931026,
+        8660931030,
+        8660931027,
+        8660931028,
+        13625859299,
+        8660931029,
+        8660931026
+      ],
+      "geometry": [
+        {
+          "lat": 6.2531004,
+          "lon": -75.5624672
+        },
+        {
+          "lat": 6.2530897,
+          "lon": -75.5624481
+        },
+        {
+          "lat": 6.2530784,
+          "lon": -75.5624279
+        },
+        {
+          "lat": 6.2526826,
+          "lon": -75.5626521
+        },
+        {
+          "lat": 6.2526935,
+          "lon": -75.5626717
+        },
+        {
+          "lat": 6.2527046,
+          "lon": -75.5626914
+        },
+        {
+          "lat": 6.2531004,
+          "lon": -75.5624672
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Catedral",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1433622091,
+      "bounds": {
+        "minlat": 6.2198362,
+        "minlon": -75.5018576,
+        "maxlat": 6.2198862,
+        "maxlon": -75.5018233
+      },
+      "nodes": [
+        13175796329,
+        13175796330,
+        13175796331,
+        13175796332,
+        13175796329
+      ],
+      "geometry": [
+        {
+          "lat": 6.2198857,
+          "lon": -75.5018576
+        },
+        {
+          "lat": 6.2198862,
+          "lon": -75.5018322
+        },
+        {
+          "lat": 6.21984,
+          "lon": -75.5018233
+        },
+        {
+          "lat": 6.2198362,
+          "lon": -75.5018503
+        },
+        {
+          "lat": 6.2198857,
+          "lon": -75.5018576
+        }
+      ],
+      "tags": {
+        "name": "Parada El Silletero",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607398813,
+      "bounds": {
+        "minlat": 6.2329732,
+        "minlon": -75.540373,
+        "maxlat": 6.2336013,
+        "maxlon": -75.5397956
+      },
+      "nodes": [
+        3361686496,
+        8656091024,
+        8656091025,
+        8656091033,
+        8656091026,
+        13721019376,
+        13721019377,
+        5756412015,
+        5756412030,
+        8656091027,
+        5756412029,
+        5756412028,
+        3361686496
+      ],
+      "geometry": [
+        {
+          "lat": 6.233517,
+          "lon": -75.5401175
+        },
+        {
+          "lat": 6.2334212,
+          "lon": -75.5402042
+        },
+        {
+          "lat": 6.2332271,
+          "lon": -75.540373
+        },
+        {
+          "lat": 6.2330238,
+          "lon": -75.540102
+        },
+        {
+          "lat": 6.2329732,
+          "lon": -75.5400344
+        },
+        {
+          "lat": 6.2330607,
+          "lon": -75.5399746
+        },
+        {
+          "lat": 6.2331589,
+          "lon": -75.539904
+        },
+        {
+          "lat": 6.233159,
+          "lon": -75.5399411
+        },
+        {
+          "lat": 6.2331692,
+          "lon": -75.539885
+        },
+        {
+          "lat": 6.2332235,
+          "lon": -75.5399546
+        },
+        {
+          "lat": 6.2333769,
+          "lon": -75.5397956
+        },
+        {
+          "lat": 6.2336013,
+          "lon": -75.5400308
+        },
+        {
+          "lat": 6.233517,
+          "lon": -75.5401175
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "bottom",
+        "building": "yes",
+        "layer": "2",
+        "name": "Oriente",
+        "network": "Metrocable",
+        "public_transport": "station",
+        "wikidata": "Q21573537",
+        "wikimedia_commons": "Category:Estación Oriente",
+        "wikipedia": "es:Estación Oriente (Metrocable de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 933933012,
+      "bounds": {
+        "minlat": 6.2331362,
+        "minlon": -75.5405149,
+        "maxlat": 6.23343,
+        "maxlon": -75.5401475
+      },
+      "nodes": [
+        8656088515,
+        8656088516,
+        4100631421,
+        8656091017,
+        8656091018,
+        4100631422,
+        8656088515
+      ],
+      "geometry": [
+        {
+          "lat": 6.23343,
+          "lon": -75.5404892
+        },
+        {
+          "lat": 6.2331694,
+          "lon": -75.5401475
+        },
+        {
+          "lat": 6.233152,
+          "lon": -75.5401609
+        },
+        {
+          "lat": 6.2331362,
+          "lon": -75.5401731
+        },
+        {
+          "lat": 6.2333967,
+          "lon": -75.5405149
+        },
+        {
+          "lat": 6.2334143,
+          "lon": -75.5405013
+        },
+        {
+          "lat": 6.23343,
+          "lon": -75.5404892
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Oriente",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607398836,
+      "bounds": {
+        "minlat": 6.241575,
+        "minlon": -75.5496637,
+        "maxlat": 6.2421822,
+        "maxlon": -75.5487625
+      },
+      "nodes": [
+        5756412253,
+        5756412252,
+        8656021504,
+        5756412251,
+        8656021509,
+        5756412249,
+        8656024017,
+        3361686500,
+        8656021503,
+        4605659989,
+        8656021502,
+        5756412247,
+        5756412253
+      ],
+      "geometry": [
+        {
+          "lat": 6.2421822,
+          "lon": -75.5493876
+        },
+        {
+          "lat": 6.2419837,
+          "lon": -75.5489605
+        },
+        {
+          "lat": 6.2419519,
+          "lon": -75.5488911
+        },
+        {
+          "lat": 6.2418319,
+          "lon": -75.5487625
+        },
+        {
+          "lat": 6.2416769,
+          "lon": -75.548963
+        },
+        {
+          "lat": 6.241575,
+          "lon": -75.5490948
+        },
+        {
+          "lat": 6.2416223,
+          "lon": -75.5491899
+        },
+        {
+          "lat": 6.2416639,
+          "lon": -75.5492737
+        },
+        {
+          "lat": 6.2416093,
+          "lon": -75.5493483
+        },
+        {
+          "lat": 6.2417658,
+          "lon": -75.5496637
+        },
+        {
+          "lat": 6.2418406,
+          "lon": -75.5496269
+        },
+        {
+          "lat": 6.2418078,
+          "lon": -75.5495637
+        },
+        {
+          "lat": 6.2421822,
+          "lon": -75.5493876
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "bottom",
+        "building": "transportation",
+        "layer": "1",
+        "name": "Miraflores",
+        "network": "Metro de Medellín",
+        "public_transport": "station",
+        "usage": "tourism"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607466637,
+      "bounds": {
+        "minlat": 6.2347388,
+        "minlon": -75.5289022,
+        "maxlat": 6.2350054,
+        "maxlon": -75.5285156
+      },
+      "nodes": [
+        5757009801,
+        5757009793,
+        5757009792,
+        5757009800,
+        8656091044,
+        5757009799,
+        8656091045,
+        5757009798,
+        5757009797,
+        5757009796,
+        9695862321,
+        9695862322,
+        5757009794,
+        5757009801
+      ],
+      "geometry": [
+        {
+          "lat": 6.2348707,
+          "lon": -75.5288444
+        },
+        {
+          "lat": 6.2348866,
+          "lon": -75.5289022
+        },
+        {
+          "lat": 6.2349702,
+          "lon": -75.528884
+        },
+        {
+          "lat": 6.234964,
+          "lon": -75.5288158
+        },
+        {
+          "lat": 6.2350054,
+          "lon": -75.5288048
+        },
+        {
+          "lat": 6.2349291,
+          "lon": -75.5285156
+        },
+        {
+          "lat": 6.2348468,
+          "lon": -75.5285375
+        },
+        {
+          "lat": 6.2348046,
+          "lon": -75.5285488
+        },
+        {
+          "lat": 6.2348102,
+          "lon": -75.52857
+        },
+        {
+          "lat": 6.2347388,
+          "lon": -75.5285891
+        },
+        {
+          "lat": 6.2348079,
+          "lon": -75.5288509
+        },
+        {
+          "lat": 6.2348456,
+          "lon": -75.5288408
+        },
+        {
+          "lat": 6.2348488,
+          "lon": -75.528853
+        },
+        {
+          "lat": 6.2348707,
+          "lon": -75.5288444
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "top",
+        "building": "yes",
+        "name": "Villa Sierra",
+        "network": "Metrocable",
+        "public_transport": "station",
+        "wikidata": "Q28664161",
+        "wikimedia_commons": "Category:Estación Villa Sierra",
+        "wikipedia": "es:Estación Villa Sierra (Metrocable de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607465792,
+      "bounds": {
+        "minlat": 6.2364657,
+        "minlon": -75.5365645,
+        "maxlat": 6.2367302,
+        "maxlon": -75.5361493
+      },
+      "nodes": [
+        5756996296,
+        5756996295,
+        5756996294,
+        5756996285,
+        5756996284,
+        8656091040,
+        5756996283,
+        5756996286,
+        5756996293,
+        5756996292,
+        5756996291,
+        5756996289,
+        5756996288,
+        8656091042,
+        5756996287,
+        5756996296
+      ],
+      "geometry": [
+        {
+          "lat": 6.2365914,
+          "lon": -75.5365455
+        },
+        {
+          "lat": 6.2367302,
+          "lon": -75.5363927
+        },
+        {
+          "lat": 6.2366712,
+          "lon": -75.5361529
+        },
+        {
+          "lat": 6.2366286,
+          "lon": -75.5361632
+        },
+        {
+          "lat": 6.2366252,
+          "lon": -75.5361493
+        },
+        {
+          "lat": 6.2365932,
+          "lon": -75.5361564
+        },
+        {
+          "lat": 6.2365683,
+          "lon": -75.5361618
+        },
+        {
+          "lat": 6.2365715,
+          "lon": -75.536177
+        },
+        {
+          "lat": 6.2365263,
+          "lon": -75.5361879
+        },
+        {
+          "lat": 6.2365623,
+          "lon": -75.5363502
+        },
+        {
+          "lat": 6.2364818,
+          "lon": -75.5364422
+        },
+        {
+          "lat": 6.2365049,
+          "lon": -75.5364644
+        },
+        {
+          "lat": 6.2364657,
+          "lon": -75.5365057
+        },
+        {
+          "lat": 6.2365269,
+          "lon": -75.5365645
+        },
+        {
+          "lat": 6.2365672,
+          "lon": -75.5365221
+        },
+        {
+          "lat": 6.2365914,
+          "lon": -75.5365455
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "middle",
+        "building": "yes",
+        "name": "Las Torres",
+        "network": "Metrocable",
+        "public_transport": "station",
+        "wikidata": "Q28664160",
+        "wikimedia_commons": "Category:Estación Las Torres",
+        "wikipedia": "es:Estación Las Torres (Metrocable de Medellín)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607398838,
+      "bounds": {
+        "minlat": 6.2451083,
+        "minlon": -75.5447632,
+        "maxlat": 6.2454743,
+        "maxlon": -75.5443368
+      },
+      "nodes": [
+        5756412158,
+        9695419645,
+        9695419644,
+        8656024087,
+        9695419643,
+        9695419646,
+        5756412157,
+        8656024080,
+        9695397302,
+        5756412156,
+        9695419650,
+        8656024086,
+        9695419648,
+        9695419647,
+        9695397313,
+        9695419649,
+        9695419651,
+        9695419620,
+        5756412158
+      ],
+      "geometry": [
+        {
+          "lat": 6.2453293,
+          "lon": -75.5443368
+        },
+        {
+          "lat": 6.2453648,
+          "lon": -75.5443613
+        },
+        {
+          "lat": 6.2453811,
+          "lon": -75.5443374
+        },
+        {
+          "lat": 6.2454042,
+          "lon": -75.5443534
+        },
+        {
+          "lat": 6.2454301,
+          "lon": -75.5443713
+        },
+        {
+          "lat": 6.2454121,
+          "lon": -75.5443977
+        },
+        {
+          "lat": 6.2454743,
+          "lon": -75.5444408
+        },
+        {
+          "lat": 6.245376,
+          "lon": -75.5445845
+        },
+        {
+          "lat": 6.2453249,
+          "lon": -75.5446593
+        },
+        {
+          "lat": 6.2452538,
+          "lon": -75.5447632
+        },
+        {
+          "lat": 6.2451988,
+          "lon": -75.5447251
+        },
+        {
+          "lat": 6.2451872,
+          "lon": -75.544742
+        },
+        {
+          "lat": 6.2451763,
+          "lon": -75.5447579
+        },
+        {
+          "lat": 6.2451289,
+          "lon": -75.5447251
+        },
+        {
+          "lat": 6.2451397,
+          "lon": -75.5447094
+        },
+        {
+          "lat": 6.2451527,
+          "lon": -75.5446904
+        },
+        {
+          "lat": 6.2451083,
+          "lon": -75.5446597
+        },
+        {
+          "lat": 6.2451823,
+          "lon": -75.5445515
+        },
+        {
+          "lat": 6.2453293,
+          "lon": -75.5443368
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "middle",
+        "building": "transportation",
+        "name": "El Pinal",
+        "network": "Metrocable",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607398837,
+      "bounds": {
+        "minlat": 6.2475254,
+        "minlon": -75.5415261,
+        "maxlat": 6.2478022,
+        "maxlon": -75.5412214
+      },
+      "nodes": [
+        5756412151,
+        5756412150,
+        8656024098,
+        5756412149,
+        8656024096,
+        8656024093,
+        5756412148,
+        8656024090,
+        8656024092,
+        8656024091,
+        8656024089,
+        5756412151
+      ],
+      "geometry": [
+        {
+          "lat": 6.2476632,
+          "lon": -75.5415075
+        },
+        {
+          "lat": 6.2478022,
+          "lon": -75.5413258
+        },
+        {
+          "lat": 6.2477333,
+          "lon": -75.5412725
+        },
+        {
+          "lat": 6.2476673,
+          "lon": -75.5412214
+        },
+        {
+          "lat": 6.2476343,
+          "lon": -75.5412645
+        },
+        {
+          "lat": 6.2475344,
+          "lon": -75.541395
+        },
+        {
+          "lat": 6.2475262,
+          "lon": -75.5414057
+        },
+        {
+          "lat": 6.2475649,
+          "lon": -75.5414357
+        },
+        {
+          "lat": 6.2475254,
+          "lon": -75.5414874
+        },
+        {
+          "lat": 6.2475753,
+          "lon": -75.5415261
+        },
+        {
+          "lat": 6.247617,
+          "lon": -75.5414717
+        },
+        {
+          "lat": 6.2476632,
+          "lon": -75.5415075
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "aerialway:station": "top",
+        "building": "transportation",
+        "name": "Trece de Noviembre",
+        "network": "Metrocable",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918213505,
+      "bounds": {
+        "minlat": 6.258523,
+        "minlon": -75.5981214,
+        "maxlat": 6.2588783,
+        "maxlon": -75.5973616
+      },
+      "nodes": [
+        309027653,
+        8527922509,
+        8527922510,
+        8527922511,
+        8643851136,
+        8527922512,
+        8527922513,
+        8527922514,
+        8527922515,
+        8643851144,
+        8527922516,
+        8527952217,
+        8527952218,
+        8527952219,
+        8527952220,
+        8527952221,
+        8643851142,
+        8527952222,
+        8527952227,
+        13129066919,
+        8527952223,
+        8527952224,
+        8643851134,
+        8527952225,
+        8527952226,
+        309027653
+      ],
+      "geometry": [
+        {
+          "lat": 6.2587031,
+          "lon": -75.5981214
+        },
+        {
+          "lat": 6.2588544,
+          "lon": -75.598089
+        },
+        {
+          "lat": 6.2588521,
+          "lon": -75.5980784
+        },
+        {
+          "lat": 6.2588783,
+          "lon": -75.5980728
+        },
+        {
+          "lat": 6.2588465,
+          "lon": -75.5979223
+        },
+        {
+          "lat": 6.2588406,
+          "lon": -75.5978944
+        },
+        {
+          "lat": 6.2588139,
+          "lon": -75.5979001
+        },
+        {
+          "lat": 6.2587417,
+          "lon": -75.5975576
+        },
+        {
+          "lat": 6.2587663,
+          "lon": -75.5975524
+        },
+        {
+          "lat": 6.2587598,
+          "lon": -75.5975216
+        },
+        {
+          "lat": 6.2587285,
+          "lon": -75.5973731
+        },
+        {
+          "lat": 6.258704,
+          "lon": -75.5973783
+        },
+        {
+          "lat": 6.2587005,
+          "lon": -75.5973616
+        },
+        {
+          "lat": 6.2585418,
+          "lon": -75.5973952
+        },
+        {
+          "lat": 6.2585462,
+          "lon": -75.5974162
+        },
+        {
+          "lat": 6.258523,
+          "lon": -75.5974211
+        },
+        {
+          "lat": 6.2585533,
+          "lon": -75.597566
+        },
+        {
+          "lat": 6.2585588,
+          "lon": -75.5975926
+        },
+        {
+          "lat": 6.2585876,
+          "lon": -75.5975866
+        },
+        {
+          "lat": 6.2586102,
+          "lon": -75.5976949
+        },
+        {
+          "lat": 6.2586596,
+          "lon": -75.5979316
+        },
+        {
+          "lat": 6.258636,
+          "lon": -75.5979366
+        },
+        {
+          "lat": 6.258642,
+          "lon": -75.5979653
+        },
+        {
+          "lat": 6.2586729,
+          "lon": -75.5981137
+        },
+        {
+          "lat": 6.2586967,
+          "lon": -75.5981087
+        },
+        {
+          "lat": 6.2587031,
+          "lon": -75.5981214
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Floresta",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1306268461,
+      "bounds": {
+        "minlat": 6.2740137,
+        "minlon": -75.5921904,
+        "maxlat": 6.2740373,
+        "maxlon": -75.5921456
+      },
+      "nodes": [
+        12098021285,
+        12098021284,
+        12098021283,
+        12098021282,
+        12098021285
+      ],
+      "geometry": [
+        {
+          "lat": 6.2740373,
+          "lon": -75.5921885
+        },
+        {
+          "lat": 6.2740332,
+          "lon": -75.5921456
+        },
+        {
+          "lat": 6.2740137,
+          "lon": -75.5921475
+        },
+        {
+          "lat": 6.2740178,
+          "lon": -75.5921904
+        },
+        {
+          "lat": 6.2740373,
+          "lon": -75.5921885
+        }
+      ],
+      "tags": {
+        "building": "roof",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1306268462,
+      "bounds": {
+        "minlat": 6.2740228,
+        "minlon": -75.592292,
+        "maxlat": 6.2740456,
+        "maxlon": -75.5922454
+      },
+      "nodes": [
+        12098021289,
+        12098021288,
+        12098021287,
+        12098021286,
+        12098021289
+      ],
+      "geometry": [
+        {
+          "lat": 6.2740456,
+          "lon": -75.5922903
+        },
+        {
+          "lat": 6.2740416,
+          "lon": -75.5922454
+        },
+        {
+          "lat": 6.2740228,
+          "lon": -75.5922471
+        },
+        {
+          "lat": 6.2740268,
+          "lon": -75.592292
+        },
+        {
+          "lat": 6.2740456,
+          "lon": -75.5922903
+        }
+      ],
+      "tags": {
+        "building": "roof",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935116917,
+      "bounds": {
+        "minlat": 6.2558177,
+        "minlon": -75.5734746,
+        "maxlat": 6.2564407,
+        "maxlon": -75.5728602
+      },
+      "nodes": [
+        8665635431,
+        3667792074,
+        8665635432,
+        8665635433,
+        366175775,
+        8665635434,
+        8665635431
+      ],
+      "geometry": [
+        {
+          "lat": 6.2558494,
+          "lon": -75.5734746
+        },
+        {
+          "lat": 6.2558337,
+          "lon": -75.5734584
+        },
+        {
+          "lat": 6.2558177,
+          "lon": -75.5734419
+        },
+        {
+          "lat": 6.256409,
+          "lon": -75.5728602
+        },
+        {
+          "lat": 6.2564247,
+          "lon": -75.5728764
+        },
+        {
+          "lat": 6.2564407,
+          "lon": -75.5728928
+        },
+        {
+          "lat": 6.2558494,
+          "lon": -75.5734746
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Minorista",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 934500124,
+      "bounds": {
+        "minlat": 6.2562274,
+        "minlon": -75.566477,
+        "maxlat": 6.2574604,
+        "maxlon": -75.5658492
+      },
+      "nodes": [
+        1214420524,
+        1213794214,
+        1213794241,
+        8660796677,
+        8660796678,
+        1213794248,
+        1213794209,
+        8660796679,
+        8660796755,
+        8660796756,
+        1214420524
+      ],
+      "geometry": [
+        {
+          "lat": 6.2574604,
+          "lon": -75.5659846
+        },
+        {
+          "lat": 6.2574497,
+          "lon": -75.5659587
+        },
+        {
+          "lat": 6.2574137,
+          "lon": -75.5658717
+        },
+        {
+          "lat": 6.2574044,
+          "lon": -75.5658492
+        },
+        {
+          "lat": 6.2562274,
+          "lon": -75.5663418
+        },
+        {
+          "lat": 6.2562388,
+          "lon": -75.5663694
+        },
+        {
+          "lat": 6.2562721,
+          "lon": -75.56645
+        },
+        {
+          "lat": 6.2562833,
+          "lon": -75.566477
+        },
+        {
+          "lat": 6.2567762,
+          "lon": -75.5662708
+        },
+        {
+          "lat": 6.2570358,
+          "lon": -75.5661622
+        },
+        {
+          "lat": 6.2574604,
+          "lon": -75.5659846
+        }
+      ],
+      "tags": {
+        "bridge": "yes",
+        "building": "yes",
+        "layer": "1",
+        "name": "Prado",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935235522,
+      "bounds": {
+        "minlat": 6.2605085,
+        "minlon": -75.5692682,
+        "maxlat": 6.2609429,
+        "maxlon": -75.5690241
+      },
+      "nodes": [
+        8666659663,
+        3667792166,
+        8666659664,
+        8666659665,
+        8666659669,
+        8666659666,
+        8666659663
+      ],
+      "geometry": [
+        {
+          "lat": 6.2609429,
+          "lon": -75.5690472
+        },
+        {
+          "lat": 6.2609372,
+          "lon": -75.5690362
+        },
+        {
+          "lat": 6.260931,
+          "lon": -75.5690241
+        },
+        {
+          "lat": 6.2605085,
+          "lon": -75.569245
+        },
+        {
+          "lat": 6.260514,
+          "lon": -75.5692558
+        },
+        {
+          "lat": 6.2605204,
+          "lon": -75.5692682
+        },
+        {
+          "lat": 6.2609429,
+          "lon": -75.5690472
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Chagualo",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 934500089,
+      "bounds": {
+        "minlat": 6.2638221,
+        "minlon": -75.5635927,
+        "maxlat": 6.2639911,
+        "maxlon": -75.5627524
+      },
+      "nodes": [
+        8660796398,
+        3667792238,
+        8660796399,
+        8660796400,
+        3667792231,
+        8660796401,
+        8660796404,
+        8660796407,
+        8660796398
+      ],
+      "geometry": [
+        {
+          "lat": 6.2639911,
+          "lon": -75.5635843
+        },
+        {
+          "lat": 6.2639547,
+          "lon": -75.5635889
+        },
+        {
+          "lat": 6.263924,
+          "lon": -75.5635927
+        },
+        {
+          "lat": 6.2638221,
+          "lon": -75.5627607
+        },
+        {
+          "lat": 6.263858,
+          "lon": -75.5627563
+        },
+        {
+          "lat": 6.2638892,
+          "lon": -75.5627524
+        },
+        {
+          "lat": 6.2639489,
+          "lon": -75.5632394
+        },
+        {
+          "lat": 6.2639717,
+          "lon": -75.5634257
+        },
+        {
+          "lat": 6.2639911,
+          "lon": -75.5635843
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Hospital",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 921531897,
+      "bounds": {
+        "minlat": 6.2631501,
+        "minlon": -75.5636824,
+        "maxlat": 6.2646075,
+        "maxlon": -75.5630531
+      },
+      "nodes": [
+        8555562125,
+        8660796549,
+        13624992702,
+        9738685988,
+        8660796589,
+        8555562126,
+        1213942918,
+        1213942915,
+        8555562127,
+        8660796588,
+        13624973360,
+        13624992701,
+        8660796550,
+        8555562128,
+        8555562125
+      ],
+      "geometry": [
+        {
+          "lat": 6.2646075,
+          "lon": -75.5631525
+        },
+        {
+          "lat": 6.26459,
+          "lon": -75.563159
+        },
+        {
+          "lat": 6.2641813,
+          "lon": -75.5633115
+        },
+        {
+          "lat": 6.2634574,
+          "lon": -75.5635815
+        },
+        {
+          "lat": 6.2633635,
+          "lon": -75.5636165
+        },
+        {
+          "lat": 6.2631867,
+          "lon": -75.5636824
+        },
+        {
+          "lat": 6.2631801,
+          "lon": -75.5636645
+        },
+        {
+          "lat": 6.2631576,
+          "lon": -75.5636034
+        },
+        {
+          "lat": 6.2631501,
+          "lon": -75.5635832
+        },
+        {
+          "lat": 6.2633269,
+          "lon": -75.5635173
+        },
+        {
+          "lat": 6.2634615,
+          "lon": -75.563467
+        },
+        {
+          "lat": 6.2641435,
+          "lon": -75.5632126
+        },
+        {
+          "lat": 6.2645551,
+          "lon": -75.563059
+        },
+        {
+          "lat": 6.2645709,
+          "lon": -75.5630531
+        },
+        {
+          "lat": 6.2646075,
+          "lon": -75.5631525
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "layer": "3",
+        "name": "Hospital",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935235535,
+      "bounds": {
+        "minlat": 6.2632506,
+        "minlon": -75.567827,
+        "maxlat": 6.2641808,
+        "maxlon": -75.567538
+      },
+      "nodes": [
+        8666664937,
+        3667792243,
+        8666664938,
+        8666664939,
+        8666664940,
+        8666664941,
+        8666664942,
+        8666664943,
+        3667792192,
+        8666664944,
+        8666664945,
+        8666664946,
+        8666664947,
+        8666664948,
+        8666664937
+      ],
+      "geometry": [
+        {
+          "lat": 6.2641808,
+          "lon": -75.5675798
+        },
+        {
+          "lat": 6.2641778,
+          "lon": -75.56756
+        },
+        {
+          "lat": 6.2641744,
+          "lon": -75.567538
+        },
+        {
+          "lat": 6.2636861,
+          "lon": -75.5676249
+        },
+        {
+          "lat": 6.2636004,
+          "lon": -75.5676444
+        },
+        {
+          "lat": 6.2635451,
+          "lon": -75.5676611
+        },
+        {
+          "lat": 6.2634599,
+          "lon": -75.5676965
+        },
+        {
+          "lat": 6.2632506,
+          "lon": -75.5677942
+        },
+        {
+          "lat": 6.2632592,
+          "lon": -75.5678106
+        },
+        {
+          "lat": 6.2632661,
+          "lon": -75.567827
+        },
+        {
+          "lat": 6.2634774,
+          "lon": -75.5677309
+        },
+        {
+          "lat": 6.2635536,
+          "lon": -75.567699
+        },
+        {
+          "lat": 6.2636076,
+          "lon": -75.5676829
+        },
+        {
+          "lat": 6.2636915,
+          "lon": -75.5676642
+        },
+        {
+          "lat": 6.2641808,
+          "lon": -75.5675798
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Ruta N - Universidad de Antioquia",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935235568,
+      "bounds": {
+        "minlat": 6.2617116,
+        "minlon": -75.5560414,
+        "maxlat": 6.2623949,
+        "maxlon": -75.5557408
+      },
+      "nodes": [
+        8666665199,
+        3661813242,
+        8666665200,
+        8666665191,
+        3661810521,
+        8666665180,
+        8666665199
+      ],
+      "geometry": [
+        {
+          "lat": 6.2623949,
+          "lon": -75.5557862
+        },
+        {
+          "lat": 6.2623863,
+          "lon": -75.5557634
+        },
+        {
+          "lat": 6.2623777,
+          "lon": -75.5557408
+        },
+        {
+          "lat": 6.2617116,
+          "lon": -75.5559958
+        },
+        {
+          "lat": 6.26172,
+          "lon": -75.5560179
+        },
+        {
+          "lat": 6.2617289,
+          "lon": -75.5560414
+        },
+        {
+          "lat": 6.2623949,
+          "lon": -75.5557862
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Palos Verdes",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935235550,
+      "bounds": {
+        "minlat": 6.2633766,
+        "minlon": -75.5604091,
+        "maxlat": 6.2634961,
+        "maxlon": -75.5599389
+      },
+      "nodes": [
+        8666665033,
+        3667792209,
+        8666665034,
+        8666665035,
+        3667792202,
+        8666665036,
+        8666665033
+      ],
+      "geometry": [
+        {
+          "lat": 6.2634961,
+          "lon": -75.560402
+        },
+        {
+          "lat": 6.2634754,
+          "lon": -75.5604055
+        },
+        {
+          "lat": 6.263454,
+          "lon": -75.5604091
+        },
+        {
+          "lat": 6.2633766,
+          "lon": -75.5599461
+        },
+        {
+          "lat": 6.2633957,
+          "lon": -75.5599428
+        },
+        {
+          "lat": 6.2634188,
+          "lon": -75.5599389
+        },
+        {
+          "lat": 6.2634961,
+          "lon": -75.560402
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "San Pedro",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935243949,
+      "bounds": {
+        "minlat": 6.2674332,
+        "minlon": -75.5550542,
+        "maxlat": 6.2679,
+        "maxlon": -75.5549662
+      },
+      "nodes": [
+        8666732110,
+        3662923165,
+        8666732111,
+        8666732112,
+        8666732108,
+        8666732113,
+        8666732110
+      ],
+      "geometry": [
+        {
+          "lat": 6.2679,
+          "lon": -75.5550022
+        },
+        {
+          "lat": 6.2678981,
+          "lon": -75.5549849
+        },
+        {
+          "lat": 6.267896,
+          "lon": -75.5549662
+        },
+        {
+          "lat": 6.2674332,
+          "lon": -75.5550181
+        },
+        {
+          "lat": 6.2674353,
+          "lon": -75.5550372
+        },
+        {
+          "lat": 6.2674372,
+          "lon": -75.5550542
+        },
+        {
+          "lat": 6.2679,
+          "lon": -75.5550022
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Gardel",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 921531398,
+      "bounds": {
+        "minlat": 6.2691399,
+        "minlon": -75.566435,
+        "maxlat": 6.269674,
+        "maxlon": -75.5651712
+      },
+      "nodes": [
+        8555548695,
+        13951014921,
+        8555548702,
+        8660529875,
+        8555548696,
+        1214009483,
+        13112584602,
+        1214009494,
+        8555548697,
+        8555548707,
+        13951014922,
+        13948673221,
+        8555548698,
+        1214009463,
+        8555548695
+      ],
+      "geometry": [
+        {
+          "lat": 6.269674,
+          "lon": -75.5663912
+        },
+        {
+          "lat": 6.2696703,
+          "lon": -75.5663799
+        },
+        {
+          "lat": 6.2696664,
+          "lon": -75.5663681
+        },
+        {
+          "lat": 6.2695175,
+          "lon": -75.5659177
+        },
+        {
+          "lat": 6.2692708,
+          "lon": -75.5651712
+        },
+        {
+          "lat": 6.2692499,
+          "lon": -75.5651782
+        },
+        {
+          "lat": 6.2692355,
+          "lon": -75.565183
+        },
+        {
+          "lat": 6.2691633,
+          "lon": -75.5652072
+        },
+        {
+          "lat": 6.2691399,
+          "lon": -75.565215
+        },
+        {
+          "lat": 6.2692993,
+          "lon": -75.5656973
+        },
+        {
+          "lat": 6.2695382,
+          "lon": -75.5664202
+        },
+        {
+          "lat": 6.2695423,
+          "lon": -75.5664327
+        },
+        {
+          "lat": 6.2695431,
+          "lon": -75.566435
+        },
+        {
+          "lat": 6.2696122,
+          "lon": -75.5664119
+        },
+        {
+          "lat": 6.269674,
+          "lon": -75.5663912
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "layer": "3",
+        "name": "Universidad",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 36836715,
+      "bounds": {
+        "minlat": 6.2773244,
+        "minlon": -75.5697224,
+        "maxlat": 6.2793111,
+        "maxlon": -75.5690898
+      },
+      "nodes": [
+        428222672,
+        5758695459,
+        3508557699,
+        5758695445,
+        13485212227,
+        8639207720,
+        8639207721,
+        5758695444,
+        428222674,
+        428222675,
+        8639150402,
+        8639150401,
+        428222672
+      ],
+      "geometry": [
+        {
+          "lat": 6.2793111,
+          "lon": -75.5692907
+        },
+        {
+          "lat": 6.2792963,
+          "lon": -75.569294
+        },
+        {
+          "lat": 6.2773942,
+          "lon": -75.5697168
+        },
+        {
+          "lat": 6.2773688,
+          "lon": -75.5697224
+        },
+        {
+          "lat": 6.2773608,
+          "lon": -75.5696863
+        },
+        {
+          "lat": 6.2773536,
+          "lon": -75.5696536
+        },
+        {
+          "lat": 6.2773417,
+          "lon": -75.5695999
+        },
+        {
+          "lat": 6.2773244,
+          "lon": -75.5695212
+        },
+        {
+          "lat": 6.2773498,
+          "lon": -75.5695156
+        },
+        {
+          "lat": 6.279267,
+          "lon": -75.5690898
+        },
+        {
+          "lat": 6.2792849,
+          "lon": -75.5691712
+        },
+        {
+          "lat": 6.2792931,
+          "lon": -75.5692088
+        },
+        {
+          "lat": 6.2793111,
+          "lon": -75.5692907
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "name": "Caribe",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 143598966,
+      "bounds": {
+        "minlat": 6.2763368,
+        "minlon": -75.5719808,
+        "maxlat": 6.2809691,
+        "maxlon": -75.5695796
+      },
+      "nodes": [
+        1571461648,
+        8751449792,
+        3695085885,
+        8751449793,
+        1571461621,
+        8751449794,
+        3695085884,
+        13484573883,
+        13484572989,
+        11222698761,
+        11222698760,
+        8751449796,
+        13484572995,
+        1571461643,
+        13484572996,
+        10586065607,
+        1571461641,
+        13960743866,
+        428148951,
+        428148954,
+        13960743873,
+        13960743874,
+        9388148568,
+        9989307902,
+        13484573805,
+        13484573807,
+        13958866736,
+        13484573806,
+        1571461644,
+        2391230264,
+        13960743884,
+        13484573826,
+        13484573825,
+        13484573824,
+        13484573823,
+        13484573822,
+        13484573821,
+        13484573827,
+        13484573828,
+        8751449738,
+        8751449737,
+        8751449736,
+        8751449735,
+        8751449712,
+        8751449743,
+        13484505335,
+        13484505336,
+        13484505329,
+        13484505330,
+        8751449742,
+        8751449747,
+        8751449753,
+        8751449752,
+        8751449751,
+        13484573860,
+        8751449750,
+        8751449694,
+        8751449695,
+        13484505321,
+        8751449692,
+        8751449693,
+        8751449684,
+        13484505316,
+        8751449683,
+        13484505317,
+        8751449682,
+        13484505318,
+        8751449680,
+        8751449681,
+        2391230271,
+        13484505319,
+        1571461645,
+        13484505320,
+        8751449721,
+        8751449679,
+        8751449670,
+        8751449671,
+        8751449672,
+        428163016,
+        1571461623,
+        13484505386,
+        13484505388,
+        13484505392,
+        13484505412,
+        13484505407,
+        13484505520,
+        13484505530,
+        13484505408,
+        13484505512,
+        13484505513,
+        13484505483,
+        13484505531,
+        13484505489,
+        8751449789,
+        13484505482,
+        428164316,
+        428165147,
+        13484505390,
+        8751449790,
+        428164322,
+        428164327,
+        11222698743,
+        428164328,
+        11222698742,
+        13484505492,
+        8751449814,
+        2391230268,
+        8751449815,
+        2391230266,
+        11222698756,
+        11222698757,
+        13484573890,
+        11222698753,
+        11226079672,
+        13484500587,
+        13484500588,
+        1571461648
+      ],
+      "geometry": [
+        {
+          "lat": 6.2804982,
+          "lon": -75.5697089
+        },
+        {
+          "lat": 6.2804602,
+          "lon": -75.5696372
+        },
+        {
+          "lat": 6.2803991,
+          "lon": -75.5695983
+        },
+        {
+          "lat": 6.2803341,
+          "lon": -75.5695796
+        },
+        {
+          "lat": 6.2802248,
+          "lon": -75.5695938
+        },
+        {
+          "lat": 6.2801461,
+          "lon": -75.5696133
+        },
+        {
+          "lat": 6.2800522,
+          "lon": -75.5696534
+        },
+        {
+          "lat": 6.2800198,
+          "lon": -75.5696906
+        },
+        {
+          "lat": 6.280001,
+          "lon": -75.5697226
+        },
+        {
+          "lat": 6.2799678,
+          "lon": -75.5697301
+        },
+        {
+          "lat": 6.2798933,
+          "lon": -75.5697491
+        },
+        {
+          "lat": 6.2798325,
+          "lon": -75.5697647
+        },
+        {
+          "lat": 6.2797763,
+          "lon": -75.5697882
+        },
+        {
+          "lat": 6.2797144,
+          "lon": -75.569833
+        },
+        {
+          "lat": 6.2796616,
+          "lon": -75.5698892
+        },
+        {
+          "lat": 6.2795978,
+          "lon": -75.5699518
+        },
+        {
+          "lat": 6.2795148,
+          "lon": -75.5700328
+        },
+        {
+          "lat": 6.2794777,
+          "lon": -75.5700419
+        },
+        {
+          "lat": 6.2793896,
+          "lon": -75.5700634
+        },
+        {
+          "lat": 6.278885,
+          "lon": -75.5701723
+        },
+        {
+          "lat": 6.278809,
+          "lon": -75.570189
+        },
+        {
+          "lat": 6.2786862,
+          "lon": -75.5702155
+        },
+        {
+          "lat": 6.2785989,
+          "lon": -75.5702346
+        },
+        {
+          "lat": 6.2784723,
+          "lon": -75.5702637
+        },
+        {
+          "lat": 6.2784329,
+          "lon": -75.5702765
+        },
+        {
+          "lat": 6.278413,
+          "lon": -75.5702526
+        },
+        {
+          "lat": 6.278399,
+          "lon": -75.570241
+        },
+        {
+          "lat": 6.2783843,
+          "lon": -75.5702287
+        },
+        {
+          "lat": 6.278334,
+          "lon": -75.5702037
+        },
+        {
+          "lat": 6.2774773,
+          "lon": -75.5704012
+        },
+        {
+          "lat": 6.2774837,
+          "lon": -75.5704428
+        },
+        {
+          "lat": 6.2775081,
+          "lon": -75.570602
+        },
+        {
+          "lat": 6.2774834,
+          "lon": -75.5706078
+        },
+        {
+          "lat": 6.2774558,
+          "lon": -75.5706005
+        },
+        {
+          "lat": 6.277429,
+          "lon": -75.5705867
+        },
+        {
+          "lat": 6.2774064,
+          "lon": -75.5705655
+        },
+        {
+          "lat": 6.2773955,
+          "lon": -75.5705392
+        },
+        {
+          "lat": 6.2773297,
+          "lon": -75.5705554
+        },
+        {
+          "lat": 6.2772794,
+          "lon": -75.5705679
+        },
+        {
+          "lat": 6.2770956,
+          "lon": -75.570613
+        },
+        {
+          "lat": 6.2771016,
+          "lon": -75.5705721
+        },
+        {
+          "lat": 6.2770909,
+          "lon": -75.5705431
+        },
+        {
+          "lat": 6.2770629,
+          "lon": -75.5705235
+        },
+        {
+          "lat": 6.2770239,
+          "lon": -75.5705183
+        },
+        {
+          "lat": 6.2766967,
+          "lon": -75.5705937
+        },
+        {
+          "lat": 6.2766608,
+          "lon": -75.5706172
+        },
+        {
+          "lat": 6.2766352,
+          "lon": -75.5706474
+        },
+        {
+          "lat": 6.276602,
+          "lon": -75.5707069
+        },
+        {
+          "lat": 6.2766198,
+          "lon": -75.5707535
+        },
+        {
+          "lat": 6.2766444,
+          "lon": -75.5707932
+        },
+        {
+          "lat": 6.2765696,
+          "lon": -75.5708221
+        },
+        {
+          "lat": 6.2765462,
+          "lon": -75.570757
+        },
+        {
+          "lat": 6.2765161,
+          "lon": -75.5707131
+        },
+        {
+          "lat": 6.2764705,
+          "lon": -75.5706885
+        },
+        {
+          "lat": 6.2764447,
+          "lon": -75.5707097
+        },
+        {
+          "lat": 6.2764278,
+          "lon": -75.5707453
+        },
+        {
+          "lat": 6.2763682,
+          "lon": -75.5706725
+        },
+        {
+          "lat": 6.2763482,
+          "lon": -75.5707683
+        },
+        {
+          "lat": 6.2763381,
+          "lon": -75.5708158
+        },
+        {
+          "lat": 6.2763368,
+          "lon": -75.5708881
+        },
+        {
+          "lat": 6.2764328,
+          "lon": -75.5712985
+        },
+        {
+          "lat": 6.2764683,
+          "lon": -75.5714084
+        },
+        {
+          "lat": 6.2765361,
+          "lon": -75.5715249
+        },
+        {
+          "lat": 6.2766145,
+          "lon": -75.5716175
+        },
+        {
+          "lat": 6.2766995,
+          "lon": -75.571706
+        },
+        {
+          "lat": 6.2767943,
+          "lon": -75.5717687
+        },
+        {
+          "lat": 6.27689,
+          "lon": -75.5718146
+        },
+        {
+          "lat": 6.2769883,
+          "lon": -75.5718418
+        },
+        {
+          "lat": 6.2771298,
+          "lon": -75.5718589
+        },
+        {
+          "lat": 6.2772682,
+          "lon": -75.5718567
+        },
+        {
+          "lat": 6.2773939,
+          "lon": -75.571837
+        },
+        {
+          "lat": 6.2774855,
+          "lon": -75.5718166
+        },
+        {
+          "lat": 6.2775069,
+          "lon": -75.571867
+        },
+        {
+          "lat": 6.2775168,
+          "lon": -75.5718905
+        },
+        {
+          "lat": 6.2775505,
+          "lon": -75.5719503
+        },
+        {
+          "lat": 6.2775677,
+          "lon": -75.5719808
+        },
+        {
+          "lat": 6.2780259,
+          "lon": -75.5719357
+        },
+        {
+          "lat": 6.2782371,
+          "lon": -75.5719394
+        },
+        {
+          "lat": 6.2785837,
+          "lon": -75.5719538
+        },
+        {
+          "lat": 6.2786988,
+          "lon": -75.5719591
+        },
+        {
+          "lat": 6.2791172,
+          "lon": -75.5719028
+        },
+        {
+          "lat": 6.2791345,
+          "lon": -75.5718426
+        },
+        {
+          "lat": 6.2791368,
+          "lon": -75.5717949
+        },
+        {
+          "lat": 6.2792389,
+          "lon": -75.5718005
+        },
+        {
+          "lat": 6.2794263,
+          "lon": -75.571813
+        },
+        {
+          "lat": 6.2793921,
+          "lon": -75.5716402
+        },
+        {
+          "lat": 6.2793857,
+          "lon": -75.5716078
+        },
+        {
+          "lat": 6.2793722,
+          "lon": -75.5715397
+        },
+        {
+          "lat": 6.2794017,
+          "lon": -75.5715338
+        },
+        {
+          "lat": 6.2795062,
+          "lon": -75.5715129
+        },
+        {
+          "lat": 6.2795239,
+          "lon": -75.5715093
+        },
+        {
+          "lat": 6.2795479,
+          "lon": -75.5716307
+        },
+        {
+          "lat": 6.2795519,
+          "lon": -75.5716504
+        },
+        {
+          "lat": 6.279578,
+          "lon": -75.5717826
+        },
+        {
+          "lat": 6.279737,
+          "lon": -75.5718146
+        },
+        {
+          "lat": 6.2798162,
+          "lon": -75.571807
+        },
+        {
+          "lat": 6.2808657,
+          "lon": -75.5716853
+        },
+        {
+          "lat": 6.2809217,
+          "lon": -75.5716704
+        },
+        {
+          "lat": 6.280951,
+          "lon": -75.5716432
+        },
+        {
+          "lat": 6.2809691,
+          "lon": -75.5715853
+        },
+        {
+          "lat": 6.2809338,
+          "lon": -75.5713959
+        },
+        {
+          "lat": 6.2809063,
+          "lon": -75.5713702
+        },
+        {
+          "lat": 6.2808632,
+          "lon": -75.5713524
+        },
+        {
+          "lat": 6.2808082,
+          "lon": -75.5713601
+        },
+        {
+          "lat": 6.2807403,
+          "lon": -75.5710355
+        },
+        {
+          "lat": 6.2807709,
+          "lon": -75.5709855
+        },
+        {
+          "lat": 6.2807943,
+          "lon": -75.5709362
+        },
+        {
+          "lat": 6.2808096,
+          "lon": -75.5708746
+        },
+        {
+          "lat": 6.2807178,
+          "lon": -75.5703902
+        },
+        {
+          "lat": 6.2806272,
+          "lon": -75.570392
+        },
+        {
+          "lat": 6.280615,
+          "lon": -75.5700389
+        },
+        {
+          "lat": 6.2805094,
+          "lon": -75.5700356
+        },
+        {
+          "lat": 6.2804883,
+          "lon": -75.5700349
+        },
+        {
+          "lat": 6.2804864,
+          "lon": -75.5699955
+        },
+        {
+          "lat": 6.2804832,
+          "lon": -75.5699482
+        },
+        {
+          "lat": 6.2805626,
+          "lon": -75.5699409
+        },
+        {
+          "lat": 6.2804982,
+          "lon": -75.5697089
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Terminal de Transporte Norte",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935436218,
+      "bounds": {
+        "minlat": 6.2729986,
+        "minlon": -75.5541134,
+        "maxlat": 6.2734716,
+        "maxlon": -75.5539912
+      },
+      "nodes": [
+        8668750323,
+        3662923191,
+        8668750324,
+        8668750325,
+        3662923182,
+        8668750326,
+        8668750323
+      ],
+      "geometry": [
+        {
+          "lat": 6.2734716,
+          "lon": -75.5540283
+        },
+        {
+          "lat": 6.2734686,
+          "lon": -75.5540114
+        },
+        {
+          "lat": 6.2734649,
+          "lon": -75.5539912
+        },
+        {
+          "lat": 6.2729986,
+          "lon": -75.5540762
+        },
+        {
+          "lat": 6.2730019,
+          "lon": -75.5540947
+        },
+        {
+          "lat": 6.2730053,
+          "lon": -75.5541134
+        },
+        {
+          "lat": 6.2734716,
+          "lon": -75.5540283
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Manrique",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935436231,
+      "bounds": {
+        "minlat": 6.278136,
+        "minlon": -75.5532041,
+        "maxlat": 6.2786022,
+        "maxlon": -75.5530871
+      },
+      "nodes": [
+        8668750360,
+        3662923206,
+        8668750361,
+        8668750362,
+        3662923205,
+        8668750363,
+        8668750360
+      ],
+      "geometry": [
+        {
+          "lat": 6.2786022,
+          "lon": -75.5531239
+        },
+        {
+          "lat": 6.278599,
+          "lon": -75.5531018
+        },
+        {
+          "lat": 6.2785958,
+          "lon": -75.5530871
+        },
+        {
+          "lat": 6.278136,
+          "lon": -75.5531672
+        },
+        {
+          "lat": 6.2781396,
+          "lon": -75.5531846
+        },
+        {
+          "lat": 6.2781424,
+          "lon": -75.5532041
+        },
+        {
+          "lat": 6.2786022,
+          "lon": -75.5531239
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Las Esmeraldas",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914471335,
+      "bounds": {
+        "minlat": 6.3040838,
+        "minlon": -75.5762718,
+        "maxlat": 6.3043887,
+        "maxlon": -75.5758062
+      },
+      "nodes": [
+        8494874085,
+        8639110600,
+        8639110602,
+        8639110603,
+        8639110601,
+        8494874086,
+        8494874087,
+        8639110605,
+        8639110606,
+        8639110613,
+        8639110607,
+        8639110604,
+        8494874088,
+        8494874085
+      ],
+      "geometry": [
+        {
+          "lat": 6.3043887,
+          "lon": -75.576194
+        },
+        {
+          "lat": 6.304314,
+          "lon": -75.576213
+        },
+        {
+          "lat": 6.3043243,
+          "lon": -75.576254
+        },
+        {
+          "lat": 6.3042543,
+          "lon": -75.5762718
+        },
+        {
+          "lat": 6.3042439,
+          "lon": -75.5762306
+        },
+        {
+          "lat": 6.3041744,
+          "lon": -75.5762483
+        },
+        {
+          "lat": 6.3040838,
+          "lon": -75.5758883
+        },
+        {
+          "lat": 6.3041475,
+          "lon": -75.5758721
+        },
+        {
+          "lat": 6.3041349,
+          "lon": -75.5758221
+        },
+        {
+          "lat": 6.3041706,
+          "lon": -75.575813
+        },
+        {
+          "lat": 6.3041973,
+          "lon": -75.5758062
+        },
+        {
+          "lat": 6.3042092,
+          "lon": -75.5758534
+        },
+        {
+          "lat": 6.3042974,
+          "lon": -75.5758309
+        },
+        {
+          "lat": 6.3043887,
+          "lon": -75.576194
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "Doce de Octubre",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914471336,
+      "bounds": {
+        "minlat": 6.3058351,
+        "minlon": -75.5824777,
+        "maxlat": 6.3061211,
+        "maxlon": -75.5819616
+      },
+      "nodes": [
+        8494874089,
+        8494874090,
+        8494874091,
+        8639110608,
+        8639110610,
+        8639110611,
+        8639110609,
+        8494874092,
+        9696086793,
+        8494874089
+      ],
+      "geometry": [
+        {
+          "lat": 6.3061211,
+          "lon": -75.5824308
+        },
+        {
+          "lat": 6.3059287,
+          "lon": -75.5824777
+        },
+        {
+          "lat": 6.3058351,
+          "lon": -75.5821052
+        },
+        {
+          "lat": 6.3058989,
+          "lon": -75.5820872
+        },
+        {
+          "lat": 6.3058678,
+          "lon": -75.5819761
+        },
+        {
+          "lat": 6.3059191,
+          "lon": -75.5819616
+        },
+        {
+          "lat": 6.3059505,
+          "lon": -75.5820741
+        },
+        {
+          "lat": 6.3060162,
+          "lon": -75.5820555
+        },
+        {
+          "lat": 6.3060233,
+          "lon": -75.5820808
+        },
+        {
+          "lat": 6.3061211,
+          "lon": -75.5824308
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "El Progreso",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 504572294,
+      "bounds": {
+        "minlat": 6.2894782,
+        "minlon": -75.5654068,
+        "maxlat": 6.2911448,
+        "maxlon": -75.5640213
+      },
+      "nodes": [
+        8555548685,
+        5758630485,
+        5758630484,
+        8555548686,
+        8555548683,
+        4947179665,
+        4947179664,
+        8555548684,
+        8555548685
+      ],
+      "geometry": [
+        {
+          "lat": 6.2896037,
+          "lon": -75.5653842
+        },
+        {
+          "lat": 6.2895756,
+          "lon": -75.5654068
+        },
+        {
+          "lat": 6.2894782,
+          "lon": -75.5652843
+        },
+        {
+          "lat": 6.289507,
+          "lon": -75.5652611
+        },
+        {
+          "lat": 6.2910263,
+          "lon": -75.5640384
+        },
+        {
+          "lat": 6.2910476,
+          "lon": -75.5640213
+        },
+        {
+          "lat": 6.2911448,
+          "lon": -75.5641435
+        },
+        {
+          "lat": 6.2911232,
+          "lon": -75.5641609
+        },
+        {
+          "lat": 6.2896037,
+          "lon": -75.5653842
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "layer": "1",
+        "name": "Tricentenario",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935436260,
+      "bounds": {
+        "minlat": 6.2849881,
+        "minlon": -75.5566446,
+        "maxlat": 6.2854236,
+        "maxlon": -75.5565748
+      },
+      "nodes": [
+        8668754915,
+        3667792341,
+        8668754916,
+        8668754917,
+        3667792334,
+        8668754918,
+        8668754915
+      ],
+      "geometry": [
+        {
+          "lat": 6.2854236,
+          "lon": -75.5566225
+        },
+        {
+          "lat": 6.2854224,
+          "lon": -75.556599
+        },
+        {
+          "lat": 6.2854212,
+          "lon": -75.5565748
+        },
+        {
+          "lat": 6.2849881,
+          "lon": -75.5565969
+        },
+        {
+          "lat": 6.2849892,
+          "lon": -75.5566188
+        },
+        {
+          "lat": 6.2849905,
+          "lon": -75.5566446
+        },
+        {
+          "lat": 6.2854236,
+          "lon": -75.5566225
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Parque de Aranjuez",
+        "operator": "Metroplús",
+        "public_transport": "station",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 935815213,
+      "bounds": {
+        "minlat": 6.2826592,
+        "minlon": -75.5529465,
+        "maxlat": 6.2831083,
+        "maxlon": -75.5528738
+      },
+      "nodes": [
+        8671901533,
+        3661813367,
+        8671901534,
+        8671901535,
+        3661813364,
+        8671901536,
+        8671901533
+      ],
+      "geometry": [
+        {
+          "lat": 6.2831083,
+          "lon": -75.5529171
+        },
+        {
+          "lat": 6.2831069,
+          "lon": -75.5528955
+        },
+        {
+          "lat": 6.2831055,
+          "lon": -75.5528738
+        },
+        {
+          "lat": 6.2826592,
+          "lon": -75.5529033
+        },
+        {
+          "lat": 6.2826605,
+          "lon": -75.5529232
+        },
+        {
+          "lat": 6.282662,
+          "lon": -75.5529465
+        },
+        {
+          "lat": 6.2831083,
+          "lon": -75.5529171
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Berlín",
+        "operator": "Metroplús",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 914471334,
+      "bounds": {
+        "minlat": 6.3017249,
+        "minlon": -75.5677024,
+        "maxlat": 6.3020113,
+        "maxlon": -75.5672882
+      },
+      "nodes": [
+        8494874081,
+        13648817404,
+        8494874082,
+        13648817405,
+        8494874083,
+        8494874084,
+        8494874081
+      ],
+      "geometry": [
+        {
+          "lat": 6.3020113,
+          "lon": -75.5676526
+        },
+        {
+          "lat": 6.3019093,
+          "lon": -75.5676788
+        },
+        {
+          "lat": 6.3018176,
+          "lon": -75.5677024
+        },
+        {
+          "lat": 6.3017472,
+          "lon": -75.5674257
+        },
+        {
+          "lat": 6.3017249,
+          "lon": -75.5673381
+        },
+        {
+          "lat": 6.3019186,
+          "lon": -75.5672882
+        },
+        {
+          "lat": 6.3020113,
+          "lon": -75.5676526
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "layer": "1",
+        "name": "SENA",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 363347844,
+      "bounds": {
+        "minlat": 6.2988747,
+        "minlon": -75.5592455,
+        "maxlat": 6.3009247,
+        "maxlon": -75.558047
+      },
+      "nodes": [
+        13227359203,
+        5756061167,
+        13227359201,
+        13227359206,
+        13227359202,
+        13227328593,
+        5756061168,
+        13227359223,
+        5756061175,
+        8494874095,
+        13477100246,
+        8639109029,
+        8639109028,
+        13227359222,
+        5756061186,
+        5756061170,
+        13227359218,
+        13227359217,
+        3675206636,
+        7399858897,
+        13227359234,
+        13227359243,
+        13227359232,
+        13227359233,
+        13474399497,
+        13227359235,
+        13227359241,
+        13227359203
+      ],
+      "geometry": [
+        {
+          "lat": 6.3003037,
+          "lon": -75.5582539
+        },
+        {
+          "lat": 6.300761,
+          "lon": -75.5580719
+        },
+        {
+          "lat": 6.3008235,
+          "lon": -75.558047
+        },
+        {
+          "lat": 6.3009024,
+          "lon": -75.5582476
+        },
+        {
+          "lat": 6.3009247,
+          "lon": -75.5583043
+        },
+        {
+          "lat": 6.3008951,
+          "lon": -75.558316
+        },
+        {
+          "lat": 6.3008625,
+          "lon": -75.5583289
+        },
+        {
+          "lat": 6.3008363,
+          "lon": -75.5583394
+        },
+        {
+          "lat": 6.2997513,
+          "lon": -75.5587713
+        },
+        {
+          "lat": 6.2998139,
+          "lon": -75.5589298
+        },
+        {
+          "lat": 6.2991081,
+          "lon": -75.5592118
+        },
+        {
+          "lat": 6.2990814,
+          "lon": -75.5592222
+        },
+        {
+          "lat": 6.2990235,
+          "lon": -75.5592455
+        },
+        {
+          "lat": 6.2989409,
+          "lon": -75.5590334
+        },
+        {
+          "lat": 6.2988747,
+          "lon": -75.5588686
+        },
+        {
+          "lat": 6.2989518,
+          "lon": -75.5588378
+        },
+        {
+          "lat": 6.2989657,
+          "lon": -75.5588322
+        },
+        {
+          "lat": 6.2989511,
+          "lon": -75.5587979
+        },
+        {
+          "lat": 6.2996583,
+          "lon": -75.5585059
+        },
+        {
+          "lat": 6.3001576,
+          "lon": -75.5583123
+        },
+        {
+          "lat": 6.3001951,
+          "lon": -75.5582869
+        },
+        {
+          "lat": 6.3001574,
+          "lon": -75.5582304
+        },
+        {
+          "lat": 6.3001259,
+          "lon": -75.5581833
+        },
+        {
+          "lat": 6.3001903,
+          "lon": -75.5581397
+        },
+        {
+          "lat": 6.3002331,
+          "lon": -75.5582037
+        },
+        {
+          "lat": 6.3002623,
+          "lon": -75.5582473
+        },
+        {
+          "lat": 6.3002879,
+          "lon": -75.55823
+        },
+        {
+          "lat": 6.3003037,
+          "lon": -75.5582539
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "layer": "1",
+        "name": "Acevedo",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 931878208,
+      "bounds": {
+        "minlat": 6.2961602,
+        "minlon": -75.5520602,
+        "maxlat": 6.2964992,
+        "maxlon": -75.5516815
+      },
+      "nodes": [
+        8639109032,
+        8639109077,
+        8639109078,
+        8639109054,
+        8639109079,
+        8639109080,
+        8639109033,
+        9698430587,
+        8639109034,
+        9698430586,
+        8639109085,
+        8639109081,
+        8639109082,
+        8639109084,
+        8639109083,
+        8639109035,
+        8639109032
+      ],
+      "geometry": [
+        {
+          "lat": 6.2964992,
+          "lon": -75.5519224
+        },
+        {
+          "lat": 6.2964339,
+          "lon": -75.5519571
+        },
+        {
+          "lat": 6.2964676,
+          "lon": -75.5520176
+        },
+        {
+          "lat": 6.2964382,
+          "lon": -75.552035
+        },
+        {
+          "lat": 6.2963985,
+          "lon": -75.5520602
+        },
+        {
+          "lat": 6.2963671,
+          "lon": -75.5520015
+        },
+        {
+          "lat": 6.2963242,
+          "lon": -75.5520246
+        },
+        {
+          "lat": 6.2963161,
+          "lon": -75.5520157
+        },
+        {
+          "lat": 6.2961602,
+          "lon": -75.5518434
+        },
+        {
+          "lat": 6.2962124,
+          "lon": -75.5518157
+        },
+        {
+          "lat": 6.2962319,
+          "lon": -75.5518044
+        },
+        {
+          "lat": 6.2961914,
+          "lon": -75.5517117
+        },
+        {
+          "lat": 6.2962279,
+          "lon": -75.5516978
+        },
+        {
+          "lat": 6.2962737,
+          "lon": -75.5516815
+        },
+        {
+          "lat": 6.2963015,
+          "lon": -75.5517552
+        },
+        {
+          "lat": 6.2963336,
+          "lon": -75.551738
+        },
+        {
+          "lat": 6.2964992,
+          "lon": -75.5519224
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "Andalucía",
+        "network": "Metrocable",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1413067743,
+      "bounds": {
+        "minlat": 6.268632,
+        "minlon": -75.5364181,
+        "maxlat": 6.269247,
+        "maxlon": -75.5360572
+      },
+      "nodes": [
+        12985984275,
+        12985984276,
+        12985984277,
+        12985984278,
+        12985984279,
+        12985984280,
+        12985984281,
+        12985984282,
+        12985984283,
+        12985984284,
+        12985984285,
+        12985984286,
+        12986017773,
+        13958745087,
+        13958745088,
+        12985984287,
+        12985984275
+      ],
+      "geometry": [
+        {
+          "lat": 6.2692356,
+          "lon": -75.5364181
+        },
+        {
+          "lat": 6.269247,
+          "lon": -75.5363763
+        },
+        {
+          "lat": 6.2692062,
+          "lon": -75.5363612
+        },
+        {
+          "lat": 6.2691437,
+          "lon": -75.5363494
+        },
+        {
+          "lat": 6.2689942,
+          "lon": -75.536298
+        },
+        {
+          "lat": 6.2689534,
+          "lon": -75.5362518
+        },
+        {
+          "lat": 6.2689056,
+          "lon": -75.5361542
+        },
+        {
+          "lat": 6.2687878,
+          "lon": -75.5360781
+        },
+        {
+          "lat": 6.2687344,
+          "lon": -75.536093
+        },
+        {
+          "lat": 6.2687049,
+          "lon": -75.5360572
+        },
+        {
+          "lat": 6.2686408,
+          "lon": -75.5360673
+        },
+        {
+          "lat": 6.268632,
+          "lon": -75.5361369
+        },
+        {
+          "lat": 6.2687516,
+          "lon": -75.536229
+        },
+        {
+          "lat": 6.26891,
+          "lon": -75.5363581
+        },
+        {
+          "lat": 6.2689546,
+          "lon": -75.5363685
+        },
+        {
+          "lat": 6.2689775,
+          "lon": -75.5363234
+        },
+        {
+          "lat": 6.2692356,
+          "lon": -75.5364181
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258915044,
+      "bounds": {
+        "minlat": 6.2810274,
+        "minlon": -75.5032595,
+        "maxlat": 6.2816604,
+        "maxlon": -75.5027546
+      },
+      "nodes": [
+        2642226069,
+        9698926114,
+        2642226070,
+        2642226071,
+        10960460823,
+        2642226072,
+        2642226066,
+        2642226065,
+        2642226068,
+        2642226067,
+        2642226076,
+        2642226078,
+        8639080064,
+        9698926103,
+        9698926102,
+        9698926101,
+        9698926100,
+        2642226082,
+        9698926104,
+        9698926105,
+        9698926106,
+        9698926107,
+        9698926108,
+        9698926115,
+        8639080056,
+        2642226069
+      ],
+      "geometry": [
+        {
+          "lat": 6.2816604,
+          "lon": -75.5029323
+        },
+        {
+          "lat": 6.2816565,
+          "lon": -75.5029688
+        },
+        {
+          "lat": 6.2816484,
+          "lon": -75.5029995
+        },
+        {
+          "lat": 6.2816349,
+          "lon": -75.5030309
+        },
+        {
+          "lat": 6.2816115,
+          "lon": -75.5030577
+        },
+        {
+          "lat": 6.2815094,
+          "lon": -75.5030926
+        },
+        {
+          "lat": 6.2814767,
+          "lon": -75.5030686
+        },
+        {
+          "lat": 6.2811354,
+          "lon": -75.5032595
+        },
+        {
+          "lat": 6.2810274,
+          "lon": -75.5030651
+        },
+        {
+          "lat": 6.281386,
+          "lon": -75.5028635
+        },
+        {
+          "lat": 6.281399,
+          "lon": -75.502887
+        },
+        {
+          "lat": 6.2814386,
+          "lon": -75.5028206
+        },
+        {
+          "lat": 6.2814477,
+          "lon": -75.5027903
+        },
+        {
+          "lat": 6.2814548,
+          "lon": -75.5027736
+        },
+        {
+          "lat": 6.2814653,
+          "lon": -75.5027629
+        },
+        {
+          "lat": 6.281475,
+          "lon": -75.5027577
+        },
+        {
+          "lat": 6.2814858,
+          "lon": -75.5027552
+        },
+        {
+          "lat": 6.2815051,
+          "lon": -75.5027546
+        },
+        {
+          "lat": 6.2815345,
+          "lon": -75.5027597
+        },
+        {
+          "lat": 6.2815612,
+          "lon": -75.5027692
+        },
+        {
+          "lat": 6.2815897,
+          "lon": -75.5027856
+        },
+        {
+          "lat": 6.2816173,
+          "lon": -75.5028058
+        },
+        {
+          "lat": 6.281639,
+          "lon": -75.5028328
+        },
+        {
+          "lat": 6.2816513,
+          "lon": -75.5028591
+        },
+        {
+          "lat": 6.2816584,
+          "lon": -75.5028977
+        },
+        {
+          "lat": 6.2816604,
+          "lon": -75.5029323
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "transportation",
+        "name": "Arví",
+        "network": "Metrocable",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218897378,
+      "bounds": {
+        "minlat": 6.2926443,
+        "minlon": -75.5420749,
+        "maxlat": 6.2932733,
+        "maxlon": -75.5415546
+      },
+      "nodes": [
+        2281008561,
+        2281008559,
+        3674614276,
+        8639109064,
+        9698665174,
+        8639109070,
+        8639109072,
+        8639109075,
+        9698665180,
+        8639109071,
+        8639109069,
+        8639109063,
+        8639109061,
+        9698665177,
+        8639109062,
+        11541743484,
+        8639109060,
+        9698665175,
+        11391267996,
+        11391267997,
+        8639109065,
+        8639109067,
+        8639109073,
+        8639109068,
+        8639109066,
+        2281008561
+      ],
+      "geometry": [
+        {
+          "lat": 6.2932733,
+          "lon": -75.5417456
+        },
+        {
+          "lat": 6.2932126,
+          "lon": -75.5415546
+        },
+        {
+          "lat": 6.2930162,
+          "lon": -75.5416129
+        },
+        {
+          "lat": 6.2930616,
+          "lon": -75.5417572
+        },
+        {
+          "lat": 6.2930396,
+          "lon": -75.5417638
+        },
+        {
+          "lat": 6.292762,
+          "lon": -75.5418388
+        },
+        {
+          "lat": 6.2927444,
+          "lon": -75.5417873
+        },
+        {
+          "lat": 6.2927234,
+          "lon": -75.5417928
+        },
+        {
+          "lat": 6.292701,
+          "lon": -75.5418012
+        },
+        {
+          "lat": 6.2926703,
+          "lon": -75.5418097
+        },
+        {
+          "lat": 6.2926881,
+          "lon": -75.5418576
+        },
+        {
+          "lat": 6.2926443,
+          "lon": -75.5418735
+        },
+        {
+          "lat": 6.2927064,
+          "lon": -75.5420749
+        },
+        {
+          "lat": 6.2927762,
+          "lon": -75.5420531
+        },
+        {
+          "lat": 6.2929268,
+          "lon": -75.5420113
+        },
+        {
+          "lat": 6.2929047,
+          "lon": -75.54193
+        },
+        {
+          "lat": 6.2928826,
+          "lon": -75.5418487
+        },
+        {
+          "lat": 6.2930569,
+          "lon": -75.5417965
+        },
+        {
+          "lat": 6.2930719,
+          "lon": -75.5417927
+        },
+        {
+          "lat": 6.2930752,
+          "lon": -75.5418078
+        },
+        {
+          "lat": 6.2931376,
+          "lon": -75.541787
+        },
+        {
+          "lat": 6.2931605,
+          "lon": -75.5418613
+        },
+        {
+          "lat": 6.2932003,
+          "lon": -75.5418506
+        },
+        {
+          "lat": 6.2932381,
+          "lon": -75.5418399
+        },
+        {
+          "lat": 6.2932121,
+          "lon": -75.5417629
+        },
+        {
+          "lat": 6.2932733,
+          "lon": -75.5417456
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "transportation",
+        "layer": "1",
+        "name": "Santo Domingo",
+        "network": "Metrocable",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 918484951,
+      "bounds": {
+        "minlat": 6.2945467,
+        "minlon": -75.5414527,
+        "maxlat": 6.294629,
+        "maxlon": -75.5413698
+      },
+      "nodes": [
+        8530349335,
+        8530349336,
+        8530349337,
+        8530349338,
+        8530349335
+      ],
+      "geometry": [
+        {
+          "lat": 6.2945629,
+          "lon": -75.5414527
+        },
+        {
+          "lat": 6.2945467,
+          "lon": -75.541427
+        },
+        {
+          "lat": 6.294629,
+          "lon": -75.5413698
+        },
+        {
+          "lat": 6.2946163,
+          "lon": -75.541448
+        },
+        {
+          "lat": 6.2945629,
+          "lon": -75.5414527
+        }
+      ],
+      "tags": {
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "name": "Terminal de Buses Santo Domingo Savio",
+        "operator": "Coopetransa",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218897376,
+      "bounds": {
+        "minlat": 6.2950258,
+        "minlon": -75.5483027,
+        "maxlat": 6.2952889,
+        "maxlon": -75.5478996
+      },
+      "nodes": [
+        2281008572,
+        2281008571,
+        5756061151,
+        5756061149,
+        8639109056,
+        5756061148,
+        5756061150,
+        2281008562,
+        2281008563,
+        5756061147,
+        5756061145,
+        8639109058,
+        5756061144,
+        5756061146,
+        2281008572
+      ],
+      "geometry": [
+        {
+          "lat": 6.2950984,
+          "lon": -75.5482531
+        },
+        {
+          "lat": 6.2950258,
+          "lon": -75.5480315
+        },
+        {
+          "lat": 6.2950853,
+          "lon": -75.5480118
+        },
+        {
+          "lat": 6.295056,
+          "lon": -75.5479223
+        },
+        {
+          "lat": 6.2950966,
+          "lon": -75.5479089
+        },
+        {
+          "lat": 6.2951246,
+          "lon": -75.5478996
+        },
+        {
+          "lat": 6.2951575,
+          "lon": -75.5480001
+        },
+        {
+          "lat": 6.2952206,
+          "lon": -75.5479792
+        },
+        {
+          "lat": 6.2952889,
+          "lon": -75.5481876
+        },
+        {
+          "lat": 6.2952275,
+          "lon": -75.5482079
+        },
+        {
+          "lat": 6.2952497,
+          "lon": -75.5482757
+        },
+        {
+          "lat": 6.2952159,
+          "lon": -75.548287
+        },
+        {
+          "lat": 6.2951684,
+          "lon": -75.5483027
+        },
+        {
+          "lat": 6.2951469,
+          "lon": -75.5482371
+        },
+        {
+          "lat": 6.2950984,
+          "lon": -75.5482531
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "transportation",
+        "name": "Popular",
+        "network": "Metrocable",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "station": "subway"
+      }
+    },
+    {
+      "type": "way",
+      "id": 495058347,
+      "bounds": {
+        "minlat": 6.3400191,
+        "minlon": -75.7160154,
+        "maxlat": 6.3402744,
+        "maxlon": -75.7157735
+      },
+      "nodes": [
+        4868462608,
+        4868462607,
+        4868462606,
+        4868462605,
+        4868462604,
+        4868462603,
+        4868462602,
+        8655740780,
+        4868462601,
+        4868462608
+      ],
+      "geometry": [
+        {
+          "lat": 6.3401428,
+          "lon": -75.7158194
+        },
+        {
+          "lat": 6.3402217,
+          "lon": -75.7157917
+        },
+        {
+          "lat": 6.3402744,
+          "lon": -75.7159438
+        },
+        {
+          "lat": 6.3400704,
+          "lon": -75.7160154
+        },
+        {
+          "lat": 6.3400191,
+          "lon": -75.7158676
+        },
+        {
+          "lat": 6.3400528,
+          "lon": -75.7158558
+        },
+        {
+          "lat": 6.3400354,
+          "lon": -75.7158056
+        },
+        {
+          "lat": 6.3400684,
+          "lon": -75.715794
+        },
+        {
+          "lat": 6.3401268,
+          "lon": -75.7157735
+        },
+        {
+          "lat": 6.3401428,
+          "lon": -75.7158194
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "El Morrón",
+        "network": "Teleférico de San Sebastián de Palmitas",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 495058356,
+      "bounds": {
+        "minlat": 6.3373335,
+        "minlon": -75.7088951,
+        "maxlat": 6.3375283,
+        "maxlon": -75.7086519
+      },
+      "nodes": [
+        4868462782,
+        4868462781,
+        4868462780,
+        4868462779,
+        8655740726,
+        4868462778,
+        4868462777,
+        4868462782
+      ],
+      "geometry": [
+        {
+          "lat": 6.3374632,
+          "lon": -75.7088951
+        },
+        {
+          "lat": 6.3375283,
+          "lon": -75.7088154
+        },
+        {
+          "lat": 6.337432,
+          "lon": -75.7087332
+        },
+        {
+          "lat": 6.3374308,
+          "lon": -75.7086601
+        },
+        {
+          "lat": 6.3374113,
+          "lon": -75.7086669
+        },
+        {
+          "lat": 6.3373488,
+          "lon": -75.7086519
+        },
+        {
+          "lat": 6.3373335,
+          "lon": -75.7087822
+        },
+        {
+          "lat": 6.3374632,
+          "lon": -75.7088951
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "Las Teresitas",
+        "network": "Teleférico de San Sebastián de Palmitas",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 445377527,
+      "bounds": {
+        "minlat": 6.3423811,
+        "minlon": -75.7027377,
+        "maxlat": 6.342656,
+        "maxlon": -75.7024605
+      },
+      "nodes": [
+        4428172643,
+        4428172644,
+        4428172633,
+        4428172635,
+        8655740725,
+        4428172643
+      ],
+      "geometry": [
+        {
+          "lat": 6.3425288,
+          "lon": -75.7024605
+        },
+        {
+          "lat": 6.3423811,
+          "lon": -75.7026132
+        },
+        {
+          "lat": 6.3425083,
+          "lon": -75.7027377
+        },
+        {
+          "lat": 6.342656,
+          "lon": -75.702585
+        },
+        {
+          "lat": 6.3425948,
+          "lon": -75.7025247
+        },
+        {
+          "lat": 6.3425288,
+          "lon": -75.7024605
+        }
+      ],
+      "tags": {
+        "aerialway": "station",
+        "building": "yes",
+        "name": "La Aldea",
+        "network": "Teleférico de San Sebastián de Palmitas",
+        "operator": "Metro de Medellín",
+        "public_transport": "station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607683610,
+      "bounds": {
+        "minlat": 6.3150474,
+        "minlon": -75.5554402,
+        "maxlat": 6.3166825,
+        "maxlon": -75.555167
+      },
+      "nodes": [
+        5758524080,
+        13474434632,
+        5758524079,
+        8524593767,
+        5758524078,
+        8524593764,
+        8524593765,
+        8524593766,
+        8524593763,
+        5758524077,
+        8524593768,
+        5758524080
+      ],
+      "geometry": [
+        {
+          "lat": 6.3150474,
+          "lon": -75.5553989
+        },
+        {
+          "lat": 6.3150483,
+          "lon": -75.5553833
+        },
+        {
+          "lat": 6.3150612,
+          "lon": -75.555167
+        },
+        {
+          "lat": 6.3150875,
+          "lon": -75.5551686
+        },
+        {
+          "lat": 6.315334,
+          "lon": -75.5551834
+        },
+        {
+          "lat": 6.3153312,
+          "lon": -75.555231
+        },
+        {
+          "lat": 6.3166825,
+          "lon": -75.5553126
+        },
+        {
+          "lat": 6.3166749,
+          "lon": -75.5554402
+        },
+        {
+          "lat": 6.3153237,
+          "lon": -75.5553588
+        },
+        {
+          "lat": 6.3153203,
+          "lon": -75.5554153
+        },
+        {
+          "lat": 6.315074,
+          "lon": -75.5554005
+        },
+        {
+          "lat": 6.3150474,
+          "lon": -75.5553989
+        }
+      ],
+      "tags": {
+        "building": "transportation",
+        "layer": "1",
+        "name": "Madera",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 607681834,
+      "bounds": {
+        "minlat": 6.3293518,
+        "minlon": -75.5540954,
+        "maxlat": 6.3308305,
+        "maxlon": -75.5531787
+      },
+      "nodes": [
+        1214430039,
+        8524593769,
+        5758507318,
+        5758507319,
+        8524578775,
+        8524578777,
+        1214046182,
+        8524578776,
+        8524578774,
+        5758507320,
+        1214430039
+      ],
+      "geometry": [
+        {
+          "lat": 6.3308305,
+          "lon": -75.5533159
+        },
+        {
+          "lat": 6.3307905,
+          "lon": -75.553244
+        },
+        {
+          "lat": 6.3307542,
+          "lon": -75.5531787
+        },
+        {
+          "lat": 6.3305199,
+          "lon": -75.5533107
+        },
+        {
+          "lat": 6.3305382,
+          "lon": -75.5533436
+        },
+        {
+          "lat": 6.3293518,
+          "lon": -75.554012
+        },
+        {
+          "lat": 6.329375,
+          "lon": -75.5540538
+        },
+        {
+          "lat": 6.3293982,
+          "lon": -75.5540954
+        },
+        {
+          "lat": 6.3305899,
+          "lon": -75.553424
+        },
+        {
+          "lat": 6.3306015,
+          "lon": -75.5534449
+        },
+        {
+          "lat": 6.3308305,
+          "lon": -75.5533159
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "layer": "1",
+        "name": "Bello",
+        "network": "Metro de Medellín",
+        "operator": "ETMVA",
+        "platforms": "1",
+        "public_transport": "station",
+        "railway": "station",
+        "source": "http://www.metrodemedellin.gov.co",
+        "station": "subway",
+        "subway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 616456097,
+      "bounds": {
+        "minlat": 6.3306367,
+        "minlon": -75.5537246,
+        "maxlat": 6.3309528,
+        "maxlon": -75.5534539
+      },
+      "nodes": [
+        5828299988,
+        5828299989,
+        5828299990,
+        5828299991,
+        5828299988
+      ],
+      "geometry": [
+        {
+          "lat": 6.3307118,
+          "lon": -75.5537246
+        },
+        {
+          "lat": 6.3309528,
+          "lon": -75.5535909
+        },
+        {
+          "lat": 6.3308777,
+          "lon": -75.5534539
+        },
+        {
+          "lat": 6.3306367,
+          "lon": -75.5535876
+        },
+        {
+          "lat": 6.3307118,
+          "lon": -75.5537246
+        }
+      ],
+      "tags": {
+        "abandoned:railway": "station",
+        "building": "yes",
+        "name": "Antigua Estación de Bello del Ferrocarril",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 652295455,
+      "bounds": {
+        "minlat": 6.350828,
+        "minlon": -75.5066263,
+        "maxlat": 6.3510493,
+        "maxlon": -75.5063768
+      },
+      "nodes": [
+        6115605995,
+        6115605996,
+        6115605997,
+        6115605998,
+        6115605995
+      ],
+      "geometry": [
+        {
+          "lat": 6.3510493,
+          "lon": -75.5064466
+        },
+        {
+          "lat": 6.3509267,
+          "lon": -75.5066263
+        },
+        {
+          "lat": 6.350828,
+          "lon": -75.5065512
+        },
+        {
+          "lat": 6.3509586,
+          "lon": -75.5063768
+        },
+        {
+          "lat": 6.3510493,
+          "lon": -75.5064466
+        }
+      ],
+      "tags": {
+        "public_transport": "station",
+        "railway": "station"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12616591,
+      "bounds": {
+        "minlat": 6.2412212,
+        "minlon": -75.5541554,
+        "maxlat": 6.2415747,
+        "maxlon": -75.5536233
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 933924227,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2415002,
+              "lon": -75.5541381
+            },
+            {
+              "lat": 6.2414832,
+              "lon": -75.554147
+            },
+            {
+              "lat": 6.2414673,
+              "lon": -75.5541554
+            },
+            {
+              "lat": 6.2412212,
+              "lon": -75.5536808
+            },
+            {
+              "lat": 6.2412385,
+              "lon": -75.5536718
+            },
+            {
+              "lat": 6.241254,
+              "lon": -75.5536636
+            },
+            {
+              "lat": 6.2415002,
+              "lon": -75.5541381
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 933924228,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2415747,
+              "lon": -75.5540978
+            },
+            {
+              "lat": 6.2415574,
+              "lon": -75.5541069
+            },
+            {
+              "lat": 6.2415419,
+              "lon": -75.554115
+            },
+            {
+              "lat": 6.2412958,
+              "lon": -75.5536405
+            },
+            {
+              "lat": 6.2413121,
+              "lon": -75.5536319
+            },
+            {
+              "lat": 6.2413285,
+              "lon": -75.5536233
+            },
+            {
+              "lat": 6.2415747,
+              "lon": -75.5540978
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Buenos Aires",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12601988,
+      "bounds": {
+        "minlat": 6.2471513,
+        "minlon": -75.5656602,
+        "maxlat": 6.2474967,
+        "maxlon": -75.5651292
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 932532442,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2472515,
+              "lon": -75.5651292
+            },
+            {
+              "lat": 6.2472381,
+              "lon": -75.5651361
+            },
+            {
+              "lat": 6.2472237,
+              "lon": -75.5651435
+            },
+            {
+              "lat": 6.247469,
+              "lon": -75.5656262
+            },
+            {
+              "lat": 6.2474828,
+              "lon": -75.5656191
+            },
+            {
+              "lat": 6.2474967,
+              "lon": -75.565612
+            },
+            {
+              "lat": 6.2472515,
+              "lon": -75.5651292
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 932532441,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2471791,
+              "lon": -75.5651632
+            },
+            {
+              "lat": 6.2471646,
+              "lon": -75.5651706
+            },
+            {
+              "lat": 6.2471513,
+              "lon": -75.5651775
+            },
+            {
+              "lat": 6.2473966,
+              "lon": -75.5656602
+            },
+            {
+              "lat": 6.2474103,
+              "lon": -75.5656532
+            },
+            {
+              "lat": 6.2474242,
+              "lon": -75.565646
+            },
+            {
+              "lat": 6.2471791,
+              "lon": -75.5651632
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "San José",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12606519,
+      "bounds": {
+        "minlat": 6.2454046,
+        "minlon": -75.5622671,
+        "maxlat": 6.245761,
+        "maxlon": -75.561731
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 932928339,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.245761,
+              "lon": -75.562213
+            },
+            {
+              "lat": 6.2457468,
+              "lon": -75.5622205
+            },
+            {
+              "lat": 6.2457328,
+              "lon": -75.562228
+            },
+            {
+              "lat": 6.2454791,
+              "lon": -75.5617459
+            },
+            {
+              "lat": 6.2454927,
+              "lon": -75.5617387
+            },
+            {
+              "lat": 6.2455072,
+              "lon": -75.561731
+            },
+            {
+              "lat": 6.245761,
+              "lon": -75.562213
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 932928340,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2456865,
+              "lon": -75.5622521
+            },
+            {
+              "lat": 6.245672,
+              "lon": -75.5622598
+            },
+            {
+              "lat": 6.2456583,
+              "lon": -75.5622671
+            },
+            {
+              "lat": 6.2454046,
+              "lon": -75.561785
+            },
+            {
+              "lat": 6.2454194,
+              "lon": -75.5617771
+            },
+            {
+              "lat": 6.2454326,
+              "lon": -75.5617701
+            },
+            {
+              "lat": 6.2456865,
+              "lon": -75.5622521
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Pabellón del agua EPM",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12606520,
+      "bounds": {
+        "minlat": 6.2437703,
+        "minlon": -75.5590327,
+        "maxlat": 6.2441155,
+        "maxlon": -75.5584945
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 932928353,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2441155,
+              "lon": -75.5589846
+            },
+            {
+              "lat": 6.2440992,
+              "lon": -75.5589926
+            },
+            {
+              "lat": 6.2440823,
+              "lon": -75.559001
+            },
+            {
+              "lat": 6.2438436,
+              "lon": -75.5585108
+            },
+            {
+              "lat": 6.2438611,
+              "lon": -75.5585022
+            },
+            {
+              "lat": 6.2438767,
+              "lon": -75.5584945
+            },
+            {
+              "lat": 6.2441155,
+              "lon": -75.5589846
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 932928352,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2440422,
+              "lon": -75.5590163
+            },
+            {
+              "lat": 6.2440261,
+              "lon": -75.5590243
+            },
+            {
+              "lat": 6.2440091,
+              "lon": -75.5590327
+            },
+            {
+              "lat": 6.2437703,
+              "lon": -75.5585425
+            },
+            {
+              "lat": 6.2437876,
+              "lon": -75.558534
+            },
+            {
+              "lat": 6.2438034,
+              "lon": -75.5585262
+            },
+            {
+              "lat": 6.2440422,
+              "lon": -75.5590163
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bicentenario",
+        "operator": "Metro de Medellín",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12616700,
+      "bounds": {
+        "minlat": 6.2352371,
+        "minlon": -75.5419649,
+        "maxlat": 6.2357373,
+        "maxlon": -75.5415292
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 933933000,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2356802,
+              "lon": -75.5419374
+            },
+            {
+              "lat": 6.2356697,
+              "lon": -75.5419505
+            },
+            {
+              "lat": 6.2356581,
+              "lon": -75.5419649
+            },
+            {
+              "lat": 6.2352371,
+              "lon": -75.5416228
+            },
+            {
+              "lat": 6.2352489,
+              "lon": -75.541608
+            },
+            {
+              "lat": 6.2352591,
+              "lon": -75.5415954
+            },
+            {
+              "lat": 6.2356802,
+              "lon": -75.5419374
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 933933001,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2357373,
+              "lon": -75.5418713
+            },
+            {
+              "lat": 6.2357267,
+              "lon": -75.5418846
+            },
+            {
+              "lat": 6.2357153,
+              "lon": -75.5418988
+            },
+            {
+              "lat": 6.2352942,
+              "lon": -75.5415567
+            },
+            {
+              "lat": 6.2353063,
+              "lon": -75.5415416
+            },
+            {
+              "lat": 6.2353162,
+              "lon": -75.5415292
+            },
+            {
+              "lat": 6.2357373,
+              "lon": -75.5418713
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Alejandro Echavarría",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12616592,
+      "bounds": {
+        "minlat": 6.238743,
+        "minlon": -75.5452806,
+        "maxlat": 6.2392995,
+        "maxlon": -75.5450763
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 933924266,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2392934,
+              "lon": -75.5452032
+            },
+            {
+              "lat": 6.2392961,
+              "lon": -75.5451867
+            },
+            {
+              "lat": 6.2392995,
+              "lon": -75.545166
+            },
+            {
+              "lat": 6.2387653,
+              "lon": -75.5450763
+            },
+            {
+              "lat": 6.2387622,
+              "lon": -75.5450951
+            },
+            {
+              "lat": 6.2387592,
+              "lon": -75.5451134
+            },
+            {
+              "lat": 6.2392934,
+              "lon": -75.5452032
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 933924265,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2392772,
+              "lon": -75.5452806
+            },
+            {
+              "lat": 6.2392803,
+              "lon": -75.5452674
+            },
+            {
+              "lat": 6.2392834,
+              "lon": -75.5452515
+            },
+            {
+              "lat": 6.2387492,
+              "lon": -75.5451594
+            },
+            {
+              "lat": 6.2387463,
+              "lon": -75.545177
+            },
+            {
+              "lat": 6.238743,
+              "lon": -75.5451965
+            },
+            {
+              "lat": 6.2392772,
+              "lon": -75.5452806
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Loyola",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 12616593,
+      "bounds": {
+        "minlat": 6.2412099,
+        "minlon": -75.5492757,
+        "maxlat": 6.241555,
+        "maxlon": -75.548751
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 933924244,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.241555,
+              "lon": -75.5492138
+            },
+            {
+              "lat": 6.2415393,
+              "lon": -75.5492221
+            },
+            {
+              "lat": 6.2415214,
+              "lon": -75.5492314
+            },
+            {
+              "lat": 6.2412822,
+              "lon": -75.5487686
+            },
+            {
+              "lat": 6.2412998,
+              "lon": -75.5487594
+            },
+            {
+              "lat": 6.2413159,
+              "lon": -75.548751
+            },
+            {
+              "lat": 6.241555,
+              "lon": -75.5492138
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": 933924243,
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 6.2414827,
+              "lon": -75.5492581
+            },
+            {
+              "lat": 6.2414657,
+              "lon": -75.549267
+            },
+            {
+              "lat": 6.2414491,
+              "lon": -75.5492757
+            },
+            {
+              "lat": 6.2412099,
+              "lon": -75.5488128
+            },
+            {
+              "lat": 6.2412282,
+              "lon": -75.5488033
+            },
+            {
+              "lat": 6.2412436,
+              "lon": -75.5487952
+            },
+            {
+              "lat": 6.2414827,
+              "lon": -75.5492581
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Miraflores",
+        "public_transport": "station",
+        "railway": "tram_stop",
+        "tram": "yes",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}
