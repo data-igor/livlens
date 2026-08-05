@@ -52,11 +52,28 @@ frontend side panel.
 3. Nominatim geocoding (`polygon_geojson=1`, 1 req/sec, cached in
    `data/geo_cache.json`) — last resort, and prone to the administrative-vs-
    neighbourhood mismatch described in "Geocoding precision" below.
-It then writes `docs/areas.geojson`. The GitHub Action in
+It then optionally merges generated amenity columns from
+`data/amenities/computed.json` (human CSV values still win on key collisions)
+and writes `docs/areas.geojson`. The GitHub Action in
 `.github/workflows/build.yml` runs this on every push that touches
 `data/areas.csv` or `data/boundaries/` and commits the regenerated output. Do
 not remove the rate-limit sleep or the User-Agent header on the Nominatim
 path — both are required by its usage policy.
+
+## Amenities pipeline (generated data only)
+Amenity columns are **generated**, not hand-edited. Never add them to
+`data/areas.csv`. The pipeline is:
+1. `python3 scripts/amenities.py` — manual dev tool that fetches/caches
+   Overpass data into `data/amenities/raw/*.json`, computes per-area columns,
+   and writes `data/amenities/computed.json`.
+2. `python3 scripts/build.py` — stdlib-only CI/runtime build step that reads
+   `computed.json` if present and merges those generated columns into each
+   feature's properties without overwriting any non-empty CSV value.
+
+Dependency split: `scripts/amenities.py` may use Shapely because it is a
+manually run generator whose committed JSON outputs make the build
+reproducible/offline. `scripts/build.py` must stay stdlib-only so GitHub
+Pages/CI never depends on third-party Python packages.
 
 ## Defining an area's shape (the rulebook)
 **A traced, real, street-bounded polygon is the only correct way to define an
@@ -147,12 +164,20 @@ Two things read whatever columns exist in the CSV without any code change:
 - **Side panel** (`docs/app.js` `renderPanel`) — renders every populated
   property on the clicked feature.
 - **Filters panel** (`docs/app.js` `buildFilterDefinitions`) — auto-detects
-  filterable columns: numeric columns become a max-value slider, columns with
-  a short set of repeated values (≤8 distinct, excluding `notes` and the
+  filterable columns: numeric columns become a slider, columns with a short
+  set of repeated values (≤8 distinct, excluding `notes` and the
   identity/geocoding columns) become checkbox filters.
 Do not hardcode a fixed list of CSV columns in either — only `name`, `city`,
 `country`, `status` are special-cased (shown as header/badge, not a generic
 field/filter).
+
+Numeric filter direction is also schema-driven, by suffix convention:
+- `_nearest_m` (and other numeric columns without a special suffix) mean
+  **lower is better** → slider acts as `≤`.
+- `_min_c`, `_count_1km`, `_brands_1km`, `_per_km2` mean **higher is better**
+  → slider acts as `≥`.
+Keep future generated columns on that naming convention so `docs/app.js` keeps
+working without hardcoded field names.
 
 ## Filter → colour model
 Every filter is marked **strict** or **negotiable** (default). An area's
