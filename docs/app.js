@@ -102,6 +102,19 @@ function escapeHtml(str) {
 // Filter engine
 // ---------------------------------------------------------------------------
 
+// Numeric filter direction. Most numeric columns are "lower is better" (a
+// threshold slider means "at most this much") — but some are inverted, where
+// *higher* is better (e.g. a warmer minimum temperature, or a count/density
+// of nearby amenities). Rather than a hardcoded column list, this is a
+// documented naming convention (see AGENTS.md) so future generated columns
+// (e.g. supermarket counts per km²) get the right direction automatically
+// without a code change here.
+const GREATER_IS_BETTER_SUFFIXES = ["_min_c", "_count_1km", "_brands_1km", "_per_km2"];
+
+function filterDirection(key) {
+  return GREATER_IS_BETTER_SUFFIXES.some((suffix) => key.endsWith(suffix)) ? "gte" : "lte";
+}
+
 function buildFilterDefinitions(features) {
   const fieldValues = {};
   features.forEach((f) => {
@@ -120,7 +133,7 @@ function buildFilterDefinitions(features) {
       const min = Math.min(...nums);
       const max = Math.max(...nums);
       if (min === max) return; // no variation to filter on
-      defs.push({ key, type: "numeric", label: prettifyLabel(key), min, max });
+      defs.push({ key, type: "numeric", label: prettifyLabel(key), min, max, direction: filterDirection(key) });
     } else {
       const distinct = orderCategoricalOptions([...new Set(values)]);
       if (distinct.length > 1 && distinct.length <= MAX_CATEGORICAL_OPTIONS) {
@@ -135,7 +148,11 @@ function initFilterState(defs) {
   const state = {};
   defs.forEach((def) => {
     if (def.type === "numeric") {
-      state[def.key] = { threshold: def.max, strict: false };
+      // Default to the non-restrictive end: for "lower is better" (lte) that's
+      // the max value (no area excluded); for "higher is better" (gte) it's
+      // the min value.
+      const defaultThreshold = def.direction === "gte" ? def.min : def.max;
+      state[def.key] = { threshold: defaultThreshold, strict: false };
     } else {
       state[def.key] = { selected: new Set(def.options), strict: false };
     }
@@ -145,14 +162,18 @@ function initFilterState(defs) {
 
 function isFilterActive(def) {
   const s = filterState[def.key];
-  if (def.type === "numeric") return s.threshold < def.max;
+  if (def.type === "numeric") {
+    return def.direction === "gte" ? s.threshold > def.min : s.threshold < def.max;
+  }
   return s.selected.size < def.options.length;
 }
 
 function evaluateFilter(def, rawValue) {
   if (rawValue === undefined || rawValue === null || rawValue === "") return true; // unknown data doesn't disqualify
   const s = filterState[def.key];
-  if (def.type === "numeric") return parseFloat(rawValue) <= s.threshold;
+  if (def.type === "numeric") {
+    return def.direction === "gte" ? parseFloat(rawValue) >= s.threshold : parseFloat(rawValue) <= s.threshold;
+  }
   return s.selected.has(String(rawValue));
 }
 
@@ -197,9 +218,10 @@ function renderFiltersPanel() {
       const active = isFilterActive(def);
       let controlHtml;
       if (def.type === "numeric") {
+        const symbol = def.direction === "gte" ? "\u2265" : "\u2264";
         controlHtml = `
           <input type="range" min="${def.min}" max="${def.max}" value="${s.threshold}" data-key="${def.key}" class="filter-range" />
-          <div class="filter-range-value">\u2264 ${s.threshold}</div>`;
+          <div class="filter-range-value">${symbol} ${s.threshold}</div>`;
       } else {
         controlHtml = def.options
           .map(
