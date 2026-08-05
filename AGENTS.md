@@ -20,6 +20,18 @@ script. Optimised for zero ongoing maintenance from the human owner.
   library on purpose. `docs/` uses Leaflet via CDN only — no npm, no bundler.
 - **Never commit to `main` directly.** Work on a branch, open a PR.
 
+## Branches — `dev` exists as a preview branch
+- `dev` is a permanent branch, always kept mergeable, that PRs land on first
+  so changes can be previewed live before they hit production.
+- Preview any point on `dev` at
+  `https://raw.githack.com/data-igor/livlens/dev/docs/index.html` (a free CDN
+  proxy — no GitHub Pages config needed, updates within a few minutes of a
+  push).
+- **`dev` is never merged into `main` automatically or as a matter of
+  routine.** Promoting `dev` to production is a separate, explicit,
+  human-approved step — same rule as any other merge to `main`.
+- Feature branches/PRs should target `dev`, not `main`.
+
 ## Data contract (`data/areas.csv`)
 Required columns: `name`, `city`, `country`, `status` (green|yellow|red).
 Optional override columns: `lat`, `lon`, `radius_m` — these are a *fallback
