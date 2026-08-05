@@ -34,12 +34,15 @@ script. Optimised for zero ongoing maintenance from the human owner.
 - **`dev` is never merged into `main` automatically or as a matter of
   routine.** Promoting `dev` to production is a separate, explicit,
   human-approved step — same rule as any other merge to `main`.
-- Feature branches/PRs should target `dev`, not `main`.
-- **PRs into `dev` auto-merge.** `.github/workflows/ci.yml` runs
-  `scripts/build.py` + `node --check docs/app.js` on every PR targeting
-  `dev`; `.github/workflows/automerge-dev.yml` queues the PR to squash-merge
-  automatically once that check is green — no human review required for
-  `dev`. This does **not** apply to `main`, which stays fully manual.
+- **PRs target `main`**, same as always, and are merged into `main` manually
+  by a human — nothing automates that. `dev` is kept in sync separately and
+  automatically: `.github/workflows/pr-to-main.yml` runs a build/syntax
+  check on every PR targeting `main`, then does a plain `git merge` of that
+  PR's branch straight into `dev` and pushes it (not a PR merge — the
+  original PR is completely untouched and stays open against `main`). This
+  gives a live `dev` preview of every open PR without ever using the PR
+  system to land it, and without needing a human to remember to update
+  `dev`.
 
 ## Data contract (`data/areas.csv`)
 Required columns: `name`, `city`, `country`, `status` (green|yellow|red).
