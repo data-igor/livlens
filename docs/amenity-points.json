@@ -1,4 +1,2407 @@
 {
+  "supermarket": [
+    {
+      "lat": 6.111303,
+      "lon": -75.710405
+    },
+    {
+      "lat": 6.165391,
+      "lon": -75.579602
+    },
+    {
+      "lat": 6.169718,
+      "lon": -75.638327
+    },
+    {
+      "lat": 6.16973,
+      "lon": -75.585819
+    },
+    {
+      "lat": 6.18459,
+      "lon": -75.657564
+    },
+    {
+      "lat": 6.186375,
+      "lon": -75.643821
+    },
+    {
+      "lat": 6.193328,
+      "lon": -75.597097
+    },
+    {
+      "lat": 6.193879,
+      "lon": -75.59649
+    },
+    {
+      "lat": 6.210238,
+      "lon": -75.569449
+    },
+    {
+      "lat": 6.210373,
+      "lon": -75.569453
+    },
+    {
+      "lat": 6.213441,
+      "lon": -75.600887
+    },
+    {
+      "lat": 6.220046,
+      "lon": -75.606305
+    },
+    {
+      "lat": 6.227431,
+      "lon": -75.490638
+    },
+    {
+      "lat": 6.229404,
+      "lon": -75.57306
+    },
+    {
+      "lat": 6.231612,
+      "lon": -75.571708
+    },
+    {
+      "lat": 6.232385,
+      "lon": -75.573347
+    },
+    {
+      "lat": 6.243558,
+      "lon": -75.562441
+    },
+    {
+      "lat": 6.244997,
+      "lon": -75.620537
+    },
+    {
+      "lat": 6.245671,
+      "lon": -75.562514
+    },
+    {
+      "lat": 6.246081,
+      "lon": -75.604252
+    },
+    {
+      "lat": 6.246963,
+      "lon": -75.615228
+    },
+    {
+      "lat": 6.250054,
+      "lon": -75.607137
+    },
+    {
+      "lat": 6.255693,
+      "lon": -75.602989
+    },
+    {
+      "lat": 6.25916,
+      "lon": -75.604061
+    },
+    {
+      "lat": 6.261166,
+      "lon": -75.59796
+    },
+    {
+      "lat": 6.262736,
+      "lon": -75.542052
+    },
+    {
+      "lat": 6.263941,
+      "lon": -75.542454
+    },
+    {
+      "lat": 6.264385,
+      "lon": -75.544051
+    },
+    {
+      "lat": 6.264503,
+      "lon": -75.603765
+    },
+    {
+      "lat": 6.264637,
+      "lon": -75.60373
+    },
+    {
+      "lat": 6.265412,
+      "lon": -75.592782
+    },
+    {
+      "lat": 6.266353,
+      "lon": -75.544508
+    },
+    {
+      "lat": 6.266885,
+      "lon": -75.601096
+    },
+    {
+      "lat": 6.267085,
+      "lon": -75.601134
+    },
+    {
+      "lat": 6.267154,
+      "lon": -75.601201
+    },
+    {
+      "lat": 6.2674,
+      "lon": -75.601359
+    },
+    {
+      "lat": 6.267704,
+      "lon": -75.544243
+    },
+    {
+      "lat": 6.268622,
+      "lon": -75.544109
+    },
+    {
+      "lat": 6.269119,
+      "lon": -75.595607
+    },
+    {
+      "lat": 6.269496,
+      "lon": -75.537296
+    },
+    {
+      "lat": 6.269759,
+      "lon": -75.538461
+    },
+    {
+      "lat": 6.2699,
+      "lon": -75.607259
+    },
+    {
+      "lat": 6.274703,
+      "lon": -75.558989
+    },
+    {
+      "lat": 6.27832,
+      "lon": -75.56667
+    },
+    {
+      "lat": 6.286517,
+      "lon": -75.564547
+    },
+    {
+      "lat": 6.290041,
+      "lon": -75.583973
+    },
+    {
+      "lat": 6.290952,
+      "lon": -75.544089
+    },
+    {
+      "lat": 6.291057,
+      "lon": -75.543468
+    },
+    {
+      "lat": 6.291988,
+      "lon": -75.582804
+    },
+    {
+      "lat": 6.292143,
+      "lon": -75.583086
+    },
+    {
+      "lat": 6.298931,
+      "lon": -75.536511
+    },
+    {
+      "lat": 6.301324,
+      "lon": -75.556243
+    },
+    {
+      "lat": 6.304656,
+      "lon": -75.530461
+    },
+    {
+      "lat": 6.225869,
+      "lon": -75.602304,
+      "name": "Abarrotes Caramanta"
+    },
+    {
+      "lat": 6.093048,
+      "lon": -75.636485,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.185421,
+      "lon": -75.583613,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.255758,
+      "lon": -75.617598,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.25833,
+      "lon": -75.60025,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.279411,
+      "lon": -75.603274,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.345637,
+      "lon": -75.5661,
+      "name": "Ara",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.245659,
+      "lon": -75.588268,
+      "name": "Autoservicio Mana"
+    },
+    {
+      "lat": 6.295141,
+      "lon": -75.541112,
+      "name": "Autoservicio Valentina N° 1"
+    },
+    {
+      "lat": 6.230904,
+      "lon": -75.605019,
+      "name": "Autoservicio salome"
+    },
+    {
+      "lat": 6.234777,
+      "lon": -75.548916,
+      "name": "Baratelo"
+    },
+    {
+      "lat": 6.239941,
+      "lon": -75.582439,
+      "name": "Boom"
+    },
+    {
+      "lat": 6.187962,
+      "lon": -75.588774,
+      "name": "Boom supermercado"
+    },
+    {
+      "lat": 6.26415,
+      "lon": -75.600081,
+      "name": "Buzz  Gold Mascotas"
+    },
+    {
+      "lat": 6.26404,
+      "lon": -75.599632,
+      "name": "Carnes  Torino"
+    },
+    {
+      "lat": 6.281584,
+      "lon": -75.614986,
+      "name": "Carniceria y legumbreria"
+    },
+    {
+      "lat": 6.263889,
+      "lon": -75.543748,
+      "name": "Carrniceria"
+    },
+    {
+      "lat": 6.152257,
+      "lon": -75.540031,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.184499,
+      "lon": -75.579502,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.19698,
+      "lon": -75.559857,
+      "name": "Carulla"
+    },
+    {
+      "lat": 6.197762,
+      "lon": -75.575012,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.198617,
+      "lon": -75.565855,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.200083,
+      "lon": -75.575893,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.211458,
+      "lon": -75.569813,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.215981,
+      "lon": -75.55587,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.244833,
+      "lon": -75.594522,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.244927,
+      "lon": -75.591208,
+      "name": "Carulla",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.206662,
+      "lon": -75.566281,
+      "name": "Carulla Express",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.217629,
+      "lon": -75.565267,
+      "name": "Carulla Las Palmas"
+    },
+    {
+      "lat": 6.209169,
+      "lon": -75.559683,
+      "name": "Carulla Pinar del Río",
+      "brand": "Carulla"
+    },
+    {
+      "lat": 6.181845,
+      "lon": -75.569345,
+      "name": "Carulla San Lucas"
+    },
+    {
+      "lat": 6.263935,
+      "lon": -75.598969,
+      "name": "Catdog  Hospital Veterinaria"
+    },
+    {
+      "lat": 6.210431,
+      "lon": -75.566088,
+      "name": "Ceres Mercado Organico"
+    },
+    {
+      "lat": 6.295529,
+      "lon": -75.539962,
+      "name": "Chela"
+    },
+    {
+      "lat": 6.247686,
+      "lon": -75.587921,
+      "name": "Consumo",
+      "brand": "Consumo"
+    },
+    {
+      "lat": 6.174666,
+      "lon": -75.585766,
+      "name": "Consumo Envigado",
+      "brand": "Consumo"
+    },
+    {
+      "lat": 6.301841,
+      "lon": -75.572283,
+      "name": "Consumo Pedregal",
+      "brand": "Consumo"
+    },
+    {
+      "lat": 6.079361,
+      "lon": -75.634862,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.091258,
+      "lon": -75.637737,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.09304,
+      "lon": -75.636753,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.093137,
+      "lon": -75.634607,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.094449,
+      "lon": -75.488171,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.134076,
+      "lon": -75.634127,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.154681,
+      "lon": -75.606734,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.155105,
+      "lon": -75.611636,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.157919,
+      "lon": -75.60402,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.159217,
+      "lon": -75.599661,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.159471,
+      "lon": -75.636364,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.161163,
+      "lon": -75.60062,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.16211,
+      "lon": -75.635977,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.170326,
+      "lon": -75.61676,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.171258,
+      "lon": -75.490253,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.185956,
+      "lon": -75.653334,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.202167,
+      "lon": -75.556651,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.202649,
+      "lon": -75.601241,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.209254,
+      "lon": -75.593627,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.211401,
+      "lon": -75.564945,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.211415,
+      "lon": -75.58486,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.21319,
+      "lon": -75.570804,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.213224,
+      "lon": -75.601778,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.219679,
+      "lon": -75.602878,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.221694,
+      "lon": -75.58023,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.223585,
+      "lon": -75.572464,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.224912,
+      "lon": -75.596763,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.227302,
+      "lon": -75.565883,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.227429,
+      "lon": -75.490693,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.229593,
+      "lon": -75.573073,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.230831,
+      "lon": -75.592679,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.233057,
+      "lon": -75.597052,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.236144,
+      "lon": -75.60208,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.237484,
+      "lon": -75.596527,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.239992,
+      "lon": -75.581582,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.241269,
+      "lon": -75.586109,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.243404,
+      "lon": -75.594049,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.243777,
+      "lon": -75.611181,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.244832,
+      "lon": -75.617522,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.244965,
+      "lon": -75.608349,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.248149,
+      "lon": -75.597242,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.248431,
+      "lon": -75.593978,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.248765,
+      "lon": -75.608581,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.24936,
+      "lon": -75.599415,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.250224,
+      "lon": -75.590908,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.250243,
+      "lon": -75.603551,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.251399,
+      "lon": -75.570326,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.251416,
+      "lon": -75.57047,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.251812,
+      "lon": -75.566829,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.252011,
+      "lon": -75.606907,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.255187,
+      "lon": -75.612,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.256567,
+      "lon": -75.612593,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.257637,
+      "lon": -75.585363,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.257688,
+      "lon": -75.597821,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.258164,
+      "lon": -75.598076,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.262291,
+      "lon": -75.595129,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.263756,
+      "lon": -75.571336,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.26421,
+      "lon": -75.596644,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.264308,
+      "lon": -75.55794,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.265771,
+      "lon": -75.593318,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.266549,
+      "lon": -75.565751,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.269288,
+      "lon": -75.544211,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.274848,
+      "lon": -75.583009,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.274947,
+      "lon": -75.582912,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.279862,
+      "lon": -75.587235,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.281061,
+      "lon": -75.613715,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.284813,
+      "lon": -75.559349,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.336286,
+      "lon": -75.570811,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.338204,
+      "lon": -75.541177,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.359331,
+      "lon": -75.498317,
+      "name": "D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.279966,
+      "lon": -75.563635,
+      "name": "D1 Aranjuez Alamos",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.231624,
+      "lon": -75.606031,
+      "name": "D1 Belén",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.24104,
+      "lon": -75.553059,
+      "name": "D1 Buenos Aires",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.242573,
+      "lon": -75.556562,
+      "name": "D1 Buenos aires",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.184103,
+      "lon": -75.593603,
+      "name": "D1 El Carmelo",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.200966,
+      "lon": -75.588917,
+      "name": "D1 Guayabal",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.263214,
+      "lon": -75.563143,
+      "name": "D1 Hospital",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.382207,
+      "lon": -75.620938,
+      "name": "D1 La Unión - San Felix",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.168168,
+      "lon": -75.582742,
+      "name": "D1 Los Naranjos",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.277556,
+      "lon": -75.564665,
+      "name": "D1 Moravia",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.246442,
+      "lon": -75.563563,
+      "name": "D1 San Ignacio",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.252001,
+      "lon": -75.542966,
+      "name": "D1 de Llanaditas"
+    },
+    {
+      "lat": 6.167616,
+      "lon": -75.619364,
+      "name": "Dollarcity"
+    },
+    {
+      "lat": 6.290939,
+      "lon": -75.54425,
+      "name": "Don Icenove"
+    },
+    {
+      "lat": 6.241714,
+      "lon": -75.557677,
+      "name": "Donde frank"
+    },
+    {
+      "lat": 6.279709,
+      "lon": -75.611375,
+      "name": "Donde guillermo"
+    },
+    {
+      "lat": 6.269694,
+      "lon": -75.53841,
+      "name": "Doña Rosa"
+    },
+    {
+      "lat": 6.290595,
+      "lon": -75.538632,
+      "name": "El Jordan"
+    },
+    {
+      "lat": 6.264568,
+      "lon": -75.544927,
+      "name": "El Paisa"
+    },
+    {
+      "lat": 6.264595,
+      "lon": -75.544903,
+      "name": "El Paisa"
+    },
+    {
+      "lat": 6.264598,
+      "lon": -75.544928,
+      "name": "El Paisa"
+    },
+    {
+      "lat": 6.157032,
+      "lon": -75.605801,
+      "name": "El Tropico"
+    },
+    {
+      "lat": 6.168818,
+      "lon": -75.585599,
+      "name": "El baratillo"
+    },
+    {
+      "lat": 6.297415,
+      "lon": -75.584181,
+      "name": "El baratillo"
+    },
+    {
+      "lat": 6.249314,
+      "lon": -75.610572,
+      "name": "El buen Vecino"
+    },
+    {
+      "lat": 6.234017,
+      "lon": -75.613113,
+      "name": "El cervatillo"
+    },
+    {
+      "lat": 6.293323,
+      "lon": -75.538578,
+      "name": "El chispero"
+    },
+    {
+      "lat": 6.263484,
+      "lon": -75.542794,
+      "name": "El descanso"
+    },
+    {
+      "lat": 6.234865,
+      "lon": -75.61183,
+      "name": "El genuino"
+    },
+    {
+      "lat": 6.167979,
+      "lon": -75.603531,
+      "name": "El gran punto"
+    },
+    {
+      "lat": 6.301884,
+      "lon": -75.582382,
+      "name": "El nacional"
+    },
+    {
+      "lat": 6.252445,
+      "lon": -75.542676,
+      "name": "El primo"
+    },
+    {
+      "lat": 6.22018,
+      "lon": -75.502097,
+      "name": "El silletero"
+    },
+    {
+      "lat": 6.153977,
+      "lon": -75.533336,
+      "name": "Espíritu de Tierra"
+    },
+    {
+      "lat": 6.18309,
+      "lon": -75.579427,
+      "name": "Euro",
+      "brand": "Euro"
+    },
+    {
+      "lat": 6.215721,
+      "lon": -75.605543,
+      "name": "Euro",
+      "brand": "Euro"
+    },
+    {
+      "lat": 6.244027,
+      "lon": -75.594006,
+      "name": "Euro",
+      "brand": "Euro"
+    },
+    {
+      "lat": 6.167453,
+      "lon": -75.588352,
+      "name": "Euro Murano",
+      "brand": "Euro"
+    },
+    {
+      "lat": 6.15197,
+      "lon": -75.62401,
+      "name": "Euromart",
+      "brand": "Euro"
+    },
+    {
+      "lat": 6.25642,
+      "lon": -75.616523,
+      "name": "Exito",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.33899,
+      "lon": -75.54317,
+      "name": "Exito Bello",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.229884,
+      "lon": -75.601835,
+      "name": "Exito Express",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.230416,
+      "lon": -75.596471,
+      "name": "Exito de Belén",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.17178,
+      "lon": -75.587267,
+      "name": "Exito envigado centro",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.244404,
+      "lon": -75.58726,
+      "name": "Fermat"
+    },
+    {
+      "lat": 6.278334,
+      "lon": -75.623339,
+      "name": "Frustas frescas"
+    },
+    {
+      "lat": 6.222023,
+      "lon": -75.574306,
+      "name": "Fruver"
+    },
+    {
+      "lat": 6.238593,
+      "lon": -75.603453,
+      "name": "Fruver  La Granja"
+    },
+    {
+      "lat": 6.310896,
+      "lon": -75.563891,
+      "name": "Granero La Fe"
+    },
+    {
+      "lat": 6.171269,
+      "lon": -75.527269,
+      "name": "Granero Morales"
+    },
+    {
+      "lat": 6.263267,
+      "lon": -75.544137,
+      "name": "Granero el Deportista"
+    },
+    {
+      "lat": 6.309461,
+      "lon": -75.569389,
+      "name": "Granero la buena esquina"
+    },
+    {
+      "lat": 6.31016,
+      "lon": -75.562628,
+      "name": "Granero la fe"
+    },
+    {
+      "lat": 6.339156,
+      "lon": -75.542155,
+      "name": "Homecenter"
+    },
+    {
+      "lat": 6.252619,
+      "lon": -75.60772,
+      "name": "Isimo"
+    },
+    {
+      "lat": 6.260883,
+      "lon": -75.597651,
+      "name": "Isimo"
+    },
+    {
+      "lat": 6.186664,
+      "lon": -75.58291,
+      "name": "Jumbo",
+      "brand": "Jumbo"
+    },
+    {
+      "lat": 6.195736,
+      "lon": -75.57391,
+      "name": "Jumbo",
+      "brand": "Jumbo"
+    },
+    {
+      "lat": 6.229287,
+      "lon": -75.570748,
+      "name": "Jumbo",
+      "brand": "Jumbo"
+    },
+    {
+      "lat": 6.251727,
+      "lon": -75.585586,
+      "name": "Jumbo",
+      "brand": "Jumbo"
+    },
+    {
+      "lat": 6.231702,
+      "lon": -75.603133,
+      "name": "Justo & Bueno"
+    },
+    {
+      "lat": 6.249332,
+      "lon": -75.604628,
+      "name": "Justo & Bueno"
+    },
+    {
+      "lat": 6.151914,
+      "lon": -75.611703,
+      "name": "Justo Bueno"
+    },
+    {
+      "lat": 6.238326,
+      "lon": -75.596362,
+      "name": "Justo y Bueno"
+    },
+    {
+      "lat": 6.250215,
+      "lon": -75.590837,
+      "name": "Justo y Bueno"
+    },
+    {
+      "lat": 6.175143,
+      "lon": -75.635026,
+      "name": "Justo y bueno"
+    },
+    {
+      "lat": 6.232282,
+      "lon": -75.595545,
+      "name": "Justo y bueno"
+    },
+    {
+      "lat": 6.26418,
+      "lon": -75.544114,
+      "name": "LOS"
+    },
+    {
+      "lat": 6.253573,
+      "lon": -75.603088,
+      "name": "La 84"
+    },
+    {
+      "lat": 6.220182,
+      "lon": -75.607228,
+      "name": "La Bodega de Nacho"
+    },
+    {
+      "lat": 6.169673,
+      "lon": -75.617132,
+      "name": "La Gran Esquina"
+    },
+    {
+      "lat": 6.25017,
+      "lon": -75.612015,
+      "name": "La Piña Madura"
+    },
+    {
+      "lat": 6.294009,
+      "lon": -75.539658,
+      "name": "La Tienda de Diego"
+    },
+    {
+      "lat": 6.091328,
+      "lon": -75.636525,
+      "name": "La Vaquita",
+      "brand": "La Vaquita"
+    },
+    {
+      "lat": 6.238797,
+      "lon": -75.60707,
+      "name": "La Vaquita",
+      "brand": "La Vaquita"
+    },
+    {
+      "lat": 6.169641,
+      "lon": -75.585797,
+      "name": "La Vaquita - Envigado",
+      "brand": "La Vaquita"
+    },
+    {
+      "lat": 6.201546,
+      "lon": -75.590353,
+      "name": "La comparcita"
+    },
+    {
+      "lat": 6.168056,
+      "lon": -75.603607,
+      "name": "La economia"
+    },
+    {
+      "lat": 6.263814,
+      "lon": -75.543299,
+      "name": "Las escaleritas"
+    },
+    {
+      "lat": 6.307311,
+      "lon": -75.570202,
+      "name": "Legumbrería MILAN"
+    },
+    {
+      "lat": 6.168686,
+      "lon": -75.586704,
+      "name": "Locatel"
+    },
+    {
+      "lat": 6.157186,
+      "lon": -75.60561,
+      "name": "Los Angeles"
+    },
+    {
+      "lat": 6.263977,
+      "lon": -75.54176,
+      "name": "Los Monos"
+    },
+    {
+      "lat": 6.249454,
+      "lon": -75.609986,
+      "name": "Los Reyes"
+    },
+    {
+      "lat": 6.263551,
+      "lon": -75.542657,
+      "name": "Los Rieles"
+    },
+    {
+      "lat": 6.286482,
+      "lon": -75.549039,
+      "name": "Los pitufos"
+    },
+    {
+      "lat": 6.346667,
+      "lon": -75.507048,
+      "name": "MERCOPA"
+    },
+    {
+      "lat": 6.227411,
+      "lon": -75.56581,
+      "name": "Mall El Indio"
+    },
+    {
+      "lat": 6.296581,
+      "lon": -75.541204,
+      "name": "Marcela don Leo"
+    },
+    {
+      "lat": 6.164951,
+      "lon": -75.590227,
+      "name": "Martes 1 La chica"
+    },
+    {
+      "lat": 6.243843,
+      "lon": -75.592005,
+      "name": "Mega Oferta"
+    },
+    {
+      "lat": 6.241624,
+      "lon": -75.554789,
+      "name": "MerColanta Buenos aires"
+    },
+    {
+      "lat": 6.24402,
+      "lon": -75.606813,
+      "name": "Merca Todo la 84"
+    },
+    {
+      "lat": 6.194326,
+      "lon": -75.599111,
+      "name": "Merca Villas"
+    },
+    {
+      "lat": 6.273249,
+      "lon": -75.557525,
+      "name": "Merca efectivo"
+    },
+    {
+      "lat": 6.245244,
+      "lon": -75.620806,
+      "name": "MercaCatalina"
+    },
+    {
+      "lat": 6.242041,
+      "lon": -75.610765,
+      "name": "MercaUNAC"
+    },
+    {
+      "lat": 6.147209,
+      "lon": -75.616332,
+      "name": "Mercadería Justo & Bueno"
+    },
+    {
+      "lat": 6.292371,
+      "lon": -75.545537,
+      "name": "Mercado Los Orrego"
+    },
+    {
+      "lat": 6.264056,
+      "lon": -75.596711,
+      "name": "Mercado Madrid"
+    },
+    {
+      "lat": 6.214305,
+      "lon": -75.602173,
+      "name": "Mercado Multimerca"
+    },
+    {
+      "lat": 6.30357,
+      "lon": -75.582414,
+      "name": "Mercados Duque"
+    },
+    {
+      "lat": 6.176942,
+      "lon": -75.579939,
+      "name": "Mercados La Hermandad"
+    },
+    {
+      "lat": 6.294333,
+      "lon": -75.581432,
+      "name": "Mercados La Raza"
+    },
+    {
+      "lat": 6.291977,
+      "lon": -75.582789,
+      "name": "Mercados Monaco"
+    },
+    {
+      "lat": 6.286027,
+      "lon": -75.561221,
+      "name": "Mercados Vélez"
+    },
+    {
+      "lat": 6.273475,
+      "lon": -75.56322,
+      "name": "Mercados Z.G."
+    },
+    {
+      "lat": 6.237362,
+      "lon": -75.59646,
+      "name": "Mercados la 76"
+    },
+    {
+      "lat": 6.343346,
+      "lon": -75.54999,
+      "name": "Mercados la Chinca"
+    },
+    {
+      "lat": 6.27988,
+      "lon": -75.592315,
+      "name": "Mercados villa flora"
+    },
+    {
+      "lat": 6.306416,
+      "lon": -75.555476,
+      "name": "Mercafruver"
+    },
+    {
+      "lat": 6.154091,
+      "lon": -75.535651,
+      "name": "Mercajuste"
+    },
+    {
+      "lat": 6.210238,
+      "lon": -75.497728,
+      "name": "Mercana"
+    },
+    {
+      "lat": 6.268826,
+      "lon": -75.604443,
+      "name": "Mercapaisa"
+    },
+    {
+      "lat": 6.250013,
+      "lon": -75.588487,
+      "name": "Mercolanta"
+    },
+    {
+      "lat": 6.215278,
+      "lon": -75.597855,
+      "name": "Mercoop"
+    },
+    {
+      "lat": 6.253049,
+      "lon": -75.608869,
+      "name": "Merica Hogar"
+    },
+    {
+      "lat": 6.231037,
+      "lon": -75.536764,
+      "name": "Merk-y"
+    },
+    {
+      "lat": 6.091185,
+      "lon": -75.636112,
+      "name": "Merka Bueno"
+    },
+    {
+      "lat": 6.09029,
+      "lon": -75.636117,
+      "name": "Merka Caldas"
+    },
+    {
+      "lat": 6.090981,
+      "lon": -75.636102,
+      "name": "Merka Caldas"
+    },
+    {
+      "lat": 6.097382,
+      "lon": -75.63444,
+      "name": "Merka Caldas Express"
+    },
+    {
+      "lat": 6.263532,
+      "lon": -75.570521,
+      "name": "Merka-2 El Chagualo"
+    },
+    {
+      "lat": 6.15494,
+      "lon": -75.608752,
+      "name": "MerkaTodo"
+    },
+    {
+      "lat": 6.229345,
+      "lon": -75.608397,
+      "name": "Merkados Rico mania"
+    },
+    {
+      "lat": 6.346742,
+      "lon": -75.509703,
+      "name": "Merkahorro"
+    },
+    {
+      "lat": 6.267965,
+      "lon": -75.5567,
+      "name": "Merkemos+"
+    },
+    {
+      "lat": 6.239719,
+      "lon": -75.582292,
+      "name": "Merkepaisa La 33"
+    },
+    {
+      "lat": 6.249941,
+      "lon": -75.600569,
+      "name": "Merkepaisa La América"
+    },
+    {
+      "lat": 6.152284,
+      "lon": -75.616037,
+      "name": "Merkepaisa Sabaneta"
+    },
+    {
+      "lat": 6.260946,
+      "lon": -75.585987,
+      "name": "Merkolors"
+    },
+    {
+      "lat": 6.184789,
+      "lon": -75.655831,
+      "name": "Merque Paisa"
+    },
+    {
+      "lat": 6.263263,
+      "lon": -75.541858,
+      "name": "Mini Market la Uva"
+    },
+    {
+      "lat": 6.263882,
+      "lon": -75.543644,
+      "name": "Mini Mercado"
+    },
+    {
+      "lat": 6.249904,
+      "lon": -75.589886,
+      "name": "Mini Mercado Punto Verde"
+    },
+    {
+      "lat": 6.281298,
+      "lon": -75.60655,
+      "name": "Mini mercado Mabe"
+    },
+    {
+      "lat": 6.285553,
+      "lon": -75.546906,
+      "name": "Minimercado El progresso"
+    },
+    {
+      "lat": 6.226682,
+      "lon": -75.564063,
+      "name": "Minimercado España"
+    },
+    {
+      "lat": 6.159387,
+      "lon": -75.597991,
+      "name": "Minimercado Mercabaratillo"
+    },
+    {
+      "lat": 6.24059,
+      "lon": -75.550476,
+      "name": "Minimercado Mile"
+    },
+    {
+      "lat": 6.24668,
+      "lon": -75.585687,
+      "name": "Minimercado la 67"
+    },
+    {
+      "lat": 6.26058,
+      "lon": -75.608762,
+      "name": "Minimercado la INA"
+    },
+    {
+      "lat": 6.238832,
+      "lon": -75.603813,
+      "name": "My Tienda Santa Gema"
+    },
+    {
+      "lat": 6.190492,
+      "lon": -75.595536,
+      "name": "Olimpica"
+    },
+    {
+      "lat": 6.235637,
+      "lon": -75.555883,
+      "name": "Olimpica"
+    },
+    {
+      "lat": 6.232056,
+      "lon": -75.595494,
+      "name": "Olímpica"
+    },
+    {
+      "lat": 6.258815,
+      "lon": -75.604093,
+      "name": "Olímpica"
+    },
+    {
+      "lat": 6.183106,
+      "lon": -75.570999,
+      "name": "Olímpica San Lucas"
+    },
+    {
+      "lat": 6.164961,
+      "lon": -75.619901,
+      "name": "Olímpica San Pío"
+    },
+    {
+      "lat": 6.265662,
+      "lon": -75.601568,
+      "name": "Popotamo"
+    },
+    {
+      "lat": 6.231434,
+      "lon": -75.585721,
+      "name": "Proveduría EPM"
+    },
+    {
+      "lat": 6.279551,
+      "lon": -75.633461,
+      "name": "Rancho grande"
+    },
+    {
+      "lat": 6.264278,
+      "lon": -75.543221,
+      "name": "Revuelteria"
+    },
+    {
+      "lat": 6.270482,
+      "lon": -75.587403,
+      "name": "Salsamentaria El Cerrito"
+    },
+    {
+      "lat": 6.266932,
+      "lon": -75.54269,
+      "name": "Sin nombre"
+    },
+    {
+      "lat": 6.211332,
+      "lon": -75.570946,
+      "name": "Soportes Para TV Medellin"
+    },
+    {
+      "lat": 6.232879,
+      "lon": -75.597702,
+      "name": "Super Mark Corp"
+    },
+    {
+      "lat": 6.300141,
+      "lon": -75.581909,
+      "name": "Super Mercado Picacho"
+    },
+    {
+      "lat": 6.28698,
+      "lon": -75.538323,
+      "name": "Super mercado valentina"
+    },
+    {
+      "lat": 6.174782,
+      "lon": -75.612456,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.264454,
+      "lon": -75.54233,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.272302,
+      "lon": -75.560891,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.289344,
+      "lon": -75.583484,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.290693,
+      "lon": -75.584623,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.295851,
+      "lon": -75.577919,
+      "name": "Supermercado"
+    },
+    {
+      "lat": 6.289997,
+      "lon": -75.583941,
+      "name": "Supermercado 7 Esquinas"
+    },
+    {
+      "lat": 6.28861,
+      "lon": -75.580251,
+      "name": "Supermercado Ahorro real"
+    },
+    {
+      "lat": 6.35083,
+      "lon": -75.557384,
+      "name": "Supermercado Barrio El Mirador"
+    },
+    {
+      "lat": 6.279639,
+      "lon": -75.578509,
+      "name": "Supermercado Bonanza"
+    },
+    {
+      "lat": 6.301966,
+      "lon": -75.573596,
+      "name": "Supermercado Buenos Aires"
+    },
+    {
+      "lat": 6.263163,
+      "lon": -75.609883,
+      "name": "Supermercado CHEO"
+    },
+    {
+      "lat": 6.271157,
+      "lon": -75.561684,
+      "name": "Supermercado D1"
+    },
+    {
+      "lat": 6.180095,
+      "lon": -75.561434,
+      "name": "Supermercado D1 San Lucas"
+    },
+    {
+      "lat": 6.284285,
+      "lon": -75.584199,
+      "name": "Supermercado D1 el diamante"
+    },
+    {
+      "lat": 6.239089,
+      "lon": -75.603896,
+      "name": "Supermercado El Olimpíco"
+    },
+    {
+      "lat": 6.265971,
+      "lon": -75.55817,
+      "name": "Supermercado Expres"
+    },
+    {
+      "lat": 6.285239,
+      "lon": -75.605935,
+      "name": "Supermercado JA"
+    },
+    {
+      "lat": 6.205085,
+      "lon": -75.58232,
+      "name": "Supermercado Justo & Bueno"
+    },
+    {
+      "lat": 6.342232,
+      "lon": -75.567743,
+      "name": "Supermercado La 2000"
+    },
+    {
+      "lat": 6.280067,
+      "lon": -75.563543,
+      "name": "Supermercado La 80 Aranjuez"
+    },
+    {
+      "lat": 6.168013,
+      "lon": -75.579952,
+      "name": "Supermercado La Paz"
+    },
+    {
+      "lat": 6.160598,
+      "lon": -75.627895,
+      "name": "Supermercado La Vaquita"
+    },
+    {
+      "lat": 6.261045,
+      "lon": -75.597383,
+      "name": "Supermercado La Vaquita"
+    },
+    {
+      "lat": 6.291141,
+      "lon": -75.553999,
+      "name": "Supermercado Las Margaritas"
+    },
+    {
+      "lat": 6.343734,
+      "lon": -75.548881,
+      "name": "Supermercado Los Primos"
+    },
+    {
+      "lat": 6.34777,
+      "lon": -75.549308,
+      "name": "Supermercado Los Primos"
+    },
+    {
+      "lat": 6.164485,
+      "lon": -75.636224,
+      "name": "Supermercado Maxioferta"
+    },
+    {
+      "lat": 6.164493,
+      "lon": -75.636245,
+      "name": "Supermercado Maxioferta"
+    },
+    {
+      "lat": 6.271495,
+      "lon": -75.558438,
+      "name": "Supermercado Maxioferta Campo Valdes"
+    },
+    {
+      "lat": 6.345767,
+      "lon": -75.50986,
+      "name": "Supermercado Maxioferta Copacabana"
+    },
+    {
+      "lat": 6.345817,
+      "lon": -75.509732,
+      "name": "Supermercado Maxioferta Copacabana"
+    },
+    {
+      "lat": 6.15699,
+      "lon": -75.642785,
+      "name": "Supermercado Maxioferta Estrella Parque"
+    },
+    {
+      "lat": 6.156998,
+      "lon": -75.642765,
+      "name": "Supermercado Maxioferta Estrella Parque"
+    },
+    {
+      "lat": 6.339947,
+      "lon": -75.544914,
+      "name": "Supermercado Maxioferta Niquia"
+    },
+    {
+      "lat": 6.339988,
+      "lon": -75.544932,
+      "name": "Supermercado Maxioferta Niquia"
+    },
+    {
+      "lat": 6.226958,
+      "lon": -75.565795,
+      "name": "Supermercado Maxioferta Palmas"
+    },
+    {
+      "lat": 6.22701,
+      "lon": -75.565697,
+      "name": "Supermercado Maxioferta Palmas"
+    },
+    {
+      "lat": 6.188597,
+      "lon": -75.58939,
+      "name": "Supermercado Maxioferta Sede Mayorista"
+    },
+    {
+      "lat": 6.209151,
+      "lon": -75.585587,
+      "name": "Supermercado MercaZ"
+    },
+    {
+      "lat": 6.157652,
+      "lon": -75.604446,
+      "name": "Supermercado Mil Variedades"
+    },
+    {
+      "lat": 6.287056,
+      "lon": -75.573476,
+      "name": "Supermercado Mil Variedades"
+    },
+    {
+      "lat": 6.225629,
+      "lon": -75.586332,
+      "name": "Supermercado Multigangas J.M."
+    },
+    {
+      "lat": 6.29886,
+      "lon": -75.582764,
+      "name": "Supermercado Palomares"
+    },
+    {
+      "lat": 6.284519,
+      "lon": -75.607936,
+      "name": "Supermercado Pa´ mi gente"
+    },
+    {
+      "lat": 6.067467,
+      "lon": -75.500308,
+      "name": "Supermercado Pempenao"
+    },
+    {
+      "lat": 6.284016,
+      "lon": -75.586461,
+      "name": "Supermercado Vanegas"
+    },
+    {
+      "lat": 6.247843,
+      "lon": -75.585003,
+      "name": "Supermercado Y Legunbreria El Granadillo"
+    },
+    {
+      "lat": 6.292126,
+      "lon": -75.583105,
+      "name": "Supermercado el Angelito"
+    },
+    {
+      "lat": 6.295008,
+      "lon": -75.574847,
+      "name": "Supermercado la 98"
+    },
+    {
+      "lat": 6.29391,
+      "lon": -75.53983,
+      "name": "Supermercado la Viña"
+    },
+    {
+      "lat": 6.29256,
+      "lon": -75.584243,
+      "name": "Supermercado la palma"
+    },
+    {
+      "lat": 6.264598,
+      "lon": -75.544932,
+      "name": "Supermercado max super"
+    },
+    {
+      "lat": 6.290456,
+      "lon": -75.584738,
+      "name": "Supermercados D1 Miramar"
+    },
+    {
+      "lat": 6.225034,
+      "lon": -75.595822,
+      "name": "Supermercados La vaquita"
+    },
+    {
+      "lat": 6.191861,
+      "lon": -75.566522,
+      "name": "Supermercados Supermú"
+    },
+    {
+      "lat": 6.224812,
+      "lon": -75.605951,
+      "name": "Supermercados isabela"
+    },
+    {
+      "lat": 6.256053,
+      "lon": -75.600934,
+      "name": "Supermú"
+    },
+    {
+      "lat": 6.156581,
+      "lon": -75.606228,
+      "name": "Supertienda Sanzen"
+    },
+    {
+      "lat": 6.272689,
+      "lon": -75.557001,
+      "name": "Supremercado Mercaval"
+    },
+    {
+      "lat": 6.156614,
+      "lon": -75.606724,
+      "name": "Suri Tienda la 57 Sur"
+    },
+    {
+      "lat": 6.257074,
+      "lon": -75.614921,
+      "name": "Surti Max"
+    },
+    {
+      "lat": 6.282508,
+      "lon": -75.607703,
+      "name": "Surti max"
+    },
+    {
+      "lat": 6.232061,
+      "lon": -75.59671,
+      "name": "SurtiMax"
+    },
+    {
+      "lat": 6.291127,
+      "lon": -75.562136,
+      "name": "SurtiMax"
+    },
+    {
+      "lat": 6.250651,
+      "lon": -75.611522,
+      "name": "Surtimax"
+    },
+    {
+      "lat": 6.2853,
+      "lon": -75.584034,
+      "name": "Surtimax"
+    },
+    {
+      "lat": 6.303294,
+      "lon": -75.57092,
+      "name": "Surtimax los primitos"
+    },
+    {
+      "lat": 6.307382,
+      "lon": -75.570355,
+      "name": "Surtimax minimercado super merca"
+    },
+    {
+      "lat": 6.351175,
+      "lon": -75.567951,
+      "name": "Sutoservicio El Punto"
+    },
+    {
+      "lat": 6.303662,
+      "lon": -75.549482,
+      "name": "Súpermercados Los Giraldo"
+    },
+    {
+      "lat": 6.264757,
+      "lon": -75.540824,
+      "name": "Tienda"
+    },
+    {
+      "lat": 6.161315,
+      "lon": -75.642378,
+      "name": "Tienda Ara"
+    },
+    {
+      "lat": 6.161365,
+      "lon": -75.642369,
+      "name": "Tienda D1"
+    },
+    {
+      "lat": 6.286092,
+      "lon": -75.60803,
+      "name": "Tienda D1"
+    },
+    {
+      "lat": 6.305565,
+      "lon": -75.567933,
+      "name": "Tienda D1"
+    },
+    {
+      "lat": 6.30038,
+      "lon": -75.583544,
+      "name": "Tienda D1 Los lotes"
+    },
+    {
+      "lat": 6.252967,
+      "lon": -75.56412,
+      "name": "Tienda D1 Parque de Bolivar"
+    },
+    {
+      "lat": 6.157812,
+      "lon": -75.605737,
+      "name": "Tienda Donde el Coste"
+    },
+    {
+      "lat": 6.292707,
+      "lon": -75.546148,
+      "name": "Tienda El Progreso"
+    },
+    {
+      "lat": 6.269722,
+      "lon": -75.548145,
+      "name": "Tienda La Curva"
+    },
+    {
+      "lat": 6.29837,
+      "lon": -75.540996,
+      "name": "Tienda Lazaro La Torre"
+    },
+    {
+      "lat": 6.178111,
+      "lon": -75.640381,
+      "name": "Tienda Memo"
+    },
+    {
+      "lat": 6.317099,
+      "lon": -75.557573,
+      "name": "Tienda Metro"
+    },
+    {
+      "lat": 6.289505,
+      "lon": -75.583443,
+      "name": "Tienda Naturista"
+    },
+    {
+      "lat": 6.266855,
+      "lon": -75.542411,
+      "name": "Tienda Sin nombre"
+    },
+    {
+      "lat": 6.263477,
+      "lon": -75.543203,
+      "name": "Tienda azul"
+    },
+    {
+      "lat": 6.260469,
+      "lon": -75.570765,
+      "name": "Tienda de Aleja"
+    },
+    {
+      "lat": 6.198031,
+      "lon": -75.593921,
+      "name": "Tienda de Mascotas Jovi"
+    },
+    {
+      "lat": 6.267827,
+      "lon": -75.55782,
+      "name": "Tienda de abarrotes la hortencia"
+    },
+    {
+      "lat": 6.257387,
+      "lon": -75.625017,
+      "name": "Tienda de don Hector"
+    },
+    {
+      "lat": 6.283998,
+      "lon": -75.608906,
+      "name": "Tienda doña gloria"
+    },
+    {
+      "lat": 6.205853,
+      "lon": -75.51682,
+      "name": "Tienda el chispero"
+    },
+    {
+      "lat": 6.287263,
+      "lon": -75.579581,
+      "name": "Tienda granero Kennia"
+    },
+    {
+      "lat": 6.297734,
+      "lon": -75.541681,
+      "name": "Tiendalos Torres Perez"
+    },
+    {
+      "lat": 6.213582,
+      "lon": -75.601759,
+      "name": "Tiendas ARA - Belén Rincón",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.201832,
+      "lon": -75.59375,
+      "name": "Tiendas ARA - La Colinita",
+      "brand": "Ara"
+    },
+    {
+      "lat": 6.111856,
+      "lon": -75.710893,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.214347,
+      "lon": -75.60177,
+      "name": "Tiendas D1"
+    },
+    {
+      "lat": 6.214928,
+      "lon": -75.601262,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.233393,
+      "lon": -75.589473,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.23722,
+      "lon": -75.585348,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.270461,
+      "lon": -75.556726,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.273434,
+      "lon": -75.553412,
+      "name": "Tiendas D1",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.267204,
+      "lon": -75.554489,
+      "name": "Tiendas D1 Manrique",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.259309,
+      "lon": -75.603945,
+      "name": "Tiendas D1 de todos.",
+      "brand": "D1"
+    },
+    {
+      "lat": 6.196253,
+      "lon": -75.592088,
+      "name": "Tiendas de Todos"
+    },
+    {
+      "lat": 6.269985,
+      "lon": -75.536171,
+      "name": "Tiendita"
+    },
+    {
+      "lat": 6.292569,
+      "lon": -75.569549,
+      "name": "Tiendos D1"
+    },
+    {
+      "lat": 6.090449,
+      "lon": -75.636125,
+      "name": "Tú Fruver"
+    },
+    {
+      "lat": 6.303499,
+      "lon": -75.582468,
+      "name": "Valencia"
+    },
+    {
+      "lat": 6.247863,
+      "lon": -75.584625,
+      "name": "Vegetable shop"
+    },
+    {
+      "lat": 6.247726,
+      "lon": -75.597354,
+      "name": "Vita Integral Nutricion Funcional"
+    },
+    {
+      "lat": 6.223758,
+      "lon": -75.49126,
+      "name": "Vivero la granja del Ñato"
+    },
+    {
+      "lat": 6.298147,
+      "lon": -75.573984,
+      "name": "granero la 101A"
+    },
+    {
+      "lat": 6.184633,
+      "lon": -75.656383,
+      "name": "maxioferta prado 1"
+    },
+    {
+      "lat": 6.2943,
+      "lon": -75.54539,
+      "name": "medellin"
+    },
+    {
+      "lat": 6.304373,
+      "lon": -75.57066,
+      "name": "merkfull"
+    },
+    {
+      "lat": 6.270078,
+      "lon": -75.558791,
+      "name": "supermercado Justo y Bueno"
+    },
+    {
+      "lat": 6.283243,
+      "lon": -75.607927,
+      "name": "supermercado San martin"
+    },
+    {
+      "lat": 6.275011,
+      "lon": -75.56545,
+      "name": "supermercado la 80"
+    },
+    {
+      "lat": 6.184624,
+      "lon": -75.656376,
+      "name": "supermercado maxioferta prado 1"
+    },
+    {
+      "lat": 6.185619,
+      "lon": -75.656628,
+      "name": "supermercado maxioferta prado 3"
+    },
+    {
+      "lat": 6.18562,
+      "lon": -75.656618,
+      "name": "supermercadoo maxioferta prado 3"
+    },
+    {
+      "lat": 6.239311,
+      "lon": -75.596318,
+      "name": "supermú"
+    },
+    {
+      "lat": 6.264208,
+      "lon": -75.541599,
+      "name": "tienda"
+    },
+    {
+      "lat": 6.210509,
+      "lon": -75.5873,
+      "name": "tienda Naturista Evolucion"
+    },
+    {
+      "lat": 6.25136,
+      "lon": -75.56586,
+      "name": "ÉXITO MARACAIBO",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.197843,
+      "lon": -75.575051,
+      "name": "ÉXITO TECNO OVIEDO",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.285594,
+      "lon": -75.55571,
+      "name": "Éxito Aranjuez",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.23055,
+      "lon": -75.5964,
+      "name": "Éxito Belén",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.217396,
+      "lon": -75.59864,
+      "name": "Éxito Gran Vía",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.24961,
+      "lon": -75.56673,
+      "name": "Éxito Junín",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.24895,
+      "lon": -75.58898,
+      "name": "Éxito La 70",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.246345,
+      "lon": -75.601776,
+      "name": "Éxito Laureles",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.232054,
+      "lon": -75.603884,
+      "name": "Éxito Los Molinos",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.211618,
+      "lon": -75.574811,
+      "name": "Éxito Poblado",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.24689,
+      "lon": -75.56767,
+      "name": "Éxito San Antonio",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.235394,
+      "lon": -75.569552,
+      "name": "Éxito San Diego",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.248671,
+      "lon": -75.589626,
+      "name": "Éxito Super",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.291018,
+      "lon": -75.5413,
+      "name": "Éxito Verde",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.198586,
+      "lon": -75.557192,
+      "name": "Éxito del Este",
+      "brand": "Éxito"
+    },
+    {
+      "lat": 6.26329,
+      "lon": -75.588872,
+      "name": "éxito express",
+      "brand": "Éxito"
+    }
+  ],
   "metro": [
     {
       "lat": 6.299977,
