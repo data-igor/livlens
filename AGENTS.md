@@ -20,6 +20,30 @@ script. Optimised for zero ongoing maintenance from the human owner.
   library on purpose. `docs/` uses Leaflet via CDN only — no npm, no bundler.
 - **Never commit to `main` directly.** Work on a branch, open a PR.
 
+## Branches — `dev` exists as a preview branch
+- `dev` is a permanent branch, always kept mergeable, that PRs land on first
+  so changes can be previewed live before they hit production.
+- Preview `dev` via `raw.githack.com` — **but branch-name URLs
+  (`.../dev/docs/index.html`) are cached hard by githack's upstream
+  (statically.io) and can serve stale content for a long time even though the
+  edge reports a cache MISS.** Always use the **commit SHA**, not the branch
+  name, for a preview that's guaranteed fresh:
+  `https://raw.githack.com/data-igor/livlens/<commit-sha>/docs/index.html`
+  (get the SHA with `git rev-parse dev`). Query-string cache-busting does
+  **not** work against this CDN.
+- **`dev` is never merged into `main` automatically or as a matter of
+  routine.** Promoting `dev` to production is a separate, explicit,
+  human-approved step — same rule as any other merge to `main`.
+- **PRs target `main`**, same as always, and are merged into `main` manually
+  by a human — nothing automates that. `dev` is kept in sync separately and
+  automatically: `.github/workflows/pr-to-main.yml` runs a build/syntax
+  check on every PR targeting `main`, then does a plain `git merge` of that
+  PR's branch straight into `dev` and pushes it (not a PR merge — the
+  original PR is completely untouched and stays open against `main`). This
+  gives a live `dev` preview of every open PR without ever using the PR
+  system to land it, and without needing a human to remember to update
+  `dev`.
+
 ## Data contract (`data/areas.csv`)
 Required columns: `name`, `city`, `country`, `status` (green|yellow|red).
 Optional override columns: `lat`, `lon`, `radius_m` — these are a *fallback
@@ -35,11 +59,67 @@ frontend side panel.
 3. Nominatim geocoding (`polygon_geojson=1`, 1 req/sec, cached in
    `data/geo_cache.json`) — last resort, and prone to the administrative-vs-
    neighbourhood mismatch described in "Geocoding precision" below.
-It then writes `docs/areas.geojson`. The GitHub Action in
+It then optionally merges generated amenity columns from
+`data/amenities/computed.json` (human CSV values still win on key collisions)
+and writes `docs/areas.geojson`. The GitHub Action in
 `.github/workflows/build.yml` runs this on every push that touches
 `data/areas.csv` or `data/boundaries/` and commits the regenerated output. Do
 not remove the rate-limit sleep or the User-Agent header on the Nominatim
 path — both are required by its usage policy.
+
+## Amenities pipeline (generated data only)
+Amenity columns are **generated**, not hand-edited. Never add them to
+`data/areas.csv`. The pipeline is:
+1. `python3 scripts/amenities.py` — manual dev tool that fetches/caches
+   Overpass data into `data/amenities/raw/*.json`, computes per-area columns,
+   and writes `data/amenities/computed.json`.
+2. `python3 scripts/build.py` — stdlib-only CI/runtime build step that reads
+   `computed.json` if present and merges those generated columns into each
+   feature's properties without overwriting any non-empty CSV value.
+
+Dependency split: `scripts/amenities.py` may use Shapely because it is a
+manually run generator whose committed JSON outputs make the build
+reproducible/offline. `scripts/build.py` must stay stdlib-only so GitHub
+Pages/CI never depends on third-party Python packages.
+
+### Two kinds of amenity output — filter columns vs. point layers
+Not every amenity layer becomes a numeric filter. A `Layer` in
+`scripts/amenities.py` is either:
+- a **metric layer** (e.g. `supermarket`, `restaurants`) — contributes
+  per-area columns to `data/amenities/computed.json`, which become filterable
+  like any CSV column; or
+- a **point layer** (`point_layer=True`; currently `cafe`, `gym`, `metro`) —
+  has no metrics/sanity gates, and instead its raw `{lat, lon, name?, brand?}`
+  points are written to `data/amenities/points.json`, copied by `build.py` to
+  `docs/amenity-points.json`, and rendered by `docs/app.js` as a toggleable
+  Leaflet overlay (icons/dots you switch on and off), not a choropleth
+  criterion. Use a point layer instead of a metric layer whenever the raw
+  locations themselves (not a per-area density/nearest-distance number) are
+  what's useful — e.g. seeing exactly which gym brand is nearby, not just
+  "how many gyms within 1km".
+- Gym markers are colour-coded by brand (`GYM_BRAND_COLORS` in `app.js`);
+  unmatched/unbranded gyms fall back to `GYM_DEFAULT_COLOR`. Keep this table
+  in sync with `brand_aliases` in the `gym` `Layer` definition.
+- `health` and `nightlife` layers were tried and deliberately removed (not
+  just dropped by a sanity gate) — health because nobody cared about it as a
+  filter, nightlife because a concentration of bars/nightclubs is meant to
+  feed a future noise estimate, not stand alone as its own filter/column.
+- `cafe_specialty_count_1km` was removed for the same reason `cafe` itself
+  became a point layer: the "loose vs. strict" café metric distinction wasn't
+  useful in practice, and OSM's café coverage is genuinely sparse (~336 total
+  cafés across the whole 5-municipality bbox) — better shown as honest dots
+  on the map than as a filterable density number.
+
+## Frontend range sliders — never rebuild the DOM mid-drag
+`docs/app.js`'s numeric filter sliders update in place on `input` (patching
+just the value label and the `.filter-row.active` class), not by calling the
+full `renderFiltersPanel()` rebuild. Re-rendering the panel's `innerHTML`
+while a `<input type="range">` is mid-drag destroys and recreates that exact
+DOM node, which kills the browser's native drag/touch gesture — janky on
+desktop, completely non-functional on mobile touch. If you need the panel to
+reflect a filter's state change from user input, patch the specific DOM bits
+that changed; never re-render the whole list from an event fired by an
+element inside that same list.
 
 ## Defining an area's shape (the rulebook)
 **A traced, real, street-bounded polygon is the only correct way to define an
@@ -90,7 +170,7 @@ if both are available.
 Two pairs of columns in `data/areas.csv` are computed estimates, not
 measurements — documented here so nobody mistakes them for live data or
 wires up a paid API to "fix" them:
-- `motorbike_min_to_poblado` / `motorbike_min_to_laureles` — straight-line
+- `motorbike_minutes_to_poblado` / `motorbike_minutes_to_laureles` — straight-line
   (haversine) distance from each area's centroid to El Poblado's and
   Laureles' centroids, divided by an assumed average urban motorbike speed
   of 22 km/h. A live routing API (OSRM's public demo server) was tried
@@ -130,12 +210,20 @@ Two things read whatever columns exist in the CSV without any code change:
 - **Side panel** (`docs/app.js` `renderPanel`) — renders every populated
   property on the clicked feature.
 - **Filters panel** (`docs/app.js` `buildFilterDefinitions`) — auto-detects
-  filterable columns: numeric columns become a max-value slider, columns with
-  a short set of repeated values (≤8 distinct, excluding `notes` and the
+  filterable columns: numeric columns become a slider, columns with a short
+  set of repeated values (≤8 distinct, excluding `notes` and the
   identity/geocoding columns) become checkbox filters.
 Do not hardcode a fixed list of CSV columns in either — only `name`, `city`,
 `country`, `status` are special-cased (shown as header/badge, not a generic
 field/filter).
+
+Numeric filter direction is also schema-driven, by suffix convention:
+- `_nearest_m` (and other numeric columns without a special suffix) mean
+  **lower is better** → slider acts as `≤`.
+- `_min_c`, `_count_1km`, `_brands_1km`, `_per_km2` mean **higher is better**
+  → slider acts as `≥`.
+Keep future generated columns on that naming convention so `docs/app.js` keeps
+working without hardcoded field names.
 
 ## Filter → colour model
 Every filter is marked **strict** or **negotiable** (default). An area's

@@ -25,7 +25,10 @@ ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = ROOT / "data" / "areas.csv"
 CACHE_PATH = ROOT / "data" / "geo_cache.json"
 BOUNDARIES_DIR = ROOT / "data" / "boundaries"
+AMENITIES_PATH = ROOT / "data" / "amenities" / "computed.json"
+AMENITY_POINTS_PATH = ROOT / "data" / "amenities" / "points.json"
 OUT_PATH = ROOT / "docs" / "areas.geojson"
+AMENITY_POINTS_OUT_PATH = ROOT / "docs" / "amenity-points.json"
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "LivLens/1.0 (personal project; https://github.com/data-igor/livlens)"
@@ -41,6 +44,24 @@ def load_cache():
 
 def save_cache(cache):
     CACHE_PATH.write_text(json.dumps(cache, indent=2, ensure_ascii=False))
+
+
+def load_amenities():
+    if not AMENITIES_PATH.exists():
+        return {}
+    return json.loads(AMENITIES_PATH.read_text(encoding="utf-8"))
+
+
+def copy_amenity_points():
+    """Point-layer data (cafe/gym/metro dots for the map) is unrelated to
+    per-area CSV properties, so it's just copied through as its own static
+    asset rather than merged into areas.geojson. No-ops if amenities.py
+    hasn't been run yet — this data is optional."""
+    if not AMENITY_POINTS_PATH.exists():
+        return
+    AMENITY_POINTS_OUT_PATH.write_text(
+        AMENITY_POINTS_PATH.read_text(encoding="utf-8"), encoding="utf-8"
+    )
 
 
 def cache_key(name, city, country):
@@ -162,6 +183,7 @@ def main():
         sys.exit(1)
 
     cache = load_cache()
+    amenities = load_amenities()
     features = []
     misses = []
 
@@ -213,6 +235,9 @@ def main():
 
         if geometry:
             properties = {k: v for k, v in row.items() if v not in (None, "")}
+            for key, value in amenities.get(slugify(name), {}).items():
+                if key not in properties and value not in (None, ""):
+                    properties[key] = value
             features.append(
                 {
                     "type": "Feature",
@@ -237,6 +262,8 @@ def main():
     geojson = {"type": "FeatureCollection", "features": features}
     OUT_PATH.write_text(json.dumps(geojson, indent=2, ensure_ascii=False))
     print(f"\nWrote {len(features)} area(s) to {OUT_PATH}")
+
+    copy_amenity_points()
 
     if misses:
         print("\nAreas that could not be geocoded:")

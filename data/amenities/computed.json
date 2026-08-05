@@ -1,0 +1,2602 @@
+{
+  "19-de-abril": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 249
+  },
+  "aguas-frias": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3375
+  },
+  "alcala": {
+    "restaurants_per_km2": 7.05,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 516
+  },
+  "aldea-pablo-vi": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 353
+  },
+  "alejandria": {
+    "restaurants_per_km2": 27.56,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 355
+  },
+  "alejandro-echavarria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 503
+  },
+  "alfonso-lopez": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 404
+  },
+  "aliadas-del-sur": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 101
+  },
+  "altamira": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 316
+  },
+  "altavista": {
+    "restaurants_per_km2": 4.93,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 275
+  },
+  "altavista-sector-central": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1947
+  },
+  "alto-de-la-virgen": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1786
+  },
+  "alto-de-los-ospina": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 418
+  },
+  "alto-de-misael": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 359
+  },
+  "altos-del-poblado": {
+    "restaurants_per_km2": 2.18,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 626
+  },
+  "ancon-san-martin": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 869
+  },
+  "ancon-sur-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1353
+  },
+  "ancon-sur-(sabaneta)": {
+    "restaurants_per_km2": 1.87,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 483
+  },
+  "andalucia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 391
+  },
+  "antonio-narino": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 446
+  },
+  "aranjuez": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 307
+  },
+  "araucaria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 638
+  },
+  "area-de-expansion-altavista": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 756
+  },
+  "area-de-expansion-belen-rincon": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 193
+  },
+  "area-de-expansion-el-noral": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 604
+  },
+  "area-de-expansion-pajarito": {
+    "restaurants_per_km2": 1.26,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 353
+  },
+  "area-de-expansion-san-antonio-de-prado": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 797
+  },
+  "area-de-expansion-san-cristobal": {
+    "restaurants_per_km2": 2.75,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 108
+  },
+  "artex": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 798
+  },
+  "asomadera-no.1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 273
+  },
+  "asomadera-no.2": {
+    "restaurants_per_km2": 6.06,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 406
+  },
+  "asomadera-no.3": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 469
+  },
+  "astorga": {
+    "restaurants_per_km2": 125.47,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 235
+  },
+  "asturias": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 731
+  },
+  "aures-no.1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 880
+  },
+  "aures-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 660
+  },
+  "b.-cerro-el-volador": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 382
+  },
+  "balcones-de-sevilla": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 951
+  },
+  "bariloche": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 557
+  },
+  "barrio-caicedo": {
+    "restaurants_per_km2": 4.74,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 153
+  },
+  "barrio-colombia": {
+    "restaurants_per_km2": 12.35,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 233
+  },
+  "barrio-colon": {
+    "restaurants_per_km2": 8.3,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 486
+  },
+  "barrio-cristobal": {
+    "restaurants_per_km2": 8.38,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 115
+  },
+  "barrios-de-jesus": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 126
+  },
+  "barrios-unidos": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1609
+  },
+  "barro-blanco": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1925
+  },
+  "batallon-cuarta-brigada": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 258
+  },
+  "batallon-girardot": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 432
+  },
+  "bavaria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 225
+  },
+  "belalcazar": {
+    "restaurants_per_km2": 5.98,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 578
+  },
+  "belen": {
+    "restaurants_per_km2": 14.95,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 164
+  },
+  "belencito": {
+    "restaurants_per_km2": 5.4,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 284
+  },
+  "bellavista": {
+    "restaurants_per_km2": 9.38,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 439
+  },
+  "bello-horizonte": {
+    "restaurants_per_km2": 10.63,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 367
+  },
+  "bellos-aires": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1741
+  },
+  "berlin": {
+    "restaurants_per_km2": 3.3,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 23
+  },
+  "bermejal-los-alamos": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 152
+  },
+  "betania": {
+    "restaurants_per_km2": 2.85,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 135
+  },
+  "betania-(sabaneta)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 260
+  },
+  "blanquizal": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 566
+  },
+  "bolivariana": {
+    "restaurants_per_km2": 142.42,
+    "supermarket_brands_1km": 6,
+    "supermarket_nearest_m": 173
+  },
+  "bombona-no.1": {
+    "restaurants_per_km2": 14.33,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 45
+  },
+  "bombona-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 806
+  },
+  "boqueron": {
+    "restaurants_per_km2": 0.18,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 4847
+  },
+  "bosques-de-san-pablo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 269
+  },
+  "bosques-de-zuniga": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 210
+  },
+  "boston": {
+    "restaurants_per_km2": 13.03,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 473
+  },
+  "boyaca": {
+    "restaurants_per_km2": 3.88,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 373
+  },
+  "brasilia": {
+    "restaurants_per_km2": 9.09,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 82
+  },
+  "bucarest": {
+    "restaurants_per_km2": 40.28,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 245
+  },
+  "buenos-aires": {
+    "restaurants_per_km2": 6.8,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 170
+  },
+  "buga-patio-bonito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3376
+  },
+  "cabecera-urbana-corregimiento-san-cristobal": {
+    "restaurants_per_km2": 14.38,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 293
+  },
+  "calasanz": {
+    "restaurants_per_km2": 56.97,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 151
+  },
+  "calasanz-parte-alta": {
+    "restaurants_per_km2": 12.01,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 71
+  },
+  "calatrava": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 762
+  },
+  "calle-del-banco": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 192
+  },
+  "calle-larga": {
+    "restaurants_per_km2": 19.73,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 308
+  },
+  "calle-nueva": {
+    "restaurants_per_km2": 8.71,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 752
+  },
+  "calle-vieja": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 815
+  },
+  "camilo-torres": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 348
+  },
+  "caminos-de-la-romera": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 585
+  },
+  "camparola": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 163
+  },
+  "campo-alegre": {
+    "restaurants_per_km2": 5.81,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 205
+  },
+  "campo-alegre-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1069
+  },
+  "campo-amor": {
+    "restaurants_per_km2": 1.92,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 301
+  },
+  "campo-valdes-no.1": {
+    "restaurants_per_km2": 2.67,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 138
+  },
+  "campo-valdes-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 171
+  },
+  "caqueta": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 423
+  },
+  "caribe": {
+    "restaurants_per_km2": 6.61,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 789
+  },
+  "carlos-e.-restrepo": {
+    "restaurants_per_km2": 35.56,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 577
+  },
+  "carpinelo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 189
+  },
+  "castilla": {
+    "restaurants_per_km2": 1.8,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 338
+  },
+  "castropol": {
+    "restaurants_per_km2": 3.28,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 302
+  },
+  "cataluna": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 477
+  },
+  "cementerio-universal": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 534
+  },
+  "centro-(envigado)": {
+    "restaurants_per_km2": 38.88,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 109
+  },
+  "centro-(itagüi)": {
+    "restaurants_per_km2": 20.93,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 429
+  },
+  "centro-(la-estrella)": {
+    "restaurants_per_km2": 37.13,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 126
+  },
+  "centro-administrativo": {
+    "restaurants_per_km2": 7.3,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 734
+  },
+  "centro-pueblo-viejo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 708
+  },
+  "cerro-nutibara-(comuna-16---belen)": {
+    "restaurants_per_km2": 7.38,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 244
+  },
+  "cerro-nutibara-(inst_18)": {
+    "restaurants_per_km2": 4.99,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 607
+  },
+  "chile": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 518
+  },
+  "colinas-del-sur": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 258
+  },
+  "corazon-de-jesus": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 754
+  },
+  "cordoba": {
+    "restaurants_per_km2": 12.73,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 249
+  },
+  "cristo-rey": {
+    "restaurants_per_km2": 7.83,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 294
+  },
+  "cuarta-brigada": {
+    "restaurants_per_km2": 14.62,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 222
+  },
+  "cucaracho": {
+    "restaurants_per_km2": 15.92,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 196
+  },
+  "diego-echavarria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 260
+  },
+  "ditaires": {
+    "restaurants_per_km2": 1.71,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 423
+  },
+  "doce-de-octubre-no.1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 518
+  },
+  "doce-de-octubre-no.2": {
+    "restaurants_per_km2": 5.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 311
+  },
+  "ecoparque-cerro-el-volador": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 793
+  },
+  "eduardo-santos-(ae3)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 700
+  },
+  "eduardo-santos-(comuna-13---san-javier)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 425
+  },
+  "el-astillero": {
+    "restaurants_per_km2": 0.07,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 5887
+  },
+  "el-carmelo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1927
+  },
+  "el-carmelo-ii": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 477
+  },
+  "el-castillo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 612
+  },
+  "el-cerro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1659
+  },
+  "el-cerro-tutelar": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1837
+  },
+  "el-chagualo": {
+    "restaurants_per_km2": 10.84,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 124
+  },
+  "el-chingui": {
+    "restaurants_per_km2": 2.42,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1317
+  },
+  "el-chocho": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1395
+  },
+  "el-compromiso": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 351
+  },
+  "el-corazon": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 714
+  },
+  "el-corazon-el-morro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2646
+  },
+  "el-danubio": {
+    "restaurants_per_km2": 9.39,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 61
+  },
+  "el-diamante": {
+    "restaurants_per_km2": 5.31,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 158
+  },
+  "el-diamante-no.2": {
+    "restaurants_per_km2": 1.5,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 408
+  },
+  "el-dorado-(envigado)": {
+    "restaurants_per_km2": 11.95,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 189
+  },
+  "el-dorado-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 303
+  },
+  "el-esmeraldal": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1016
+  },
+  "el-jardin": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2522
+  },
+  "el-llano": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2540
+  },
+  "el-llano-se": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1465
+  },
+  "el-nogal-los-almendros": {
+    "restaurants_per_km2": 31.76,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 14
+  },
+  "el-palmar": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 404
+  },
+  "el-patio": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3447
+  },
+  "el-pedrero": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 800
+  },
+  "el-pesebre": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 554
+  },
+  "el-picacho": {
+    "restaurants_per_km2": 0.55,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 882
+  },
+  "el-pinal": {
+    "restaurants_per_km2": 2.4,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 695
+  },
+  "el-placer": {
+    "restaurants_per_km2": 6.33,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 582
+  },
+  "el-plan": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 516
+  },
+  "el-poblado": {
+    "restaurants_per_km2": 392.36,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 203
+  },
+  "el-pomar": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 264
+  },
+  "el-portal": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 451
+  },
+  "el-progreso": {
+    "restaurants_per_km2": 2.43,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 623
+  },
+  "el-progreso-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 921
+  },
+  "el-raizal": {
+    "restaurants_per_km2": 30.08,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 145
+  },
+  "el-rincon": {
+    "restaurants_per_km2": 4.51,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 350
+  },
+  "el-rodeo": {
+    "restaurants_per_km2": 1.34,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 387
+  },
+  "el-rosario": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 301
+  },
+  "el-salado": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1611
+  },
+  "el-salado-(comuna-13---san-javier)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 361
+  },
+  "el-salado-(corregimiento-san-antonio-de-prado)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3033
+  },
+  "el-salvador": {
+    "restaurants_per_km2": 8.4,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 684
+  },
+  "el-socorro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 536
+  },
+  "el-tablazo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 703
+  },
+  "el-tesoro": {
+    "restaurants_per_km2": 5.08,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 128
+  },
+  "el-trianon": {
+    "restaurants_per_km2": 2.56,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 639
+  },
+  "el-triunfo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 553
+  },
+  "el-uvito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3430
+  },
+  "el-velodromo": {
+    "restaurants_per_km2": 10.76,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 456
+  },
+  "enciso": {
+    "restaurants_per_km2": 2.95,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 913
+  },
+  "entreamigos": {
+    "restaurants_per_km2": 8.19,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 187
+  },
+  "escobar": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 639
+  },
+  "estacion-villa": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 495
+  },
+  "estadio": {
+    "restaurants_per_km2": 21.8,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 285
+  },
+  "facultad-de-minas": {
+    "restaurants_per_km2": 8.13,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 478
+  },
+  "facultad-de-minas-u.-nacional": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 440
+  },
+  "facultad-veterinaria-y-zootecnia-u.de.a.": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 172
+  },
+  "fatima": {
+    "restaurants_per_km2": 4.59,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 188
+  },
+  "fatima-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 358
+  },
+  "ferrara": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1191
+  },
+  "ferrini": {
+    "restaurants_per_km2": 14.89,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 146
+  },
+  "florencia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 299
+  },
+  "florida-nueva": {
+    "restaurants_per_km2": 39.77,
+    "supermarket_brands_1km": 6,
+    "supermarket_nearest_m": 131
+  },
+  "francisco-antonio-zea": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 128
+  },
+  "fuente-clara": {
+    "restaurants_per_km2": 4.19,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 295
+  },
+  "gerona": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 397
+  },
+  "girardot": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 554
+  },
+  "glorieta-pilsen": {
+    "restaurants_per_km2": 6.82,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 430
+  },
+  "granada": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 104
+  },
+  "granizal": {
+    "restaurants_per_km2": 16.25,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 36
+  },
+  "guayabal": {
+    "restaurants_per_km2": 2.66,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 439
+  },
+  "guayaquil": {
+    "restaurants_per_km2": 21.86,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 479
+  },
+  "hector-abad-gomez": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 400
+  },
+  "holanda": {
+    "restaurants_per_km2": 21.52,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 322
+  },
+  "horizontes": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 294
+  },
+  "hospital-san-vicente-de-paul": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 228
+  },
+  "jardin-botanico": {
+    "restaurants_per_km2": 12.38,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 222
+  },
+  "jardines": {
+    "restaurants_per_km2": 52.75,
+    "supermarket_brands_1km": 6,
+    "supermarket_nearest_m": 461
+  },
+  "jesus-nazareno": {
+    "restaurants_per_km2": 6.53,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 375
+  },
+  "juan-pablo-ii": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 807
+  },
+  "juan-xxiii": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1860
+  },
+  "juan-xxiii-la-quiebra": {
+    "restaurants_per_km2": 13.24,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 559
+  },
+  "kennedy": {
+    "restaurants_per_km2": 20.28,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 126
+  },
+  "la-aguacatala": {
+    "restaurants_per_km2": 30.31,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 240
+  },
+  "la-aldea": {
+    "restaurants_per_km2": 1.51,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 9808
+  },
+  "la-aldea-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1167
+  },
+  "la-alpujarra": {
+    "restaurants_per_km2": 6.27,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 644
+  },
+  "la-america": {
+    "restaurants_per_km2": 8.32,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 189
+  },
+  "la-avanzada": {
+    "restaurants_per_km2": 7.17,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 135
+  },
+  "la-barquerena": {
+    "restaurants_per_km2": 10.07,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 227
+  },
+  "la-bermejala": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1029
+  },
+  "la-candelaria": {
+    "restaurants_per_km2": 75.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 25
+  },
+  "la-castellana": {
+    "restaurants_per_km2": 11.44,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 212
+  },
+  "la-chinca": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 418
+  },
+  "la-colina": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 220
+  },
+  "la-cruz": {
+    "restaurants_per_km2": 1.65,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 74
+  },
+  "la-cuchilla": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3831
+  },
+  "la-esmeralda": {
+    "restaurants_per_km2": 3.56,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 568
+  },
+  "la-esperanza-(comuna-6---doce-de-octubre)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 324
+  },
+  "la-esperanza-(corregimiento-altavista)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1640
+  },
+  "la-esperanza-no.2": {
+    "restaurants_per_km2": 14.8,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 49
+  },
+  "la-ferreria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 465
+  },
+  "la-finca": {
+    "restaurants_per_km2": 35.33,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 251
+  },
+  "la-floresta": {
+    "restaurants_per_km2": 54.23,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 79
+  },
+  "la-florida": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 209
+  },
+  "la-florida-(comuna-14---el-poblado)": {
+    "restaurants_per_km2": 31.04,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 226
+  },
+  "la-florida-(corregimiento-san-antonio-de-prado)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1845
+  },
+  "la-francia": {
+    "restaurants_per_km2": 8.75,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 340
+  },
+  "la-frisola": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 7672
+  },
+  "la-frontera": {
+    "restaurants_per_km2": 12.22,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 153
+  },
+  "la-gloria": {
+    "restaurants_per_km2": 4.89,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 328
+  },
+  "la-gloria-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 444
+  },
+  "la-hondonada": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 221
+  },
+  "la-ilusion": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2386
+  },
+  "la-independencia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 322
+  },
+  "la-inmaculada": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 743
+  },
+  "la-inmaculada-i": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 267
+  },
+  "la-inmaculada-ii": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 453
+  },
+  "la-isla": {
+    "restaurants_per_km2": 4.64,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 32
+  },
+  "la-ladera": {
+    "restaurants_per_km2": 9.16,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 586
+  },
+  "la-libertad": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 887
+  },
+  "la-loma": {
+    "restaurants_per_km2": 0.45,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1236
+  },
+  "la-loma-de-los-bernal": {
+    "restaurants_per_km2": 6.14,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 147
+  },
+  "la-magnolia": {
+    "restaurants_per_km2": 6.67,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 312
+  },
+  "la-mansion": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 615
+  },
+  "la-milagrosa": {
+    "restaurants_per_km2": 5.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 115
+  },
+  "la-mina": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1324
+  },
+  "la-mota": {
+    "restaurants_per_km2": 19.5,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 366
+  },
+  "la-ospina": {
+    "restaurants_per_km2": 6.63,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 271
+  },
+  "la-palma": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 243
+  },
+  "la-palma-(comuna-16---belen)": {
+    "restaurants_per_km2": 2.95,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 111
+  },
+  "la-palma-(corregimiento-san-cristobal)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3416
+  },
+  "la-paz": {
+    "restaurants_per_km2": 2.9,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 522
+  },
+  "la-pilarica": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 326
+  },
+  "la-pinuela": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 472
+  },
+  "la-pradera": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 239
+  },
+  "la-pradera-(envigado)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 559
+  },
+  "la-primavera": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 304
+  },
+  "la-raya": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1803
+  },
+  "la-rosa": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 314
+  },
+  "la-salle": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 274
+  },
+  "la-santa-cruz": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 211
+  },
+  "la-sebastiana": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 247
+  },
+  "la-sierra": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1025
+  },
+  "la-sucia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 10734
+  },
+  "la-suiza": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 7823
+  },
+  "la-union": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 391
+  },
+  "la-verde": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1073
+  },
+  "lagos-de-la-doctora": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 349
+  },
+  "lalinde": {
+    "restaurants_per_km2": 4.31,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 280
+  },
+  "las-acacias": {
+    "restaurants_per_km2": 34.78,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 405
+  },
+  "las-acacias-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 642
+  },
+  "las-americas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 881
+  },
+  "las-antillas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 859
+  },
+  "las-brisas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 214
+  },
+  "las-brisas-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 717
+  },
+  "las-brisas-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 242
+  },
+  "las-casitas-(envigado)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 167
+  },
+  "las-casitas-(sabaneta)": {
+    "restaurants_per_km2": 14.69,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 269
+  },
+  "las-esmeraldas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 627
+  },
+  "las-estancias": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 458
+  },
+  "las-flores": {
+    "restaurants_per_km2": 11.79,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 298
+  },
+  "las-granjas": {
+    "restaurants_per_km2": 1.55,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 753
+  },
+  "las-independencias": {
+    "restaurants_per_km2": 27.34,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 556
+  },
+  "las-lomas-no.1": {
+    "restaurants_per_km2": 20.46,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 320
+  },
+  "las-lomas-no.2": {
+    "restaurants_per_km2": 11.85,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 316
+  },
+  "las-margaritas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 270
+  },
+  "las-mercedes": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 232
+  },
+  "las-mercedes-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 243
+  },
+  "las-orquideas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 247
+  },
+  "las-palmas-(comuna-10---la-candelaria)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 541
+  },
+  "las-palmas-(corregimiento-santa-elena)": {
+    "restaurants_per_km2": 0.31,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1711
+  },
+  "las-playas-(comuna-16---belen)": {
+    "restaurants_per_km2": 5.6,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 491
+  },
+  "las-playas-(corregimiento-san-cristobal)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1974
+  },
+  "las-vegas": {
+    "restaurants_per_km2": 0.74,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 836
+  },
+  "las-violetas": {
+    "restaurants_per_km2": 1.66,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 227
+  },
+  "laureles": {
+    "restaurants_per_km2": 141.19,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 169
+  },
+  "llanaditas": {
+    "restaurants_per_km2": 9.32,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 320
+  },
+  "loma-de-las-brujas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 697
+  },
+  "loma-de-los-zuleta": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 437
+  },
+  "loma-del-atravesado": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1096
+  },
+  "loma-del-barro": {
+    "restaurants_per_km2": 2.82,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 235
+  },
+  "loma-linda": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 926
+  },
+  "lopez-de-mesa": {
+    "restaurants_per_km2": 4.97,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 334
+  },
+  "lorena": {
+    "restaurants_per_km2": 50.61,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 139
+  },
+  "loreto": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 575
+  },
+  "los-alcazares": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 179
+  },
+  "los-alcazares-(sabaneta)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 294
+  },
+  "los-alpes": {
+    "restaurants_per_km2": 7.07,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 144
+  },
+  "los-angeles": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 655
+  },
+  "los-arias": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 116
+  },
+  "los-balsos-no.1": {
+    "restaurants_per_km2": 0.71,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 728
+  },
+  "los-balsos-no.2": {
+    "restaurants_per_km2": 32.75,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 387
+  },
+  "los-cerros-el-vergel": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 529
+  },
+  "los-chanos": {
+    "restaurants_per_km2": 12.04,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 848
+  },
+  "los-colores": {
+    "restaurants_per_km2": 10.77,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 83
+  },
+  "los-conquistadores": {
+    "restaurants_per_km2": 23.3,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 282
+  },
+  "los-mangos": {
+    "restaurants_per_km2": 2.13,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 255
+  },
+  "los-naranjos": {
+    "restaurants_per_km2": 3.09,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 133
+  },
+  "los-naranjos-(envigado)": {
+    "restaurants_per_km2": 12.62,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 156
+  },
+  "los-naranjos-(itagüi)": {
+    "restaurants_per_km2": 8.3,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 519
+  },
+  "los-pinos": {
+    "restaurants_per_km2": 4.26,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 309
+  },
+  "malta": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 347
+  },
+  "manila": {
+    "restaurants_per_km2": 235.66,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 262
+  },
+  "manrique-central-no.1": {
+    "restaurants_per_km2": 13.99,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 112
+  },
+  "manrique-central-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 320
+  },
+  "manrique-oriental": {
+    "restaurants_per_km2": 10.65,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 489
+  },
+  "manuel-restrepo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 161
+  },
+  "maria-auxiliadora": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 265
+  },
+  "maria-cano-carambolas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 542
+  },
+  "mazo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2948
+  },
+  "media-luna": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2245
+  },
+  "mesa": {
+    "restaurants_per_km2": 7.81,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 241
+  },
+  "metropolitano": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 140
+  },
+  "milan-vallejuelos": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 611
+  },
+  "mirador-del-doce": {
+    "restaurants_per_km2": 15.31,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 92
+  },
+  "miraflores": {
+    "restaurants_per_km2": 3.43,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 288
+  },
+  "miranda": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 194
+  },
+  "miravalle": {
+    "restaurants_per_km2": 12.07,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 211
+  },
+  "montanita": {
+    "restaurants_per_km2": 0.43,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2067
+  },
+  "monteclaro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 727
+  },
+  "monterrey": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 451
+  },
+  "montesacro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 530
+  },
+  "monteverde": {
+    "restaurants_per_km2": 20.21,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 88
+  },
+  "moravia": {
+    "restaurants_per_km2": 2.05,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 32
+  },
+  "moscu-no.1": {
+    "restaurants_per_km2": 5.22,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 57
+  },
+  "moscu-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 386
+  },
+  "naranjal-(comuna-11---laureles-estadio)": {
+    "restaurants_per_km2": 22.25,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 193
+  },
+  "naranjal-(corregimiento-san-cristobal)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 4331
+  },
+  "nuestra-senora-de-los-dolores": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 297
+  },
+  "nueva-villa-de-la-iguana": {
+    "restaurants_per_km2": 151.97,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 467
+  },
+  "nueva-villa-del-aburra": {
+    "restaurants_per_km2": 10.46,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 212
+  },
+  "nuevos-conquistadores": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 849
+  },
+  "obrero": {
+    "restaurants_per_km2": 18.45,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 437
+  },
+  "ocho-de-marzo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 844
+  },
+  "olaya-herrera": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 764
+  },
+  "oleoducto": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 559
+  },
+  "olivares": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 572
+  },
+  "oriente": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 689
+  },
+  "pablo-vi": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 402
+  },
+  "pajarito-(comuna-7---robledo)": {
+    "restaurants_per_km2": 3.41,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 159
+  },
+  "pajarito-(corregimiento-san-cristobal)": {
+    "restaurants_per_km2": 2.9,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 826
+  },
+  "palenque": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 272
+  },
+  "palermo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 78
+  },
+  "palmitas-sector-central": {
+    "restaurants_per_km2": 0.1,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 6873
+  },
+  "parque-juan-pablo-ii": {
+    "restaurants_per_km2": 1.43,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 822
+  },
+  "parque-norte": {
+    "restaurants_per_km2": 7.01,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 415
+  },
+  "paso-ancho": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 125
+  },
+  "patio-bonito": {
+    "restaurants_per_km2": 21.75,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 587
+  },
+  "pedregal": {
+    "restaurants_per_km2": 11.98,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 125
+  },
+  "pedregal-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1663
+  },
+  "pedregal-alto": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 963
+  },
+  "penas-blancas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1003
+  },
+  "perpetuo-socorro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 219
+  },
+  "picachito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 206
+  },
+  "picacho": {
+    "restaurants_per_km2": 21.46,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 113
+  },
+  "piedra-gorda": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1150
+  },
+  "piedras-blancas---matasano": {
+    "restaurants_per_km2": 0.54,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2060
+  },
+  "pilsen": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 928
+  },
+  "playa-rica": {
+    "restaurants_per_km2": 8.95,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 263
+  },
+  "playas-de-maria": {
+    "restaurants_per_km2": 6.14,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 388
+  },
+  "playon-de-los-comuneros": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 300
+  },
+  "plaza-de-ferias": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 713
+  },
+  "pontevedra": {
+    "restaurants_per_km2": 26.93,
+    "supermarket_brands_1km": 6,
+    "supermarket_nearest_m": 323
+  },
+  "popular": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 473
+  },
+  "potrera-miserenga": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 8017
+  },
+  "potrerito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1593
+  },
+  "prado": {
+    "restaurants_per_km2": 4.78,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 425
+  },
+  "prados-de-sabaneta": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 521
+  },
+  "primavera": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 207
+  },
+  "progreso-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 356
+  },
+  "promision": {
+    "restaurants_per_km2": 6.36,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 374
+  },
+  "quebrada-grande": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 713
+  },
+  "restrepo-naranjo": {
+    "restaurants_per_km2": 130.73,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 119
+  },
+  "robledo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 736
+  },
+  "rosales": {
+    "restaurants_per_km2": 14.81,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 254
+  },
+  "sabaneta-real": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 386
+  },
+  "sagrada-familia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2130
+  },
+  "samaria": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 452
+  },
+  "samaria-robles-del-sur": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 506
+  },
+  "san-agustin": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 708
+  },
+  "san-agustin-industrial": {
+    "restaurants_per_km2": 4.48,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 455
+  },
+  "san-agustin-suramerica": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 165
+  },
+  "san-andres": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 307
+  },
+  "san-antonio": {
+    "restaurants_per_km2": 26.35,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 778
+  },
+  "san-antonio-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 250
+  },
+  "san-antonio-de-prado": {
+    "restaurants_per_km2": 2.1,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 760
+  },
+  "san-benito": {
+    "restaurants_per_km2": 4.01,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 445
+  },
+  "san-bernardo": {
+    "restaurants_per_km2": 1.76,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 119
+  },
+  "san-cayetano": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 558
+  },
+  "san-diego": {
+    "restaurants_per_km2": 4.22,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 348
+  },
+  "san-fernando": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 508
+  },
+  "san-francisco": {
+    "restaurants_per_km2": 14.16,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 391
+  },
+  "san-gabriel": {
+    "restaurants_per_km2": 11.21,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 512
+  },
+  "san-german": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 207
+  },
+  "san-isidro": {
+    "restaurants_per_km2": 2.31,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 116
+  },
+  "san-isidro-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 118
+  },
+  "san-isidro-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2178
+  },
+  "san-javier": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 860
+  },
+  "san-javier-no.1": {
+    "restaurants_per_km2": 65.08,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 33
+  },
+  "san-javier-no.2": {
+    "restaurants_per_km2": 52.77,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 130
+  },
+  "san-joaquin": {
+    "restaurants_per_km2": 45.33,
+    "supermarket_brands_1km": 6,
+    "supermarket_nearest_m": 34
+  },
+  "san-joaquin-(sabaneta)": {
+    "restaurants_per_km2": 79.06,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 220
+  },
+  "san-jose": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1536
+  },
+  "san-jose-(envigado)": {
+    "restaurants_per_km2": 8.07,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 530
+  },
+  "san-jose-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 591
+  },
+  "san-jose-de-la-montana": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 3467
+  },
+  "san-jose-del-manzanillo": {
+    "restaurants_per_km2": 0.96,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1151
+  },
+  "san-jose-la-cima-no.1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 520
+  },
+  "san-jose-la-cima-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 892
+  },
+  "san-jose-meleguindo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1651
+  },
+  "san-jose-tarapaca": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 957
+  },
+  "san-juan-bautista": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 119
+  },
+  "san-lucas": {
+    "restaurants_per_km2": 1.62,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 413
+  },
+  "san-marcos": {
+    "restaurants_per_km2": 6.28,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 206
+  },
+  "san-martin-de-porres": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 113
+  },
+  "san-miguel": {
+    "restaurants_per_km2": 5.31,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 934
+  },
+  "san-miguel-(la-estrella)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1696
+  },
+  "san-pablo-(comuna-1---popular)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 248
+  },
+  "san-pablo-(corregimiento-altavista)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1459
+  },
+  "san-pedro": {
+    "restaurants_per_km2": 16.2,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 300
+  },
+  "san-pio-x": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 213
+  },
+  "san-rafael-(envigado)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1120
+  },
+  "san-rafael-(sabaneta)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 400
+  },
+  "san-vicente": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 479
+  },
+  "santa-ana-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 653
+  },
+  "santa-ana-(sabaneta)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 214
+  },
+  "santa-catalina": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 320
+  },
+  "santa-cruz": {
+    "restaurants_per_km2": 8.37,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 428
+  },
+  "santa-elena-sector-central": {
+    "restaurants_per_km2": 2.15,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 112
+  },
+  "santa-fe": {
+    "restaurants_per_km2": 1.94,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 128
+  },
+  "santa-ines": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 371
+  },
+  "santa-lucia": {
+    "restaurants_per_km2": 14.36,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 360
+  },
+  "santa-margarita": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 606
+  },
+  "santa-maria-1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1104
+  },
+  "santa-maria-2": {
+    "restaurants_per_km2": 3.86,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 262
+  },
+  "santa-maria-3": {
+    "restaurants_per_km2": 1.33,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 169
+  },
+  "santa-maria-de-los-angeles": {
+    "restaurants_per_km2": 3.56,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 547
+  },
+  "santa-maria-la-nueva": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 305
+  },
+  "santa-monica": {
+    "restaurants_per_km2": 25.17,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 242
+  },
+  "santa-rosa-de-lima": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 294
+  },
+  "santa-teresita": {
+    "restaurants_per_km2": 31.19,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 71
+  },
+  "santander": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 480
+  },
+  "santo-domingo-savio-no.1": {
+    "restaurants_per_km2": 8.85,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 261
+  },
+  "santo-domingo-savio-no.2": {
+    "restaurants_per_km2": 11.24,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 170
+  },
+  "satexco": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 164
+  },
+  "sevilla": {
+    "restaurants_per_km2": 11.1,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 115
+  },
+  "sierra-morena": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 390
+  },
+  "simon-bolivar": {
+    "restaurants_per_km2": 20.39,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 100
+  },
+  "simon-bolivar-(itagüi)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 760
+  },
+  "sin-nombre-(sn01)": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 279
+  },
+  "sin-nombre-(sn02)": {
+    "restaurants_per_km2": 7.46,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 361
+  },
+  "sucre": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 486
+  },
+  "suramericana": {
+    "restaurants_per_km2": 40.66,
+    "supermarket_brands_1km": 4,
+    "supermarket_nearest_m": 426
+  },
+  "tablacita": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1133
+  },
+  "tejelo": {
+    "restaurants_per_km2": 2.33,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 95
+  },
+  "tenche": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 597
+  },
+  "terminal-de-transporte": {
+    "restaurants_per_km2": 9.2,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 478
+  },
+  "terranova": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 893
+  },
+  "toscana": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 355
+  },
+  "travesias": {
+    "restaurants_per_km2": 0.65,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1433
+  },
+  "trece-de-noviembre": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 636
+  },
+  "tres-esquinas": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 774
+  },
+  "triana": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 256
+  },
+  "tricentenario": {
+    "restaurants_per_km2": 2.36,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 379
+  },
+  "trinidad": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 396
+  },
+  "u.d.-atanasio-girardot": {
+    "restaurants_per_km2": 16.69,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 541
+  },
+  "u.p.b": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 329
+  },
+  "universidad-de-antioquia": {
+    "restaurants_per_km2": 41.03,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 397
+  },
+  "universidad-nacional": {
+    "restaurants_per_km2": 6.15,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 552
+  },
+  "uribe-angel": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 597
+  },
+  "urquita": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 7857
+  },
+  "vegas-de-la-doctora": {
+    "restaurants_per_km2": 4.27,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 303
+  },
+  "vegas-de-san-jose": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 551
+  },
+  "veinte-de-julio": {
+    "restaurants_per_km2": 10.42,
+    "supermarket_brands_1km": 3,
+    "supermarket_nearest_m": 544
+  },
+  "versalles-no.1": {
+    "restaurants_per_km2": 16.12,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 36
+  },
+  "versalles-no.2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 130
+  },
+  "via-ferrea": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 464
+  },
+  "villa-carlota": {
+    "restaurants_per_km2": 8.51,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 246
+  },
+  "villa-del-socorro": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 410
+  },
+  "villa-flora": {
+    "restaurants_per_km2": 3.96,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 165
+  },
+  "villa-guadalupe": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 310
+  },
+  "villa-hermosa": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 889
+  },
+  "villa-lia": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 633
+  },
+  "villa-lilliam": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 649
+  },
+  "villa-niza": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 587
+  },
+  "villa-nueva": {
+    "restaurants_per_km2": 16.55,
+    "supermarket_brands_1km": 2,
+    "supermarket_nearest_m": 74
+  },
+  "villa-paula": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 734
+  },
+  "villa-turbay": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 1006
+  },
+  "villagrande": {
+    "restaurants_per_km2": 8.82,
+    "supermarket_brands_1km": 5,
+    "supermarket_nearest_m": 442
+  },
+  "villas-del-carmen": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 92
+  },
+  "villatina": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 733
+  },
+  "virgen-del-carmen": {
+    "restaurants_per_km2": 38.12,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 98
+  },
+  "volcana-guayabal": {
+    "restaurants_per_km2": 0.18,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 6681
+  },
+  "yarumalito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 6221
+  },
+  "yarumito": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 421
+  },
+  "yolombo": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 2144
+  },
+  "zona-industrial": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 650
+  },
+  "zona-industrial-n°-1": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 541
+  },
+  "zona-industrial-n°-2": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 839
+  },
+  "zona-industrial-n°-3": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 1,
+    "supermarket_nearest_m": 693
+  },
+  "zuniga": {
+    "restaurants_per_km2": 0.0,
+    "supermarket_brands_1km": 0,
+    "supermarket_nearest_m": 505
+  }
+}

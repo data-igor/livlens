@@ -1,0 +1,2288 @@
+{
+  "metro": [
+    {
+      "lat": 6.299977,
+      "lon": -75.558509,
+      "name": "Acevedo"
+    },
+    {
+      "lat": 6.193965,
+      "lon": -75.581796,
+      "name": "Aguacatala"
+    },
+    {
+      "lat": 6.243009,
+      "lon": -75.571389,
+      "name": "Alpujarra"
+    },
+    {
+      "lat": 6.296334,
+      "lon": -75.551883,
+      "name": "Andalucía"
+    },
+    {
+      "lat": 6.281513,
+      "lon": -75.502895,
+      "name": "Arví"
+    },
+    {
+      "lat": 6.330325,
+      "lon": -75.553522,
+      "name": "Bello"
+    },
+    {
+      "lat": 6.278251,
+      "lon": -75.569443,
+      "name": "Caribe"
+    },
+    {
+      "lat": 6.249041,
+      "lon": -75.575158,
+      "name": "Cisneros"
+    },
+    {
+      "lat": 6.340115,
+      "lon": -75.715849,
+      "name": "El Morrón"
+    },
+    {
+      "lat": 6.245282,
+      "lon": -75.544553,
+      "name": "El Pinal"
+    },
+    {
+      "lat": 6.17465,
+      "lon": -75.597148,
+      "name": "Envigado"
+    },
+    {
+      "lat": 6.281135,
+      "lon": -75.614102,
+      "name": "Estación Metrocable La Aurora"
+    },
+    {
+      "lat": 6.152872,
+      "lon": -75.626208,
+      "name": "Estación de Metro de la Estrella"
+    },
+    {
+      "lat": 6.186152,
+      "lon": -75.586062,
+      "name": "Estación del Metro Ayurá"
+    },
+    {
+      "lat": 6.174722,
+      "lon": -75.597065,
+      "name": "Estación del Metro Envigado"
+    },
+    {
+      "lat": 6.163001,
+      "lon": -75.606585,
+      "name": "Estación del Metro Itagüí"
+    },
+    {
+      "lat": 6.253334,
+      "lon": -75.588322,
+      "name": "Estadio"
+    },
+    {
+      "lat": 6.238485,
+      "lon": -75.573148,
+      "name": "Exposiciones"
+    },
+    {
+      "lat": 6.258697,
+      "lon": -75.597757,
+      "name": "Floresta"
+    },
+    {
+      "lat": 6.263836,
+      "lon": -75.563388,
+      "name": "Hospital"
+    },
+    {
+      "lat": 6.230125,
+      "lon": -75.575631,
+      "name": "Industriales"
+    },
+    {
+      "lat": 6.342533,
+      "lon": -75.702564,
+      "name": "La Aldea"
+    },
+    {
+      "lat": 6.337426,
+      "lon": -75.708762,
+      "name": "Las Teresitas"
+    },
+    {
+      "lat": 6.236575,
+      "lon": -75.536343,
+      "name": "Las Torres"
+    },
+    {
+      "lat": 6.315419,
+      "lon": -75.555322,
+      "name": "Madera"
+    },
+    {
+      "lat": 6.241823,
+      "lon": -75.549239,
+      "name": "Miraflores"
+    },
+    {
+      "lat": 6.337854,
+      "lon": -75.544265,
+      "name": "Niquía"
+    },
+    {
+      "lat": 6.233264,
+      "lon": -75.540033,
+      "name": "Oriente"
+    },
+    {
+      "lat": 6.250544,
+      "lon": -75.568163,
+      "name": "Parque Berrío"
+    },
+    {
+      "lat": 6.2121,
+      "lon": -75.578116,
+      "name": "Poblado"
+    },
+    {
+      "lat": 6.295151,
+      "lon": -75.548117,
+      "name": "Popular"
+    },
+    {
+      "lat": 6.256911,
+      "lon": -75.566156,
+      "name": "Prado"
+    },
+    {
+      "lat": 6.157694,
+      "lon": -75.616227,
+      "name": "Sabaneta"
+    },
+    {
+      "lat": 6.247169,
+      "lon": -75.569665,
+      "name": "San Antonio"
+    },
+    {
+      "lat": 6.25686,
+      "lon": -75.613836,
+      "name": "San Javier"
+    },
+    {
+      "lat": 6.258072,
+      "lon": -75.603761,
+      "name": "Santa Lucía"
+    },
+    {
+      "lat": 6.292968,
+      "lon": -75.541821,
+      "name": "Santo Domingo"
+    },
+    {
+      "lat": 6.252981,
+      "lon": -75.582966,
+      "name": "Suramericana"
+    },
+    {
+      "lat": 6.247626,
+      "lon": -75.541402,
+      "name": "Trece de Noviembre"
+    },
+    {
+      "lat": 6.290234,
+      "lon": -75.564787,
+      "name": "Tricentenario"
+    },
+    {
+      "lat": 6.269453,
+      "lon": -75.56592,
+      "name": "Universidad"
+    },
+    {
+      "lat": 6.234871,
+      "lon": -75.528743,
+      "name": "Villa Sierra"
+    }
+  ],
+  "gym": [
+    {
+      "lat": 6.168875,
+      "lon": -75.586699
+    },
+    {
+      "lat": 6.183809,
+      "lon": -75.655954
+    },
+    {
+      "lat": 6.209061,
+      "lon": -75.585376
+    },
+    {
+      "lat": 6.239916,
+      "lon": -75.585307
+    },
+    {
+      "lat": 6.240953,
+      "lon": -75.581298
+    },
+    {
+      "lat": 6.247108,
+      "lon": -75.595343
+    },
+    {
+      "lat": 6.250261,
+      "lon": -75.60176
+    },
+    {
+      "lat": 6.252776,
+      "lon": -75.58235
+    },
+    {
+      "lat": 6.252938,
+      "lon": -75.612348
+    },
+    {
+      "lat": 6.255649,
+      "lon": -75.575017
+    },
+    {
+      "lat": 6.269505,
+      "lon": -75.538429
+    },
+    {
+      "lat": 6.271293,
+      "lon": -75.545452
+    },
+    {
+      "lat": 6.238897,
+      "lon": -75.587697,
+      "name": "Action Black",
+      "brand": "Action Black"
+    },
+    {
+      "lat": 6.160007,
+      "lon": -75.605683,
+      "name": "Action Black Sabaneta",
+      "brand": "Action Black"
+    },
+    {
+      "lat": 6.093879,
+      "lon": -75.637212,
+      "name": "AnimalX"
+    },
+    {
+      "lat": 6.214635,
+      "lon": -75.573227,
+      "name": "Athletic"
+    },
+    {
+      "lat": 6.219662,
+      "lon": -75.56659,
+      "name": "BFit",
+      "brand": "BFit"
+    },
+    {
+      "lat": 6.230169,
+      "lon": -75.570644,
+      "name": "Bodytech",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.233999,
+      "lon": -75.595943,
+      "name": "Bodytech",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.237963,
+      "lon": -75.58646,
+      "name": "Bodytech",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.256949,
+      "lon": -75.582434,
+      "name": "Bodytech",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.262155,
+      "lon": -75.586204,
+      "name": "Bodytech",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.16377,
+      "lon": -75.573873,
+      "name": "Bodytech City plaza",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.190342,
+      "lon": -75.579527,
+      "name": "Bodytech las vegas",
+      "brand": "Bodytech"
+    },
+    {
+      "lat": 6.247489,
+      "lon": -75.538965,
+      "name": "Cancha y gimnasio al aire libre"
+    },
+    {
+      "lat": 6.245431,
+      "lon": -75.590882,
+      "name": "Cetar Training"
+    },
+    {
+      "lat": 6.254138,
+      "lon": -75.578644,
+      "name": "Dance Gym - Comfamiliar Camacol"
+    },
+    {
+      "lat": 6.244758,
+      "lon": -75.594179,
+      "name": "Diana Espinosa Centro Acuático y de Estimulación"
+    },
+    {
+      "lat": 6.209526,
+      "lon": -75.593823,
+      "name": "Dynamic Evolution Train"
+    },
+    {
+      "lat": 6.217235,
+      "lon": -75.571682,
+      "name": "Eco Functional Club"
+    },
+    {
+      "lat": 6.248953,
+      "lon": -75.593952,
+      "name": "Effort"
+    },
+    {
+      "lat": 6.260035,
+      "lon": -75.597267,
+      "name": "El castillo"
+    },
+    {
+      "lat": 6.303671,
+      "lon": -75.570402,
+      "name": "Esparta"
+    },
+    {
+      "lat": 6.24021,
+      "lon": -75.585671,
+      "name": "Evolution Fightclub"
+    },
+    {
+      "lat": 6.241249,
+      "lon": -75.592812,
+      "name": "Flying Tree Yoga"
+    },
+    {
+      "lat": 6.294174,
+      "lon": -75.570965,
+      "name": "Fuerza y Movimiento"
+    },
+    {
+      "lat": 6.246392,
+      "lon": -75.625146,
+      "name": "GYM La somadera"
+    },
+    {
+      "lat": 6.243274,
+      "lon": -75.620137,
+      "name": "Gimnasio"
+    },
+    {
+      "lat": 6.253967,
+      "lon": -75.589284,
+      "name": "Gimnasio  Libre"
+    },
+    {
+      "lat": 6.271786,
+      "lon": -75.59434,
+      "name": "Gimnasio  Publico"
+    },
+    {
+      "lat": 6.304347,
+      "lon": -75.570446,
+      "name": "Gimnasio 2D fitness"
+    },
+    {
+      "lat": 6.269645,
+      "lon": -75.536545,
+      "name": "Gimnasio CPS La cruz"
+    },
+    {
+      "lat": 6.260143,
+      "lon": -75.599297,
+      "name": "Gimnasio Dinamic"
+    },
+    {
+      "lat": 6.245683,
+      "lon": -75.549085,
+      "name": "Gimnasio ITM Fraternidad"
+    },
+    {
+      "lat": 6.275586,
+      "lon": -75.588179,
+      "name": "Gimnasio ITM Robledo"
+    },
+    {
+      "lat": 6.087966,
+      "lon": -75.633872,
+      "name": "Gimnasio Municipal"
+    },
+    {
+      "lat": 6.25949,
+      "lon": -75.599944,
+      "name": "Gimnasio Publico"
+    },
+    {
+      "lat": 6.26806,
+      "lon": -75.592589,
+      "name": "Gimnasio Publico"
+    },
+    {
+      "lat": 6.271777,
+      "lon": -75.594379,
+      "name": "Gimnasio Publico"
+    },
+    {
+      "lat": 6.20288,
+      "lon": -75.574453,
+      "name": "Gimnasio Santillana"
+    },
+    {
+      "lat": 6.149217,
+      "lon": -75.61764,
+      "name": "Gimnasio Smart Fit - Aves María"
+    },
+    {
+      "lat": 6.230726,
+      "lon": -75.610524,
+      "name": "Gimnasio Universidad de Medellín"
+    },
+    {
+      "lat": 6.093067,
+      "lon": -75.635998,
+      "name": "Gimnasio Vir Fit"
+    },
+    {
+      "lat": 6.188338,
+      "lon": -75.599338,
+      "name": "Gimnasio Virfit"
+    },
+    {
+      "lat": 6.193168,
+      "lon": -75.559298,
+      "name": "Gimnasio al aire libre"
+    },
+    {
+      "lat": 6.254741,
+      "lon": -75.539275,
+      "name": "Gimnasio al aire libre"
+    },
+    {
+      "lat": 6.269458,
+      "lon": -75.536265,
+      "name": "Gimnasio al aire libre La Cruz"
+    },
+    {
+      "lat": 6.343369,
+      "lon": -75.549063,
+      "name": "Gimnasio la Chinca"
+    },
+    {
+      "lat": 6.250848,
+      "lon": -75.613809,
+      "name": "Gimnasio público Barrio Cristóbal - Santa Mónica"
+    },
+    {
+      "lat": 6.251847,
+      "lon": -75.613516,
+      "name": "Gimnasio social"
+    },
+    {
+      "lat": 6.188374,
+      "lon": -75.599307,
+      "name": "Gimnasio virfit"
+    },
+    {
+      "lat": 6.15496,
+      "lon": -75.609284,
+      "name": "Green Fit"
+    },
+    {
+      "lat": 6.280767,
+      "lon": -75.634656,
+      "name": "Gym al aire libre"
+    },
+    {
+      "lat": 6.212021,
+      "lon": -75.571729,
+      "name": "Happy Yoga"
+    },
+    {
+      "lat": 6.269504,
+      "lon": -75.538465,
+      "name": "Inder"
+    },
+    {
+      "lat": 6.242248,
+      "lon": -75.586717,
+      "name": "PROtraining gym"
+    },
+    {
+      "lat": 6.239983,
+      "lon": -75.587799,
+      "name": "Palacio Fitness"
+    },
+    {
+      "lat": 6.30349,
+      "lon": -75.582253,
+      "name": "PowerGym picacho"
+    },
+    {
+      "lat": 6.196777,
+      "lon": -75.574184,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.199687,
+      "lon": -75.572338,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.211976,
+      "lon": -75.573731,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.240968,
+      "lon": -75.586646,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.245754,
+      "lon": -75.564795,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.255224,
+      "lon": -75.61268,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.267229,
+      "lon": -75.554796,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.315118,
+      "lon": -75.558523,
+      "name": "Smart Fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.19614,
+      "lon": -75.562749,
+      "name": "Smart Fit El Tesoro",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.212798,
+      "lon": -75.574807,
+      "name": "Smart fit",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.262074,
+      "lon": -75.587045,
+      "name": "Smart fit- Los Colores",
+      "brand": "Smart Fit"
+    },
+    {
+      "lat": 6.187164,
+      "lon": -75.58265,
+      "name": "SmartFit"
+    },
+    {
+      "lat": 6.273314,
+      "lon": -75.594766,
+      "name": "Total Fit"
+    },
+    {
+      "lat": 6.20838,
+      "lon": -75.573681,
+      "name": "Yogalab"
+    },
+    {
+      "lat": 6.351486,
+      "lon": -75.511401,
+      "name": "club deportivo Haceb"
+    },
+    {
+      "lat": 6.342809,
+      "lon": -75.549814,
+      "name": "gimnasio al aire libre"
+    },
+    {
+      "lat": 6.242445,
+      "lon": -75.586373,
+      "name": "gym El Club"
+    },
+    {
+      "lat": 6.240459,
+      "lon": -75.591288,
+      "name": "pwr:club"
+    }
+  ],
+  "cafe": [
+    {
+      "lat": 6.086938,
+      "lon": -75.634126
+    },
+    {
+      "lat": 6.088248,
+      "lon": -75.63382
+    },
+    {
+      "lat": 6.08987,
+      "lon": -75.635903
+    },
+    {
+      "lat": 6.090719,
+      "lon": -75.637607
+    },
+    {
+      "lat": 6.091172,
+      "lon": -75.638284
+    },
+    {
+      "lat": 6.092893,
+      "lon": -75.636999
+    },
+    {
+      "lat": 6.105575,
+      "lon": -75.457142
+    },
+    {
+      "lat": 6.172724,
+      "lon": -75.578693
+    },
+    {
+      "lat": 6.187917,
+      "lon": -75.580666
+    },
+    {
+      "lat": 6.193438,
+      "lon": -75.596307
+    },
+    {
+      "lat": 6.201511,
+      "lon": -75.578973
+    },
+    {
+      "lat": 6.201572,
+      "lon": -75.578717
+    },
+    {
+      "lat": 6.207941,
+      "lon": -75.566438
+    },
+    {
+      "lat": 6.208009,
+      "lon": -75.567045
+    },
+    {
+      "lat": 6.2086,
+      "lon": -75.566818
+    },
+    {
+      "lat": 6.209287,
+      "lon": -75.570794
+    },
+    {
+      "lat": 6.209589,
+      "lon": -75.569912
+    },
+    {
+      "lat": 6.210441,
+      "lon": -75.570781
+    },
+    {
+      "lat": 6.213302,
+      "lon": -75.577487
+    },
+    {
+      "lat": 6.223415,
+      "lon": -75.491119
+    },
+    {
+      "lat": 6.223596,
+      "lon": -75.598646
+    },
+    {
+      "lat": 6.224086,
+      "lon": -75.597824
+    },
+    {
+      "lat": 6.230952,
+      "lon": -75.610465
+    },
+    {
+      "lat": 6.238134,
+      "lon": -75.596714
+    },
+    {
+      "lat": 6.242819,
+      "lon": -75.586113
+    },
+    {
+      "lat": 6.244873,
+      "lon": -75.57659
+    },
+    {
+      "lat": 6.248296,
+      "lon": -75.569457
+    },
+    {
+      "lat": 6.250102,
+      "lon": -75.542388
+    },
+    {
+      "lat": 6.250315,
+      "lon": -75.591224
+    },
+    {
+      "lat": 6.251054,
+      "lon": -75.621729
+    },
+    {
+      "lat": 6.251464,
+      "lon": -75.569151
+    },
+    {
+      "lat": 6.252106,
+      "lon": -75.564968
+    },
+    {
+      "lat": 6.253568,
+      "lon": -75.573028
+    },
+    {
+      "lat": 6.254462,
+      "lon": -75.613667
+    },
+    {
+      "lat": 6.255387,
+      "lon": -75.602688
+    },
+    {
+      "lat": 6.256218,
+      "lon": -75.598601
+    },
+    {
+      "lat": 6.258973,
+      "lon": -75.597917
+    },
+    {
+      "lat": 6.259466,
+      "lon": -75.580645
+    },
+    {
+      "lat": 6.260129,
+      "lon": -75.597603
+    },
+    {
+      "lat": 6.263481,
+      "lon": -75.543315
+    },
+    {
+      "lat": 6.264157,
+      "lon": -75.572389
+    },
+    {
+      "lat": 6.264996,
+      "lon": -75.596504
+    },
+    {
+      "lat": 6.267128,
+      "lon": -75.601445
+    },
+    {
+      "lat": 6.27332,
+      "lon": -75.594521
+    },
+    {
+      "lat": 6.275281,
+      "lon": -75.592176
+    },
+    {
+      "lat": 6.280753,
+      "lon": -75.501892
+    },
+    {
+      "lat": 6.284439,
+      "lon": -75.591199
+    },
+    {
+      "lat": 6.296639,
+      "lon": -75.538888
+    },
+    {
+      "lat": 6.335839,
+      "lon": -75.571532
+    },
+    {
+      "lat": 6.237589,
+      "lon": -75.602975,
+      "name": "AROS&GARCIA"
+    },
+    {
+      "lat": 6.206936,
+      "lon": -75.574262,
+      "name": "Al Alma"
+    },
+    {
+      "lat": 6.207051,
+      "lon": -75.566116,
+      "name": "Al Alma"
+    },
+    {
+      "lat": 6.211285,
+      "lon": -75.559308,
+      "name": "Alquimista"
+    },
+    {
+      "lat": 6.210832,
+      "lon": -75.587411,
+      "name": "Altrove: Restaurante Café Coworking"
+    },
+    {
+      "lat": 6.211604,
+      "lon": -75.587008,
+      "name": "Altrove: Restaurante Café Coworking"
+    },
+    {
+      "lat": 6.270145,
+      "lon": -75.536191,
+      "name": "Asadero de pollos La cruz"
+    },
+    {
+      "lat": 6.25069,
+      "lon": -75.565937,
+      "name": "Astor. Tradición Suiza - Sede Junín"
+    },
+    {
+      "lat": 6.252993,
+      "lon": -75.588039,
+      "name": "Bakery"
+    },
+    {
+      "lat": 6.246381,
+      "lon": -75.590985,
+      "name": "Balconcito"
+    },
+    {
+      "lat": 6.262872,
+      "lon": -75.596124,
+      "name": "Baluarte"
+    },
+    {
+      "lat": 6.211891,
+      "lon": -75.559146,
+      "name": "Be Network"
+    },
+    {
+      "lat": 6.264806,
+      "lon": -75.56022,
+      "name": "Beatriz"
+    },
+    {
+      "lat": 6.172143,
+      "lon": -75.591061,
+      "name": "Bistró-Café Restrepia"
+    },
+    {
+      "lat": 6.24545,
+      "lon": -75.597312,
+      "name": "Botswana Café Brunch"
+    },
+    {
+      "lat": 6.250891,
+      "lon": -75.569572,
+      "name": "Boyacá"
+    },
+    {
+      "lat": 6.206247,
+      "lon": -75.564665,
+      "name": "Buenavida"
+    },
+    {
+      "lat": 6.265598,
+      "lon": -75.568253,
+      "name": "Burbuja Bloque 1"
+    },
+    {
+      "lat": 6.266678,
+      "lon": -75.570256,
+      "name": "Burbuja Bloque 13"
+    },
+    {
+      "lat": 6.266287,
+      "lon": -75.570301,
+      "name": "Burbuja Bloque 14"
+    },
+    {
+      "lat": 6.268186,
+      "lon": -75.567506,
+      "name": "Burbuja Bloque 19"
+    },
+    {
+      "lat": 6.268154,
+      "lon": -75.568301,
+      "name": "Burbuja Bloque 21"
+    },
+    {
+      "lat": 6.267709,
+      "lon": -75.56952,
+      "name": "Burbuja Bloque 25"
+    },
+    {
+      "lat": 6.266565,
+      "lon": -75.568624,
+      "name": "Burbuja Bloque 5"
+    },
+    {
+      "lat": 6.265718,
+      "lon": -75.569558,
+      "name": "Burbuja Bloque 9"
+    },
+    {
+      "lat": 6.208996,
+      "lon": -75.566589,
+      "name": "Buñuelos"
+    },
+    {
+      "lat": 6.154474,
+      "lon": -75.532678,
+      "name": "Buñuelos de Oriente"
+    },
+    {
+      "lat": 6.193803,
+      "lon": -75.576288,
+      "name": "Buñuelos de la Gruta"
+    },
+    {
+      "lat": 6.243872,
+      "lon": -75.596894,
+      "name": "Cabina Literaria"
+    },
+    {
+      "lat": 6.246081,
+      "lon": -75.603708,
+      "name": "Cafe Aborignal"
+    },
+    {
+      "lat": 6.246066,
+      "lon": -75.58668,
+      "name": "Cafe Andino"
+    },
+    {
+      "lat": 6.248353,
+      "lon": -75.621851,
+      "name": "Cafe Aroma de Barrio"
+    },
+    {
+      "lat": 6.24849,
+      "lon": -75.595223,
+      "name": "Cafe Cliche"
+    },
+    {
+      "lat": 6.244889,
+      "lon": -75.590719,
+      "name": "Cafe Tipica"
+    },
+    {
+      "lat": 6.148998,
+      "lon": -75.616407,
+      "name": "Cafe Zendaya"
+    },
+    {
+      "lat": 6.2657,
+      "lon": -75.543049,
+      "name": "Cafeteria"
+    },
+    {
+      "lat": 6.253818,
+      "lon": -75.572885,
+      "name": "Cafeteria Jampa"
+    },
+    {
+      "lat": 6.23498,
+      "lon": -75.591358,
+      "name": "Cafeteria La buena esperanza"
+    },
+    {
+      "lat": 6.257798,
+      "lon": -75.569848,
+      "name": "Cafeteria Mita"
+    },
+    {
+      "lat": 6.270809,
+      "lon": -75.629339,
+      "name": "Cafeteria Parroquia San Vicente Ferrer"
+    },
+    {
+      "lat": 6.326151,
+      "lon": -75.689023,
+      "name": "Cafeteria peaje --- punto de encuentro motoxistas"
+    },
+    {
+      "lat": 6.251532,
+      "lon": -75.569294,
+      "name": "Cafetería Boyacá"
+    },
+    {
+      "lat": 6.089846,
+      "lon": -75.637012,
+      "name": "Cafetería La Dicha"
+    },
+    {
+      "lat": 6.255271,
+      "lon": -75.577742,
+      "name": "Cafetería Laboratorio del café"
+    },
+    {
+      "lat": 6.090624,
+      "lon": -75.637488,
+      "name": "Cafetería Madiluz"
+    },
+    {
+      "lat": 6.301175,
+      "lon": -75.568824,
+      "name": "Cafetería Servi Lunc's"
+    },
+    {
+      "lat": 6.25097,
+      "lon": -75.572795,
+      "name": "Cafetería UNAULA"
+    },
+    {
+      "lat": 6.087019,
+      "lon": -75.634128,
+      "name": "Cafetería V. A."
+    },
+    {
+      "lat": 6.222772,
+      "lon": -75.59663,
+      "name": "Cafetería el parquesito"
+    },
+    {
+      "lat": 6.093021,
+      "lon": -75.63437,
+      "name": "Cafetería y Charcutería Buen Día"
+    },
+    {
+      "lat": 6.225294,
+      "lon": -75.598766,
+      "name": "Cafetería y Salsamentaria H&G"
+    },
+    {
+      "lat": 6.269123,
+      "lon": -75.57396,
+      "name": "Cafetería y restaurante El Parador del Norte"
+    },
+    {
+      "lat": 6.232715,
+      "lon": -75.610752,
+      "name": "Cafetto"
+    },
+    {
+      "lat": 6.213138,
+      "lon": -75.571801,
+      "name": "Caffiel"
+    },
+    {
+      "lat": 6.257644,
+      "lon": -75.580239,
+      "name": "Café & Posteria"
+    },
+    {
+      "lat": 6.247867,
+      "lon": -75.622049,
+      "name": "Café Aroma del Barrio"
+    },
+    {
+      "lat": 6.251162,
+      "lon": -75.565824,
+      "name": "Café Astor"
+    },
+    {
+      "lat": 6.089689,
+      "lon": -75.637006,
+      "name": "Café Bar Pamplonita Premium"
+    },
+    {
+      "lat": 6.234793,
+      "lon": -75.495947,
+      "name": "Café Bistro Kumini"
+    },
+    {
+      "lat": 6.147858,
+      "lon": -75.616531,
+      "name": "Café Bosque Adentro"
+    },
+    {
+      "lat": 6.20153,
+      "lon": -75.578183,
+      "name": "Café Con.verso"
+    },
+    {
+      "lat": 6.212036,
+      "lon": -75.585812,
+      "name": "Café Cosmonova"
+    },
+    {
+      "lat": 6.254554,
+      "lon": -75.560328,
+      "name": "Café El Arrebato"
+    },
+    {
+      "lat": 6.247856,
+      "lon": -75.55979,
+      "name": "Café Frutal"
+    },
+    {
+      "lat": 6.256399,
+      "lon": -75.599208,
+      "name": "Café Ondas"
+    },
+    {
+      "lat": 6.244631,
+      "lon": -75.599739,
+      "name": "Café Revolución"
+    },
+    {
+      "lat": 6.245928,
+      "lon": -75.592271,
+      "name": "Café Revolución"
+    },
+    {
+      "lat": 6.239654,
+      "lon": -75.590856,
+      "name": "Café Terrario"
+    },
+    {
+      "lat": 6.241732,
+      "lon": -75.592887,
+      "name": "Café Terrario"
+    },
+    {
+      "lat": 6.256641,
+      "lon": -75.612694,
+      "name": "Café Toscana"
+    },
+    {
+      "lat": 6.246316,
+      "lon": -75.594764,
+      "name": "Café Vallejo"
+    },
+    {
+      "lat": 6.246436,
+      "lon": -75.5976,
+      "name": "Café Zeppelin"
+    },
+    {
+      "lat": 6.205508,
+      "lon": -75.582771,
+      "name": "Café a la hora del Té"
+    },
+    {
+      "lat": 6.248843,
+      "lon": -75.570405,
+      "name": "Café con Amor"
+    },
+    {
+      "lat": 6.248604,
+      "lon": -75.591205,
+      "name": "Café en Calma"
+    },
+    {
+      "lat": 6.208014,
+      "lon": -75.566982,
+      "name": "Café velvet"
+    },
+    {
+      "lat": 6.213732,
+      "lon": -75.571784,
+      "name": "Canutos"
+    },
+    {
+      "lat": 6.224668,
+      "lon": -75.574432,
+      "name": "Cariñito Café"
+    },
+    {
+      "lat": 6.264384,
+      "lon": -75.597954,
+      "name": "Chocolatto Repostería Fina"
+    },
+    {
+      "lat": 6.251555,
+      "lon": -75.565311,
+      "name": "Club de Ajedrez Los Peones"
+    },
+    {
+      "lat": 6.177145,
+      "lon": -75.5863,
+      "name": "Cocolatte Café"
+    },
+    {
+      "lat": 6.225405,
+      "lon": -75.59905,
+      "name": "Como en casa"
+    },
+    {
+      "lat": 6.208083,
+      "lon": -75.565888,
+      "name": "Como pezen el agua"
+    },
+    {
+      "lat": 6.151442,
+      "lon": -75.613832,
+      "name": "Confite cafe"
+    },
+    {
+      "lat": 6.232427,
+      "lon": -75.5918,
+      "name": "Congo Negro Drink & Coffe"
+    },
+    {
+      "lat": 6.207638,
+      "lon": -75.567641,
+      "name": "Creador - Café"
+    },
+    {
+      "lat": 6.22043,
+      "lon": -75.566614,
+      "name": "Crepes and wafles"
+    },
+    {
+      "lat": 6.245875,
+      "lon": -75.589663,
+      "name": "Cultura Naturalia"
+    },
+    {
+      "lat": 6.223423,
+      "lon": -75.574735,
+      "name": "De Lolita"
+    },
+    {
+      "lat": 6.268297,
+      "lon": -75.568384,
+      "name": "De Lolita"
+    },
+    {
+      "lat": 6.209748,
+      "lon": -75.566516,
+      "name": "DelArte"
+    },
+    {
+      "lat": 6.245616,
+      "lon": -75.59299,
+      "name": "Delmuri Cafe"
+    },
+    {
+      "lat": 6.250891,
+      "lon": -75.565969,
+      "name": "Diostedé Café"
+    },
+    {
+      "lat": 6.267774,
+      "lon": -75.570129,
+      "name": "Domo Artes"
+    },
+    {
+      "lat": 6.265914,
+      "lon": -75.569142,
+      "name": "Domo Barrientos"
+    },
+    {
+      "lat": 6.26464,
+      "lon": -75.560321,
+      "name": "Don Antonio"
+    },
+    {
+      "lat": 6.233205,
+      "lon": -75.603853,
+      "name": "Don Henry Cafe"
+    },
+    {
+      "lat": 6.210981,
+      "lon": -75.569832,
+      "name": "Don Percho Burgers"
+    },
+    {
+      "lat": 6.243048,
+      "lon": -75.579069,
+      "name": "Dulce Suiza"
+    },
+    {
+      "lat": 6.09067,
+      "lon": -75.63749,
+      "name": "Déjàvú Cafe-Bar"
+    },
+    {
+      "lat": 6.245852,
+      "lon": -75.564501,
+      "name": "El Bohemio de Clausura"
+    },
+    {
+      "lat": 6.252641,
+      "lon": -75.58806,
+      "name": "El Buho"
+    },
+    {
+      "lat": 6.179361,
+      "lon": -75.58409,
+      "name": "El Cafe de Otraparte"
+    },
+    {
+      "lat": 6.247233,
+      "lon": -75.615505,
+      "name": "El Cafecito"
+    },
+    {
+      "lat": 6.24879,
+      "lon": -75.568846,
+      "name": "El Cafetín"
+    },
+    {
+      "lat": 6.283659,
+      "lon": -75.561559,
+      "name": "El Coctelazo"
+    },
+    {
+      "lat": 6.215864,
+      "lon": -75.488869,
+      "name": "El Kafe de la Flaca"
+    },
+    {
+      "lat": 6.198501,
+      "lon": -75.5793,
+      "name": "El Laboratorio de Café"
+    },
+    {
+      "lat": 6.198753,
+      "lon": -75.587587,
+      "name": "El Laboratorio del Café"
+    },
+    {
+      "lat": 6.282517,
+      "lon": -75.564958,
+      "name": "El Migao"
+    },
+    {
+      "lat": 6.29449,
+      "lon": -75.537767,
+      "name": "El Mirador de La Uva"
+    },
+    {
+      "lat": 6.266766,
+      "lon": -75.555213,
+      "name": "El Refugio de Leo"
+    },
+    {
+      "lat": 6.111297,
+      "lon": -75.710472,
+      "name": "El Romeral"
+    },
+    {
+      "lat": 6.149781,
+      "lon": -75.61748,
+      "name": "El Viejo Baúl"
+    },
+    {
+      "lat": 6.252534,
+      "lon": -75.58773,
+      "name": "El Viejo y El Pancake"
+    },
+    {
+      "lat": 6.2153,
+      "lon": -75.488937,
+      "name": "El kafè de la flaca"
+    },
+    {
+      "lat": 6.219509,
+      "lon": -75.5019,
+      "name": "El silletero"
+    },
+    {
+      "lat": 6.251949,
+      "lon": -75.58824,
+      "name": "Eme Café"
+    },
+    {
+      "lat": 6.240823,
+      "lon": -75.587812,
+      "name": "Enjoy - Yoghurt Helado"
+    },
+    {
+      "lat": 6.270192,
+      "lon": -75.563692,
+      "name": "Estacion"
+    },
+    {
+      "lat": 6.248001,
+      "lon": -75.569388,
+      "name": "Estacion Paisa"
+    },
+    {
+      "lat": 6.166719,
+      "lon": -75.586602,
+      "name": "Flor del Trigo"
+    },
+    {
+      "lat": 6.206872,
+      "lon": -75.566277,
+      "name": "Ganso & Castor"
+    },
+    {
+      "lat": 6.223461,
+      "lon": -75.573705,
+      "name": "Ganso & Castor"
+    },
+    {
+      "lat": 6.253048,
+      "lon": -75.589006,
+      "name": "Gardenia Brunch & Coffee"
+    },
+    {
+      "lat": 6.214498,
+      "lon": -75.572023,
+      "name": "General"
+    },
+    {
+      "lat": 6.210256,
+      "lon": -75.571443,
+      "name": "German Street Food"
+    },
+    {
+      "lat": 6.242017,
+      "lon": -75.607864,
+      "name": "Gloria Luz Restaurante"
+    },
+    {
+      "lat": 6.254356,
+      "lon": -75.613818,
+      "name": "Gloria's Coffee"
+    },
+    {
+      "lat": 6.254873,
+      "lon": -75.579731,
+      "name": "Haiku Cafe Maid"
+    },
+    {
+      "lat": 6.172153,
+      "lon": -75.610583,
+      "name": "Hedipan"
+    },
+    {
+      "lat": 6.213343,
+      "lon": -75.572885,
+      "name": "Hijamia"
+    },
+    {
+      "lat": 6.241158,
+      "lon": -75.591894,
+      "name": "Indie"
+    },
+    {
+      "lat": 6.290432,
+      "lon": -75.538516,
+      "name": "Internet De Soto"
+    },
+    {
+      "lat": 6.208538,
+      "lon": -75.567145,
+      "name": "Juan Valdez"
+    },
+    {
+      "lat": 6.152627,
+      "lon": -75.54081,
+      "name": "Juan Valdez Café"
+    },
+    {
+      "lat": 6.199905,
+      "lon": -75.575771,
+      "name": "Juan Valdez Café"
+    },
+    {
+      "lat": 6.201225,
+      "lon": -75.572702,
+      "name": "Juan Valdez Café"
+    },
+    {
+      "lat": 6.248075,
+      "lon": -75.621977,
+      "name": "Jugos y cervezas"
+    },
+    {
+      "lat": 6.253986,
+      "lon": -75.574024,
+      "name": "Jugositos y Panaderia"
+    },
+    {
+      "lat": 6.211231,
+      "lon": -75.571059,
+      "name": "Jugosos Mix"
+    },
+    {
+      "lat": 6.261497,
+      "lon": -75.576291,
+      "name": "KALDI café"
+    },
+    {
+      "lat": 6.268775,
+      "lon": -75.566107,
+      "name": "Kaldi Kaffe"
+    },
+    {
+      "lat": 6.346493,
+      "lon": -75.569183,
+      "name": "Katerine"
+    },
+    {
+      "lat": 6.247762,
+      "lon": -75.569291,
+      "name": "Kennedy"
+    },
+    {
+      "lat": 6.092423,
+      "lon": -75.636963,
+      "name": "La Boquería"
+    },
+    {
+      "lat": 6.255325,
+      "lon": -75.601725,
+      "name": "La Cafe"
+    },
+    {
+      "lat": 6.264831,
+      "lon": -75.582629,
+      "name": "La Casa de Frida"
+    },
+    {
+      "lat": 6.086238,
+      "lon": -75.635656,
+      "name": "La Casa del Jugo Tortas Doña Sofía"
+    },
+    {
+      "lat": 6.235495,
+      "lon": -75.601326,
+      "name": "La Civeta & el Elefante"
+    },
+    {
+      "lat": 6.088226,
+      "lon": -75.634269,
+      "name": "La Esquina del Sabor Mixto Los Cano"
+    },
+    {
+      "lat": 6.193941,
+      "lon": -75.576291,
+      "name": "La Galería Café - Bar"
+    },
+    {
+      "lat": 6.239713,
+      "lon": -75.602253,
+      "name": "La Gatoría Cat Café"
+    },
+    {
+      "lat": 6.155279,
+      "lon": -75.531775,
+      "name": "La Maga"
+    },
+    {
+      "lat": 6.20929,
+      "lon": -75.571742,
+      "name": "La Manchuria"
+    },
+    {
+      "lat": 6.266148,
+      "lon": -75.565733,
+      "name": "La Marquesina"
+    },
+    {
+      "lat": 6.17625,
+      "lon": -75.591721,
+      "name": "La Migueria"
+    },
+    {
+      "lat": 6.198988,
+      "lon": -75.574296,
+      "name": "La Miguería"
+    },
+    {
+      "lat": 6.261541,
+      "lon": -75.579314,
+      "name": "La cafetería"
+    },
+    {
+      "lat": 6.196565,
+      "lon": -75.579274,
+      "name": "La carpita roja"
+    },
+    {
+      "lat": 6.206717,
+      "lon": -75.545663,
+      "name": "La tieda de pedro"
+    },
+    {
+      "lat": 6.252217,
+      "lon": -75.569011,
+      "name": "Labaratorio de Café"
+    },
+    {
+      "lat": 6.265002,
+      "lon": -75.566457,
+      "name": "Laboratorio del café"
+    },
+    {
+      "lat": 6.212929,
+      "lon": -75.571335,
+      "name": "Lala's Cafe"
+    },
+    {
+      "lat": 6.19949,
+      "lon": -75.579341,
+      "name": "Las Hermosas"
+    },
+    {
+      "lat": 6.208687,
+      "lon": -75.56808,
+      "name": "Le Bon"
+    },
+    {
+      "lat": 6.212029,
+      "lon": -75.559003,
+      "name": "Le Palito"
+    },
+    {
+      "lat": 6.226134,
+      "lon": -75.49016,
+      "name": "Lebana Atener"
+    },
+    {
+      "lat": 6.212356,
+      "lon": -75.618338,
+      "name": "Los Jugos de Naty"
+    },
+    {
+      "lat": 6.214144,
+      "lon": -75.573041,
+      "name": "Los Libertadores"
+    },
+    {
+      "lat": 6.20792,
+      "lon": -75.56702,
+      "name": "MIND Caffe & Lounge"
+    },
+    {
+      "lat": 6.207016,
+      "lon": -75.564882,
+      "name": "Macanas"
+    },
+    {
+      "lat": 6.261869,
+      "lon": -75.598026,
+      "name": "Macchiato Caffe & Patisserie"
+    },
+    {
+      "lat": 6.245322,
+      "lon": -75.592015,
+      "name": "Machiavelli's"
+    },
+    {
+      "lat": 6.247189,
+      "lon": -75.587874,
+      "name": "Maka, Coffe with Love"
+    },
+    {
+      "lat": 6.207076,
+      "lon": -75.565678,
+      "name": "Maloka"
+    },
+    {
+      "lat": 6.159948,
+      "lon": -75.643447,
+      "name": "Martina's"
+    },
+    {
+      "lat": 6.207131,
+      "lon": -75.566003,
+      "name": "Master Sandwich and Co"
+    },
+    {
+      "lat": 6.246664,
+      "lon": -75.594283,
+      "name": "Matchacá"
+    },
+    {
+      "lat": 6.250656,
+      "lon": -75.621541,
+      "name": "Mestizaje"
+    },
+    {
+      "lat": 6.241248,
+      "lon": -75.602771,
+      "name": "Mi Buñuelo"
+    },
+    {
+      "lat": 6.247216,
+      "lon": -75.587859,
+      "name": "Mi Buñuelo 7C"
+    },
+    {
+      "lat": 6.269395,
+      "lon": -75.594846,
+      "name": "Mi Buñulo"
+    },
+    {
+      "lat": 6.21322,
+      "lon": -75.572215,
+      "name": "Mija Artesanal"
+    },
+    {
+      "lat": 6.247411,
+      "lon": -75.565346,
+      "name": "Mordiscos"
+    },
+    {
+      "lat": 6.251016,
+      "lon": -75.569204,
+      "name": "Mordiscos"
+    },
+    {
+      "lat": 6.249533,
+      "lon": -75.562071,
+      "name": "Movipan"
+    },
+    {
+      "lat": 6.210207,
+      "lon": -75.56856,
+      "name": "Mr Choripan"
+    },
+    {
+      "lat": 6.175921,
+      "lon": -75.581176,
+      "name": "Muzarella’s"
+    },
+    {
+      "lat": 6.199661,
+      "lon": -75.575187,
+      "name": "Oakberry Açai"
+    },
+    {
+      "lat": 6.243641,
+      "lon": -75.610348,
+      "name": "Oasis Café Vivero"
+    },
+    {
+      "lat": 6.237614,
+      "lon": -75.5905,
+      "name": "Opal Cafe"
+    },
+    {
+      "lat": 6.224449,
+      "lon": -75.565421,
+      "name": "Origin Cafe 777"
+    },
+    {
+      "lat": 6.254716,
+      "lon": -75.580175,
+      "name": "Oro Negro: Café con Historias"
+    },
+    {
+      "lat": 6.244205,
+      "lon": -75.607348,
+      "name": "Oroverde Café"
+    },
+    {
+      "lat": 6.21253,
+      "lon": -75.573445,
+      "name": "Oveja Gris"
+    },
+    {
+      "lat": 6.255809,
+      "lon": -75.563341,
+      "name": "Panaderia & Cafeteria"
+    },
+    {
+      "lat": 6.183369,
+      "lon": -75.59809,
+      "name": "Panaderia Don buñuelo"
+    },
+    {
+      "lat": 6.242673,
+      "lon": -75.557701,
+      "name": "Panaderia San Nicolas"
+    },
+    {
+      "lat": 6.248835,
+      "lon": -75.602214,
+      "name": "Panadería"
+    },
+    {
+      "lat": 6.320083,
+      "lon": -75.560398,
+      "name": "Panadería Alfa"
+    },
+    {
+      "lat": 6.346574,
+      "lon": -75.554794,
+      "name": "Panadería Pan kche"
+    },
+    {
+      "lat": 6.167453,
+      "lon": -75.582368,
+      "name": "Panadería Tartinorium Café Francés"
+    },
+    {
+      "lat": 6.16423,
+      "lon": -75.625604,
+      "name": "Panadería Yesspan"
+    },
+    {
+      "lat": 6.305929,
+      "lon": -75.55905,
+      "name": "Pandequesos santa rosa"
+    },
+    {
+      "lat": 6.241053,
+      "lon": -75.59658,
+      "name": "Park Café"
+    },
+    {
+      "lat": 6.279485,
+      "lon": -75.632583,
+      "name": "Pastelería Lucy #2"
+    },
+    {
+      "lat": 6.241366,
+      "lon": -75.596269,
+      "name": "Pergamino"
+    },
+    {
+      "lat": 6.208226,
+      "lon": -75.567095,
+      "name": "Pergamino Cafe"
+    },
+    {
+      "lat": 6.210645,
+      "lon": -75.565881,
+      "name": "Pergamino Cafe"
+    },
+    {
+      "lat": 6.248902,
+      "lon": -75.564399,
+      "name": "Pizza doble piezza"
+    },
+    {
+      "lat": 6.259233,
+      "lon": -75.583872,
+      "name": "Plazoleta Principal Funlam"
+    },
+    {
+      "lat": 6.29547,
+      "lon": -75.60889,
+      "name": "Quesito en hoja"
+    },
+    {
+      "lat": 6.250991,
+      "lon": -75.566095,
+      "name": "Respostería el Astor"
+    },
+    {
+      "lat": 6.25496,
+      "lon": -75.540384,
+      "name": "Restaurante"
+    },
+    {
+      "lat": 6.24588,
+      "lon": -75.583709,
+      "name": "Restaurante Caseritos Gourmet"
+    },
+    {
+      "lat": 6.24562,
+      "lon": -75.595314,
+      "name": "Rituales"
+    },
+    {
+      "lat": 6.243136,
+      "lon": -75.579095,
+      "name": "Rolados"
+    },
+    {
+      "lat": 6.209387,
+      "lon": -75.572757,
+      "name": "Rumah Soul Up"
+    },
+    {
+      "lat": 6.250008,
+      "lon": -75.591139,
+      "name": "SORBITOS"
+    },
+    {
+      "lat": 6.154505,
+      "lon": -75.532636,
+      "name": "Santa Leña"
+    },
+    {
+      "lat": 6.190877,
+      "lon": -75.580962,
+      "name": "Santa Leña"
+    },
+    {
+      "lat": 6.240636,
+      "lon": -75.587049,
+      "name": "Santa Leña"
+    },
+    {
+      "lat": 6.245607,
+      "lon": -75.592852,
+      "name": "Semilla Café"
+    },
+    {
+      "lat": 6.239716,
+      "lon": -75.588248,
+      "name": "Sincretismo Café Coworking"
+    },
+    {
+      "lat": 6.23656,
+      "lon": -75.569506,
+      "name": "Splenda Gourmet"
+    },
+    {
+      "lat": 6.199205,
+      "lon": -75.575065,
+      "name": "Starbucks"
+    },
+    {
+      "lat": 6.199906,
+      "lon": -75.572732,
+      "name": "Starbucks"
+    },
+    {
+      "lat": 6.207291,
+      "lon": -75.57181,
+      "name": "Starbucks"
+    },
+    {
+      "lat": 6.209924,
+      "lon": -75.566312,
+      "name": "Starbucks"
+    },
+    {
+      "lat": 6.234984,
+      "lon": -75.569528,
+      "name": "Starbucks"
+    },
+    {
+      "lat": 6.24589,
+      "lon": -75.595736,
+      "name": "Starbucks Coffee"
+    },
+    {
+      "lat": 6.225346,
+      "lon": -75.598883,
+      "name": "Tavonay"
+    },
+    {
+      "lat": 6.253626,
+      "lon": -75.573015,
+      "name": "Te La Voragine"
+    },
+    {
+      "lat": 6.212632,
+      "lon": -75.573949,
+      "name": "Tejiendo Café"
+    },
+    {
+      "lat": 6.207628,
+      "lon": -75.566784,
+      "name": "Tinto Tintero"
+    },
+    {
+      "lat": 6.250867,
+      "lon": -75.56959,
+      "name": "Tintos y tintos"
+    },
+    {
+      "lat": 6.089967,
+      "lon": -75.636943,
+      "name": "Tobacco Road"
+    },
+    {
+      "lat": 6.240418,
+      "lon": -75.582547,
+      "name": "Torbellino"
+    },
+    {
+      "lat": 6.223332,
+      "lon": -75.59594,
+      "name": "Tortas y Productos artesanales Doña Susy"
+    },
+    {
+      "lat": 6.279548,
+      "lon": -75.571276,
+      "name": "Tortas y Tortas"
+    },
+    {
+      "lat": 6.281809,
+      "lon": -75.560998,
+      "name": "Tortas y Tortas"
+    },
+    {
+      "lat": 6.195891,
+      "lon": -75.573631,
+      "name": "Tostao"
+    },
+    {
+      "lat": 6.250272,
+      "lon": -75.56339,
+      "name": "Tostao"
+    },
+    {
+      "lat": 6.217405,
+      "lon": -75.598819,
+      "name": "Tostao'"
+    },
+    {
+      "lat": 6.24461,
+      "lon": -75.594299,
+      "name": "Tostao'"
+    },
+    {
+      "lat": 6.245235,
+      "lon": -75.571218,
+      "name": "Tostao'"
+    },
+    {
+      "lat": 6.151853,
+      "lon": -75.611641,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.165065,
+      "lon": -75.606336,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.194141,
+      "lon": -75.57628,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.201964,
+      "lon": -75.571953,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.208768,
+      "lon": -75.571308,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.212613,
+      "lon": -75.5761,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.215399,
+      "lon": -75.570819,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.232287,
+      "lon": -75.595459,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.242579,
+      "lon": -75.599465,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.243727,
+      "lon": -75.609107,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.244558,
+      "lon": -75.590481,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.25591,
+      "lon": -75.581678,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.28442,
+      "lon": -75.584237,
+      "name": "Tostao’"
+    },
+    {
+      "lat": 6.088226,
+      "lon": -75.63674,
+      "name": "Trigo y Aromas"
+    },
+    {
+      "lat": 6.239465,
+      "lon": -75.587634,
+      "name": "Trigos Pan & Café"
+    },
+    {
+      "lat": 6.267458,
+      "lon": -75.56613,
+      "name": "Trópicos, el café de Abril"
+    },
+    {
+      "lat": 6.199056,
+      "lon": -75.572759,
+      "name": "Típica"
+    },
+    {
+      "lat": 6.239939,
+      "lon": -75.596626,
+      "name": "Un Punto Fijo - Pan Masa Madre y Café"
+    },
+    {
+      "lat": 6.246322,
+      "lon": -75.590452,
+      "name": "Uno mas uno"
+    },
+    {
+      "lat": 6.209778,
+      "lon": -75.572825,
+      "name": "Urbania Café"
+    },
+    {
+      "lat": 6.214257,
+      "lon": -75.571911,
+      "name": "Urbano Coffee"
+    },
+    {
+      "lat": 6.31998,
+      "lon": -75.560465,
+      "name": "Uva Café Bar"
+    },
+    {
+      "lat": 6.244535,
+      "lon": -75.591362,
+      "name": "Velo Café"
+    },
+    {
+      "lat": 6.307304,
+      "lon": -75.58255,
+      "name": "Ventas de la Parroquia"
+    },
+    {
+      "lat": 6.206668,
+      "lon": -75.566216,
+      "name": "Versos café"
+    },
+    {
+      "lat": 6.235233,
+      "lon": -75.602504,
+      "name": "Vibras Café"
+    },
+    {
+      "lat": 6.149625,
+      "lon": -75.616185,
+      "name": "Yazen Coffe Studio 1"
+    },
+    {
+      "lat": 6.149029,
+      "lon": -75.61741,
+      "name": "Yazen Coffe Studio 2"
+    },
+    {
+      "lat": 6.149076,
+      "lon": -75.609283,
+      "name": "Yazen Coffee Studio - París"
+    },
+    {
+      "lat": 6.339213,
+      "lon": -75.542379,
+      "name": "Yazen Vespa Racer"
+    },
+    {
+      "lat": 6.241046,
+      "lon": -75.591825,
+      "name": "Zule Coffee - Nutibara"
+    },
+    {
+      "lat": 6.225756,
+      "lon": -75.562721,
+      "name": "aa"
+    },
+    {
+      "lat": 6.225859,
+      "lon": -75.562787,
+      "name": "aa"
+    },
+    {
+      "lat": 6.272391,
+      "lon": -75.574761,
+      "name": "cafeteria cabañitas"
+    },
+    {
+      "lat": 6.199196,
+      "lon": -75.578478,
+      "name": "cafetería principal"
+    },
+    {
+      "lat": 6.058825,
+      "lon": -75.503129,
+      "name": "café retiro"
+    },
+    {
+      "lat": 6.248442,
+      "lon": -75.602254,
+      "name": "mi buñelo"
+    },
+    {
+      "lat": 6.263466,
+      "lon": -75.543308,
+      "name": "panaderia"
+    },
+    {
+      "lat": 6.299551,
+      "lon": -75.539444,
+      "name": "panaderia"
+    },
+    {
+      "lat": 6.23905,
+      "lon": -75.536829,
+      "name": "panadería las tinajas"
+    }
+  ]
+}

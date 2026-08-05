@@ -1,4 +1,4 @@
-name,city,country,status,area,motorbike_min_to_poblado,motorbike_min_to_laureles,temp_min_c,temp_max_c,rent_usd,safety,noise,walkability,vibe,verdict,notes,lat,lon,radius_m
+name,city,country,status,area,motorbike_minutes_to_poblado,motorbike_minutes_to_laureles,temp_min_c,temp_max_c,rent_usd,safety,noise,walkability,vibe,verdict,notes,lat,lon,radius_m
 El Poblado,Medellin,Colombia,yellow,Comuna 14 - El Poblado,0.0,13.3,15.2,28.2,900,good,loud,high,expat/nightlife,maybe,Safe and green but pricey and touristy,6.2103777,-75.5709171,1300
 Laureles,Medellin,Colombia,green,Comuna 11 - Laureles-Estadio,13.3,0.0,15.4,28.4,650,good,moderate,high,local/leafy,shortlist,"Grid streets, good cafes, quieter than Poblado",6.2419995,-75.5958328,1400
 La Candelaria,Medellin,Colombia,red,Comuna 10 - La Candelaria,12.2,9.0,15.4,28.4,400,poor,very loud,high,historic/chaotic,avoid,"El Centro. Busy in the day, avoid at night",6.2505337,-75.5667115,1000
