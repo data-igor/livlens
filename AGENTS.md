@@ -23,10 +23,14 @@ script. Optimised for zero ongoing maintenance from the human owner.
 ## Branches — `dev` exists as a preview branch
 - `dev` is a permanent branch, always kept mergeable, that PRs land on first
   so changes can be previewed live before they hit production.
-- Preview any point on `dev` at
-  `https://raw.githack.com/data-igor/livlens/dev/docs/index.html` (a free CDN
-  proxy — no GitHub Pages config needed, updates within a few minutes of a
-  push).
+- Preview `dev` via `raw.githack.com` — **but branch-name URLs
+  (`.../dev/docs/index.html`) are cached hard by githack's upstream
+  (statically.io) and can serve stale content for a long time even though the
+  edge reports a cache MISS.** Always use the **commit SHA**, not the branch
+  name, for a preview that's guaranteed fresh:
+  `https://raw.githack.com/data-igor/livlens/<commit-sha>/docs/index.html`
+  (get the SHA with `git rev-parse dev`). Query-string cache-busting does
+  **not** work against this CDN.
 - **`dev` is never merged into `main` automatically or as a matter of
   routine.** Promoting `dev` to production is a separate, explicit,
   human-approved step — same rule as any other merge to `main`.
