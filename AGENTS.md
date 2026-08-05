@@ -82,6 +82,45 @@ manually run generator whose committed JSON outputs make the build
 reproducible/offline. `scripts/build.py` must stay stdlib-only so GitHub
 Pages/CI never depends on third-party Python packages.
 
+### Two kinds of amenity output — filter columns vs. point layers
+Not every amenity layer becomes a numeric filter. A `Layer` in
+`scripts/amenities.py` is either:
+- a **metric layer** (e.g. `supermarket`, `restaurants`) — contributes
+  per-area columns to `data/amenities/computed.json`, which become filterable
+  like any CSV column; or
+- a **point layer** (`point_layer=True`; currently `cafe`, `gym`, `metro`) —
+  has no metrics/sanity gates, and instead its raw `{lat, lon, name?, brand?}`
+  points are written to `data/amenities/points.json`, copied by `build.py` to
+  `docs/amenity-points.json`, and rendered by `docs/app.js` as a toggleable
+  Leaflet overlay (icons/dots you switch on and off), not a choropleth
+  criterion. Use a point layer instead of a metric layer whenever the raw
+  locations themselves (not a per-area density/nearest-distance number) are
+  what's useful — e.g. seeing exactly which gym brand is nearby, not just
+  "how many gyms within 1km".
+- Gym markers are colour-coded by brand (`GYM_BRAND_COLORS` in `app.js`);
+  unmatched/unbranded gyms fall back to `GYM_DEFAULT_COLOR`. Keep this table
+  in sync with `brand_aliases` in the `gym` `Layer` definition.
+- `health` and `nightlife` layers were tried and deliberately removed (not
+  just dropped by a sanity gate) — health because nobody cared about it as a
+  filter, nightlife because a concentration of bars/nightclubs is meant to
+  feed a future noise estimate, not stand alone as its own filter/column.
+- `cafe_specialty_count_1km` was removed for the same reason `cafe` itself
+  became a point layer: the "loose vs. strict" café metric distinction wasn't
+  useful in practice, and OSM's café coverage is genuinely sparse (~336 total
+  cafés across the whole 5-municipality bbox) — better shown as honest dots
+  on the map than as a filterable density number.
+
+## Frontend range sliders — never rebuild the DOM mid-drag
+`docs/app.js`'s numeric filter sliders update in place on `input` (patching
+just the value label and the `.filter-row.active` class), not by calling the
+full `renderFiltersPanel()` rebuild. Re-rendering the panel's `innerHTML`
+while a `<input type="range">` is mid-drag destroys and recreates that exact
+DOM node, which kills the browser's native drag/touch gesture — janky on
+desktop, completely non-functional on mobile touch. If you need the panel to
+reflect a filter's state change from user input, patch the specific DOM bits
+that changed; never re-render the whole list from an event fired by an
+element inside that same list.
+
 ## Defining an area's shape (the rulebook)
 **A traced, real, street-bounded polygon is the only correct way to define an
 area's shape.** Circles (`lat,lon,radius_m`) and raw Nominatim polygons are
@@ -131,7 +170,7 @@ if both are available.
 Two pairs of columns in `data/areas.csv` are computed estimates, not
 measurements — documented here so nobody mistakes them for live data or
 wires up a paid API to "fix" them:
-- `motorbike_min_to_poblado` / `motorbike_min_to_laureles` — straight-line
+- `motorbike_minutes_to_poblado` / `motorbike_minutes_to_laureles` — straight-line
   (haversine) distance from each area's centroid to El Poblado's and
   Laureles' centroids, divided by an assumed average urban motorbike speed
   of 22 km/h. A live routing API (OSRM's public demo server) was tried

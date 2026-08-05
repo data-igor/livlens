@@ -49,6 +49,7 @@ from build import BOUNDARIES_DIR, CSV_PATH, ROOT, USER_AGENT, load_boundary, slu
 
 RAW_DIR = ROOT / "data" / "amenities" / "raw"
 COMPUTED_PATH = ROOT / "data" / "amenities" / "computed.json"
+POINTS_PATH = ROOT / "data" / "amenities" / "points.json"
 BBOX = (6.05, -75.72, 6.42, -75.45)  # south, west, north, east
 OVERPASS_MIRRORS = [
     "https://overpass-api.de/api/interpreter",
@@ -63,7 +64,6 @@ MAX_NEAREST_M = 50_000
 EARTH_RADIUS_M = 6_371_000
 LAT_METERS = 111_320.0
 LON_METERS = 111_320.0 * math.cos(math.radians((BBOX[0] + BBOX[2]) / 2))
-URBAN_COMUNA_REGEX = r"^Comuna (?:[1-9]|1[0-6])\b"
 
 
 @dataclass(frozen=True)
@@ -97,6 +97,11 @@ class Layer:
     min_area_m2: Optional[float] = None
     require_name: bool = False
     require_polygon: bool = False
+    # Point layers (cafe, gym, metro) are rendered as toggleable dots/icons on
+    # the map, not as per-area choropleth filter columns — they have no
+    # metrics/sanity gates, just raw point locations extracted from the same
+    # cached Overpass response.
+    point_layer: bool = False
 
 
 @dataclass
@@ -121,7 +126,6 @@ class AmenityFeature:
     polygon: Optional[object] = None
     area_m2: Optional[float] = None
     matched_brand: Optional[str] = None
-    specialty: bool = False
 
     @property
     def label(self) -> str:
@@ -174,36 +178,6 @@ LAYERS: Sequence[Layer] = [
         ),
     ),
     Layer(
-        key="metro",
-        overpass_selectors=(
-            'nwr["railway"="station"]',
-            'nwr["railway"="halt"]',
-            'nwr["public_transport"="station"]',
-            'nwr["aerialway"="station"]',
-        ),
-        metrics=(Metric("nearest_m", column="metro_nearest_m"),),
-        sanity=(
-            Sanity(column="metro_nearest_m", area="La Candelaria", op="lt", value=1200),
-            Sanity(column="metro_nearest_m", area="Santa Elena Sector Central", op="gt", value=4000),
-        ),
-    ),
-    Layer(
-        key="gym",
-        overpass_selectors=['nwr["leisure"="fitness_centre"]'],
-        brand_aliases={
-            "Smart Fit": ("smart fit",),
-            "Bodytech": ("bodytech",),
-            "Action Black": ("action black",),
-            "Stark": ("stark",),
-            "BFit": ("bfit",),
-        },
-        metrics=(
-            Metric("nearest_m", column="gym_nearest_m"),
-            Metric("brand_count_within", column="gym_brand_count_1km", radius_m=1000),
-        ),
-        sanity=(),
-    ),
-    Layer(
         key="park_major",
         overpass_selectors=(
             'nwr["leisure"="park"]',
@@ -223,53 +197,43 @@ LAYERS: Sequence[Layer] = [
         ),
     ),
     Layer(
+        key="metro",
+        overpass_selectors=(
+            'nwr["railway"="station"]',
+            'nwr["railway"="halt"]',
+            'nwr["public_transport"="station"]',
+            'nwr["aerialway"="station"]',
+        ),
+        metrics=(),
+        sanity=(),
+        point_layer=True,
+    ),
+    Layer(
+        key="gym",
+        overpass_selectors=['nwr["leisure"="fitness_centre"]'],
+        brand_aliases={
+            "Smart Fit": ("smart fit",),
+            "Bodytech": ("bodytech",),
+            "Action Black": ("action black",),
+            "Stark": ("stark",),
+            "BFit": ("bfit",),
+        },
+        metrics=(),
+        sanity=(),
+        point_layer=True,
+    ),
+    Layer(
         key="restaurants",
         overpass_selectors=['nwr["amenity"~"^(restaurant|fast_food)$"]'],
         metrics=(Metric("density_per_km2", column="restaurants_per_km2"),),
         sanity=(),
     ),
     Layer(
-        key="nightlife",
-        overpass_selectors=['nwr["amenity"~"^(bar|pub|nightclub)$"]'],
-        metrics=(Metric("density_per_km2", column="nightlife_per_km2"),),
-        sanity=(
-            Sanity(column="nightlife_per_km2", area="Manila", op="top_n", n=20),
-            Sanity(column="nightlife_per_km2", area="Palmitas Sector Central", op="bottom_n", n=100),
-        ),
-    ),
-    Layer(
         key="cafe",
         overpass_selectors=['nwr["amenity"="cafe"]'],
-        brand_aliases={
-            "Pergamino": ("pergamino",),
-            "Al Alma": ("al alma",),
-            "Café Velvet": ("cafe velvet", "café velvet"),
-            "Rituales": ("rituales",),
-            "Juan Valdez": ("juan valdez",),
-            "Hija Mía": ("hija mia", "hija mía"),
-        },
-        metrics=(
-            Metric("count_within", column="cafe_count_1km", radius_m=1000),
-            Metric("count_within", column="cafe_specialty_count_1km", radius_m=1000, match_mode="specialty", required=False),
-        ),
-        sanity=(
-            Sanity(column="cafe_count_1km", area="Manila", op="top_n", n=30),
-        ),
-    ),
-    Layer(
-        key="health",
-        overpass_selectors=['nwr["amenity"~"^(clinic|hospital|pharmacy|doctors)$"]'],
-        metrics=(Metric("nearest_m", column="health_nearest_m"),),
-        sanity=(
-            Sanity(
-                column="health_nearest_m",
-                op="lt_all",
-                field="area",
-                pattern=URBAN_COMUNA_REGEX,
-                value=3000,
-                description="All urban comunas (1–16) must stay within 3000 m of health amenities.",
-            ),
-        ),
+        metrics=(),
+        sanity=(),
+        point_layer=True,
     ),
 ]
 
@@ -343,16 +307,6 @@ def match_brand(tags: Dict[str, str], aliases: Dict[str, Sequence[str]]) -> Opti
             if label.startswith(normalize_text(alias)):
                 return canonical
     return None
-
-
-def is_specialty_cafe(tags: Dict[str, str], aliases: Dict[str, Sequence[str]]) -> bool:
-    internet_access = set(normalise_tag_tokens(tags.get("internet_access")))
-    if internet_access & {"wlan", "yes"}:
-        return True
-    cuisines = set(normalise_tag_tokens(tags.get("cuisine")))
-    if cuisines & {"coffee shop", "coffee_shop"}:
-        return True
-    return match_brand(tags, aliases) is not None
 
 
 def is_metro_station(tags: Dict[str, str]) -> bool:
@@ -567,8 +521,6 @@ def parse_features(layer: Layer, payload: dict) -> List[AmenityFeature]:
         )
         if layer.brand_aliases:
             feature.matched_brand = match_brand(tags, layer.brand_aliases)
-        if layer.key == "cafe":
-            feature.specialty = is_specialty_cafe(tags, layer.brand_aliases)
         features.append(feature)
     return features
 
@@ -576,8 +528,6 @@ def parse_features(layer: Layer, payload: dict) -> List[AmenityFeature]:
 def metric_candidates(layer: Layer, metric: Metric, features: Sequence[AmenityFeature]) -> List[AmenityFeature]:
     if metric.match_mode == "brand":
         return [feature for feature in features if feature.matched_brand]
-    if metric.match_mode == "specialty":
-        return [feature for feature in features if feature.specialty]
     return list(features)
 
 
@@ -817,6 +767,34 @@ def write_computed_json(areas: Sequence[AreaRecord], computed: Dict[str, Dict[st
     COMPUTED_PATH.write_text(json.dumps(serialisable, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def extract_points(layer: Layer, refresh: bool) -> List[Dict[str, object]]:
+    """Point-layer variant of compute_layer: no per-area metrics, just the
+    raw {lat, lon, name?, brand?} of every matched feature, for the frontend
+    to render as toggleable map markers. Reuses the same cached Overpass
+    response as a metric layer would (no extra network calls)."""
+    payload = fetch_overpass(layer, refresh=refresh)
+    features = parse_features(layer, payload)
+    points: List[Dict[str, object]] = []
+    for feature in features:
+        name = (feature.tags.get("name") or "").strip()
+        entry: Dict[str, object] = {"lat": round(feature.point.y, 6), "lon": round(feature.point.x, 6)}
+        if name:
+            entry["name"] = name
+        if feature.matched_brand:
+            entry["brand"] = feature.matched_brand
+        points.append(entry)
+    return points
+
+
+def write_points_json(points_by_layer: Dict[str, List[Dict[str, object]]]):
+    serialisable = {
+        key: sorted(items, key=lambda e: (e.get("name") or "", e["lat"], e["lon"]))
+        for key, items in points_by_layer.items()
+    }
+    POINTS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    POINTS_PATH.write_text(json.dumps(serialisable, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
 def print_report(reports: Sequence[LayerReport]):
     print("\nAmenity layer summary")
     print("=====================")
@@ -834,6 +812,13 @@ def print_report(reports: Sequence[LayerReport]):
             print(f"    {message}")
 
 
+def print_point_layer_report(points_by_layer: Dict[str, List[Dict[str, object]]]):
+    print("\nAmenity point-layer summary (map markers, not filters)")
+    print("========================================================")
+    for key, points in points_by_layer.items():
+        print(f"- {key}: {len(points)} point(s) extracted")
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Fetch and compute LivLens amenity layers.")
     parser.add_argument("--refresh", action="store_true", help="Refetch raw Overpass caches even if cached JSON already exists.")
@@ -845,13 +830,20 @@ def main() -> int:
     areas = load_areas()
     computed: Dict[str, Dict[str, object]] = {area.slug: {} for area in areas}
     reports: List[LayerReport] = []
+    points_by_layer: Dict[str, List[Dict[str, object]]] = {}
     for layer in LAYERS:
+        if layer.point_layer:
+            points_by_layer[layer.key] = extract_points(layer, refresh=args.refresh)
+            continue
         layer_values, report = compute_layer(areas, layer, refresh=args.refresh)
         merge_layer_values(computed, layer_values)
         reports.append(report)
     write_computed_json(areas, computed)
+    write_points_json(points_by_layer)
     print_report(reports)
+    print_point_layer_report(points_by_layer)
     print(f"\nWrote computed amenities to {COMPUTED_PATH.relative_to(ROOT)}")
+    print(f"Wrote amenity map points to {POINTS_PATH.relative_to(ROOT)}")
     return 0
 
 
